@@ -1,13 +1,10 @@
-# CFVBENCH: Complex Fact-Centric Video Question Answering Benchmark
+# CFVBench: A Comprehensive Video Benchmark for Fine-grained Multimodal Retrieval-Augmented Generation
 
 ## 📖 Overview
 
-CFVBENCH is a comprehensive benchmark designed to evaluate Large Vision-Language Models (LVLMs) on complex, fact-centric video question answering tasks. The benchmark focuses on:
+CFVBENCH is a a large-scale, manually verified benchmark constructed from 599 publicly available videos, yielding 5,360 open-ended QA pairs. CFVBench spans high-density domains such as chart-heavy reports, news broadcasts, and software tutorials, requiring models to retrieve and reason over long temporal video spans while maintaining fine-grained multimodal information.
 
-- **Multi-hop reasoning** across temporal video segments
-- **Fact-based questions** requiring precise information extraction
-- **Diverse video types**: News, Tutorial, and Structured-Data videos
-- **Automated evaluation** with multi-metric assessment
+Adaptive Visual Refinement (AVR) is a plug-and-play framework that adaptively increases frame sampling density and selectively invokes external tools when necessary. 
 
 ## 🗂️ Repository Structure
 
@@ -28,36 +25,18 @@ CFVBENCH/
 │       ├── caption.py            # Frame captioning
 │       └── split.py              # Video segmentation
 └── prompts/                      # Prompt templates
-    ├── Caption Generation.md
-    ├── QA Pair Filter.md
-    └── ...
+    ├── Caption Generation.md                                           # Frame caption synthesis
+    ├── DET word.md                                                     # Word detection
+    ├── Evaluation.md                                                   # Evaluation prompts
+    ├── Final Generation.md                                             # Final answer generation
+    ├── News Video keypoint extraction Protocol.md                      # News video keypoint extraction
+    ├── News-type and Structured-Data-type Multi-Hop Question-Answer Generation Protocol.md
+    ├── QA Pair Filter.md                                               # QA pair filtering
+    ├── Refine planner.md                                               # Refinement planning
+    ├── Single-Hop Question-Answer Generation Protocol.md               # Single-hop QA generation
+    ├── Structured-Data Video KeyPoint Extraction Protocol.md           # Structured data extraction
+    ├── Text KeyPoint Extraction Protocol.md                            # Text keypoint extraction
+    ├── Tutorial-type Multi-Hop Question-Answer Generation Protocol.md  # Tutorial multi-hop QA
+    ├── Tutorial-type Video Keypoints Extraction Protocol.md            # Tutorial keypoint extraction
+    └── Video Timestamp Extraction Protocol.md                          # Timestamp extraction
 ```
-
-## 📊 Benchmark Features
-
-### Question Types
-
-- **Single-hop**: Direct factual questions
-- **Multi-hop**: Questions requiring reasoning across multiple segments
-- **Type-specific**: Tailored for News, Tutorial, and Structured-Data videos
-
-### Evaluation Metrics
-
-- **BERTScore**: Semantic similarity measurement
-- **LLM-based**: GPT/Claude-powered evaluation
-- **Exact Match**: Strict string matching
-- **F1 Score**: Token overlap measurement
-
-### Video Processing Pipeline
-
-1. **ASR**: Automatic speech recognition using Faster-Whisper
-2. **Frame Captioning**: Dense frame-level visual descriptions
-3. **Segmentation**: Intelligent video segment chunking
-4. **Retrieval**: Vector-based segment retrieval for QA
-
-### Evaluation Framework
-
-Multi-metric evaluation supporting:
-- Automated scoring with multiple metrics
-- Keypoint-based factual accuracy assessment
-- Comprehensive result analysis
