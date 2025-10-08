@@ -24,6 +24,10 @@ CFVBENCH/
 │       ├── asr.py                # Automatic Speech Recognition
 │       ├── caption.py            # Frame captioning
 │       └── split.py              # Video segmentation
+├── Bench/                        # Dataset directory
+│   └── a9vPm615xnY/              # Example video with QA pairs
+│       ├── a9vPm615xnY.mp4
+│       └── multiQA.json
 └── prompts/                      # Prompt templates
     ├── Caption Generation.md                                           # Frame caption synthesis
     ├── DET word.md                                                     # Word detection
@@ -40,3 +44,7 @@ CFVBENCH/
     ├── Tutorial-type Video Keypoints Extraction Protocol.md            # Tutorial keypoint extraction
     └── Video Timestamp Extraction Protocol.md                          # Timestamp extraction
 ```
+
+## 📊 Dataset
+
+You can find our dataset examples in the `Bench/` directory. The complete dataset will be released upon paper acceptance.
