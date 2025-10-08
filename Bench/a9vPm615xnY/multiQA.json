@@ -1,0 +1,14 @@
+[
+  {
+    "question": "For a $10,000 debt at 13% interest, what are the exact total interest amounts paid under minimum payment and accelerated repayment scenarios?",
+    "answer": "Under minimum payments, the total interest paid is $7,832; under accelerated repayment, the total interest paid is $2,031.",
+    "keypoints": {
+      "video": [
+        "In Scenario 1, paying off a debt with a 13% interest rate results in $7,832 in interest, whereas Scenario 2 reduces this to $2,031 in interest."
+      ],
+      "text": [
+        "For $10,000 debt at 13% interest, paying only the minimum results in $7,800 in interest over almost ten years."
+      ]
+    }
+  }
+]
