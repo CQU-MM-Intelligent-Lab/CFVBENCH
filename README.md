@@ -63,3 +63,34 @@ If you are the copyright holder of any work included in this dataset and believe
 ## Dataset
 
 You can find our dataset in the `Bench/` directory.
+
+## Quick Start
+
+To set up the environment, you can use the provided `environment.yml` file.
+
+1.  Create the conda environment:
+    ```bash
+    conda env create -f environment.yml
+    ```
+
+2.  Activate the environment:
+    ```bash
+    conda activate cfv
+    ```
+
+3.  **Download Dataset**:
+    Download the dataset zip file from the following link:
+    [CFVBench Dataset](https://drive.google.com/file/d/1UVc0MQaCT1YS89VlPMcL9fY7av-9Di8D/view?usp=sharing)
+    
+    After downloading, unzip the contents into the `Bench/` directory. The structure should look like this:
+    ```
+    Bench/
+    ├── video_id_1.mp4
+    ├── video_id_2.mp4
+    ├── ...
+    ├── video_id_1/
+    │   └── multiQA.json
+    ├── video_id_2/
+    │   └── multiQA.json
+    └── ...
+    ```

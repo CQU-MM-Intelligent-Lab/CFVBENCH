@@ -115,10 +115,61 @@ def run_ffmpeg_with_fallback(cmd, fallback_hwaccel: bool = True, verbose: bool =
     return proc
 
 
+def get_bench_video_path(video_id: str) -> str | None:
+    """
+    Locate the video file in the ./Bench directory (relative to repo root).
+    Supports flexible extensions.
+    """
+    # Assuming this file is in avr/, so repo root is one level up
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    bench_dir = os.path.join(repo_root, "Bench")
+    
+    # Search for video_id.* in Bench
+    # video_id might be a path or just an ID. We assume ID.
+    # If video_id contains path separators, take basename
+    vid = os.path.basename(video_id)
+    # Remove extension if present (though usually video_id shouldn't have it)
+    if '.' in vid:
+        vid = os.path.splitext(vid)[0]
+        
+    pattern = os.path.join(bench_dir, f"{vid}.*")
+    candidates = glob.glob(pattern)
+    
+    # Filter for video extensions if needed, or just take the first file that looks like a video
+    video_exts = {'.mp4', '.mkv', '.avi', '.mov', '.webm', '.flv'}
+    for c in candidates:
+        if os.path.splitext(c)[1].lower() in video_exts:
+            return c
+            
+    return None
+
+
 def download_file(url: str, target_dir: str) -> str:
-    """Downloads a file from a URL to a target directory."""
+    """
+    Resolves a video file. 
+    First checks ./Bench for a local file matching the ID (derived from url).
+    If not found, falls back to downloading (legacy behavior).
+    """
     import urllib.request
     import urllib.parse
+    
+    # Try to extract video ID from URL or use URL as ID
+    parsed = urllib.parse.urlparse(url)
+    if not parsed.scheme:
+        # Treat as ID
+        video_id = url
+    else:
+        # Try to get ID from filename in URL
+        filename = os.path.basename(parsed.path)
+        video_id = os.path.splitext(filename)[0]
+        
+    # Check local Bench
+    local_path = get_bench_video_path(video_id)
+    if local_path and os.path.exists(local_path):
+        print(f"[Video] Found local video in Bench: {local_path}")
+        return local_path
+
+    # Fallback to original download logic
     filename = os.path.basename(urllib.parse.unquote(url).split('?')[0])
     filepath = os.path.join(target_dir, filename)
     if os.path.exists(filepath):
@@ -189,6 +240,33 @@ def ensure_valid_video_or_skip(url: str, work_dir: str, video_path: str) -> str 
     """Ensure the MP4 at video_path is valid. If invalid, force redownload; if still invalid, try faststart repair. Returns a valid path or None to skip."""
     if is_valid_video(video_path):
         return video_path
+    
+    # If it's a local Bench file, we can't "redownload" it easily, but we can try to repair it.
+    # Check if it is in Bench
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    bench_dir = os.path.join(repo_root, "Bench")
+    is_bench_file = False
+    try:
+        is_bench_file = os.path.commonprefix([os.path.abspath(video_path), os.path.abspath(bench_dir)]) == os.path.abspath(bench_dir)
+    except Exception:
+        pass
+
+    if is_bench_file:
+        print(f"[Validate] Local Bench file invalid: {video_path}. Attempting repair...")
+        # Repair to work_dir, not modifying Bench
+        filename = os.path.basename(video_path)
+        repaired_path = os.path.join(work_dir, f"repaired_{filename}")
+        
+        # Copy to work_dir first
+        try:
+            shutil.copy2(video_path, repaired_path)
+            repaired = repair_mp4_faststart(repaired_path)
+            if repaired and is_valid_video(repaired):
+                return repaired
+        except Exception as e:
+            print(f"[Validate] Repair failed: {e}")
+        return None
+
     print(f"[Validate] Detected invalid video file: {video_path}. Forcing re-download...")
     try:
         if os.path.exists(video_path):

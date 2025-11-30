@@ -18,12 +18,15 @@ def _parse_segment_timing(segment_id: str):
                 base = '_'.join(parts[:-2])
                 three_idx = int(parts[-2])
                 thirty_idx = int(parts[-1])
+                
+                # Always treat as full video reference (Bench contains full videos)
                 if base.endswith('FULL'):
                     video_name = base[:-4]
-                    start_time = three_idx * 180 + thirty_idx * 30
                 else:
-                    video_name = f"{base}_{three_idx}"
-                    start_time = thirty_idx * 30
+                    video_name = base
+                
+                # Calculate absolute start time: 3-min index * 180 + 30s index * 30
+                start_time = three_idx * 180 + thirty_idx * 30
                 end_time = start_time + 30
                 return video_name, start_time, end_time
     except Exception:

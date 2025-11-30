@@ -75,7 +75,7 @@ refine_context = None
 IterativeRefiner = None
 get_default_ollama_chat_model = None
 
-from video_urls import video_urls_multi_segment
+# from video_urls import video_urls_multi_segment
 from test_media_utils import (
     download_file,
     get_video_resolution,
@@ -414,7 +414,7 @@ async def batch_main():
         print(f"[Input] Base dir not found or not a directory: {input_base_dir}")
 
     if not video_id_dirs:
-        from video_urls import video_urls_multi_segment as _video_map
+        # from video_urls import video_urls_multi_segment as _video_map
 
         def _build_segment_urls_from_top5(top5_names: list[str]) -> dict[str, str]:
             seg_urls: dict[str, str] = {}
@@ -428,45 +428,19 @@ async def batch_main():
                         seg_idx = int(parts[1])
                         three_min_idx = seg_idx // 6
                         thirty_idx = seg_idx % 6
-                        video_info = _video_map.get(base)
-                        if not video_info:
-                            print(f"[Top5] Skip: video '{base}' not found in video_urls.py")
-                            continue
-                        clip_key = f"{base}_{three_min_idx}.mp4"
-                        url = video_info.get(clip_key) or next(iter(video_info.values()), None)
-                        if not url:
-                            continue
-                        if clip_key in video_info:
-                            seg_id = f"{base}_{three_min_idx}_{thirty_idx}"
-                        else:
-                            seg_id = f"{base}FULL_{three_min_idx}_{thirty_idx}"
-                        seg_urls[seg_id] = url
+                        # Assume full video exists in Bench
+                        seg_id = f"{base}FULL_{three_min_idx}_{thirty_idx}"
+                        seg_urls[seg_id] = base
                     elif len(parts) >= 3 and parts[-1].isdigit() and parts[-2].isdigit():
                         base = '_'.join(parts[:-2])
                         three_min_idx = int(parts[-2])
                         thirty_idx = int(parts[-1])
-                        video_info = _video_map.get(base)
-                        if not video_info:
-                            print(f"[Top5] Skip: video '{base}' not found in video_urls.py")
-                            continue
-                        clip_key = f"{base}_{three_min_idx}.mp4"
-                        url = video_info.get(clip_key) or next(iter(video_info.values()), None)
-                        if not url:
-                            continue
-                        if clip_key in video_info:
-                            seg_id = f"{base}_{three_min_idx}_{thirty_idx}"
-                        else:
-                            seg_id = f"{base}FULL_{three_min_idx}_{thirty_idx}"
-                        seg_urls[seg_id] = url
+                        # Assume full video exists in Bench
+                        seg_id = f"{base}FULL_{three_min_idx}_{thirty_idx}"
+                        seg_urls[seg_id] = base
                     else:
                         base = parts[0]
-                        video_info = _video_map.get(base)
-                        if not video_info:
-                            continue
-                        url = next(iter(video_info.values()), None)
-                        if not url:
-                            continue
-                        seg_urls[name] = url
+                        seg_urls[name] = base
                 except Exception:
                     continue
             return seg_urls
@@ -652,38 +626,12 @@ async def batch_main():
         touched_paths_for_video: set = set()
         
         # Determine segment URLs for the current video_id
-        if video_id not in video_urls_multi_segment:
-            print(f"SKIPPING: Video ID {video_id} not found in video_urls.py")
-            continue
-        
-        video_info = video_urls_multi_segment[video_id]
-        is_pre_segmented = any('_' in k for k in video_info.keys())
-        
+        # Assume full video exists in Bench
         segment_urls = {}
-        if is_pre_segmented:
-            segment_urls = {}
-            for filename, url in video_info.items():
-                if '_' in filename and filename.split('_')[-1].split('.')[0].isdigit():
-                    for i in range(6):
-                        segment_name = f"{filename.split('.')[0]}_{i}"
-                        segment_urls[segment_name] = url
-                else:
-                    segment_urls[filename] = url
-            
-            segment_urls = dict(list(segment_urls.items())[:topk])
-        # If rerank requested, randomize the order of the segments before passing downstream
-        if getattr(args, 'rerank', False) and segment_urls:
-            keys = list(segment_urls.keys())
-            keys = _deranged_order(keys)
-            segment_urls = {k: segment_urls[k] for k in keys}
-            try:
-                print(f"[Rerank] video {video_id} order: {list(segment_urls.keys())}")
-            except Exception:
-                print(f"[Rerank] video order: {list(segment_urls.keys())}")
-        else:
-            main_video_url = list(video_info.values())[0]
-            for i in range(topk):
-                segment_urls[f"{video_id}_{i}"] = main_video_url
+        # Generate topk segments (30s each) from the start
+        # Naming convention: video_id_i where i is 30s chunk index
+        for i in range(topk):
+            segment_urls[f"{video_id}_{i}"] = video_id
 
         if not segment_urls:
             print(f"SKIPPING: No segments found for video ID {video_id}")
