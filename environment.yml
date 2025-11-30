@@ -140,4 +140,3 @@ dependencies:
       - wcwidth==0.2.14
       - xxhash==3.6.0
       - yacs==0.1.8
-prefix: /root/miniconda3/envs/videorag
