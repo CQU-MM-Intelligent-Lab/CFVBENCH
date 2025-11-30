@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In Tutor Tube, how do you reduce magnetic pull between objects and demonstrate the effect on circle interactions?",
+    "answer": "First, click the 'Shapes' layer in the timeline panel to select it. Then, adjust the 'Strength' slider in the properties panel to 10% to reduce magnetic pull. Finally, drag the orange circle closer to the red circle to demonstrate the magnet feature's effect on their interaction.",
+    "keypoints": [
+      "The user clicks on the 'Shapes' layer in the timeline panel, selecting it for manipulation.",
+      "The user adjusts the 'Strength' slider located in the properties panel to 10%, reducing the magnetic pull between objects.",
+      "The cursor drags the orange circle object closer to the red circle, demonstrating how the magnet feature affects their interaction."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, what happens when you switch to 'Hinge' mode, increase strength to 30%, enable shape overlapping, and add a third circle?",
+    "answer": "Selecting the 'Hinge' option causes the orange circle to rotate around the red circle. Increasing the 'Strength' to 30% enhances magnetic attraction, while toggling 'Overlap Collidables' allows shapes to overlap during collisions. Moving the blue circle near the others demonstrates three-shape interactions under these settings.",
+    "keypoints": [
+      "The user selects the 'Hinge' option from the magnet settings, causing the orange circle to start rotating around the red circle.",
+      "The user increases the 'Strength' value back to 30% in the properties panel, enhancing the magnetic attraction between the shapes.",
+      "The user toggles the 'Overlap Collidables' checkbox in the properties panel, allowing the shapes to overlap when they collide.",
+      "The user moves the blue circle object into proximity with the other two circles, showing how all three interact under the current magnet settings."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, how do you configure a strong hinge attachment between circles using the left panel controls?",
+    "answer": "Click the 'Shapes' layer in the left panel to select it. Adjust the 'Strength' slider in the 'Magnet' properties section to 143% for increased attraction. Then drag the red circle to demonstrate its hinge-based rotation around the blue circle.",
+    "keypoints": [
+      "The user clicks on the 'Shapes' layer in the left panel, selecting it for manipulation.",
+      "The user adjusts the 'Strength' slider within the 'Magnet' properties section located on the right side of the screen, changing its value from 30% to 143%.",
+      "The cursor drags the red circle object across the canvas, demonstrating how it attaches and rotates around the blue circle when the 'Hinge' option is selected under 'Attach Style'."
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "question": "In Wix, how do you initiate adding a Blog Feed section to a blank page?",
+    "answer": "Click the 'Add Section' button in the center of the blank page, then select 'Blog Feed' from the dropdown menu that appears.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the center of the blank page within the Wix website editor.",
+      "A dropdown menu appears, displaying various section options such as \"Welcome,\" \"Bio,\" and \"Experience.",
+      "The user selects the 'Blog Feed' option from the list."
+    ]
+  },
+  {
+    "question": "In Wix, how do you navigate to the dashboard and what appears?",
+    "answer": "Click the 'Dashboard' link in the left sidebar to transition to the dashboard view, which displays management options like 'Published,' 'Drafts,' and 'Scheduled.'",
+    "keypoints": [
+      "The user clicks on the 'Dashboard' link located in the left sidebar of the Wix website editor.",
+      "The screen transitions to the dashboard view, displaying various management options like 'Published,' 'Drafts,' and 'Scheduled.'"
+    ]
+  },
+  {
+    "question": "In Wix, how do you start creating a new blog post from the dashboard?",
+    "answer": "Click the 'Create New Post' button in the top-right corner of the dashboard to open a new post creation window.",
+    "keypoints": [
+      "The user clicks on the 'Create New Post' button located in the top-right corner of the Wix dashboard interface.",
+      "A new post creation window opens, allowing the user to enter a title and content for the new blog post."
+    ]
+  },
+  {
+    "question": "In Wix, where do you enter a blog post title and how is it displayed?",
+    "answer": "Type the title in the 'Add a Catchy Title' field within the new post creation window. The title appears prominently at the top of the post editor.",
+    "keypoints": [
+      "The user types \"Learn Wix ADI\" into the 'Add a Catchy Title' field within the new post creation window in the Wix dashboard.",
+      "The entered title is displayed prominently at the top of the post editor."
+    ]
+  },
+  {
+    "question": "In Wix, what steps add an image to a blog post?",
+    "answer": "Click the 'Add an Image' button below the text editor, select an image from the 'Site Files' folder in the dialog box, and the image will be inserted below the text.",
+    "keypoints": [
+      "The user clicks on the 'Add an Image' button located below the text editor in the Wix dashboard's new post creation window.",
+      "An image selection dialog box opens, showing various image options from which the user can choose.",
+      "The user selects an image from the 'Site Files' folder within the image selection dialog box in the Wix dashboard.",
+      "The chosen image is inserted into the post editor, appearing below the entered text."
+    ]
+  },
+  {
+    "question": "In Wix, how do you preview a website with an updated blog post?",
+    "answer": "Click the 'Preview' button at the top-right corner of the editor to activate preview mode, which displays the updated content including the new blog post.",
+    "keypoints": [
+      "The user clicks on the 'Preview' button located at the top-right corner of the Wix website editor interface.",
+      "The website preview mode is activated, displaying the updated content including the newly added blog post titled \"Learn Wix ADI."
+    ]
+  },
+  {
+    "question": "In Wix, how do you change a section's design layout?",
+    "answer": "Click the 'Design' tab in the top navigation bar, then select a new layout from the 'SECTION DESIGN' panel to apply changes to content blocks.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab located in the top navigation bar of the Wix website editor interface.",
+      "The user selects a new section layout from the 'SECTION DESIGN' panel on the left side of the screen, which displays various blog feed design options.",
+      "The selected layout is applied to the webpage, changing the arrangement and appearance of the content blocks displayed on the page."
+    ]
+  },
+  {
+    "question": "In Wix, how do you access the blog management interface from the sidebar?",
+    "answer": "Hover over the 'Blank Page' option in the 'MANAGE PAGES' sidebar, then click the 'Manage Blog' button at the bottom.",
+    "keypoints": [
+      "The user hovers over the 'Blank Page' option in the 'MANAGE PAGES' sidebar, highlighting it for potential selection or editing.",
+      "The user clicks on the 'Manage Blog' button at the bottom of the sidebar, opening a new interface for managing blog posts and settings."
+    ]
+  }
+]

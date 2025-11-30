@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What was Microsoft's closing stock price and percentage decline on Tuesday, and what caused its shares to tumble 6% in after-hours trading?",
+    "answer": "Microsoft's stock closed at $422.92, down 0.89%, and tumbled 6% in after-hours trading due to weaker-than-expected revenue growth in its Azure cloud business.",
+    "keypoints": {
+      "video": [
+        "Microsoft's stock price is listed as $422.92, down 0.89%."
+      ],
+      "text": [
+        "Microsoft shares declined less than 1% at the close but tumbled 6% in after-hours trading due to weaker-than-expected revenue growth in its Azure cloud business."
+      ]
+    }
+  },
+  {
+    "question": "What was NVIDIA's closing stock price and exact percentage decline, and what upcoming event influenced this movement?",
+    "answer": "NVIDIA's stock closed at $103.73, down 7.04%, ahead of earnings reports from Apple, Amazon, and Meta Platforms due later in the week.",
+    "keypoints": {
+      "video": [
+        "NVIDIA's stock price is listed as $103.73, down 7.04%."
+      ],
+      "text": [
+        "Nvidia shares closed down 7% ahead of earnings reports from Apple, Amazon, and Meta Platforms due later in the week."
+      ]
+    }
+  },
+  {
+    "question": "What was CrowdStrike's exact percentage stock decline, and which airline sought compensation from them and Microsoft for a cyber outage?",
+    "answer": "CrowdStrike's stock dropped 9.72% following reports that Delta Air Lines sought compensation from CrowdStrike and Microsoft for a global cyber outage earlier in the month.",
+    "keypoints": {
+      "video": [
+        "Crowdstrike's stock price is listed as $233.65, down 9.72%."
+      ],
+      "text": [
+        "CrowdStrike shares dropped more than 9.5% following a report that Delta Air Lines sought compensation from CrowdStrike and Microsoft for a global cyber outage earlier in the month."
+      ]
+    }
+  }
+]

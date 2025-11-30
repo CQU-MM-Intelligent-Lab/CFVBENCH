@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What was the exact closing price and percentage gain for Boeing shares, and what event caused this increase?",
+    "answer": "Boeing shares closed at $178.11, up 3.06%, after President Donald Trump awarded the company a contract to build the U.S. Air Force's most sophisticated fighter jet.",
+    "keypoints": {
+      "video": [
+        "Boeing's stock price is noted at $178.11, indicating an increase of 3.06%."
+      ],
+      "text": [
+        "Boeing shares rose 3% after President Donald Trump awarded the company a contract to build the U.S. Air Force's most sophisticated fighter jet."
+      ]
+    }
+  },
+  {
+    "question": "What were the percentage declines for FedEx and Nike shares on Friday, and what reasons did each company provide?",
+    "answer": "FedEx shares slid approximately 6.5% after cutting full-year forecasts due to U.S. industrial weakness, while Nike shares fell 5.46% after projecting a steeper revenue decline.",
+    "keypoints": {
+      "video": [
+        "Nike's stock price is listed as $67.94, showing a decrease of 5.46%."
+      ],
+      "text": [
+        "FedEx shares slid approximately 6.5% after the company cut its full-year profit and revenue forecasts, citing continued weakness and uncertainty in the U.S. industrial economy.",
+        "Nike shares lost about 5.5% after the company projected a sharper decline in fourth-quarter revenue than analysts had anticipated."
+      ]
+    }
+  }
+]

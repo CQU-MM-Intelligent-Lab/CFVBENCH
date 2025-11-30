@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In Wix, how do you move the FAQ section to the 'My Bio' page?",
+    "answer": "First, click the 'Design' button in the top navigation bar. Then, click the three-dot icon next to the FAQ section and select 'Move to...'. In the 'MOVE THIS SECTION' dialog box, choose 'My Bio' from the 'SELECT PAGE' dropdown menu, and finally click the 'Move' button to confirm.",
+    "keypoints": [
+      "The user clicks on the 'Design' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Move to...' option from the dropdown menu that appears after clicking the three-dot icon next to the FAQ section within the page layout.",
+      "The user chooses 'My Bio' from the 'SELECT PAGE' dropdown menu in the 'MOVE THIS SECTION' dialog box, which is displayed after selecting 'Move to...'.",
+      "The user clicks the 'Move' button in the 'MOVE THIS SECTION' dialog box to confirm moving the FAQ section to the 'My Bio' page."
+    ]
+  },
+  {
+    "question": "In Wix, how do you navigate to the FAQ page using the page management panel?",
+    "answer": "Click the 'Page: Blank Page' dropdown menu at the top left corner of the editor, then select 'FAQ' from the list of pages in the 'MANAGE PAGES' panel on the left side of the interface.",
+    "keypoints": [
+      "The user clicks on the 'Page: Blank Page' dropdown menu located at the top left corner of the WIX editor interface.",
+      "The user selects 'FAQ' from the list of pages in the 'MANAGE PAGES' panel on the left side of the WIX editor interface."
+    ]
+  },
+  {
+    "question": "In Wix, how do you rename the 'Blank Page' to 'FAQ' in the page management section?",
+    "answer": "Click the 'Edit Menu' button below the 'MANAGE PAGES' panel, right-click on 'Blank Page', select 'Rename' from the context menu, type 'FAQ' into the text field, and confirm the change.",
+    "keypoints": [
+      "The user clicks on the 'Edit Menu' button located below the 'MANAGE PAGES' panel on the left side of the WIX editor interface.",
+      "The user clicks on the 'Rename' option from the context menu that appears after right-clicking on the 'Blank Page' in the 'MANAGE PAGES' panel.",
+      "The user types 'FAQ' into the text field that appears after selecting 'Rename' for the 'Blank Page' in the 'MANAGE PAGES' panel."
+    ]
+  },
+  {
+    "question": "In Wix, how do you navigate to the 'My Bio' page after moving a section?",
+    "answer": "Click the 'Home' link in the top navigation bar to return to the homepage, then click the 'My Bio' link in the same navigation bar to access the target page.",
+    "keypoints": [
+      "The user clicks on the 'Home' link in the top navigation bar of the WIX editor interface to navigate back to the homepage.",
+      "The user clicks on the 'My Bio' link in the top navigation bar of the WIX editor interface to navigate to the 'My Bio' page."
+    ]
+  }
+]

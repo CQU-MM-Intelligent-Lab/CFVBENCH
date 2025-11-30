@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Wix, how do you add a video player section to your website?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select 'Video Player' from the dropdown menu. This creates a new section on the page with a video placeholder and options to manage or design the player.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor.",
+      "From the dropdown menu, the 'Video Player' option is selected by a mouse click.",
+      "A new section appears on the page with a placeholder for video content and options to manage or design the video player."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to upload a video file to the video player section?",
+    "answer": "Click the 'Manage' tab in the video player section, select 'Upload Videos' in the Video Library, then choose your video file through the file explorer window. The upload will automatically start and display a progress bar.",
+    "keypoints": [
+      "The user clicks on the 'Manage' tab within the video player section.",
+      "In the 'Video Library' interface, the user selects the 'Upload Videos' button.",
+      "A file explorer window opens, allowing the user to navigate through their computer's directories.",
+      "The user navigates to the 'Documents' folder and selects a video file named 'TutorTube - Multimedia Lessons at your Convenience.mp4'.",
+      "After selecting the video file, the upload process begins, displaying a progress bar indicating the upload status."
+    ]
+  },
+  {
+    "question": "In Wix, how do you apply a scrolling layout to your video player?",
+    "answer": "Click the 'Design' tab in the video player section, then select 'Scrolling Video Layout' from the available design options. The player will immediately update to reflect the new layout.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab within the video player section.",
+      "Various design options are displayed, including layout choices such as 'Simple Video Layout' and 'Scrolling Video Layout'.",
+      "The user selects the 'Scrolling Video Layout' option from the design choices.",
+      "The video player section updates to reflect the chosen scrolling layout design."
+    ]
+  }
+]

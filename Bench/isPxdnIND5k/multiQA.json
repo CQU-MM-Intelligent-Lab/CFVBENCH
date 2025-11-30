@@ -1,0 +1,40 @@
+[
+  {
+    "question": "How do the color temperatures of natural daylight (5600K) and sunset light (3000K) respectively affect alertness and sleepiness?",
+    "answer": "Natural daylight at 5600 Kelvin increases alertness, while sunset light at 3000 Kelvin promotes sleepiness.",
+    "keypoints": {
+      "video": [
+        "The color temperature of light affects alertness, with daylight at 5600K being more alerting than sunset light at 3000K."
+      ],
+      "text": [
+        "The natural shift to warmer light and decreasing brightness at sunset signals the body to produce melatonin, inducing sleepiness."
+      ]
+    }
+  },
+  {
+    "question": "What factors beyond light spectrum influence sleep, and what are three key mitigation strategies for reducing screen-related sleep disruption?",
+    "answer": "Factors beyond spectrum include distribution, duration, timing, and amount of light. Mitigation strategies include turning on warm shift, limiting screen duration, and limiting screen brightness.",
+    "keypoints": {
+      "video": [
+        "Spectrum is just one aspect that affects sleep, and distribution, duration, timing, and amount of light also need to be considered.",
+        "Better sleep tips include turning on warm shift, limiting duration, and limiting brightness of screens before bedtime."
+      ],
+      "text": [
+        "Mitigation strategies include limiting screen duration, shifting screen light warmer, and lowering screen brightness."
+      ]
+    }
+  },
+  {
+    "question": "At what light intensity (lux) does the circadian system become saturated regardless of color temperature, and how can morning light exposure offset evening screen use?",
+    "answer": "Light exceeding 1000 lux saturates the circadian system. Getting 800 lux of morning light (e.g., a sunny walk) can counteract disruption from evening screen use.",
+    "keypoints": {
+      "video": [
+        "Increasing evening screen brightness from 50 lux to 200 lux can be countered by getting 800 lux in the morning, showcasing the flexibility of the circadian system."
+      ],
+      "text": [
+        "Light intensity exceeding 1000 lux at the eye saturates the circadian system regardless of being warm or cool light.",
+        "Getting bright morning light, like a sunny walk, can potentially counteract circadian disruption caused by evening phone use."
+      ]
+    }
+  }
+]

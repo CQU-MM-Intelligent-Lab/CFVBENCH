@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Wix, how do you add a Price Quote section to a webpage?",
+    "answer": "Click the 'Add' button in the top menu bar, then select the 'Price Quote' option from the dropdown menu. This adds a new 'Get a Quote' section with fields for First Name, Last Name, Email, Phone, and Comments.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Price Quote' section option is selected by a mouse click.",
+      "A new section titled \"Get a Quote\" appears on the webpage with fields for First Name, Last Name, Email, Phone, and Comments."
+    ]
+  },
+  {
+    "question": "In Wix, how do you fill the First Name field and submit a Price Quote form?",
+    "answer": "Type the desired name into the 'First Name' text field in the form preview area, then click the 'Submit' button at the bottom of the form. This triggers a \"Thanks for submitting!\" confirmation message.",
+    "keypoints": [
+      "The user types the desired name into the 'First Name' text field within the form preview area.",
+      "The user clicks on the 'Submit' button at the bottom of the form, triggering a submission confirmation message that reads \"Thanks for submitting!\""
+    ]
+  },
+  {
+    "question": "In Wix, after submitting a Price Quote form, how do you customize its layout and publish the website?",
+    "answer": "Navigate to the 'Design' tab in the top menu bar to access layout customization options for the Price Quote section, then click the 'Publish' button in the top-right corner to initiate website publishing.",
+    "keypoints": [
+      "The user clicks on the 'Submit' button at the bottom of the form, triggering a submission confirmation message that reads \"Thanks for submitting!\"",
+      "The user navigates to the 'Design' tab in the top menu bar, accessing layout customization options for the Price Quote section.",
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix editor window, initiating the publishing process for the website."
+    ]
+  },
+  {
+    "question": "In Wix, where is the 'Comments' field located for editing in a Price Quote section?",
+    "answer": "The 'Comments' field is found in the left-side form settings panel after selecting it for editing within the Price Quote section.",
+    "keypoints": [
+      "The user selects the 'Comments' field from the left-side form settings panel, highlighting it for editing."
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Wix, what are the initial steps to add a new skills section to your website, and what appears after completion?",
+    "answer": "First, click the 'Add' button in the top navigation bar. Then select 'Skills' from the left-side menu. This creates a new 'MY SKILLS' section with placeholders for skill descriptions, proficiency levels like 'Intermediate' or 'Advanced', and 'Get in Touch' buttons.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Skills' section from the left-side menu, which is highlighted and contains a list of skills like 'Project Management', 'Spanish Fluency', and 'Customer Service'.",
+      "The screen displays a new section titled 'MY SKILLS' with placeholders for skill descriptions and levels such as 'Intermediate', 'Advanced', and buttons labeled 'Get in Touch'."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify both skill proficiency levels and section layout in the skills section?",
+    "answer": "To change a skill level, select options like 'Advanced' from the dropdown menu next to the skill name in the 'SKILLS' panel. To rearrange the layout, drag the 'Drag Section Here' placeholder to reposition sections.",
+    "keypoints": [
+      "The user edits the skill level for 'Graphics Designing' by selecting 'Advanced' from the dropdown menu within the 'SKILLS' panel on the left side.",
+      "The user drags the 'Drag Section Here' placeholder to rearrange the layout of the skills section, causing the sections to shift accordingly."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to edit a skill description and add custom footer text in the skills section?",
+    "answer": "Click the 'Edit & Replace' button beside the skill description to open the editing dialog. For footer text, enter content like 'For more information about my skills, get in touch directly.' into the footer paragraph field within the 'SKILLS' panel.",
+    "keypoints": [
+      "The user clicks on the 'Edit & Replace' button next to the 'PROJECT MANAGEMENT' skill description, opening an editing dialog box.",
+      "The user types 'For more information about my skills, get in touch directly.' into the footer paragraph field within the 'SKILLS' panel."
+    ]
+  },
+  {
+    "question": "In Wix, how do you customize the design layout of the skills section after adding it?",
+    "answer": "Click the 'Customize Section Design' button at the bottom of the skills section to open the customization modal. Then select a new layout from the 'USE THIS LAYOUT' options to update the section's appearance.",
+    "keypoints": [
+      "The user clicks on the 'Customize Section Design' button at the bottom of the skills section, opening a customization modal with various design options.",
+      "The user selects a new layout from the 'USE THIS LAYOUT' option in the customization modal, updating the skills section's appearance."
+    ]
+  },
+  {
+    "question": "In Wix, what is the final action to make all skills section changes publicly visible?",
+    "answer": "Click the 'Publish' button in the top-right corner of the editor interface to initiate the publishing process and apply all modifications.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface, initiating the publishing process."
+    ]
+  }
+]

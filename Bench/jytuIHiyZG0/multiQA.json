@@ -1,0 +1,46 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do I add and configure the Walk behavior to be triggered by arrow keys?",
+    "answer": "Navigate to the Triggers section in the right-side properties panel and click the '+' button to add a new trigger. Select 'Walk' from the 'Puppet Behaviors' dropdown menu, then adjust the 'Mode' setting from 'Immediate' to 'Left & Right Arrow Keys' using the dropdown menu in the behavior properties.",
+    "keypoints": [
+      "The user navigates to the 'Triggers' section within the right-side properties panel and clicks on the '+' button to add a new trigger.",
+      "A dropdown menu appears, and the user selects 'Walk' from the options listed under 'Puppet Behaviors'.",
+      "The 'Walk' behavior is applied to the character, and the properties for this behavior are shown in the right panel.",
+      "The user adjusts the 'Mode' setting for the 'Walk' behavior from 'Immediate' to 'Left & Right Arrow Keys' using the dropdown menu."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, why should you disable the 'independent' checkbox for the body layer during a walk cycle?",
+    "answer": "Disabling the 'independent' checkbox ensures the body moves correctly and maintains proper coordination with other character parts during the walk animation.",
+    "keypoints": [
+      "The user selects the 'body' layer in the left panel and disables the 'independent' checkbox for it in the properties panel.",
+      "This adjustment ensures that the body moves correctly during the walk cycle."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you edit a character's design in Photoshop and synchronize changes back to the animation?",
+    "answer": "Right-click the 'body' layer and select 'Edit Original' to open Photoshop. After adjusting the design and layer arrangement, save the changes in Photoshop. The updated character model automatically reflects these adjustments when you return to Character Animator.",
+    "keypoints": [
+      "The user opens the 'Photoshop' application by clicking on the 'Edit Original' option in the context menu after right-clicking on the 'body' layer.",
+      "In Photoshop, the user makes adjustments to the character's design, ensuring all layers are properly arranged for animation.",
+      "After saving changes in Photoshop, the user returns to the main animation software where the updated character model reflects these adjustments."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps refine head and body alignment for a natural walk cycle in Rig view?",
+    "answer": "Click the 'Rig' tab to enter Rig view. Select the head layer and disable independent layers for left/right profiles to ensure alignment. Drag the neck position slightly backward relative to the body, then enable the torso and leg layers to confirm their positioning.",
+    "keypoints": [
+      "The user navigates to the 'Rig' view by clicking on the 'Rig' tab located at the top of the interface, preparing for further adjustments.",
+      "The user selects the head layer in the rig view and disables the independent layers for the left and right profiles to ensure proper alignment during the walk cycle.",
+      "The user drags the neck position slightly back in the rig view to adjust its placement relative to the body, ensuring natural movement during the walk animation.",
+      "The user enables the torso and leg layers in the rig view, confirming their correct positioning for the walk cycle."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where is the 'Triggers' section located when adding a new behavior?",
+    "answer": "The 'Triggers' section is found within the right-side properties panel, where you can click the '+' button to add new triggers.",
+    "keypoints": [
+      "The user navigates to the 'Triggers' section within the right-side properties panel and clicks on the '+' button to add a new trigger."
+    ]
+  }
+]

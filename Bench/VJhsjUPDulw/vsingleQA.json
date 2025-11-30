@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What are the federal income tax brackets and their corresponding income ranges?",
+    "answer": "The federal income tax brackets are 10% for $0 to $9,700, 12% for $9,701 to $39,475, 22% for $39,476 to $84,200, and 24% for income above $84,201.",
+    "keypoints": [
+      "The tax brackets for income are set at 10%, 12%, 22%, and 24% for the respective income ranges of $0 to $9,700, $9,701 to $39,475, $39,476 to $84,200, and above $84,201."
+    ]
+  },
+  {
+    "question": "How much total tax is owed on a taxable income of $84,000?",
+    "answer": "The total tax owed is $11,258.50, calculated as $970 on the first $9,700, $3,573 on the next $29,775, and $6,715.50 on the remaining $30,525.",
+    "keypoints": [
+      "A person with an income of $84,000 pays $970 in taxes on the first $9,700, $3,573 on the next $29,775, and $6,715.50 on the remaining $30,525, totaling $11,258.50 in taxes."
+    ]
+  },
+  {
+    "question": "What is the total reduction in taxable income from a $12,000 standard deduction plus a $2,000 additional deduction?",
+    "answer": "The combined deductions reduce taxable income by $14,000.",
+    "keypoints": [
+      "Deductions reduce taxable income; a standard deduction of $12,000 plus an additional $2,000 lowers taxable income by $14,000."
+    ]
+  },
+  {
+    "question": "What is the total federal income tax owed on a taxable income of $70,000?",
+    "answer": "The total tax owed is $7,667, calculated as $970 for the first bracket, $3,573 for the second bracket, and $3,124 for the third bracket.",
+    "keypoints": [
+      "For an income of $70,000 after deductions, the tax amounts to $970 for the first bracket, $3,573 for the second, and $3,124 for the third, totaling $7,667."
+    ]
+  },
+  {
+    "question": "At what income level does the highest federal tax bracket of 37% apply?",
+    "answer": "The 37% tax bracket applies at an income level of $510,300.",
+    "keypoints": [
+      "At an income level of $510,300, the highest tax bracket is 37%."
+    ]
+  },
+  {
+    "question": "What contrasting views on taxation did Steve Scalise attribute to Republicans and Democrats?",
+    "answer": "Steve Scalise stated that Republicans aim to let Americans keep more of their hard-earned money, while Democrats propose taking away 70% of income for leftist programs.",
+    "keypoints": [
+      "Steve Scalise's tweet contrasts Republican and Democratic views on taxation, stating Republicans aim to let Americans keep more of their hard-earned money while Democrats propose taking away 70% of income for leftist programs."
+    ]
+  }
+]

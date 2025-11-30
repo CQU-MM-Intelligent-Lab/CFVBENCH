@@ -1,0 +1,47 @@
+[
+  {
+    "question": "In Wix, how do you start creating a single event and access its design customization options?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Single Event' from the left-side menu, then click the 'Design' tab in the event details panel.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Single Event' section from the left-side menu, which is highlighted with a blue background.",
+      "The user clicks on the 'Design' tab within the event details panel to customize the event's appearance."
+    ]
+  },
+  {
+    "question": "In Wix, what essential details must be entered in the event form before finalizing creation?",
+    "answer": "Enter the event name in the 'Event Name' field, select a date from the 'Date and Time' calendar dropdown, and choose a location type in the 'Location' section.",
+    "keypoints": [
+      "The user types 'Tutorial Session' into the 'Event Name' text field within the event details form.",
+      "The user selects the date 'January 2, 2021' from the calendar dropdown in the 'Date and Time' section.",
+      "The user chooses 'Online' as the location type for the event in the 'Location' section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add a free ticket to an event and save it?",
+    "answer": "Click the 'Add Tickets' button at the top right, select the 'Free' ticket type, enter a ticket name in the 'Ticket Name' field, then click 'Save' in the top right of the form.",
+    "keypoints": [
+      "The user clicks on the 'Add Tickets' button located at the top right corner of the event details form.",
+      "The user selects the 'Free' ticket type option under the 'Ticket Type' section in the 'New Ticket' form.",
+      "The user types 'Free Pass' into the 'Ticket Name' field within the 'New Ticket' form.",
+      "The user clicks on the 'Save' button located at the top right corner of the 'New Ticket' form."
+    ]
+  },
+  {
+    "question": "In Wix, how do you navigate to the editor after setting up event registration?",
+    "answer": "Click the 'Registration' tab at the top of the event details form, then click the 'Go to Editor' button on the right side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'Registration' tab located at the top of the event details form.",
+      "The user clicks on the 'Go to Editor' button located on the right side of the screen."
+    ]
+  },
+  {
+    "question": "In Wix, how do you access the single event creation interface from the dashboard?",
+    "answer": "Click the 'Events' menu in the left sidebar, scroll to select 'Single Event' at the bottom of the screen, then click the plus icon and choose 'Single Event' from the left panel.",
+    "keypoints": [
+      "The user clicks on the 'Events' menu item located in the left sidebar of the Wix dashboard.",
+      "The user selects the 'Single Event' section from the options at the bottom of the screen, which appears after scrolling down.",
+      "The user clicks on the plus icon to add a new section, and then selects the 'Single Event' option from the left side panel."
+    ]
+  }
+]

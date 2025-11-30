@@ -1,0 +1,13 @@
+[
+  {
+    "question": "In the video editing software, how do you open a video file from the 'My First Edit' directory?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Open' from the dropdown, navigate to the folder containing your video in the file explorer, and double-click the file to initiate loading.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Open' option from the dropdown menu, which is the second item listed",
+      "A file explorer window appears, displaying a list of files and folders within the 'My First Edit' directory",
+      "The user navigates to the folder containing the video file named 'San Francisco Townhouses.mp4'",
+      "The user double-clicks on the 'San Francisco Townhouses.mp4' file, initiating the loading process"
+    ]
+  }
+]

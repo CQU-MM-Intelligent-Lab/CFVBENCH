@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you add physics properties to a specific layer in the timeline?",
+    "answer": "First, click the desired layer (e.g., 'Shapes') in the timeline panel at the bottom left. Then, select 'Physics Layer 2' in the Properties panel on the right. Finally, click 'Add Behavior: Physics' in the Properties panel to apply physics properties to the shape.",
+    "keypoints": [
+      "The user clicks on the 'Shapes' layer in the timeline panel, which is located at the bottom left of the application window.",
+      "The cursor selects the 'Physics Layer 2' option from the 'Properties' panel on the right side of the screen.",
+      "A mouse click is performed on the 'Add Behavior: Physics' button within the 'Properties' panel, adding physics properties to the selected shape."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps adjust gravity strength and wind direction for physics-enabled shapes?",
+    "answer": "In the Properties panel, increase the 'Gravity Strength' slider from its default value (e.g., 15%) to a higher percentage. Then, drag the 'Wind Direction' slider to modify the wind effect's orientation for the shapes.",
+    "keypoints": [
+      "The user adjusts the 'Gravity Strength' slider in the 'Properties' panel, increasing its value from 15% to a higher percentage.",
+      "The user drags the 'Wind Direction' slider within the 'Properties' panel to change the direction of the wind effect applied to the shapes."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you record shape interactions with collision detection enabled?",
+    "answer": "Click the 'Record' tab at the top of the window to enable recording. Then, check the 'Collision' box under 'Triggers' in the Properties panel. Finally, drag shapes on the canvas to observe and record their physics-based movements and collisions.",
+    "keypoints": [
+      "The user clicks on the 'Record' tab located at the top of the application window, enabling the recording mode for animation adjustments.",
+      "The user selects the 'Collision' checkbox under the 'Triggers' section in the 'Properties' panel, enabling collision detection between shapes.",
+      "The user clicks and drags the shapes on the canvas area, observing their movement and interaction based on the applied physics properties."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify gravity direction using the Behavior tab?",
+    "answer": "Click the 'Behavior' tab in the right-side panel. Then, in the 'Physics' section of the Properties menu, drag the 'Gravity Direction' slider to set the desired angle (e.g., 180 degrees).",
+    "keypoints": [
+      "The user clicks on the 'Behavior' tab located in the right-side panel of the application window.",
+      "From the 'Physics' section within the 'Properties' menu, the user adjusts the 'Gravity Direction' slider to a value of 180 degrees using a mouse drag action."
+    ]
+  }
+]

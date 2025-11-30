@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In Wix, how do you add a subscribe form to your webpage?",
+    "answer": "Click the 'Add' button at the top of the editor interface, then select the 'Subscribe' section from the left sidebar. This makes a subscribe form appear in the main editing area with 'Email Address' and 'Submit' fields.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located at the top of the Wix website editor interface.",
+      "From the left sidebar, the 'Subscribe' section option is selected by a mouse click.",
+      "A subscribe form appears in the main editing area with fields for 'Email Address' and a 'Submit' button."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to add a subscribe form and publish it with a custom background?",
+    "answer": "First, click the 'Add' button and select the 'Subscribe' section to add the form. Then, click the 'Design' tab and choose a new color from the 'Section Colors' menu. Finally, click 'Publish' to make the updated form live on your webpage.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located at the top of the Wix website editor interface.",
+      "From the left sidebar, the 'Subscribe' section option is selected by a mouse click.",
+      "The user clicks on the 'Design' tab within the subscribe form settings panel.",
+      "The user clicks on the 'Publish' button located at the top-right corner of the Wix website editor interface."
+    ]
+  }
+]

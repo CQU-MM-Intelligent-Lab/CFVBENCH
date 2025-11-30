@@ -1,0 +1,51 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate the PNG sequence export process and select the correct format?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export' from the dropdown, then choose 'PNG Sequence with Wave' in the 'Export Scene' dialog box.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export' option is selected by a mouse click.",
+      "In the 'Export Scene' dialog box, the user selects the 'PNG Sequence with Wave' option from the list."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where do you create folders for saving exported PNG sequences and what names are used?",
+    "answer": "On the desktop, create a parent folder named 'Image Sequence', then create a subfolder named 'character' inside it to organize the exported files.",
+    "keypoints": [
+      "The cursor navigates to the desktop and creates a new folder named 'Image Sequence'.",
+      "Within the 'Image Sequence' folder, another folder named 'character' is created."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is entered as the filename during PNG sequence export and how is progress monitored?",
+    "answer": "Type 'character' into the 'File name' text field in export settings, then monitor the progress bar that appears to confirm successful export.",
+    "keypoints": [
+      "The user types 'character' into the 'File name' text field within the export settings.",
+      "A progress bar appears indicating the export process, showing completion as the image sequence is saved."
+    ]
+  },
+  {
+    "question": "In Adobe After Effects, how do you import a PNG sequence and create a composition?",
+    "answer": "Select 'Import Multiple Files' from the 'File' menu to import the sequence, then add it to a new composition in the timeline.",
+    "keypoints": [
+      "The user opens Adobe After Effects and imports the exported PNG sequence by selecting 'Import Multiple Files' from the 'File' menu.",
+      "The imported sequence is added to a new composition in After Effects."
+    ]
+  },
+  {
+    "question": "In Adobe After Effects, how do you add a colored background layer to a composition?",
+    "answer": "Select 'New Solid' from the 'Layer' menu, then set the solid layer color to yellow (or your preferred background color).",
+    "keypoints": [
+      "The user adds a solid layer to the composition by selecting 'New Solid' from the 'Layer' menu.",
+      "The solid layer is set to yellow, providing a background for the animation."
+    ]
+  },
+  {
+    "question": "In Adobe After Effects, how do you preview and finalize an animation with a background?",
+    "answer": "Adjust the timeline to scrub through frames, previewing the character moving against the colored background in the preview window.",
+    "keypoints": [
+      "The user adjusts the timeline to preview the animation with the solid layer.",
+      "The final animation with the yellow background is displayed in the preview window."
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you import an Illustrator file to use it in a project?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Import' from the dropdown, then choose the desired file in the file explorer dialog and click 'Import' to add it as a layer in the project panel.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import' option is selected by a mouse click.",
+      "In the file explorer dialog box that appears, the user selects the file named 'Bulb.ai' and clicks the 'Import' button to import the file into the software.",
+      "The imported file appears as a new layer labeled 'Bulb' within the project panel on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps allow you to edit the source layers of an imported asset in Illustrator?",
+    "answer": "Right-click the asset layer in the project panel, select 'Edit Original' from the context menu to open it in Illustrator, where you can view and modify its layer structure before closing Illustrator to return.",
+    "keypoints": [
+      "The user right-clicks on the 'Bulb' layer in the project panel, causing a context menu to appear with options such as 'Edit Original', 'Duplicate', and 'Rename'.",
+      "The user selects the 'Edit Original' option from the context menu, opening the Illustrator application where the layers of the bulb are displayed.",
+      "Within Illustrator, the user can see the parent layer 'Bulb' and its sub-layers 'Bulb_Glow', 'Bulb_Semi_Glow', and 'Bulb_Off'.",
+      "The user closes Illustrator and returns to the main application window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you prepare a new scene and add an imported puppet for animation?",
+    "answer": "Click the 'New Scene' button in the timeline panel to create a scene, then drag the puppet layer from the project panel into this scene to position it for animation.",
+    "keypoints": [
+      "The user creates a new scene by clicking on the 'New Scene' button at the bottom of the timeline panel.",
+      "The user drags the 'Bulb' layer from the project panel into the newly created scene."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process to add a Layer Picker behavior to control a puppet's states?",
+    "answer": "Double-click the puppet layer in the scene to access its behavior settings, click the '+' under 'Behaviors' in the properties panel, then select 'Layer Picker' from the dropdown menu.",
+    "keypoints": [
+      "The user double-clicks on the 'Bulb' layer in the scene to open the behavior settings for the layer.",
+      "In the properties panel on the right side of the screen, the user clicks on the '+' button under the 'Behaviors' section.",
+      "A dropdown menu appears, and the user selects the 'Layer Picker' option from the list."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you create a slider to control layer cycling for a puppet?",
+    "answer": "Navigate to the 'Controls' tab, click the three dots next to 'Percentage Offset', and select 'Add to Controls Panel' to generate a slider in the controls panel.",
+    "keypoints": [
+      "The user navigates to the 'Controls' tab in the bottom-left corner of the screen and clicks on the three dots next to the 'Percentage Offset' setting.",
+      "The user selects 'Add to Controls Panel' from the dropdown menu that appears.",
+      "A slider control for the 'Percentage Offset' is added to the controls panel at the bottom of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure continuous layer cycling when using the Percentage Offset slider?",
+    "answer": "Adjust the Percentage Offset slider to cycle through layers, then set the 'Out of Range' property to 'Loop' in the properties panel to enable seamless transitions at slider limits.",
+    "keypoints": [
+      "The user adjusts the slider control, cycling through the different layers of the bulb as the percentage value changes.",
+      "The user sets the 'Out of Range' property in the properties panel to 'Loop', enabling continuous cycling through the layers even when the slider reaches its limits."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test layer animations after configuring the Percentage Offset controls?",
+    "answer": "Move the playhead along the timeline to observe real-time layer changes based on the Percentage Offset slider position and Loop configuration.",
+    "keypoints": [
+      "The user sets the 'Out of Range' property in the properties panel to 'Loop', enabling continuous cycling through the layers even when the slider reaches its limits.",
+      "The user tests the animation by moving the playhead along the timeline and observing the bulb's layers change according to the set parameters."
+    ]
+  }
+]

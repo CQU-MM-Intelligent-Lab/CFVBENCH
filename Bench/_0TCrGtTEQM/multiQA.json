@@ -1,0 +1,26 @@
+[
+  {
+    "question": "According to NOAA data, by how much has the average global sea surface temperature increased from 1880 to 2015, and what impact does this have on hurricane intensity?",
+    "answer": "The average global sea surface temperature increased by 1.0°F from 1880 to 2015. Warmer ocean temperatures increase the potential intensity of hurricanes.",
+    "keypoints": {
+      "video": [
+        "The average global sea surface temperature has increased by 1.0°F from 1880 to 2015 according to NOAA data."
+      ],
+      "text": [
+        "Warmer ocean temperatures increase the potential intensity of hurricanes."
+      ]
+    }
+  },
+  {
+    "question": "What were the relative sea level changes along US coasts from 1960 to 2015, and how do these changes exacerbate flooding risks during storms?",
+    "answer": "Sea levels varied regionally, with increases over 8 feet in some areas and decreases up to -8 feet in others. Rising sea levels worsen coastal flooding from storm surge combined with increased rainfall.",
+    "keypoints": {
+      "video": [
+        "The relative sea level change along US coasts from 1960 to 2015 shows significant variations with some areas experiencing an increase of over 8 feet and others a decrease of up to -8 feet."
+      ],
+      "text": [
+        "Rising sea levels exacerbate coastal flooding from storm surge combined with increased rainfall."
+      ]
+    }
+  }
+]

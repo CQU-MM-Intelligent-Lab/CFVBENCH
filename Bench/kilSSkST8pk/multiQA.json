@@ -1,0 +1,40 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you export a puppet file to the desktop?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export', choose 'Puppet' in the dialog box, navigate to the desktop folder, enter '2D Character for Character Animator.puppet' in the 'File name' field, and click 'Save'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export' option is selected by a mouse click.",
+      "In the export dialog box, the user selects the 'Puppet' option from the list.",
+      "The user navigates to the desktop folder using the file path navigation pane on the left side of the export dialog box.",
+      "The user types '2D Character for Character Animator.puppet' into the 'File name' text field within the export dialog box.",
+      "The user clicks the 'Save' button at the bottom-right corner of the export dialog box."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you import a puppet into a new project and add it to the scene?",
+    "answer": "Create a new project via 'File' > 'New Project', import the puppet using 'File' > 'Import', select the '2D Character for Character Animator.puppet' file from the desktop, then drag the puppet from the project panel to the scene area.",
+    "keypoints": [
+      "A new project is created by selecting 'New Project' from the 'File' menu.",
+      "The user imports the puppet file by clicking on the 'Import' option under the 'File' menu.",
+      "The user navigates to the desktop folder again and selects the '2D Character for Character Animator.puppet' file.",
+      "The imported puppet appears in the project panel on the left side of the screen.",
+      "The user drags the puppet from the project panel onto the scene area in the center of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure a character to walk using arrow keys?",
+    "answer": "Click the 'Triggers' section in the right-side panel, then change the walk mode to 'Left & Right Arrow keys' using the dropdown menu in the 'Walk' settings.",
+    "keypoints": [
+      "The user adjusts the walk settings by clicking on the 'Triggers' section in the right-side panel.",
+      "The user changes the walk mode to 'Left & Right Arrow keys' using the dropdown menu within the 'Walk' settings."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where is the 'Triggers' section located for adjusting walk settings?",
+    "answer": "The 'Triggers' section is located in the right-side panel of the interface.",
+    "keypoints": [
+      "The user adjusts the walk settings by clicking on the 'Triggers' section in the right-side panel."
+    ]
+  }
+]

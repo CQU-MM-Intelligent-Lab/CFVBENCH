@@ -1,0 +1,63 @@
+[
+  {
+    "question": "How does the pitch of the GMC Hummer's Acoustic Vehicle Alerting System (AVAS) change as the vehicle accelerates, and what regulatory requirement does this fulfill?",
+    "answer": "The pitch of the GMC Hummer's AVAS increases as the vehicle accelerates, following a linear relationship. This fulfills the regulatory requirement that AVAS pitch must increase during acceleration to convey speed information.",
+    "keypoints": {
+      "video": [
+        "The GMC Hummer has a distinct sound profile as shown in a waveform analysis.",
+        "The pitch of a GMC Hummer's sound increases as its speed increases, following a linear relationship on the graph."
+      ],
+      "text": [
+        "AVAS pitch must increase as the vehicle accelerates and decrease as it decelerates to convey speed information."
+      ]
+    }
+  },
+  {
+    "question": "What electric vehicle uses skeuomorphism in its sound design by mimicking the sound of an internal combustion engine?",
+    "answer": "The Ford Mustang Mach-E emits a synthesized sound designed to mimic the roar of an internal combustion engine, employing skeuomorphism.",
+    "keypoints": {
+      "video": [
+        "The Ford Mustang Mach-E emits a synthesized sound designed to mimic the roar of an internal combustion engine."
+      ],
+      "text": [
+        "Some designs employ skeuomorphism, mimicking combustion engine sounds to ease the transition to electric vehicles."
+      ]
+    }
+  },
+  {
+    "question": "What are the specific regulatory standards for electric vehicle sound systems in the European Union and the United States, and when did the mandate take effect?",
+    "answer": "The European Union and the United States have regulatory standards such as UN R138 and FMVSS 141 for electric vehicle sound systems, and they mandated these systems starting in 2019.",
+    "keypoints": {
+      "video": [
+        "A map shows various regions adopting different regulations for electric vehicles, such as UN R138 or FMVSS 141."
+      ],
+      "text": [
+        "Regulators in the European Union and the United States mandated artificial sound systems for electric and hybrid vehicles starting in 2019."
+      ]
+    }
+  },
+  {
+    "question": "What are the key elements in vehicle audio design, and why must the Acoustic Vehicle Alerting System (AVAS) produce sound at both high and low frequencies?",
+    "answer": "The key elements in vehicle audio design are sound pressure, pitch, and frequency. AVAS must produce sound at both high and low frequencies to cut through varying background noise.",
+    "keypoints": {
+      "video": [
+        "Sound pressure, pitch, and frequency are key elements in audio design for vehicles."
+      ],
+      "text": [
+        "AVAS must produce sound at both high and low frequencies to cut through varying background noise."
+      ]
+    }
+  },
+  {
+    "question": "According to a bar chart, how does the volume of an Acoustic Vehicle Alerting System (AVAS) change with vehicle speed, and why does the regulation require volume to increase only up to 30 kilometers per hour?",
+    "answer": "AVAS volume increases with vehicle speed up to 30 kilometers per hour and then decreases. The regulation requires volume to increase only up to 30 kilometers per hour because beyond that speed, tire and wind noise become dominant and provide sufficient auditory cues.",
+    "keypoints": {
+      "video": [
+        "A bar chart indicates that volume increases with speed up to 30 kph before decreasing."
+      ],
+      "text": [
+        "AVAS volume must rise proportionally with vehicle speed until tire and wind noise dominate above 30 kilometers per hour."
+      ]
+    }
+  }
+]

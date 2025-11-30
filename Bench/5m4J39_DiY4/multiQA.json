@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In Wix, how do you add a new Headliner section to your page and what appears after selection?",
+    "answer": "Click the plus icon at the top center of the screen, then select the 'Headliner' section from the left sidebar. A new headliner section will appear in the main editing area with placeholders for title and subtitle text.",
+    "keypoints": [
+      "The user clicks on the plus icon located at the top center of the screen.",
+      "From the left sidebar, the 'Headliner' section is selected by a mouse click.",
+      "A new headliner section appears in the main editing area with placeholders for title and subtitle text."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to configure the text content of a Headliner section?",
+    "answer": "Type your title into the title field and your subtitle into the subtitle field within the headliner section in the main editing area.",
+    "keypoints": [
+      "The user types 'BREAKING NEWS' into the title field within the headliner section.",
+      "The user types 'DISCOUNT!' into the subtitle field within the headliner section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you set a background image and access design settings for a Headliner section?",
+    "answer": "Select an image from the media library for the background, then click the 'Design' tab next to the 'Edit' tab within the headliner section settings to display layout and style customization options.",
+    "keypoints": [
+      "The user selects an image from the media library to add as background media for the headliner section.",
+      "The user clicks on the 'Design' tab next to the 'Edit' tab within the headliner section settings.",
+      "The design options for the headliner section are displayed, allowing customization of layout and style."
+    ]
+  },
+  {
+    "question": "In Wix, where do you find the controls to add a background image and customize the design of a Headliner section?",
+    "answer": "After adding the Headliner section, use the media library in the editing area to set the background image, then navigate to the 'Design' tab within the section settings for layout and style options.",
+    "keypoints": [
+      "The user selects an image from the media library to add as background media for the headliner section.",
+      "The user clicks on the 'Design' tab next to the 'Edit' tab within the headliner section settings.",
+      "The design options for the headliner section are displayed, allowing customization of layout and style."
+    ]
+  }
+]

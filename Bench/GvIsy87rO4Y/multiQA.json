@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In YouTube Studio, how do you access the dialog box to set a custom start time for a video?",
+    "answer": "Click the 'Tools' menu in the top-left corner of the application window, then select 'Set custom start offset/timecode' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'Tools' menu item located in the top-left corner of the application window.",
+      "From the 'Tools' dropdown menu, the 'Set custom start offset/timecode' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In YouTube Studio, what steps are required in the 'Set custom start time offset' dialog to apply a new start time?",
+    "answer": "Enter the desired start time in the text field using the HH:MM:SS.mmm format, then click the blue 'OK' button at the bottom left of the dialog box.",
+    "keypoints": [
+      "A dialog box titled 'Set custom start time offset' appears, prompting the user to enter a specified value for the video's starting point.",
+      "The user types '00:01:00.000' into the text field within the dialog box.",
+      "After entering the value, the user clicks the 'OK' button, which is blue and located at the bottom left of the dialog box."
+    ]
+  },
+  {
+    "question": "In YouTube Studio, how do you ensure audio synchronization after adjusting a video's start time?",
+    "answer": "Select the checkbox next to 'Keep audio' in the interface to maintain audio-video synchronization during editing.",
+    "keypoints": [
+      "Similarly, the user changes the start timing to '00:00:25.000' by typing it into the same text field and clicking 'OK'.",
+      "The user selects the 'checkbox' next to 'Keep audio' within the interface, ensuring that the audio remains synchronized with the video during editing."
+    ]
+  }
+]

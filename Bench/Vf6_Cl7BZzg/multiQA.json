@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, what are the initial steps to import a file into the project?",
+    "answer": "First, click the 'File' menu in the top-left corner of the application window. Then, select 'Import' from the dropdown menu. Finally, choose your desired file in the file explorer dialog box that appears.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import' option is selected by a mouse click.",
+      "In the file explorer dialog box that appears, the user selects the file named 'Shapes.ai'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you open an imported asset and prepare layers for grouping?",
+    "answer": "Double-click the imported asset in the project panel to open it for editing. Next, in the 'Puppet' panel, select multiple layers you want to group, then right-click to access the 'Group Layers' option.",
+    "keypoints": [
+      "The cursor double-clicks on the imported shapes within the project panel to open them for editing.",
+      "The user selects multiple layers from the 'Puppet' panel and right-clicks to choose the 'Group Layers' option."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens after grouping layers, and how is the group customized?",
+    "answer": "A new group layer is created and reflected in the 'Properties' panel. To rename it, click the group's name field in the 'Puppet' panel and type your desired label.",
+    "keypoints": [
+      "A new group layer is created, containing the selected layers as indicated in the 'Properties' panel.",
+      "The user renames the newly created group layer to 'platforms' by clicking on its name field and typing the new label."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you verify and manipulate a grouped layer after renaming?",
+    "answer": "The renamed group appears in the 'Puppet' panel with its updated name. You can then drag it around the canvas to move all contained layers simultaneously as a single unit.",
+    "keypoints": [
+      "The renamed group layer is now visible in the 'Puppet' panel with the updated name 'platforms'.",
+      "The user drags the grouped layers around the canvas to demonstrate their movement as a single unit."
+    ]
+  }
+]

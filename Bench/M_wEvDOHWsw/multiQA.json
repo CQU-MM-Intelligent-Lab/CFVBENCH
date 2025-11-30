@@ -1,0 +1,25 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you pan around the scene and then reset the view to fit all elements?",
+    "answer": "Hold the 'Alt' key while clicking and dragging to pan around the entire workspace. Then, select the 'Fit' option from the menu in the top-right corner to automatically adjust the view to display all scene elements.",
+    "keypoints": [
+      "The user clicks and drags while holding the 'Alt' key on their keyboard, allowing them to pan around the entire scene within the Adobe Character Animator workspace.",
+      "The user selects the 'Fit' option from the menu located in the top-right corner of the screen, which automatically adjusts the view to fit all elements of the scene within the visible area."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how can you select a specific scene for editing and navigate between different scenes?",
+    "answer": "To select a specific scene (e.g., 'Scene - Red Monster') for manipulation, click its tab in the right panel. To navigate between scenes, click the tabs under the 'Scenes' section in the left panel.",
+    "keypoints": [
+      "The user clicks on the 'Scene - Red Monster' tab located in the right panel of the Adobe Character Animator interface, selecting it for further manipulation or viewing.",
+      "The user navigates through different scenes by clicking on various tabs listed under the 'Scenes' section in the left panel of the Adobe Character Animator window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access debugging tools via the console?",
+    "answer": "Click the 'Console' button in the bottom-left corner to open the console window for debugging and logging.",
+    "keypoints": [
+      "The user clicks on the 'Console' button located in the bottom-left corner of the screen to open the console window for debugging and logging purposes."
+    ]
+  }
+]

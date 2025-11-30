@@ -1,0 +1,46 @@
+[
+  {
+    "question": "In Wix, what are the first two steps to replace a background image in the media settings section?",
+    "answer": "First, click the 'Edit' button in the media settings section. Then, select the 'Replace' option from the dropdown menu that appears.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located in the media settings section of the Wix website builder interface.",
+      "The user selects the 'Replace' option from the dropdown menu that appears after clicking the 'Edit' button."
+    ]
+  },
+  {
+    "question": "In Wix, after selecting 'Replace' for a media item, how do you navigate to upload an image from your computer?",
+    "answer": "Click the 'Upload Media' button within the media settings window, then choose the 'Computer' option from the upload sources list (displayed as a clickable computer icon).",
+    "keypoints": [
+      "The user navigates to the 'Upload Media' section by clicking on the corresponding button within the media settings window.",
+      "The user chooses the 'Computer' option from the upload sources list, which is displayed as a clickable icon with a computer symbol."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after selecting the 'Computer' upload option, and how is the upload confirmed?",
+    "answer": "The file explorer window opens to select an image file. After selection, the file uploads to the site files section, indicated by a progress bar and confirmation message.",
+    "keypoints": [
+      "The user opens the file explorer window and selects an image file named '5.jpg' from the Dropbox folder.",
+      "The selected image file '5.jpg' is uploaded to the site files section, as indicated by the progress bar and confirmation message."
+    ]
+  },
+  {
+    "question": "In Wix, how do you apply an uploaded image as a webpage background and what is the visual outcome?",
+    "answer": "Click the 'Apply' button in the media settings panel to set the image as the background. The webpage section immediately displays the new image, replacing any previous background.",
+    "keypoints": [
+      "The user applies the uploaded image as the background for the webpage section by clicking the 'Apply' button in the media settings panel.",
+      "The webpage section now displays the newly uploaded image as its background, replacing the previous placeholder image."
+    ]
+  },
+  {
+    "question": "In Wix, what is the complete sequence to replace a background image starting from media settings?",
+    "answer": "Click 'Edit' in media settings, select 'Replace', click 'Upload Media', choose 'Computer', select an image file in the file explorer, and finally click 'Apply' to set the new background.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located in the media settings section of the Wix website builder interface.",
+      "The user selects the 'Replace' option from the dropdown menu that appears after clicking the 'Edit' button.",
+      "The user navigates to the 'Upload Media' section by clicking on the corresponding button within the media settings window.",
+      "The user chooses the 'Computer' option from the upload sources list, which is displayed as a clickable icon with a computer symbol.",
+      "The user opens the file explorer window and selects an image file named '5.jpg' from the Dropbox folder.",
+      "The user applies the uploaded image as the background for the webpage section by clicking the 'Apply' button in the media settings panel."
+    ]
+  }
+]

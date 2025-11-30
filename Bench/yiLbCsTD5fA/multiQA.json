@@ -1,0 +1,57 @@
+[
+  {
+    "question": "In Character Animation Tool, how do you import a JPG image to set as the background for Scene 1?",
+    "answer": "Click the 'File' menu in the top-left corner, select the 'Import' option from the dropdown, navigate to the 'Images' folder in the file explorer, and select the desired JPG file (e.g., '12.jpg'). The image will then appear as the background in Scene 1.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Import' option from the dropdown menu, which is the third item listed",
+      "A file explorer window opens, displaying various folders and files within the Dropbox directory",
+      "The user navigates to the 'Images' folder and selects a JPG image file named '12.jpg'",
+      "The selected image appears as the background for the character in Scene 1 within the project workspace"
+    ]
+  },
+  {
+    "question": "In Character Animation Tool, how do you create and prepare Scene 2 with a new background image?",
+    "answer": "Right-click on Scene 1 in the timeline panel and select 'Duplicate' to create Scene 2. Then import another image (e.g., '27.jpg') from the same folder, and scale it up using the transformation tools in the properties panel to fit the scene dimensions.",
+    "keypoints": [
+      "The user duplicates Scene 1 by right-clicking on it in the timeline panel and selecting 'Duplicate' from the context menu",
+      "A new scene labeled 'Scene 2' is created in the timeline, identical to Scene 1",
+      "The user imports another image file named '27.jpg' from the same folder for use as the background in Scene 2",
+      "The imported image is scaled up using the transformation tools in the properties panel to fit the scene dimensions"
+    ]
+  },
+  {
+    "question": "In Character Animation Tool, how do you adjust the character's movement speed in Scene 1?",
+    "answer": "Increase the walk speed parameter value in the puppet mesh settings.",
+    "keypoints": [
+      "The user adjusts the walk speed parameter for the character in Scene 1 by increasing its value in the puppet mesh settings"
+    ]
+  },
+  {
+    "question": "In Character Animation Tool, how do you transition to the Master Scene and arrange Scene 1 and Scene 2 sequentially?",
+    "answer": "Click the 'Master Scene' tab at the bottom of the timeline panel. Trim Scene 1 to five seconds by adjusting its endpoint, split Scene 2 at the five-second mark using the split tool, then drag the trimmed portion of Scene 2 to follow Scene 1 in the timeline.",
+    "keypoints": [
+      "The user transitions to the Master Scene view by clicking on the 'Master Scene' tab at the bottom of the timeline panel",
+      "The user trims Scene 1 to a duration of five seconds by adjusting the end point on the timeline",
+      "The user splits Scene 2 at the five-second mark using the split tool from the edit menu",
+      "The user drags the trimmed portion of Scene 2 to follow Scene 1 in the timeline, creating a sequential playback order"
+    ]
+  },
+  {
+    "question": "In Character Animation Tool, how do you preview and refine the transition between Scene 1 and Scene 2?",
+    "answer": "Click the play button to preview the animation showing the character moving between scenes. Then adjust the character's position in Scene 2 to align with the exit point from Scene 1 for seamless continuity.",
+    "keypoints": [
+      "The user previews the animation by clicking the play button, showing the character walking out of Scene 1 and into Scene 2",
+      "The user fine-tunes the transition between scenes by adjusting the position of the character in Scene 2 to align with the exit point in Scene 1"
+    ]
+  },
+  {
+    "question": "In Character Animation Tool, how do you save and export the final animation?",
+    "answer": "Click 'File' > 'Save' to save the project. Then navigate to 'File' > 'Export', choose the desired format and settings. The exported video will save to your specified location.",
+    "keypoints": [
+      "The user saves the project by clicking on the 'File' menu and selecting 'Save' from the dropdown options",
+      "The user exports the final animation by navigating to the 'File' menu, selecting 'Export', and choosing the desired format and settings",
+      "The exported video file is saved to the specified location on the computer's hard drive"
+    ]
+  }
+]

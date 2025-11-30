@@ -1,0 +1,29 @@
+[
+  {
+    "question": "In the video editing software, what steps are required to add keyframes for Camera 1's properties at the timeline start?",
+    "answer": "Click the 'Timeline' tab, drag the playhead to the start position, then add keyframes for 'Position X', 'Position Y', and 'Zoom' properties by clicking each property while pressing the 'K' key.",
+    "keypoints": [
+      "The user clicks on the 'Timeline' tab within the application interface.",
+      "Within the timeline, the user drags the playhead to the start position and adds keyframes for 'Position X', 'Position Y', and 'Zoom' properties of 'Camera 1'.",
+      "Keyframes are added by clicking on the respective property while pressing the 'K' key."
+    ]
+  },
+  {
+    "question": "In the video editing software, how do you create a panning effect using Camera 1's X Position property?",
+    "answer": "Select the 'X Position' property of 'Camera 1' in the 'Properties' panel, add a keyframe by clicking it while pressing 'K', then adjust the value to create the panning effect visible in the preview.",
+    "keypoints": [
+      "The user selects the 'X Position' property of 'Camera 1' in the 'Properties' panel.",
+      "The user adds a keyframe for this property by clicking on it while pressing the 'K' key.",
+      "The user then adjusts the 'X Position' value to create a panning effect in the preview screen."
+    ]
+  },
+  {
+    "question": "In the video editing software, how do you test a pan trigger and what is the outcome?",
+    "answer": "Select the pan trigger from the 'Triggers' panel, then press the '4' key with the playhead over the timeline. The preview screen shows the camera panning right according to the trigger's keyframes.",
+    "keypoints": [
+      "The user selects the newly created pan trigger from the 'Triggers' panel.",
+      "The user presses the '4' key on the keyboard while the playhead is positioned over the timeline.",
+      "The preview screen shows the camera panning to the right according to the programmed keyframes for the pan trigger."
+    ]
+  }
+]

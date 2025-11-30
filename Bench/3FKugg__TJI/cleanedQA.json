@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What event occurred during the SpaceX Starship flight test that forced commercial airlines to alter their flight paths, and at what operational stage was the anomaly reported?",
+    "answer": "The SpaceX Starship rocket exploded during the flight test, forcing commercial airlines to alter their flight paths. The anomaly was reported with the rocket's upper stage as the operation approached the end of a burn phase.",
+    "keypoints": {
+      "video": [
+        "A SpaceX Starship rocket explodes during a flight test, forcing airlines to alter course."
+      ],
+      "text": [
+        "A reported anomaly occurred with the upper stage during the operation.",
+        "The operation was approaching the end of a burn phase when the anomaly was reported."
+      ]
+    }
+  }
+]

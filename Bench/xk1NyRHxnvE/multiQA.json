@@ -1,0 +1,43 @@
+[
+  {
+    "question": "In Wix, how do you access the website editor from the dashboard?",
+    "answer": "Click the 'Site Actions' button at the top of the dashboard, then select 'Edit Site' from the dropdown menu to open the editor.",
+    "keypoints": [
+      "The user clicks on the 'Site Actions' button located at the top of the Wix dashboard.",
+      "From the dropdown menu, the 'Edit Site' option is selected by a mouse click.",
+      "The editor opens up, displaying the website layout with various sections such as 'Meet Tutor Tube', 'My Bio', and 'Past Experience'."
+    ]
+  },
+  {
+    "question": "In the Wix editor, how do you navigate to the theme selection menu?",
+    "answer": "Go to the 'Design' section in the left sidebar, then select 'Themes' from the dropdown menu to view available theme options.",
+    "keypoints": [
+      "The user navigates to the 'Design' section in the left sidebar.",
+      "Within the 'Design' section, the user selects the 'Themes' option from the dropdown menu."
+    ]
+  },
+  {
+    "question": "In Wix, what happens immediately after selecting the 'Innovative' theme?",
+    "answer": "The website layout automatically updates to apply the 'Innovative' theme, changing colors and styles across all sections.",
+    "keypoints": [
+      "The user scrolls through the theme options and selects the 'Innovative' theme by clicking on it.",
+      "The website layout updates to reflect the new 'Innovative' theme, changing colors and styles accordingly."
+    ]
+  },
+  {
+    "question": "In Wix, how do you finalize and publish a website after changing its theme?",
+    "answer": "Preview the updated site by scrolling through sections like 'Meet Tutor Tube' and 'Contact', then click the 'Publish' button at the top right corner. The published site's URL will then be displayed.",
+    "keypoints": [
+      "The user previews the updated website by scrolling through different sections such as 'Meet Tutor Tube', 'My Bio', and 'Contact'.",
+      "The user then clicks on the 'Publish' button located at the top right corner of the screen.",
+      "The website is published, and the URL is displayed for access."
+    ]
+  },
+  {
+    "question": "In Wix, where is the 'Publish' button located when you're ready to make your site live?",
+    "answer": "The 'Publish' button is located at the top right corner of the editor screen when finalizing website changes.",
+    "keypoints": [
+      "The user then clicks on the 'Publish' button located at the top right corner of the screen."
+    ]
+  }
+]

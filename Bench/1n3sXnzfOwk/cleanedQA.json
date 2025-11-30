@@ -1,0 +1,56 @@
+[
+  {
+    "question": "On January 6, 2025, what were the closing values and percentage changes for the Dow Industrials, S&P 500, and NASDAQ, and which three semiconductor companies experienced significant stock gains due to Microsoft's investment plans?",
+    "answer": "The Dow Industrials closed at 42,707 with a -0.06% change, the S&P 500 at 5,975 with a +0.55% change, and the NASDAQ at 19,865 with a +1.24% change. NVIDIA, Advanced Micro Devices, and Micron Technology experienced significant gains of 3.43%, 3.33%, and 10.45% respectively, driven by Microsoft's plan to invest $80 billion in artificial intelligence-enabled data centers.",
+    "keypoints": {
+      "video": [
+        "The U.S. Markets display shows the Dow Industrials at 42,707 with a -0.06% change, the S&P 500 at 5,975 with a +0.55% change, and the NASDAQ at 19,865 with a +1.24% change.",
+        "NVIDIA's stock price is shown as $149.43 with a 3.43% increase.",
+        "Advanced Micro Devices' stock price is displayed as $129.55 with a 3.33% increase.",
+        "Micron Technology's stock price is listed at $99.26 with a 10.45% increase."
+      ],
+      "text": [
+        "Chipmakers rallied, boosted by Microsoft's plan to invest $80 billion to develop artificial intelligence-enabled data centers."
+      ]
+    }
+  },
+  {
+    "question": "What were Citigroup's stock price and percentage increase on January 6, 2025, and what specific event triggered this gain?",
+    "answer": "Citigroup's stock price was $72.74 with a 2.45% increase, triggered by a bullish rating from Barclays.",
+    "keypoints": {
+      "video": [
+        "Citigroup's stock price is listed at $72.74 with a 2.45% increase."
+      ],
+      "text": [
+        "Citigroup shares gained about 2.5% after receiving a bullish rating from Barclays."
+      ]
+    }
+  },
+  {
+    "question": "What stock price movements did Ford Motor Company and General Motors Company experience on January 6, 2025, and what conflicting reports emerged regarding tariff policies affecting their performance?",
+    "answer": "Ford Motor Company's stock price was $9.92 with a 0.40% increase, and General Motors Company's stock price was $53.53 with a 3.40% increase. Their gains followed a newspaper report that President-elect Donald Trump's administration would impose tariffs only on certain critical sectors, though Trump later refuted this report.",
+    "keypoints": {
+      "video": [
+        "Ford Motor Company's stock price is shown as $9.92 with a 0.40% increase.",
+        "General Motors Company's stock price is displayed as $53.53 with a 3.40% increase."
+      ],
+      "text": [
+        "Shares of Ford and General Motors rose following a newspaper report that President-elect Donald Trump's incoming administration would impose tariffs only on certain critical sectors.",
+        "Donald Trump later refuted the tariff report."
+      ]
+    }
+  },
+  {
+    "question": "What was Microsoft's stock price and percentage change on January 6, 2025, and how did its investment strategy alongside Foxconn's performance influence the semiconductor sector?",
+    "answer": "Microsoft's stock price was $427.85 with a 1.06% increase. Its $80 billion investment plan for AI data centers and Foxconn's forecast-beating fourth-quarter revenue collectively drove the semiconductor sector rally.",
+    "keypoints": {
+      "video": [
+        "Microsoft's stock price is listed at $427.85, showing an increase of 1.06%."
+      ],
+      "text": [
+        "Chipmakers rallied, boosted by Microsoft's plan to invest $80 billion to develop artificial intelligence-enabled data centers.",
+        "Foxconn's forecast-beating fourth-quarter revenue also helped lift the semiconductor sector."
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the Collision settings for a layer in the Physics properties?",
+    "answer": "First, click on the target layer (e.g., 'Shapes') in the left panel. Then select the 'Physics' option in the properties menu on the right side, and expand the 'Collision' section by clicking the small arrow next to it.",
+    "keypoints": [
+      "The user clicks on the 'Shapes' layer located in the left panel of the Adobe Character Animator interface.",
+      "The user selects the 'Physics' option from the properties menu, which is displayed on the right side of the screen.",
+      "The user expands the 'Collision' section within the 'Physics' options by clicking on the small arrow next to it."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure collision initiation and weight behavior for shapes?",
+    "answer": "Set the 'Start' option under Collision to 'On Trigger' to change activation timing, then increase the 'Weight' slider value to make shapes interact more heavily during collisions.",
+    "keypoints": [
+      "The user adjusts the 'Start' setting under the 'Collision' section to 'On Trigger', changing its value from 'Immediately'.",
+      "The user drags the 'Weight' slider within the 'Collision' settings to increase the weight value, causing the circles in the scene to behave more heavily when interacting with each other."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what settings adjust movement smoothness and bounce intensity for colliding shapes?",
+    "answer": "Reduce the 'Friction' slider for smoother sliding interactions and increase the 'Bounciness' slider to enhance rebound height and frequency during collisions.",
+    "keypoints": [
+      "The user modifies the 'Friction' setting by dragging the corresponding slider, reducing the friction level so that the circles slide more smoothly across the scene.",
+      "The user increases the 'Bounciness' parameter using the slider, making the circles bounce higher and more frequently upon collision."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you disable boundary bouncing and control position recovery for moved shapes?",
+    "answer": "Uncheck 'Bounce Off Scene Sides' to allow shapes to exit the scene boundaries, then adjust the 'Return Strength' slider to determine how forcefully shapes snap back to their original positions after movement.",
+    "keypoints": [
+      "The user toggles the 'Bounce Off Scene Sides' checkbox off, allowing the circles to fall out of the scene boundaries instead of bouncing back.",
+      "The user adjusts the 'Return Strength' slider to control how strongly the circles return to their original positions after being moved."
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "question": "In Wix, how do you add a Team Members section using the top navigation bar?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Team Members' from the dropdown menu, and a new section with placeholder content will appear below existing webpage content.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Team Members' section option is selected by a mouse click.",
+      "A new section titled 'Team Members' appears below the existing content on the webpage, displaying placeholder images and text for team members."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are involved in editing a team member's name and position within the Team Members section?",
+    "answer": "Click the 'Edit' icon next to the team member's image, then enter the name in the 'ITEM NAME' field and the position in the 'ITEM SUBTITLE' field within the sidebar TEAM MEMBERS settings.",
+    "keypoints": [
+      "The user clicks on the 'Edit' icon next to the first team member's image within the newly added 'Team Members' section.",
+      "In the sidebar, the user types 'Taylor Quill' into the 'ITEM NAME' field under the 'TEAM MEMBERS' settings.",
+      "The user then selects the 'ITEM SUBTITLE' field and types 'Designer'."
+    ]
+  },
+  {
+    "question": "In Wix, what happens when you drag a team member card to a new position in the Team Members section?",
+    "answer": "Dragging a team member card repositions it within the section, changing its display sequence (e.g., moving 'Kris Ward' makes it appear second in the list).",
+    "keypoints": [
+      "The user drags the 'Kris Ward' team member card from its original position to a new location within the 'Team Members' section.",
+      "After repositioning, the 'Kris Ward' card is now displayed second in the sequence of team members."
+    ]
+  },
+  {
+    "question": "In Wix, how do you apply a red-themed grid layout to the Team Members section?",
+    "answer": "Click the 'SECTION DESIGN' button at the bottom of the sidebar, then scroll through the layout options in the new window and select the red-themed grid layout.",
+    "keypoints": [
+      "The user clicks on the 'SECTION DESIGN' button located at the bottom of the sidebar under the 'TEAM MEMBERS' settings.",
+      "A new window opens with various design layout options for the 'Team Members' section.",
+      "The user scrolls through the available layouts and selects a red-themed grid layout by clicking on it."
+    ]
+  },
+  {
+    "question": "In Wix, what is the process to publish website changes after modifying the Team Members section?",
+    "answer": "Click the 'Publish' button in the top-right corner, confirm the action by clicking 'Publish' in the dialog box, and the website will update to display the new Team Members section.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface.",
+      "A confirmation dialog box appears asking if the user wants to publish the changes made to the website.",
+      "The user confirms by clicking the 'Publish' button within the dialog box.",
+      "The website updates to reflect the newly added 'Team Members' section with the specified design and information."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add a Team Members section using the bottom plus icon?",
+    "answer": "Click the plus icon at the bottom of the screen, select the 'team members section' (highlighted in red in the left sidebar), and choose a layout displaying images and names without descriptions.",
+    "keypoints": [
+      "The user clicks on the 'plus icon' located at the bottom of the screen to add a new section.",
+      "The user selects the 'team members section' from the left sidebar, which is highlighted in red and labeled as 'TEAM MEMBERS.'",
+      "The user clicks on a design option within the team member section, selecting a layout that displays images and names without descriptions."
+    ]
+  },
+  {
+    "question": "In Wix, how do you duplicate a team member card after editing their details?",
+    "answer": "Edit the team member's name and position by clicking the name field, then click the duplicate button to create an identical card displayed side by side.",
+    "keypoints": [
+      "The user edits the text for a team member by clicking on the name field, changing it to 'Taylor Quill' with the position 'Designer.'",
+      "The user duplicates an existing team member card by clicking on the duplicate button, resulting in two identical cards displayed side by side."
+    ]
+  }
+]

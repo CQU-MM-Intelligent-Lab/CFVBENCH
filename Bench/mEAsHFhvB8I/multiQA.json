@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you preview edited animations after applying blend effects?",
+    "answer": "After blending transitions by dragging the triangular icon, click the play button in the center of the timeline to observe the smooth transitions between animation segments during playback.",
+    "keypoints": [
+      "The user drags the triangular icon on the timeline to blend the transition between two animation segments, smoothing out the abrupt changes in the character's movements.",
+      "The user plays back the edited animation by clicking the play button in the center of the timeline, observing the smooth transitions between the blended segments."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the timeline panel and preview specific hand movements?",
+    "answer": "Click the 'Timeline' tab at the bottom of the interface to reveal the panel, then drag the playhead along the timeline to preview how the character's hand movement displays on the canvas.",
+    "keypoints": [
+      "The user clicks on the 'Timeline' tab located at the bottom of the application window, revealing the timeline panel with keyframes and layers.",
+      "The user drags the playhead along the timeline to preview the animation. As the playhead moves, the character's hand movement is displayed on the canvas, showing the recorded motion."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you apply a blend effect using the context menu and adjust its duration?",
+    "answer": "Right-click on the timeline and select 'Blend' from the context menu, then click and drag the triangular icon next to a keyframe to extend the blend duration for smoother transitions.",
+    "keypoints": [
+      "The user right-clicks on a section of the timeline, bringing up a context menu with options such as 'Split', 'Delete', and 'Blend'. The user selects the 'Blend' option from this menu.",
+      "The user clicks and holds the triangular icon next to the keyframe on the timeline, dragging it to extend the blend effect. This action creates a smooth transition between the selected keyframes."
+    ]
+  }
+]

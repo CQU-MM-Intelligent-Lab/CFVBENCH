@@ -1,0 +1,45 @@
+[
+  {
+    "question": "In Wix, how do you add a portfolio section to your website and what template appears?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select the 'Portfolio' option from the left-side menu (highlighted in blue under 'More Sections'). This inserts a portfolio section template in the main editing area with a gallery layout containing placeholder images and text fields labeled 'Gallery', 'Featured Showcase', and 'Paragraph'.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Portfolio' option from the left-side menu, which is highlighted in blue and positioned under the 'More Sections' category.",
+      "A portfolio section template appears on the main editing area, displaying a gallery layout with placeholder images and text fields labeled 'Gallery', 'Featured Showcase', and 'Paragraph'."
+    ]
+  },
+  {
+    "question": "In Wix, what steps replace a placeholder image in the portfolio gallery using site files?",
+    "answer": "Click the 'Site Files' tab in the 'Choose Images' dialog box on the left side of the screen, select the desired image file from the list, and the selected image will automatically replace the placeholder in the gallery layout.",
+    "keypoints": [
+      "The user clicks on the 'Site Files' tab within the 'Choose Images' dialog box, which is located on the left side of the screen.",
+      "The user selects an image file named '5_edited.jpg' from the list displayed in the 'Site Files' section.",
+      "The selected image replaces one of the placeholder images in the gallery layout, updating the visual content of the portfolio section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you initiate gallery media changes, edit text fields, and publish the portfolio section?",
+    "answer": "Click the 'Edit & Replace' button below the media preview in the left sidebar to start changing gallery media, enter desired text into the 'Title' and 'Subtitle' fields in the 'Portfolio' section settings panel, then click the 'Publish' button in the top-right corner to finalize all modifications.",
+    "keypoints": [
+      "The user clicks on the 'Edit & Replace' button located below the media preview in the left sidebar, initiating the process to change the gallery media.",
+      "The user types 'Gallery' into the 'Title' field and 'Featured Showcase' into the 'Subtitle' field within the 'Portfolio' section settings panel.",
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface, finalizing the changes made to the portfolio section."
+    ]
+  },
+  {
+    "question": "In Wix, where is the 'Portfolio' option located when adding a new section?",
+    "answer": "The 'Portfolio' option is found in the left-side menu under the 'More Sections' category, highlighted in blue after clicking the 'Add' button in the top navigation bar.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Portfolio' option from the left-side menu, which is highlighted in blue and positioned under the 'More Sections' category."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after selecting an image from 'Site Files' for the portfolio gallery?",
+    "answer": "The selected image automatically replaces one of the placeholder images in the gallery layout, updating the visual content of the portfolio section.",
+    "keypoints": [
+      "The user selects an image file named '5_edited.jpg' from the list displayed in the 'Site Files' section.",
+      "The selected image replaces one of the placeholder images in the gallery layout, updating the visual content of the portfolio section."
+    ]
+  }
+]

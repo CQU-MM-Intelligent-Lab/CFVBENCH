@@ -1,0 +1,57 @@
+[
+  {
+    "question": "In Wix, how do you add the Chat app to your website starting from the editor's main menu?",
+    "answer": "First, click the 'Manage Apps' menu item in the top navigation bar. Then select 'All Apps' from the dropdown menu, scroll through the app options to find the Chat app, and click the blue 'Add' button next to it.",
+    "keypoints": [
+      "The user clicks on the 'Manage Apps' menu item located in the top navigation bar of the Wix editor interface.",
+      "From the 'Manage Apps' dropdown menu, the 'All Apps' option is selected by a mouse click, revealing a list of available apps.",
+      "In the 'Apps' section, the user scrolls through various app options and selects the 'Chat' app from the list.",
+      "The cursor clicks on the 'Add' button next to the 'Chat' app, which is highlighted in blue within the app selection panel."
+    ]
+  },
+  {
+    "question": "In Wix, what happens immediately after adding the Chat app and how do you customize its appearance?",
+    "answer": "A new chat widget appears at the bottom right of the preview. Click its 'Settings' icon to open the configuration panel, then enter custom text like 'Message Us' in the CHAT TITLE field and 'Ask us any question' in the CHAT MESSAGE field. Finally, click 'Replace' under the IMAGE section to change the default icon.",
+    "keypoints": [
+      "A new chat widget appears on the website preview screen, positioned at the bottom right corner.",
+      "The user clicks on the 'Settings' icon associated with the chat widget, opening a configuration panel on the left side of the screen.",
+      "Within the settings panel, the user types 'Message Us' into the 'CHAT TITLE' text field and 'Ask us any question' into the 'CHAT MESSAGE' text field.",
+      "The user selects an image replacement option for the chat widget's default image by clicking on the 'Replace' button under the 'IMAGE' section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you publish website changes after configuring a new chat widget?",
+    "answer": "Click the 'Publish' button in the top-right corner of the editor. The website preview will then update to display the chat widget with your custom title, message, and design adjustments.",
+    "keypoints": [
+      "After configuring the chat settings, the user clicks on the 'Publish' button located in the top-right corner of the Wix editor interface.",
+      "The website preview updates to display the newly added chat widget with the custom title, message, and design adjustments."
+    ]
+  },
+  {
+    "question": "In Wix, how do you send a test message through the inbox to a specific contact?",
+    "answer": "First, click 'Inbox' in the left sidebar of the dashboard. Select the desired conversation (highlighted in blue), type your message like 'Hello' in the input field, then press the 'Send' button to deliver it.",
+    "keypoints": [
+      "The user clicks on the 'Inbox' menu item located in the left sidebar of the Wix ADI dashboard.",
+      "From the inbox section, the user selects a conversation with the email address 'tutortube@outlook.com', which is highlighted in blue upon selection.",
+      "The user types \"Hello\" into the message input field at the bottom of the chat window and presses the 'Send' button, resulting in the message appearing in the chat history."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify an existing chat widget's greeting message from the dashboard?",
+    "answer": "Navigate to 'Manage Apps' via the left sidebar, select the Chat app from the list, then click the 'Settings' tab. Type the new message (e.g., 'Message us') into the chat message text area to update the prompt.",
+    "keypoints": [
+      "The user navigates to the 'Manage Apps' section by clicking on the 'Manage Apps' link in the left sidebar, revealing a list of available apps.",
+      "The user scrolls through the list of apps and selects the 'Chat' app by clicking on it, which highlights the app's details on the right side of the screen.",
+      "The user clicks on the 'Settings' tab within the chat app configuration panel, opening various customization options for the chat widget.",
+      "The user edits the chat message text by typing \"Message us\" in the designated text area under settings, updating the chat prompt accordingly."
+    ]
+  },
+  {
+    "question": "In Wix, how do you check the live appearance of a chat widget and return to the dashboard?",
+    "answer": "Click the 'Preview' button to see the widget's live appearance. To exit, click the 'Exit' button, which returns you to the main dashboard view.",
+    "keypoints": [
+      "The user previews the chat widget by clicking on the 'Preview' button, displaying how the chat will appear on the live site.",
+      "The user exits the preview mode and returns to the main dashboard by clicking the 'Exit' button, reverting to the original view of the dashboard."
+    ]
+  }
+]

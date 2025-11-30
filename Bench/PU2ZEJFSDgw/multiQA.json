@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Chrome Developer Tools, how do you open the developer tools and what is the first thing displayed?",
+    "answer": "Click the 'Tools' menu in the top-right corner of the application window, select 'Toggle Developer Tools' from the dropdown. The HTML structure (including 'head', 'body', and 'meta tags') is then displayed.",
+    "keypoints": [
+      "The user clicks on the 'Tools' menu item located in the top-right corner of the application window.",
+      "From the 'Tools' dropdown menu, the 'Toggle Developer Tools' option is selected by a mouse click.",
+      "Once the developer tools are toggled, the screen displays an HTML structure with elements like 'head', 'body', and 'meta tags'."
+    ]
+  },
+  {
+    "question": "In Chrome Developer Tools, how can you monitor network activity, analyze performance metrics, and edit source files?",
+    "answer": "Select the 'Network' tab to monitor requests/responses, use the 'Performance' tab to initiate recording sessions for metrics analysis, and access the 'Sources' tab to view/edit application source files.",
+    "keypoints": [
+      "In the 'Sources' tab within the developer tools, the user can view and edit the source files used by the application.",
+      "The user selects the 'Network' tab to monitor network requests and responses made by the application during its operation.",
+      "Within the 'Performance' tab, the user initiates a recording session to analyze the application's performance metrics over time."
+    ]
+  }
+]

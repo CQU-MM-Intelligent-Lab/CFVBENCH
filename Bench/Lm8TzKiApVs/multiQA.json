@@ -1,0 +1,39 @@
+[
+  {
+    "question": "In Wix, how do you add a Sales Lead form section to a webpage and start editing it?",
+    "answer": "First, click the 'Add' button in the top navigation bar. Then, select 'Sales Lead' from the dropdown menu to add the form section. Finally, hover over the new section and click the 'Edit Form' button to begin customization.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website builder interface.",
+      "From the dropdown menu, the 'Sales Lead' section option is selected by a mouse click, adding a new form section to the webpage layout.",
+      "The cursor hovers over the newly added 'Sales Lead' section and clicks on the 'Edit Form' button within the section's settings panel."
+    ]
+  },
+  {
+    "question": "In Wix, after opening a form editor, how do you change the form title and add a dropdown field?",
+    "answer": "Select the 'Title' field and enter your desired text (e.g., 'Get Started Now'). Then, click the 'Add New Field' button at the bottom of the form fields list to open the field type selection menu.",
+    "keypoints": [
+      "In the form editing interface, the user selects the 'Title' field and types 'Get Started Now' into the text input area, updating the title displayed on the form.",
+      "The user clicks on the 'Add New Field' button at the bottom of the form fields list, opening a dropdown menu with various field options."
+    ]
+  },
+  {
+    "question": "In Wix, how do you configure a dropdown field with placeholder text and multiple choices?",
+    "answer": "Select 'Dropdown' from the field type menu to add it. Click the 'Placeholder Text' field and enter default text like 'Choose'. Then, click 'Manage Choices', type each option (e.g., 'Designing', 'Animation') into the input boxes, and press Enter after each to add them.",
+    "keypoints": [
+      "A mouse click selects the 'Dropdown' field type from the dropdown menu, adding a new dropdown selection field to the form.",
+      "The user clicks on the 'Placeholder Text' field for the dropdown and types 'Choose' as the placeholder text, which appears in the dropdown field on the form.",
+      "The user clicks on the 'Manage Choices' option under the dropdown field settings and types 'Designing' into the first choice input box, followed by pressing 'Enter'.",
+      "The user continues to add more choices by typing 'Animation' into the next choice input box and pressing 'Enter', expanding the dropdown options."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to test a form's functionality from submission to returning to the editor?",
+    "answer": "Click the 'Preview' button to view the form. Fill in sample data in all fields (e.g., email and phone number), then click 'Submit' to trigger the confirmation message. Finally, click 'Back to Editor' to exit preview mode.",
+    "keypoints": [
+      "The user previews the form by clicking the 'Preview' button in the top-right corner of the Wix editor, displaying the form as it will appear to users.",
+      "In the preview mode, the user fills out the form fields with sample data such as 'test@gmail.com' for the email and '+977980123456' for the phone number.",
+      "After filling out the form, the user clicks the 'Submit' button at the bottom of the form, triggering a submission confirmation message that reads 'Thanks for submitting!'.",
+      "The user exits the preview mode by clicking the 'Back to Editor' button in the bottom-left corner of the screen, returning to the Wix website builder interface."
+    ]
+  }
+]

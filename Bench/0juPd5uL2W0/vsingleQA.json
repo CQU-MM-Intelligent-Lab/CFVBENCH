@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is the sale price and regular price for the jeans shown?",
+    "answer": "The jeans are on sale for $183.99, down from the regular price of $229.99.",
+    "keypoints": [
+      "A sign indicates that jeans are on sale for $183.99, down from the regular price of $229.99."
+    ]
+  },
+  {
+    "question": "What are the prices for clementines per bag and lettuce per pound at the grocery store?",
+    "answer": "Clementines are priced at $7.99 per bag and lettuce is priced at $2.49 per pound.",
+    "keypoints": [
+      "In a grocery store, clementines are priced at $7.99 per bag and lettuce is priced at $2.49 per pound."
+    ]
+  }
+]

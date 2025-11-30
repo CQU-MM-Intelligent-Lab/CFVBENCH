@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In Wix, how do you add an FAQ section to your page and select its layout?",
+    "answer": "Click the 'Add' button at the top of the editor interface, select 'FAQ' from the dropdown menu, then choose a layout from the options displayed in the left side panel by clicking on it.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located at the top of the Wix website editor interface.",
+      "From the dropdown menu, the 'FAQ' option is selected by a mouse click.",
+      "A new FAQ section appears on the page with various layout options displayed on the left side panel.",
+      "The user selects an FAQ layout from the left side panel by clicking on it."
+    ]
+  },
+  {
+    "question": "In Wix, how do you create the first question-answer pair in a newly added FAQ section?",
+    "answer": "Click the 'Edit' button within the FAQ section, type your question into the 'ITEM NAME' text field, then click the answer field below and type your response.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button within the FAQ section.",
+      "The text field labeled 'ITEM NAME' is clicked, and the user types \"What does TutorTube Focus on?\" into it.",
+      "The user clicks on the text field below the question placeholder and types \"TutorTube focuses on general computing and creative software tutorials.\""
+    ]
+  }
+]

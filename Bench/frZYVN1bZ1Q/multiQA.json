@@ -1,0 +1,57 @@
+[
+  {
+    "question": "In Video Editor Pro, how do you open a video file for editing?",
+    "answer": "Click the 'File' menu in the top-left corner, select the 'Open' option from the dropdown menu, navigate to the target folder in the file explorer window, then double-click the desired video file to load it into the timeline.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Open' option from the dropdown menu, which is the second item listed",
+      "A file explorer window appears, and the user navigates to a folder containing video files",
+      "The user double-clicks on a video file named 'San Francisco Townhouses.mp4', opening it in the editing software"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, how do you create a segment between two specific time points on the timeline?",
+    "answer": "Move the cursor to the desired start point and click to set an in-point, then move the cursor to the end point and click to set an out-point, which creates a segment between those markers.",
+    "keypoints": [
+      "The user moves the cursor over the timeline and clicks to set an in-point at 0:05.234",
+      "The user then moves the cursor further along the timeline and clicks again to set an out-point at 0:07.501",
+      "A segment is created between these two points, with a duration of 2.3 seconds"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, how do you add a new segment at the beginning of the video timeline?",
+    "answer": "Click the plus icon near the timeline to initiate a new segment, set the in-point at the video start (0:00.000), and set the out-point at the desired end time to create the segment.",
+    "keypoints": [
+      "The user clicks on the plus icon located near the timeline to add a new segment at the beginning of the video",
+      "The user sets an in-point at the start of the video and an out-point at 0:04.534",
+      "A third segment is created with a duration of 4.5 seconds"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, how do you delete an existing segment from the timeline?",
+    "answer": "Select the target segment from the segment list on the right side of the screen, then click the trash can icon next to it to remove the segment and update the timeline.",
+    "keypoints": [
+      "The user clicks on the segment list on the right side of the screen and selects the first segment",
+      "The user clicks on the trash can icon next to the selected segment to delete it",
+      "The segment is removed from the list and the timeline updates accordingly"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, how do you initiate the export process after finalizing video segments?",
+    "answer": "Click the export button in the bottom-right corner, configure the export settings and save location in the dialog box, then click the 'Export' button to start processing.",
+    "keypoints": [
+      "The user clicks on the export button located at the bottom-right corner of the screen",
+      "An export dialog box appears, allowing the user to choose export settings and save location",
+      "The user selects the desired export options and clicks the 'Export' button to begin exporting the edited video segments"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, what occurs after starting video export and how do you conclude the process?",
+    "answer": "A progress bar displays during export, a confirmation message appears upon completion, then close the export dialog box and exit the software.",
+    "keypoints": [
+      "The export process begins, and a progress bar is displayed indicating the completion status",
+      "Once the export is complete, a confirmation message appears on the screen",
+      "The user closes the export dialog box and exits the editing software"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "question": "In Wix, how do you add a feedback form section to your webpage?",
+    "answer": "Click the 'Add' button in the top menu bar, select 'Section' from the dropdown, then choose the 'Feedback Form' template from the left sidebar.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Section' option is selected by a mouse click, revealing various section templates.",
+      "The cursor hovers over and selects the 'Feedback Form' section template from the list displayed on the left sidebar."
+    ]
+  },
+  {
+    "question": "In Wix, what fields appear when you add a feedback form section and how do you start modifying its content?",
+    "answer": "The feedback form section displays fields for 'First Name', 'Last Name', 'Email', and 'How can we improve?'. To modify content, click the 'Edit' button within the section.",
+    "keypoints": [
+      "The feedback form section appears on the main editing area of the screen, displaying fields for 'First Name', 'Last Name', 'Email', and 'How can we improve?'.",
+      "The user clicks on the 'Edit' button within the feedback form section to modify its content."
+    ]
+  },
+  {
+    "question": "In Wix, how do you edit the feedback form's content and submit user input?",
+    "answer": "After clicking 'Edit', type your text into the 'How can we improve?' field in the editing panel, then click the 'Send' button at the bottom of the form to submit.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button within the feedback form section to modify its content.",
+      "In the editing panel, the user types 'Improve site colours.' into the text field labeled 'How can we improve?' under the form settings.",
+      "The user clicks on the 'Send' button at the bottom of the feedback form to submit the entered information."
+    ]
+  },
+  {
+    "question": "In Wix, what happens immediately after submitting a feedback form?",
+    "answer": "A confirmation message 'Thanks for submitting!' appears below the 'Send' button.",
+    "keypoints": [
+      "The user clicks on the 'Send' button at the bottom of the feedback form to submit the entered information.",
+      "A confirmation message 'Thanks for submitting!' appears below the 'Send' button after submission."
+    ]
+  },
+  {
+    "question": "In Wix, how do you change the background image of a feedback form section?",
+    "answer": "Click the 'Design' tab in the top menu bar, then select a new design layout from the recommended options in the left sidebar to change the background image.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab in the top menu bar to customize the appearance of the feedback form section.",
+      "The user selects a new design layout from the recommended options shown in the left sidebar, changing the background image of the feedback form section to a laptop and notebook setup."
+    ]
+  },
+  {
+    "question": "In Wix, how do you publish webpage changes after customizing a feedback form section?",
+    "answer": "Click the 'Publish' button in the top-right corner of the editor window to make the updated webpage live.",
+    "keypoints": [
+      "The user selects a new design layout from the recommended options shown in the left sidebar, changing the background image of the feedback form section to a laptop and notebook setup.",
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix editor window to publish the updated webpage."
+    ]
+  },
+  {
+    "question": "In Wix, what appears on the published webpage after updating the feedback form design and publishing changes?",
+    "answer": "The published webpage displays the feedback form with the updated background image and modified text field content.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix editor window to publish the updated webpage.",
+      "The published webpage displays the newly designed feedback form with the updated background image and the modified text field."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What was the global average temperature in 2023 and how did it compare to the 1.5°C threshold?",
+    "answer": "The 2023 global average temperature was 1.48°C, remaining below the 1.5°C threshold by a small margin.",
+    "keypoints": [
+      "The 2023 global average temperature was 1.48°C, remaining below the 1.5°C threshold by a small margin."
+    ]
+  },
+  {
+    "question": "What condition would prevent the 2024 global average temperature from exceeding the 1.5°C threshold?",
+    "answer": "Two consecutive months with near-zero temperature anomalies would prevent the 2024 global average temperature from exceeding the 1.5°C threshold.",
+    "keypoints": [
+      "Preventing the 2024 global average temperature from exceeding 1.5°C would require two consecutive months with near-zero temperature anomalies."
+    ]
+  },
+  {
+    "question": "By how much is the 2024 global average temperature expected to surpass the 1.5°C threshold?",
+    "answer": "The 2024 global average temperature is expected to exceed the 1.5°C threshold by more than 0.1°C.",
+    "keypoints": [
+      "The 2024 global average temperature is expected to exceed the 1.5°C threshold by more than 0.1°C."
+    ]
+  },
+  {
+    "question": "How is the frequency of annual global average temperatures exceeding the 1.5°C threshold projected to change?",
+    "answer": "Annual global average temperature exceedances of the 1.5°C threshold are projected to occur more frequently.",
+    "keypoints": [
+      "Annual global average temperature exceedances of the 1.5°C threshold are projected to occur more frequently."
+    ]
+  },
+  {
+    "question": "Within what timeframe will every year have a global average temperature above the 1.5°C threshold?",
+    "answer": "Within the next 5 to 10 years, every single year is projected to have a global average temperature above the 1.5°C threshold.",
+    "keypoints": [
+      "Within the next 5 to 10 years, every single year is projected to have a global average temperature above the 1.5°C threshold."
+    ]
+  }
+]

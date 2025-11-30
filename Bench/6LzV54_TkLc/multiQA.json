@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the Copy command after opening the File menu?",
+    "answer": "First, click the 'File' menu in the top-left corner, then navigate to the 'Edit' dropdown menu and select the third option labeled 'Copy'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'Edit' dropdown menu, the 'Copy' option, which is the third item, is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what action follows entering credentials in the Login dialog when adjusting tool properties?",
+    "answer": "After entering an email address in the 'Email Address' field of the 'Login' dialog box, adjust the brush size by dragging the 'Brush Size' slider to the right in the 'Tools' panel.",
+    "keypoints": [
+      "In the 'Login' dialog box, the user types 'testuser@example.com' into the text field labeled 'Email Address'.",
+      "The cursor drags the 'Brush Size' slider within the 'Tools' panel to the right, increasing the displayed value from '10px' to '25px'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable Feature X after interacting with the Background Layer?",
+    "answer": "Right-click the 'Background Layer' in the 'Layers' panel to open the context menu, then navigate to the 'Settings' window and select the checkbox beside 'Enable Feature X'.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'Background Layer' in the 'Layers' panel, causing a context menu to appear.",
+      "The user selects the 'checkbox' next to the 'Enable Feature X' label within the 'Settings' window."
+    ]
+  }
+]

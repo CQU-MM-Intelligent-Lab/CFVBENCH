@@ -1,0 +1,58 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a trigger for the 'right profile' layer?",
+    "answer": "Select the 'right profile' layer in the 'Properties' panel, right-click on it, and choose 'Create Trigger' from the context menu. This adds a new trigger named 'right profile' to the 'Triggers' section.",
+    "keypoints": [
+      "The cursor selects the 'right profile' layer from the list in the 'Properties' panel, highlighting it with a blue outline.",
+      "The user right-clicks on the 'right profile' layer and selects the 'Create Trigger' option from the context menu.",
+      "A new trigger named 'right profile' appears in the 'Triggers' section of the interface."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when you press the 'd' and 'a' keys after creating head turn triggers?",
+    "answer": "Pressing 'd' turns the character's head to the right profile view, while pressing 'a' turns it to the left profile view.",
+    "keypoints": [
+      "The user presses the 'd' key on the keyboard, causing the character's head to turn to the right profile view.",
+      "The user then presses the 'a' key, turning the character's head to the left profile view."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable and test latching for the 'left profile' trigger during recording?",
+    "answer": "Check the 'Latch' checkbox next to the 'left profile' trigger in the 'Triggers' section, then click the 'Record' button. Pressing 'a' keeps the character in left profile view until you uncheck 'Latch' and press 'a' again to return to the default view.",
+    "keypoints": [
+      "The user checks the 'Latch' checkbox next to the 'left profile' trigger in the 'Triggers' section.",
+      "The user clicks on the 'Record' button in the toolbar, initiating the recording mode.",
+      "The user presses the 'a' key again, and the character remains in the left profile view due to the latch setting.",
+      "The user unchecks the 'Latch' checkbox for the 'left profile' trigger.",
+      "The user presses the 'a' key once more, and the character returns to the default frontal view."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you assign keyboard keys to head turn triggers using the Puppet Track Behaviors?",
+    "answer": "After selecting 'Head Turner [head]' in Puppet Track Behaviors, drag 'frontal/head/left profile' and 'right profile' layers to the 'Triggers' section. Then click the 'Triggers' section and press 'S' for frontal, 'A' for left profile, and 'D' for right profile.",
+    "keypoints": [
+      "The user selects the 'Head Turner [head]' option from the right-side panel under 'Puppet Track Behaviors'.",
+      "The user drags the layers named 'frontal/head/left profile' and 'right profile' directly onto the 'Triggers' section on the left side of the screen.",
+      "The user assigns keys to the triggers by clicking on the 'Triggers' section on the left side and pressing the corresponding keys: 'S' for frontal, 'A' for left profile, and 'D' for right profile."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the effect of enabling 'Latch' for multiple triggers during recording?",
+    "answer": "When 'Latch' is enabled for triggers like 'left profile' and 'right profile', pressing 'A' keeps the character in left view and pressing 'D' keeps it in right view. Releasing the keys returns the head to frontal view.",
+    "keypoints": [
+      "The user enables the 'Latch' checkbox next to the 'left profile' and 'right profile' triggers within the 'Triggers' section.",
+      "The user presses the 'Record' button at the bottom of the screen to begin recording the character's movements.",
+      "The user presses the 'A' key, causing the character's head to turn left and remain in that position due to the latch setting.",
+      "The user presses the 'D' key, causing the character's head to turn right and remain in that position due to the latch setting.",
+      "The user releases the 'A' or 'D' key, and the character's head returns to the default frontal position as expected with the latch setting enabled."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you verify trigger functionality after assigning keys?",
+    "answer": "Observe color changes in trigger icons to confirm latch status, then use assigned keys (like arrow keys) to test head movement responses.",
+    "keypoints": [
+      "The user observes the color changes in the trigger icons indicating whether they are latched or not.",
+      "The user uses arrow keys to control the character's head movement, demonstrating the functionality of assigned triggers."
+    ]
+  }
+]

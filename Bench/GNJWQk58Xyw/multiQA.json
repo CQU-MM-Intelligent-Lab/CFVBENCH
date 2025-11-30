@@ -1,0 +1,34 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you switch to scene editing mode and select the 'Foreground' layer?",
+    "answer": "Click the 'Scene' tab at the top of the application window to enter scene editing mode, then select the 'Foreground' layer from the project panel on the left side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the application window, switching to the scene editing mode.",
+      "The user selects the 'Foreground' layer from the project panel on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you adjust the scale of the 'Foreground' layer and add a transform behavior to 'Layer 3'?",
+    "answer": "Adjust the 'Foreground' layer's scale using the 'Scale' slider in the properties panel on the right, then add a transform behavior to 'Layer 3' by clicking the 'Add Behavior' button in the properties panel and selecting 'Transform' from the dropdown menu.",
+    "keypoints": [
+      "The user adjusts the scale of the 'Foreground' layer using the 'Scale' slider in the properties panel on the right, increasing its size visibly on the canvas.",
+      "The user adds a transform behavior to the 'Layer 3' object by clicking on the 'Add Behavior' button within the properties panel and selecting 'Transform' from the dropdown menu."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the 'Scene - Foreground' timeline and preview final adjustments?",
+    "answer": "Click the 'Scene - Foreground' tab at the top of the timeline panel, then drag the playhead to the end to display the final position and scale adjustments.",
+    "keypoints": [
+      "The user clicks on the 'Scene - Foreground' tab located at the top of the timeline panel in the Adobe Character Animator interface.",
+      "The user drags the playhead along the timeline to the end, causing the animation preview to show the final position and scale adjustments for the tree layer."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you adjust vertical positioning and preview animation changes for a layer?",
+    "answer": "Modify the 'Position Y' value in the properties panel to adjust vertical placement, then click the play button in the timeline control bar to preview the animation with updated values.",
+    "keypoints": [
+      "The user adjusts the 'Position Y' value from 392 to 42, lifting the tree layer upwards in the scene.",
+      "The user clicks the play button in the timeline control bar, initiating a playback of the animation with the adjusted position and scale values."
+    ]
+  }
+]

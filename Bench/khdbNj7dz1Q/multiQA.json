@@ -1,0 +1,34 @@
+[
+  {
+    "question": "In Wix, how do you initiate the process of adding a video background to a website section?",
+    "answer": "First, click the 'Design' tab in the top menu bar. Then, select the 'Video' option from the media settings panel on the left side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab located in the top menu bar of the Wix website editor interface.",
+      "The user selects the 'Video' option from the media settings panel on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Wix, how do you verify the background video playback before finalizing changes?",
+    "answer": "Click the 'Preview' button at the top right corner to see the video playing seamlessly in the background. To resume editing, click the 'Edit Site' button in the bottom left corner.",
+    "keypoints": [
+      "The user previews the website by clicking the 'Preview' button at the top right corner, showing the video playing seamlessly in the background.",
+      "The user navigates back to the design mode by clicking the 'Edit Site' button in the bottom left corner."
+    ]
+  },
+  {
+    "question": "In Wix, what steps finalize a background video configuration and make it live?",
+    "answer": "Set the scroll effect to 'None' in the media settings panel, save changes by clicking the 'Save' button at the top center, then publish using the 'Publish' button at the top right corner.",
+    "keypoints": [
+      "The user changes the scroll effect setting to 'None' within the media settings panel.",
+      "The user saves the changes by clicking the 'Save' button at the top center of the screen.",
+      "The user publishes the website by clicking the 'Publish' button at the top right corner."
+    ]
+  },
+  {
+    "question": "In Wix, where do you locate controls to disable scrolling effects for a background video?",
+    "answer": "The scroll effect setting is found in the media settings panel on the left side of the editor interface, where you can set it to 'None'.",
+    "keypoints": [
+      "The user changes the scroll effect setting to 'None' within the media settings panel."
+    ]
+  }
+]

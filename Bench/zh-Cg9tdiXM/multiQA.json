@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In Wix, how do you edit the header title for the Experience section?",
+    "answer": "Click the 'Edit' button in the top-left corner, select 'Header Title' from the 'Design' dropdown menu, then type your desired text into the 'Header Title' text field within the 'Experience' section.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located in the top-left corner of the application window.",
+      "From the 'Design' dropdown menu, the 'Header Title' option is selected by a mouse click.",
+      "In the 'Experience' section, the user types 'Past Experience' into the text field labeled 'Header Title'."
+    ]
+  },
+  {
+    "question": "In Wix, how do you change the subtitle setting and header layout style?",
+    "answer": "Hover and click the 'Subtitle' option in the edit menu to enable it, then scroll through design options in the left-side panel and select a new layout style to update the header's visual appearance.",
+    "keypoints": [
+      "The cursor hovers over the 'Subtitle' option within the edit menu and clicks it, enabling the subtitle feature for the header.",
+      "The user scrolls through various design options in the left-side panel and selects a new layout style from the list, changing the appearance of the header section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you apply a new design template to a section after accessing customization options?",
+    "answer": "Right-click the desired label (e.g., 'Experience') to open its context menu, click the 'Design' tab at the top of the screen to view templates, then select a specific template to update the section's visual layout.",
+    "keypoints": [
+      "A right-click action is performed on the 'Experience' label in the menu, causing a context menu to appear with additional customization options.",
+      "The user clicks on the 'Design' tab at the top of the screen, revealing different design templates that can be applied to the current section.",
+      "The user selects a specific design template from the displayed options, which updates the visual layout of the webpage accordingly."
+    ]
+  }
+]

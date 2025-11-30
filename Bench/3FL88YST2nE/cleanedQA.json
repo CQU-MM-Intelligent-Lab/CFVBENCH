@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What method did researchers at Eötvös Loránd University use to measure brain activity in dogs during their study on word comprehension, and what key difference in neural patterns was observed between matching and mismatching conditions?",
+    "answer": "Researchers attached electrodes to the dogs' heads to monitor brain activity, with results displayed on a monitor showing fluctuating lines. They observed distinct brain activity patterns when the spoken word matched the presented object compared to when it did not match.",
+    "keypoints": {
+      "video": [
+        "A black and white dog with electrodes attached to its head is lying on a blanket in a room with green walls.",
+        "A monitor displays fluctuating lines, likely representing data collected from the dog's brain activity."
+      ],
+      "text": [
+        "The results showed different brain activity patterns in dogs when the spoken word matched the object compared to when it did not match."
+      ]
+    }
+  },
+  {
+    "question": "How were the experimental conditions labeled during the dog cognition study when owners presented objects, and what critical finding emerged from comparing these conditions?",
+    "answer": "Conditions were labeled as 'Match condition' when owners presented an object matching the spoken word and 'Mismatch condition' when presenting a mismatched object. The comparison revealed that dogs exhibit different brain activity patterns depending on whether words and objects correspond, demonstrating their referential understanding of language.",
+    "keypoints": {
+      "video": [
+        "The words 'Match condition' and 'Mismatch condition' appear on screen during different segments of the video."
+      ],
+      "text": [
+        "Owners sometimes presented an object matching the spoken word and sometimes presented a mismatched object.",
+        "The results showed different brain activity patterns in dogs when the spoken word matched the object compared to when it did not match.",
+        "This finding addresses a long debate about non-human animals' ability to understand words referentially."
+      ]
+    }
+  }
+]

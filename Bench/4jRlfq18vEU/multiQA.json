@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In LosslessCut, where is the 'Export' button located and what format selection causes an export error?",
+    "answer": "The 'Export' button is located in the bottom right corner of the interface. Selecting the 'mov - QuickTime file format' from the dropdown menu in the export settings window triggers an 'Unable to export this file' error notification.",
+    "keypoints": [
+      "The user clicks on the 'Export' button located at the bottom right corner of the video editing software interface.",
+      "The user selects the 'mov - QuickTime file format' option from the dropdown menu in the export settings window, which is displayed above the video preview area.",
+      "A notification appears stating \"Unable to export this file\" with a list of troubleshooting steps below it, indicating that the selected format is not supported for direct export without re-encoding."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what steps follow a successful export to locate and play the output file?",
+    "answer": "After successful export, click the 'Open folder' button in the confirmation dialog to launch Windows File Explorer showing the saved file. Double-click the exported MP4 file (e.g., 'San Francisco Townhouses-00:00:00.000-00:00:21.672.mp4') to open it in your default media player.",
+    "keypoints": [
+      "The user navigates to the folder where the exported file is saved using the Windows File Explorer, which opens after clicking the 'Open folder' button in the export confirmation dialog.",
+      "The user double-clicks on the newly created 'San Francisco Townhouses-00:00:00.000-00:00:21.672.mp4' file in the File Explorer window, opening it in the default media player application."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what is the export workflow when QuickTime format fails, and how is the issue corrected?",
+    "answer": "When exporting fails after selecting QuickTime format (triggering an error notification), correct it by switching to MP4 format in the export settings dropdown. Successful export is confirmed by the absence of error messages.",
+    "keypoints": [
+      "The user selects the 'mov - QuickTime file format' option from the dropdown menu in the export settings window, which is displayed above the video preview area.",
+      "A notification appears stating \"Unable to export this file\" with a list of troubleshooting steps below it, indicating that the selected format is not supported for direct export without re-encoding.",
+      "The user then selects the 'mp4 - MP4 (MPEG-4 Part 14)' option from the same dropdown menu, and the export process proceeds successfully, as indicated by the absence of any error messages."
+    ]
+  }
+]

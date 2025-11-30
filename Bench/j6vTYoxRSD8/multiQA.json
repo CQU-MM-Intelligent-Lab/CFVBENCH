@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you configure walk animation controls and set movement style?",
+    "answer": "Type 'Left & Right Arrow keys' into the 'Mode' text field to configure walk controls. Then, select 'Walk' from the 'Style' dropdown menu. Finally, enable the 'Smooth Transition' checkbox for fluid movement changes.",
+    "keypoints": [
+      "The user types 'Left & Right Arrow keys' into the text field labeled 'Mode' within the properties panel, configuring the walk animation controls.",
+      "The user selects the 'Style' dropdown menu in the properties panel and chooses 'Walk' to set the character's movement style.",
+      "The user clicks on the 'Smooth Transition' checkbox in the properties panel, enabling smoother transitions between movements."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps adjust arm stretchiness and modify elbow bending behavior?",
+    "answer": "Adjust the 'Stretchiness' slider in the 'Properties' panel (e.g., increase from 99%). Then, modify the 'Elbow Strength' setting to alter bending behavior. Finally, select 'Reverse Arm Bend Left' from the 'Puppet Track Behaviors' section to change bend direction.",
+    "keypoints": [
+      "The user adjusts the 'Stretchiness' slider within the 'Properties' panel on the right side of the screen, increasing its value from 99% to demonstrate how the arm's stretch changes accordingly.",
+      "The user modifies the 'Elbow Strength' setting in the 'Properties' panel, changing its value to observe how the arm bends differently based on the specified strength percentage.",
+      "The user selects the 'Reverse Arm Bend Left' option from the 'Puppet Track Behaviors' section in the 'Properties' panel, altering the direction in which the arm bends when manipulated."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you refine arm movement and walking animation parameters?",
+    "answer": "Navigate to properties like 'Auto Arm Bend' and 'Closest Transition' in the 'Properties' panel to fine-tune arm movement. Then, adjust the 'Pose Emphasis Phase' and 'Body Speed' under 'Walk' trigger settings in the 'Triggers' panel to modify walking style.",
+    "keypoints": [
+      "The user navigates through various properties such as 'Auto Arm Bend' and 'Closest Transition' within the 'Properties' panel to fine-tune the arm's movement characteristics.",
+      "The user demonstrates adjusting the 'Pose Emphasis Phase' and 'Body Speed' parameters under the 'Walk' trigger settings in the 'Triggers' panel to modify the animation style of the character."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you apply the 'Dagger' behavior and smooth transitions after arm adjustments?",
+    "answer": "Select 'Dagger' from the dropdown menu under 'Puppet Tool Behaviors' to change arm movement style. Then, adjust the 'Start/Stop Easing' slider in the properties panel to a specific value for smoother transitions.",
+    "keypoints": [
+      "The user selects the 'Dagger' behavior from the dropdown menu under 'Puppet Tool Behaviors', which changes the character's arm movement style.",
+      "The user adjusts the 'Start/Stop Easing' slider in the properties panel, setting it to a specific value for smoother transitions."
+    ]
+  }
+]

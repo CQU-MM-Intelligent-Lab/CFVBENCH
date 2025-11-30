@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In Wix, what are the initial steps to add a new section to a webpage and what visual indicator appears afterward?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Section' from the dropdown menu, and a new section will appear with a plus icon for customization.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "From the dropdown menu, the user selects the 'Section' option by clicking on it.",
+      "A new section is added to the webpage, and a plus icon appears within this section for further customization."
+    ]
+  },
+  {
+    "question": "In Wix, what steps change the visual design of a CV section and what is the outcome?",
+    "answer": "Click 'Customize Section Design' at the bottom of the editing panel, select a layout option, and the CV section will update to reflect the new visual style.",
+    "keypoints": [
+      "The user clicks on the 'Customize Section Design' button located at the bottom of the CV section editing panel.",
+      "The screen transitions to display various design layout options for the CV section, allowing the user to choose different visual styles.",
+      "The user selects a specific layout design from the options presented.",
+      "The CV section updates to reflect the chosen design layout, altering the visual presentation of the CV information."
+    ]
+  }
+]

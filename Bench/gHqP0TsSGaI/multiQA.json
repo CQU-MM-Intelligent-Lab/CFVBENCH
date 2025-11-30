@@ -1,0 +1,53 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a trigger from a recorded timeline action and where does it appear?",
+    "answer": "Right-click on the recorded action highlighted with a blue bar in the timeline, then select 'Create Replay and Trigger' from the context menu. This creates a new trigger named 'Trigger (2)' under the Triggers section in the left panel.",
+    "keypoints": [
+      "The user right-clicks on the recorded action in the timeline, which is highlighted with a blue bar.",
+      "A context menu appears, and the user selects the \"Create Replay and Trigger\" option from the list.",
+      "The screen displays a new trigger named \"Trigger (2)\" under the Triggers section in the left panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps enable motion capture synchronization between your head movements and the character?",
+    "answer": "Click the \"Camera & Microphone\" button at the top-right corner to activate the webcam feed, which appears next to the character preview. Adjust the character's position using this feed to ensure proper alignment, resulting in the character's movements synchronizing with your head movements.",
+    "keypoints": [
+      "The user clicks on the \"Camera & Microphone\" button located at the top-right corner of the application window.",
+      "A webcam feed appears in a small window next to the character preview, showing the user's face.",
+      "The user adjusts the position of the character using the webcam feed, ensuring it aligns correctly with the character's movements.",
+      "The character's movements are synchronized with the user's head movements as seen in the webcam feed."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you initiate recording for both character animations and webcam footage?",
+    "answer": "Click the red \"Record\" button at the bottom center of the application window. This starts recording, capturing the character's animated actions and webcam feed simultaneously.",
+    "keypoints": [
+      "The user clicks the red \"Record\" button located at the bottom center of the application window.",
+      "The recording begins, capturing both the character's animated actions and the webcam feed simultaneously."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what occurs when pressing a trigger key during recording?",
+    "answer": "Pressing a trigger key (e.g., 'w') during recording causes the character to perform its assigned action (like waving its arm) each time the key is pressed, while the webcam captures your corresponding facial expressions.",
+    "keypoints": [
+      "The user presses the letter 'w' on the keyboard multiple times during the recording session.",
+      "The character waves its arm each time the letter 'w' is pressed, while the webcam captures the user's corresponding facial expressions."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you finalize a recording session and what updates in the timeline?",
+    "answer": "Click the \"Stop\" button after completing the recording. The timeline then updates to display the recorded sequence, which includes the character's animations and webcam footage.",
+    "keypoints": [
+      "After completing the recording, the user stops the recording session by clicking the \"Stop\" button.",
+      "The timeline updates to show the recorded sequence, including the character's wave animations and the webcam footage."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how can you review the full recorded sequence in the timeline?",
+    "answer": "Zoom out on the timeline to display all recorded actions and webcam movements aligned chronologically for comprehensive review or editing.",
+    "keypoints": [
+      "The user zooms out on the timeline to review the entire recorded sequence.",
+      "The screen shows all the recorded actions and webcam movements aligned in the timeline for further editing or playback."
+    ]
+  }
+]

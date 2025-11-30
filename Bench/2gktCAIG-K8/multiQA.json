@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Wix Photo Studio, where is the 'Crop & Resize' tool located after opening an image?",
+    "answer": "The 'Crop & Resize' tool is found in the left sidebar menu of the Photo Studio window that appears after selecting an image.",
+    "keypoints": [
+      "A new window titled 'Photo Studio' appears, offering various editing tools such as 'Crop & Resize', 'Enhance', and 'Adjust'.",
+      "The user clicks on the 'Crop & Resize' option from the left sidebar menu within the 'Photo Studio' window."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, what steps are required to adjust an image's visible area using cropping?",
+    "answer": "After selecting 'Crop & Resize', drag the cropping handles around the image to modify its visible portion, then click the 'Save' button at the top-right corner to confirm.",
+    "keypoints": [
+      "The user clicks on the 'Crop & Resize' option from the left sidebar menu within the 'Photo Studio' window.",
+      "The user drags the cropping handles around the image to adjust its dimensions, changing the visible portion of the image.",
+      "After adjusting the crop, the user clicks the 'Save' button at the top-right corner of the 'Photo Studio' window."
+    ]
+  }
+]

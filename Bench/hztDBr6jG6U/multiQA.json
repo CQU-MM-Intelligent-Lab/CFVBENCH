@@ -1,0 +1,29 @@
+[
+  {
+    "question": "In Wix, what steps are required to add a new section to a webpage and where does it appear?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Section' from the dropdown menu, and a new section will appear as a blank area below the existing content.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "A dropdown menu appears, and the user selects the 'Section' option from the list.",
+      "A new section is added to the webpage layout, appearing as a blank area below the existing content."
+    ]
+  },
+  {
+    "question": "In Wix, how do you access customization options for a newly added section and set a background image?",
+    "answer": "Hover over the section and click the 'Edit' button in its toolbar to expand the left-side editing panel, then select and upload an image from the media library to fill the section's background.",
+    "keypoints": [
+      "The user hovers over the newly added section and clicks on the 'Edit' button that appears within the section's toolbar.",
+      "The editing panel on the left side of the screen expands, displaying various customization options for the section.",
+      "The user selects an image from the media library and uploads it into the section, filling the background with a visual representation of a workspace."
+    ]
+  },
+  {
+    "question": "In Wix, what final actions confirm and publish webpage changes including a new section?",
+    "answer": "Click the 'Publish' button in the top-right corner, confirm the action in the dialog box, and the updated webpage will display all changes like the new section with opening hours.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix editor interface.",
+      "A confirmation dialog box appears, prompting the user to confirm the publishing action.",
+      "After confirming, the webpage updates to reflect all the recent changes made by the user, including the new section with the opening hours information."
+    ]
+  }
+]

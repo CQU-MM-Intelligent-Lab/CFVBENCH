@@ -1,0 +1,81 @@
+[
+  {
+    "question": "What were the respective prices of the Ford F-150 Lightning and conventional Ford F-150 in early 2024, and why did Ford reduce production of the Lightning model?",
+    "answer": "The Ford F-150 Lightning was priced at $49,995 and the conventional Ford F-150 at $41,530. Ford reduced production due to softening demand for electric vehicles.",
+    "keypoints": {
+      "video": [
+        "Prices for the Ford F-150 Lightning and a conventional Ford F-150 are $49,995 and $41,530 respectively.",
+        "Ford cut F-150 Lightning production as EV demand softened in January 2024, according to Reuters."
+      ],
+      "text": [
+        "Ford Motors reduced production of its F-150 Lightning electric pickup truck in 2024 due to lower than expected sales."
+      ]
+    }
+  },
+  {
+    "question": "Why did Virginia Governor Glenn Youngkin cancel the Ford battery plant deal, and what ownership structure did Ford CEO Jim Farley specify for the proposed facility?",
+    "answer": "Governor Youngkin canceled the deal over concerns about its links to China. Ford CEO Jim Farley stated the plant would be a wholly owned subsidiary of Ford.",
+    "keypoints": {
+      "video": [
+        "Virginia Governor Glenn Youngkin canceled a Ford battery plant deal over concerns about its links to China.",
+        "Jim Farley, CEO of Ford Motor Company, discussed the CATL battery plant deal on CNBC."
+      ],
+      "text": [
+        "Virginia's governor rejected the battery plant proposal in his state because of its links to China.",
+        "Ford CEO stated the proposed battery plant would be a wholly owned subsidiary of Ford."
+      ]
+    }
+  },
+  {
+    "question": "What amount of financial support did the Chinese government provide to its EV industry from 2009 to 2022, and what global market share did China achieve in electric vehicle sales by April 2024?",
+    "answer": "The Chinese government provided over $29 billion in subsidies, R&D spending, and tax breaks. By April 2024, China's electric vehicle sales surpassed 50% of the global market share.",
+    "keypoints": {
+      "video": [
+        "From 2009 to 2022, the Chinese government provided over $29 billion in subsidies, R&D spending, and tax breaks to support its EV automakers.",
+        "China's electric vehicle sales surpassed 50% of the global market share in April 2024, according to CarNewsChina.com."
+      ],
+      "text": [
+        "From 2009 to 2022, the Chinese government gave $29 billion in subsidies, research spending, and tax breaks to the EV industry.",
+        "China's electric vehicles constitute over half of all global EV sales."
+      ]
+    }
+  },
+  {
+    "question": "What percentages of global refining and battery component manufacturing did Chinese firms control for cobalt and graphite in 2024, and what strategy secured their mineral supplies?",
+    "answer": "Chinese firms controlled 70% of cobalt refining and 92% of graphite refining, while manufacturing 70% of cathode materials and 92% of anode materials. They secured supplies by acquiring ownership stakes in mines globally.",
+    "keypoints": {
+      "video": [
+        "In the global critical minerals outlook for 2024, Chinese firms control significant portions of lithium refining at 38%, cobalt refining at 70%, nickel refining at 60%, graphite refining at 92%, and manganese refining at 78%.",
+        "The video highlights that China has a dominant position in battery component manufacturing with 92% control over anode graphite, 70% over cathode materials including nickel, cobalt, and manganese, and 78% over electrolyte lithium."
+      ],
+      "text": [
+        "Chinese companies acquired ownership stakes in mines globally to control mineral supplies like nickel, cobalt, manganese, graphite, and lithium."
+      ]
+    }
+  },
+  {
+    "question": "What are the key technical features of CATL's Shenxing PLUS and BYD's Blade Battery, and what market characteristic defines LFP battery production?",
+    "answer": "CATL's Shenxing PLUS offers over 1,000 km driving range and 4C superfast charging. BYD's Blade Battery uses a stacked structure with lithium iron phosphate cells for thermal stability. LFP batteries represent a growing market share with nearly all manufactured in China.",
+    "keypoints": {
+      "video": [
+        "CATL has introduced the Shenxing PLUS, the world's first LFP battery with a driving range exceeding 1,000 km and 4C superfast charging capability.",
+        "BYD's Blade Battery features a stacked structure and lithium iron phosphate cells for enhanced thermal stability."
+      ],
+      "text": [
+        "LFP batteries represent a growing share of all EV batteries, with nearly all manufactured in China."
+      ]
+    }
+  },
+  {
+    "question": "What percentage of electric vehicle models qualified for U.S. tax credits under Biden's regulations, and what specific sourcing restriction caused this outcome?",
+    "answer": "Only around 20% of electric vehicle models qualified for tax credits. The outcome resulted from restrictions limiting Chinese-sourced battery components or minerals to 50% of content.",
+    "keypoints": {
+      "video": [
+        "The regulations have left only around 20 percent of electric vehicle models qualifying for the lucrative incentive under Biden's final EV tax credit rules."
+      ],
+      "text": [
+        "A Biden administration rule limiting Chinese-sourced battery components or minerals to 50% for tax credits resulted in only an estimated 20% of EV models qualifying."
+      ]
+    }
+  }
+]

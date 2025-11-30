@@ -1,0 +1,61 @@
+[
+  {
+    "question": "In the application, how do you access the export options?",
+    "answer": "Click the 'File' menu in the top-left corner, then select the 'Export' option (the fourth item) from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Export' option from the dropdown menu, which is the fourth item listed"
+    ]
+  },
+  {
+    "question": "In the application, after selecting 'Export', what setting must be enabled to include audio in the exported file?",
+    "answer": "In the export dialog box, check the box next to 'Keep audio' to ensure audio is included in the exported file.",
+    "keypoints": [
+      "The user selects the 'Export' option from the dropdown menu, which is the fourth item listed",
+      "A dialog box appears with options to select tracks for export; the user checks the box next to 'Keep audio'"
+    ]
+  },
+  {
+    "question": "In the application, what confirmation appears after successfully exporting a file with audio?",
+    "answer": "A confirmation message displays indicating the file has been exported successfully with audio included.",
+    "keypoints": [
+      "A dialog box appears with options to select tracks for export; the user checks the box next to 'Keep audio'",
+      "The screen displays a confirmation message indicating that the file has been exported successfully with audio included"
+    ]
+  },
+  {
+    "question": "In the application, how do you configure the system to exclude audio during export and what immediate feedback is provided?",
+    "answer": "Navigate to the 'Tracks' section and click the checkbox next to 'Discard audio'. The interface immediately updates to show the audio track as excluded.",
+    "keypoints": [
+      "The user navigates to the 'Tracks' section and clicks on the checkbox next to 'Discard audio'",
+      "The interface updates to show the audio track as excluded from the export process"
+    ]
+  },
+  {
+    "question": "In the application, after setting audio to be discarded, how do you verify the exported file contains no audio?",
+    "answer": "Click 'Export' again, then check in the file explorer to confirm the new exported file has no audio.",
+    "keypoints": [
+      "The user navigates to the 'Tracks' section and clicks on the checkbox next to 'Discard audio'",
+      "After clicking 'Export' again, the user verifies in the file explorer that the new exported file does not contain audio"
+    ]
+  },
+  {
+    "question": "In the application, what is the full process to export a file with audio included?",
+    "answer": "Click the 'File' menu, select 'Export', check 'Keep audio' in the dialog box, and await the confirmation message indicating successful export with audio.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Export' option from the dropdown menu, which is the fourth item listed",
+      "A dialog box appears with options to select tracks for export; the user checks the box next to 'Keep audio'",
+      "The screen displays a confirmation message indicating that the file has been exported successfully with audio included"
+    ]
+  },
+  {
+    "question": "In the application, how do you change the audio export setting and confirm its effect on the output file?",
+    "answer": "Navigate to 'Tracks' and check 'Discard audio' (which the interface updates to show exclusion). Then click 'Export' again and verify in the file explorer that the exported file lacks audio.",
+    "keypoints": [
+      "The user navigates to the 'Tracks' section and clicks on the checkbox next to 'Discard audio'",
+      "The interface updates to show the audio track as excluded from the export process",
+      "After clicking 'Export' again, the user verifies in the file explorer that the new exported file does not contain audio"
+    ]
+  }
+]

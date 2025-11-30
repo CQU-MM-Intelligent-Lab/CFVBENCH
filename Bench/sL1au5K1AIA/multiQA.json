@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Wix, how do you add a product slider to your website's main editing area?",
+    "answer": "First, click the 'Add' menu at the top of the editor. Then, select 'Product Slider' from the left-side panel under 'MORE SECTIONS'. Finally, drag the 'Product Slider' section onto the main editing area to display product placeholders.",
+    "keypoints": [
+      "The user clicks on the 'Add' menu item located at the top of the Wix website editor interface.",
+      "The user selects the 'Product Slider' option from the left-side panel, which is highlighted in blue text and positioned under the 'MORE SECTIONS' category.",
+      "The user drags the 'Product Slider' section onto the main editing area, resulting in the appearance of a new section with product placeholders that match those previously set up in the product gallery."
+    ]
+  },
+  {
+    "question": "In Wix, how can you preview a product slider immediately after adding it to the editing area?",
+    "answer": "After adding the product slider to the editing area, click the 'Preview' button at the top-right corner to enter preview mode, where the slider becomes functional for product navigation.",
+    "keypoints": [
+      "The user drags the 'Product Slider' section onto the main editing area, resulting in the appearance of a new section with product placeholders that match those previously set up in the product gallery.",
+      "The user clicks on the 'Preview' button located at the top-right corner of the Wix editor, leading to a preview mode where the product slider is displayed as a functional slider allowing users to navigate through products."
+    ]
+  }
+]

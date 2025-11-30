@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In Wix Photo Studio, how do I apply a color background to an image and adjust its transparency?",
+    "answer": "First, click the 'Background' option in the left sidebar. Then, in the 'Backgrounds' tab, select a color from the 'Colors' section grid. The chosen color will overlay the image, and a transparency slider will appear. Drag the slider to the right to increase transparency and blend the background with the original image.",
+    "keypoints": [
+      "The user clicks on the 'Background' option located in the left sidebar of the Photo Studio interface.",
+      "The user selects a color from the 'Colors' section within the 'Backgrounds' tab, which is displayed as a grid of color swatches.",
+      "The screen displays the selected color as an overlay on the image, with a transparency slider appearing below to adjust the opacity level.",
+      "The user drags the transparency slider to the right, increasing the transparency level and blending the background color with the original image."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, what steps are required to set an image as a background and customize its placement?",
+    "answer": "Navigate to the 'Backgrounds' section and click the 'Images' tab to reveal the thumbnail grid. Scroll through the gallery and click your chosen image to apply it as an overlay. Then, use the handles around the edges of the overlaid image to adjust its size and position.",
+    "keypoints": [
+      "The user clicks on the 'Images' tab within the 'Backgrounds' section, revealing a gallery of image thumbnails.",
+      "The user scrolls through the image gallery and selects an image by clicking on it, which then appears as a background overlay on the main image.",
+      "The user adjusts the position and size of the overlaid image using the handles around its edges."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, how do you apply a textured background and control its visibility?",
+    "answer": "Go to the 'Backgrounds' section and select the 'Textures' tab to view available textures. Click your desired texture to apply it as an overlay. Then, use the transparency slider to adjust the overlay's visibility and blend it with the original image.",
+    "keypoints": [
+      "The user clicks on the 'Textures' tab within the 'Backgrounds' section, displaying various texture options.",
+      "The user selects a texture by clicking on it, applying the chosen texture as a background overlay on the image.",
+      "The user uses the transparency slider to adjust the visibility of the texture overlay, blending it with the original image."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, what is the process for applying a stage background design to an image?",
+    "answer": "Access the 'Backgrounds' section and click the 'Stages' tab to view stage-like options. Select a stage background by clicking on it, which will immediately overlay the image with the chosen design.",
+    "keypoints": [
+      "The user clicks on the 'Stages' tab within the 'Backgrounds' section, showing different stage-like backgrounds.",
+      "The user selects a stage background by clicking on it, which overlays the image with the chosen stage design."
+    ]
+  }
+]

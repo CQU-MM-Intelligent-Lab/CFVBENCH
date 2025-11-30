@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What were the performance changes for the Dow Industrials, S&P 500, and NASDAQ as shown on the U.S. Markets display?",
+    "answer": "The Dow Industrials increased by 0.50%, the S&P 500 decreased by 0.50%, and the NASDAQ decreased by 1.28%.",
+    "keypoints": [
+      "The U.S. Markets display shows the Dow Industrials up 0.50%, S&P 500 down 0.50%, and NASDAQ down 1.28%."
+    ]
+  },
+  {
+    "question": "What is the primary function of Azure AI Studio?",
+    "answer": "Azure AI Studio is a comprehensive platform for developing and deploying generative AI applications responsibly.",
+    "keypoints": [
+      "Azure AI Studio is described as a comprehensive platform for developing and deploying generative AI apps responsibly."
+    ]
+  },
+  {
+    "question": "What was NVIDIA's stock price and percentage change?",
+    "answer": "NVIDIA's stock price was $103.73, down 7.04%.",
+    "keypoints": [
+      "NVIDIA's stock price is listed as $103.73, down 7.04%."
+    ]
+  }
+]

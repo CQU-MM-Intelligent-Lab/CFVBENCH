@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the projected global air conditioner supply by 2050 according to the International Energy Agency, and what key consequence will this growth trigger?",
+    "answer": "The global air conditioner supply is projected to reach 5.6 billion units by 2050, which will increase electricity consumption and emissions contributing to planetary warming.",
+    "keypoints": {
+      "video": [
+        "Global air conditioner supply reached 5.6 billion units by 2050, according to data from the International Energy Agency, with major contributions from India, China, and the United States."
+      ],
+      "text": [
+        "Increased air conditioning use will raise electricity consumption and emissions contributing to planetary warming."
+      ]
+    }
+  },
+  {
+    "question": "Why do almost two-thirds of U.S. homes rely on fossil fuels for heating, based on dominant energy sources in the residential sector?",
+    "answer": "Almost two-thirds of U.S. homes use fossil fuels for heating because natural gas holds the largest market share, followed by propane and oil—all fossil-based sources—while electricity and non-fossil alternatives trail behind.",
+    "keypoints": {
+      "video": [
+        "Natural gas holds the largest share in the U.S. home heating fuel market, followed by electricity, propane, oil, wood, and other sources, based on 2015 data from the US Energy Information Administration."
+      ],
+      "text": [
+        "In the US, almost two-thirds of homes use furnaces or boilers burning fossil fuels like gas, fuel oil, or propane for heating."
+      ]
+    }
+  }
+]

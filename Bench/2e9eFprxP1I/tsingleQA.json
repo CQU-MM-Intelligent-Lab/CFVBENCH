@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What potential consequences of AI misuse did Sam Stockwell of the Alan Turing Institute warn about?",
+    "answer": "Sam Stockwell warned that AI misuse could erode trust in governments and information sources, deepen political polarization, and consolidate echo chambers.",
+    "keypoints": [
+      "Sam Stockwell warned that AI misuse could erode trust in governments and information sources, deepen political polarization, and consolidate echo chambers."
+    ]
+  },
+  {
+    "question": "What risk for election meddling did Oxford Professor Sandra Wachter associate with algorithmic content curation?",
+    "answer": "Sandra Wachter noted algorithms curate online content for voters without their awareness, creating a risk for election meddling.",
+    "keypoints": [
+      "Sandra Wachter noted algorithms curate online content for voters without their awareness, creating a risk for election meddling."
+    ]
+  },
+  {
+    "question": "What actions have major social media platforms taken against deepfakes, and what is the enforcement status?",
+    "answer": "Major social media platforms like Facebook, X, and YouTube have implemented bans and removals of deepfakes, but enforcement is patchy.",
+    "keypoints": [
+      "Major social media platforms like Facebook, X, and YouTube have implemented bans and removals of deepfakes, but enforcement is patchy."
+    ]
+  }
+]

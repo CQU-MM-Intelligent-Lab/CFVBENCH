@@ -1,0 +1,46 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you make a green circle draggable and set its return duration to 0.2 seconds?",
+    "answer": "First, click the 'Dragger' option in the properties panel on the right side of the screen. Then select the green circle on the canvas near the center. After dragging it to confirm draggable behavior, adjust the 'Return Duration' setting in the 'Dragger' behavior options to 0.2 seconds.",
+    "keypoints": [
+      "The user clicks on the 'Dragger' option located in the properties panel on the right side of the screen.",
+      "The user selects the green circle object from the canvas area, which is positioned near the center of the workspace.",
+      "The cursor drags the selected green circle object across the canvas, demonstrating its draggable behavior.",
+      "The user adjusts the 'Return Duration' setting within the 'Dragger' behavior options to 0.2 seconds, changing the value from its default."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens after initiating recording mode to capture draggable circle interactions?",
+    "answer": "After clicking the 'Record' button at the top of the application, moving the mouse cursor over the canvas and interacting with colored circles causes them to move dynamically based on physics settings, allowing real-time animation capture.",
+    "keypoints": [
+      "The user clicks on the 'Record' button at the top of the application window, initiating the recording mode for the animation.",
+      "The user moves the mouse cursor over the canvas and interacts with the various colored circles, causing them to move dynamically according to the physics engine settings."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you apply draggable behavior to multiple objects like blue and yellow circles?",
+    "answer": "Select each additional object (e.g., blue and yellow circles) from the canvas individually, then apply the 'Dragger' behavior to each one. This enables all objects to be moved independently with realistic physical interactions during playback.",
+    "keypoints": [
+      "The user selects additional objects such as the blue and yellow circles from the canvas and applies the 'Dragger' behavior to each one individually.",
+      "The user observes the interactive movement of all the circles on the canvas, verifying that they can be moved independently while maintaining realistic physical interactions."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where is the 'Dragger Modifier' located to make a selected circle draggable during playback?",
+    "answer": "The 'Dragger Modifier' option is found in the modifier panel on the right side of the interface. After selecting a green circle from the canvas, clicking this option makes it draggable during playback.",
+    "keypoints": [
+      "The user selects the green circle shape from the canvas area, which is located in the center of the screen.",
+      "The user clicks on the 'Dragger Modifier' option found within the modifier panel on the right side of the interface.",
+      "The selected green circle becomes draggable as indicated by the change in its behavior when interacted with during playback."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you disable return animation for draggable objects and apply the behavior to additional elements?",
+    "answer": "Adjust the 'Return to Rest' setting to 0 seconds in the dragger properties panel. Then apply the draggable behavior to other objects by selecting each one and clicking the 'Dragger Modifier'. This allows individual manipulation during playback without keyframes.",
+    "keypoints": [
+      "The user adjusts the 'Return to Rest' setting within the dragger object properties panel, changing the value from 0.2 seconds to 0 seconds.",
+      "The user applies the draggable behavior to additional objects by selecting each one and clicking on the 'Dragger Modifier' option in the same manner as before.",
+      "All selected objects now exhibit draggable behavior, allowing individual manipulation during playback without needing keyframes for each movement."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How does the U.S. government's 2050 target for permanent carbon dioxide removal compare to the global requirement for limiting warming to 1.5°C, and what is the current global capacity?",
+    "answer": "The U.S. targets 500 million metric tons of CO2 removal annually by 2050, while the global requirement is 3.8 billion tons to limit warming to 1.5°C. Current global capacity is only 2 million tons per year.",
+    "keypoints": {
+      "video": [
+        "In 2050, the US aims for a permanent CDR capacity of 500 million tonnes per year as part of its long-term strategy.",
+        "Global permanent CDR targets by 2050 are set at 3.8 billion tonnes per year according to the Carbon Removal Alliance/IPCC.",
+        "The actual global permanent CDR currently stands at 2 million tonnes per year."
+      ],
+      "text": [
+        "Modeling scenarios limiting warming to 1.5 degrees Celsius require around 3.8 billion tons of permanent carbon removal globally.",
+        "The U.S. government's net zero plan targets 500 million metric tons of CO2 removal by 2050.",
+        "Current permanent carbon removal capacity is minimal compared to projected needs."
+      ]
+    }
+  },
+  {
+    "question": "What does the bathtub analogy illustrate about achieving net-zero emissions, and what two actions are required according to climate strategies?",
+    "answer": "The bathtub analogy illustrates negative emissions by symbolizing CO2 as water and Earth's absorption capacity as the tub. Achieving net-zero requires stopping new CO2 emissions ('turning off the tap') and scaling up carbon dioxide removal (CDR) to manage excess carbon.",
+    "keypoints": {
+      "video": [
+        "A bathtub analogy is used to explain the concept of negative emissions, where water represents CO2 and the tub's capacity symbolizes the Earth's ability to absorb excess carbon."
+      ],
+      "text": [
+        "Achieving net zero requires stopping new CO2 emissions (\"turning off the tap\") alongside scaling up CDR."
+      ]
+    }
+  }
+]

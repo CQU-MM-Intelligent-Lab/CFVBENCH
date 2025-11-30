@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is the current level of global warming relative to the 1850-1900 period, and what projected outcome is shown if no action is taken to mitigate climate change?",
+    "answer": "Global warming has increased by approximately 1.5°C relative to the 1850-1900 period. If no action is taken, a line chart projects an increase beyond this level, indicating disastrous warming ahead.",
+    "keypoints": {
+      "video": [
+        "Global warming has increased by approximately 1.5°C relative to the period between 1850 and 1900, according to the UN climate change panel report.",
+        "A line chart shows a projected increase in global warming beyond the current level of 1.5°C if no action is taken, indicating a disastrous amount of warming ahead."
+      ],
+      "text": [
+        "Over 100 scientists warned that humans might have only 12 years to prevent disastrous levels of warming."
+      ]
+    }
+  },
+  {
+    "question": "How do fossil fuels form geologically, and what human activity disrupts the carbon cycle by releasing trapped carbon rapidly?",
+    "answer": "Fossil fuels form from buried organic matter undergoing heat and pressure over millions of years. Humans disrupt the carbon cycle by extracting and burning these fuels, rapidly releasing trapped carbon into the atmosphere.",
+    "keypoints": {
+      "video": [
+        "Fossil fuels form from buried organic matter under heat and pressure over millions of years.",
+        "Burning fossil fuels releases carbon dioxide into the atmosphere.",
+        "Human activities disrupt the natural balance of the carbon cycle."
+      ],
+      "text": [
+        "Occasionally, dead plants and animals form fossil fuels like oil, coal, or natural gas when decay is slow, trapping carbon underground.",
+        "Humans disrupt the carbon cycle by extracting and burning fossil fuels, releasing trapped carbon into the atmosphere rapidly."
+      ]
+    }
+  }
+]

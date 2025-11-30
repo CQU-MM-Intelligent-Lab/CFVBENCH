@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, what are the first two steps to copy an item using menu options?",
+    "answer": "First, click the 'File' menu in the top-left corner of the application window. Then, navigate to the 'Edit' dropdown menu and select the third option labeled 'Copy'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'Edit' dropdown menu, the 'Copy' option, which is the third item, is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after entering your email in the login dialog, how do you adjust the brush size?",
+    "answer": "After entering your email in the 'Email Address' field of the 'Login' dialog box, locate the 'Brush Size' slider in the 'Tools' panel and drag it rightward to increase the brush size.",
+    "keypoints": [
+      "In the 'Login' dialog box, the user types 'testuser@example.com' into the text field labeled 'Email Address'.",
+      "The cursor drags the 'Brush Size' slider within the 'Tools' panel to the right, increasing the displayed value from '10px' to '25px'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the context menu for the Background Layer and enable Feature X?",
+    "answer": "Right-click the 'Background Layer' in the 'Layers' panel to open its context menu. Then, in the 'Settings' window, check the box beside 'Enable Feature X' to activate it.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'Background Layer' in the 'Layers' panel, causing a context menu to appear.",
+      "The user selects the 'checkbox' next to the 'Enable Feature X' label within the 'Settings' window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what sequence of actions increases brush size, opens a layer's context menu, and toggles a feature setting?",
+    "answer": "Drag the 'Brush Size' slider rightward in the 'Tools' panel to increase brush size. Next, right-click 'Background Layer' in the 'Layers' panel to open its context menu. Finally, locate the 'Enable Feature X' checkbox in the 'Settings' window and select it.",
+    "keypoints": [
+      "The cursor drags the 'Brush Size' slider within the 'Tools' panel to the right, increasing the displayed value from '10px' to '25px'.",
+      "A right-click action is performed on the layer named 'Background Layer' in the 'Layers' panel, causing a context menu to appear.",
+      "The user selects the 'checkbox' next to the 'Enable Feature X' label within the 'Settings' window."
+    ]
+  }
+]

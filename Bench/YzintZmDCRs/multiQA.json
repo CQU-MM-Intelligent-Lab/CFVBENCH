@@ -1,0 +1,46 @@
+[
+  {
+    "question": "In the animation application, how do you initiate recording and configure the 'Cycle Layers' behavior to start immediately?",
+    "answer": "First, click the 'Record' button at the bottom of the application window to start recording. Then, select 'Cycle Layers' from the properties panel dropdown and add it to your layer. Finally, change the 'Start' option in its settings from 'When triggered' to 'Immediately'.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located at the bottom of the application window, initiating the recording process.",
+      "The user selects the 'Cycle Layers' behavior from the dropdown menu in the properties panel, adding it to the selected layer named 'Circle'.",
+      "The user changes the 'Start' option within the 'Cycle Layers' settings from 'When triggered' to 'Immediately', causing the animation to start as soon as the record mode is activated."
+    ]
+  },
+  {
+    "question": "In the animation application, what settings are adjusted in the 'Cycle Layers' behavior to cycle layers from bottom to top every 2 frames with bidirectional playback?",
+    "answer": "Set the 'Layer Order' to 'Bottom to top' to reverse the cycling sequence, specify '2 frames' for the 'Advance Every' interval, and enable the 'Forward and Reverse' checkbox to allow bidirectional animation playback.",
+    "keypoints": [
+      "The user adjusts the 'Layer Order' setting in the 'Cycle Layers' options to 'Bottom to top', altering the sequence in which layers are cycled through during the animation.",
+      "The user sets the 'Advance Every' value to '2 frames' in the 'Cycle Layers' settings, specifying the interval at which the animation progresses through each layer.",
+      "The user enables the 'Forward and Reverse' checkbox in the 'Cycle Layers' settings, allowing the animation to play forward and then reverse direction."
+    ]
+  },
+  {
+    "question": "In the animation application, how do you synchronize the cycle layers animation with the timeline and preview the results?",
+    "answer": "Click the 'Sync to Timeline' option in the 'Cycle Layers' settings to link animation playback to the timeline cursor. Then, drag the cursor along the timeline bar to observe the synchronized animation.",
+    "keypoints": [
+      "The user clicks on the 'Sync to Timeline' option within the 'Cycle Layers' settings, syncing the animation's playback with the timeline cursor movement.",
+      "The user drags the timeline cursor along the timeline bar, observing the synchronized animation playback according to the set cycle layers behavior."
+    ]
+  },
+  {
+    "question": "In the animation application, after adding the 'Cycle Layers' behavior, what steps configure its direction and timing?",
+    "answer": "Adjust the 'Layer Order' to 'Bottom to top' for reversed cycling, set 'Advance Every' to '2 frames' for the transition interval, and enable 'Forward and Reverse' to allow bidirectional playback—all within the 'Cycle Layers' settings.",
+    "keypoints": [
+      "The user selects the 'Cycle Layers' behavior from the dropdown menu in the properties panel, adding it to the selected layer named 'Circle'.",
+      "The user adjusts the 'Layer Order' setting in the 'Cycle Layers' options to 'Bottom to top', altering the sequence in which layers are cycled through during the animation.",
+      "The user sets the 'Advance Every' value to '2 frames' in the 'Cycle Layers' settings, specifying the interval at which the animation progresses through each layer.",
+      "The user enables the 'Forward and Reverse' checkbox in the 'Cycle Layers' settings, allowing the animation to play forward and then reverse direction."
+    ]
+  },
+  {
+    "question": "In the animation application, what specific values are entered in the 'Cycle Layers' settings to control advancement and direction?",
+    "answer": "Set the 'Advance Every' field to '2 frames' to define the layer transition interval, and enable the 'Forward and Reverse' checkbox to activate bidirectional animation playback.",
+    "keypoints": [
+      "The user sets the 'Advance Every' value to '2 frames' in the 'Cycle Layers' settings, specifying the interval at which the animation progresses through each layer.",
+      "The user enables the 'Forward and Reverse' checkbox in the 'Cycle Layers' settings, allowing the animation to play forward and then reverse direction."
+    ]
+  }
+]

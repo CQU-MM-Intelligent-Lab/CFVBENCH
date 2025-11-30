@@ -1,0 +1,18 @@
+[
+  {
+    "question": "In Lossless Cut, what are the sequential steps to define a single segment for video cutting?",
+    "answer": "First, click the 'Set cut to start' button at the bottom of the window to mark the segment's beginning. Then, drag the timeline cursor to the desired endpoint and click the 'Set cut to end' button to finalize the segment boundaries.",
+    "keypoints": [
+      "The user clicks on the 'Set cut to start' button located at the bottom of the Lossless Cut window, setting the starting point for the video segment.",
+      "The user drags the timeline cursor to a new position within the Lossless Cut interface and clicks on the 'Set cut to end' button, defining the endpoint for the video segment."
+    ]
+  },
+  {
+    "question": "In Lossless Cut, how do you export multiple video clips after defining segments?",
+    "answer": "After creating multiple segments by setting start and end points for different sections, click the 'Export' button at the bottom right corner to process and export all selected segments.",
+    "keypoints": [
+      "The user selects another section of the video by clicking on the timeline and sets a new start and end point using the respective buttons, successfully creating multiple segments for export.",
+      "The user clicks on the 'Export' button located at the bottom right corner of the Lossless Cut window, initiating the export process for the selected video segments."
+    ]
+  }
+]

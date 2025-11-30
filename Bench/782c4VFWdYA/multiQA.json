@@ -1,0 +1,51 @@
+[
+  {
+    "question": "In Wix Photo Studio, how do you initiate the cutout process and access the tool for restoring image areas?",
+    "answer": "First, click the 'Cut Out' option in the left sidebar. Then, select the 'Restore' tool from the 'Refine Tools' section to begin restoring parts of the image.",
+    "keypoints": [
+      "The user clicks on the 'Cut Out' option located in the left sidebar of the Wix Photo Studio interface.",
+      "From the 'Refine Tools' section, the 'Restore' tool is selected by a mouse click, which allows for restoring parts of the image."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, after selecting the 'Restore' tool, how do you adjust the transparency of the restoration effect?",
+    "answer": "After selecting the 'Restore' tool, drag the 'Opacity' slider within the 'Refine Tools' panel to modify the transparency level of the restoration effect.",
+    "keypoints": [
+      "From the 'Refine Tools' section, the 'Restore' tool is selected by a mouse click, which allows for restoring parts of the image.",
+      "The cursor drags the 'Opacity' slider within the 'Refine Tools' panel to adjust the transparency level of the restoration effect."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, what steps remove the background and apply a new solid color to it?",
+    "answer": "Right-click the background area to remove it (replacing it with transparency), then open the 'Background Color' dropdown in the 'Cut Out' settings and select a color like blue from the palette.",
+    "keypoints": [
+      "A right-click action is performed on the area outside the buildings in the image, causing the background to be removed and replaced with a transparent checkered pattern.",
+      "The user selects the 'Background Color' dropdown menu within the 'Cut Out' settings and chooses a blue color from the palette."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, how do you save an image after changing its background color and return to the main editor?",
+    "answer": "After selecting a new background color, click the 'Save' button at the top-right corner to save the image, then click the adjacent 'Go to Editor' button to return to the main website editor interface.",
+    "keypoints": [
+      "The cursor clicks on the 'Save' button located at the top-right corner of the screen, saving the edited image with the new background color.",
+      "After saving, the user clicks on the 'Go to Editor' button at the top-right corner of the screen, transitioning back to the main website editor interface."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, what is the sequence to finalize cutout edits and prepare for design adjustments?",
+    "answer": "After saving the edited image and returning to the main editor via the 'Go to Editor' button, hover over the 'Design' tab in the top navigation bar to access further design options.",
+    "keypoints": [
+      "After saving, the user clicks on the 'Go to Editor' button at the top-right corner of the screen, transitioning back to the main website editor interface.",
+      "In the main editor, the user hovers over the 'Design' tab in the top navigation bar, preparing to make further design adjustments."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, how do you configure the restoration effect's opacity after removing the background?",
+    "answer": "After right-clicking the background to remove it, select the 'Restore' tool from 'Refine Tools', then adjust the 'Opacity' slider to fine-tune the transparency of restored areas.",
+    "keypoints": [
+      "A right-click action is performed on the area outside the buildings in the image, causing the background to be removed and replaced with a transparent checkered pattern.",
+      "From the 'Refine Tools' section, the 'Restore' tool is selected by a mouse click, which allows for restoring parts of the image.",
+      "The cursor drags the 'Opacity' slider within the 'Refine Tools' panel to adjust the transparency level of the restoration effect."
+    ]
+  }
+]

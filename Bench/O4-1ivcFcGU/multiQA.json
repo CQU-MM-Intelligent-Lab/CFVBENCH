@@ -1,0 +1,24 @@
+[
+  {
+    "question": "In Adobe Illustrator, how do you change the color of multiple character layers like Hair, Shoes, and Shirt?",
+    "answer": "Select each layer individually in the Layers panel (e.g., 'Hair', 'Shoes', 'Shirt'), then for each selected layer, click the color swatch in the Properties panel and choose a new color from the Color Picker dialog box.",
+    "keypoints": [
+      "The user selects the 'Hair' layer from the Layers panel in Illustrator using a mouse click.",
+      "The user changes the color of the 'Hair' layer by selecting a new color from the Color Picker dialog box that appears after clicking on the color swatch in the Properties panel.",
+      "The user selects the 'Shoes' layer from the Layers panel in Illustrator using a mouse click.",
+      "The user changes the color of the 'Shoes' layer by selecting a new color from the Color Picker dialog box that appears after clicking on the color swatch in the Properties panel.",
+      "The user selects the 'Shirt' layer from the Layers panel in Illustrator using a mouse click.",
+      "The user changes the color of the 'Shirt' layer by selecting a new color from the Color Picker dialog box that appears after clicking on the color swatch in the Properties panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you reload a character for additional editing after initial modifications?",
+    "answer": "Click the 'Scene' tab at the top of the window, select your character scene (e.g., 'Chloe (Illustrator)'), then right-click the character in the workspace and choose 'Edit Original' from the context menu to reopen it in Illustrator.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the application window, revealing a list of scenes including 'Chloe (Illustrator)'.",
+      "The user selects the 'Chloe (Illustrator)' scene from the list in the 'Scene' tab, loading the character artwork into the central workspace.",
+      "The user right-clicks on the loaded character artwork within the central workspace, opening a context menu with options such as 'Edit Original'.",
+      "The user clicks on the 'Edit Original' option in the context menu, launching Adobe Illustrator and displaying the character's layers and components for editing."
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "question": "What scale of AI interference in elections did the Alan Turing Institute's briefing paper identify, and what assessment did research associate Sam Stockwell provide about its impact on results?",
+    "answer": "The Alan Turing Institute identified AI interference in 19 cases across 12 national elections since January 2023. Sam Stockwell stated there is no clear evidence that AI has significantly impacted election results so far.",
+    "keypoints": {
+      "video": [],
+      "text": [
+        "The Alan Turing Institute identified AI interference in 19 cases across 12 national elections examined since January 2023.",
+        "Sam Stockwell of the Alan Turing Institute stated there is no clear evidence that AI has significantly impacted election results so far."
+      ]
+    }
+  },
+  {
+    "question": "What did Rich Turner of CyberArk demonstrate about deepfake capabilities during his London presentation, and what regulatory gap did he highlight?",
+    "answer": "Rich Turner demonstrated creating credible voice deepfakes and stated there are currently no mechanisms to regulate deepfakes or validate content authenticity.",
+    "keypoints": {
+      "video": [],
+      "text": [
+        "Rich Turner of identity security firm CyberArk demonstrated creating credible voice deepfakes for Reuters.",
+        "Rich Turner stated there are currently no mechanisms to regulate deepfakes or validate content authenticity."
+      ]
+    }
+  }
+]

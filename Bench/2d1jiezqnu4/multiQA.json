@@ -1,0 +1,33 @@
+[
+  {
+    "question": "In Adobe Character Animator, what steps convert a recorded animation into a reusable trigger, and how is creation confirmed?",
+    "answer": "Select the recorded clip in the timeline panel, right-click it to open the context menu, and choose 'Create Replay and Trigger'. Creation is confirmed by a new entry appearing in the triggers list on the right side of the interface.",
+    "keypoints": [
+      "The user selects the recorded animation clip within the timeline panel.",
+      "A right-click action is performed on the selected animation clip, causing a context menu to appear.",
+      "From the context menu, the option labeled 'Create Replay and Trigger' is selected by a mouse click.",
+      "The replay and trigger are created, as indicated by the new entry appearing in the triggers list on the right side of the interface."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to export an animation after finalizing edits?",
+    "answer": "Select 'Export' from the top menu bar, configure settings like file format and resolution in the dialog box, then click the 'Export' button. The file saves to the specified location, and a completion message confirms success.",
+    "keypoints": [
+      "The user selects the 'Export' option from the top menu bar.",
+      "A dialog box appears prompting the user to choose export settings.",
+      "The user configures the export settings, selecting options such as file format and resolution.",
+      "The user clicks the 'Export' button to finalize the export process.",
+      "The exported animation file is saved to the specified location on the computer.",
+      "The completion message appears confirming that the export was successful."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you assign a keyboard shortcut to a new replay trigger and test its functionality?",
+    "answer": "After creating the replay via right-click, click the 'Keyboard Input' field in the properties panel and press a key to assign it. Test by pressing the key to observe the character perform the animation.",
+    "keypoints": [
+      "The user clicks on the 'Create Replay and Trigger' option after right-clicking on the selected animation sequence in the timeline.",
+      "The user assigns a keyboard shortcut by clicking on the 'Keyboard Input' field and pressing a key, setting up the trigger for the animation.",
+      "The user tests the assigned trigger by pressing the designated key, observing the character perform the walk and wave animation repeatedly."
+    ]
+  }
+]

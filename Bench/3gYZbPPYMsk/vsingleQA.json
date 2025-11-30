@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What were Hewlett Packard Enterprise's stock price and percentage change?",
+    "answer": "Hewlett Packard Enterprise's stock price was $15.81 with a decrease of 11.97%.",
+    "keypoints": [
+      "Hewlett Packard Enterprise's stock price is listed at $15.81 with a decrease of 11.97%."
+    ]
+  },
+  {
+    "question": "What were Costco Wholesale's stock price and percentage change?",
+    "answer": "Costco Wholesale's stock price was $964.31 with a decline of 6.07%.",
+    "keypoints": [
+      "Costco Wholesale's stock price is shown as $964.31 with a decline of 6.07%."
+    ]
+  },
+  {
+    "question": "What were Broadcom's stock price and percentage change?",
+    "answer": "Broadcom's stock price was $194.96 with an increase of 8.64%.",
+    "keypoints": [
+      "Broadcom's stock price is displayed at $194.96 with an increase of 8.64%."
+    ]
+  },
+  {
+    "question": "What were NVIDIA's stock price and percentage change?",
+    "answer": "NVIDIA's stock price was $112.69 with a rise of 1.92%.",
+    "keypoints": [
+      "NVIDIA's stock price is noted at $112.69 with a rise of 1.92%."
+    ]
+  }
+]

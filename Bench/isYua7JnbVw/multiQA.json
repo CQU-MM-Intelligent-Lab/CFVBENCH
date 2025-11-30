@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In MediaTrack Application, how do you select a specific video file and view its stream metadata for both video and audio?",
+    "answer": "First, click the 'Tracks' menu in the top-left corner and select your video file (e.g., 'San Francisco Townhouses.mp4'). Then click the information icon next to the video track to open the 'Stream info' dialog for video metadata, followed by clicking the information icon next to the audio track for audio metadata.",
+    "keypoints": [
+      "The user clicks on the 'Tracks' menu item located in the top-left corner of the application window.",
+      "The user selects the 'San Francisco Townhouses.mp4' video file from the list displayed under the 'Tracks' menu, which shows details such as Type, Tag, Codec, Duration, Frames, Bitrate, and Data.",
+      "The user clicks on the information icon next to the video track, causing a 'Stream info' dialog box to appear with detailed metadata about the video stream.",
+      "The user clicks on the information icon next to the audio track, causing a 'Stream info' dialog box to appear with detailed metadata about the audio stream."
+    ]
+  },
+  {
+    "question": "In MediaTrack Application, what steps enable including additional tracks from other files and exporting each track as individual files?",
+    "answer": "Within the 'Tracks' menu, click the 'Include more tracks from other file' checkbox to enable adding external tracks, then select the 'Export each track as individual files' option to initiate the export process for separate files.",
+    "keypoints": [
+      "The user clicks on the checkbox labeled 'Include more tracks from other file' within the 'Tracks' menu, enabling the option to add additional tracks from different files.",
+      "The user clicks on the 'Export each track as individual files' option within the 'Tracks' menu, initiating the process to export the video and audio tracks as separate files."
+    ]
+  },
+  {
+    "question": "In MediaTrack Application, after initiating individual track exports, how do you configure the track length and start the export?",
+    "answer": "When prompted about differing track lengths during export setup, select the 'Longest' option to match the longest track's duration. Then click the 'Export' button at the bottom right to begin exporting.",
+    "keypoints": [
+      "The user selects the 'Longest' option when prompted with the question 'When tracks have different lengths, do you want to make the output file as long as the longest or the shortest track?' ensuring the exported file matches the length of the longest track.",
+      "The user clicks on the 'Export' button at the bottom right of the application window, starting the export process for the selected video and audio tracks."
+    ]
+  },
+  {
+    "question": "In MediaTrack Application, how do you access the Tracks menu to both enable multi-file track inclusion and export individual tracks?",
+    "answer": "Click the 'Tracks' menu in the top-left corner. Inside the menu, enable 'Include more tracks from other file' by checking its box, then select 'Export each track as individual files' to configure separate file exports.",
+    "keypoints": [
+      "The user clicks on the 'Tracks' menu item located in the top-left corner of the application window.",
+      "The user clicks on the checkbox labeled 'Include more tracks from other file' within the 'Tracks' menu, enabling the option to add additional tracks from different files.",
+      "The user clicks on the 'Export each track as individual files' option within the 'Tracks' menu, initiating the process to export the video and audio tracks as separate files."
+    ]
+  }
+]

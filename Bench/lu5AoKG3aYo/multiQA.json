@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, what steps are taken to start recording and select the Dangle Tool?",
+    "answer": "First, click the 'Record' button in the top-left corner of the application window. Then, select the 'Dangle Tool' icon (a curved line with an arrow) from the toolbar.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located in the top-left corner of the application window.",
+      "The cursor selects the 'Dangle Tool' icon from the toolbar, which is represented by a curved line with an arrow at the end."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after previewing the animation, which physics property is set to 75% and how?",
+    "answer": "After previewing, select 'Stiffness' from the dropdown menu in the Physics section of the properties panel and set its value to 75%.",
+    "keypoints": [
+      "The user clicks on the 'Play' button located at the bottom-center of the timeline panel to preview the animation.",
+      "The user selects the 'Stiffness' option from the dropdown menu under the 'Physics' section and sets its value to 75%."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the final step after configuring Stiffness to save your work?",
+    "answer": "After setting Stiffness, click the floppy disk-like 'Save' button in the top-right corner of the application window.",
+    "keypoints": [
+      "The user selects the 'Stiffness' option from the dropdown menu under the 'Physics' section and sets its value to 75%.",
+      "The user clicks on the 'Save' button, represented by a floppy disk-like icon, located in the top-right corner of the application window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the sequence to adjust physics properties, preview changes, and save?",
+    "answer": "First, set 'Gravity Strength' to 18% in the Physics section. Next, preview the animation by clicking the timeline's 'Play' button. Then, set 'Stiffness' to 75% via the Physics dropdown. Finally, save using the floppy disk icon in the top-right corner.",
+    "keypoints": [
+      "The user adjusts the 'Gravity Strength' slider within the 'Physics' section of the properties panel, setting it to 18%.",
+      "The user clicks on the 'Play' button located at the bottom-center of the timeline panel to preview the animation.",
+      "The user selects the 'Stiffness' option from the dropdown menu under the 'Physics' section and sets its value to 75%.",
+      "The user clicks on the 'Save' button, represented by a floppy disk-like icon, located in the top-right corner of the application window."
+    ]
+  }
+]

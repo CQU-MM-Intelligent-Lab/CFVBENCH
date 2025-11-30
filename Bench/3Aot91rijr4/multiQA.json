@@ -1,0 +1,17 @@
+[
+  {
+    "question": "In Wix, what visual feedback confirms a successful page transition animation setup?",
+    "answer": "The webpage preview updates to display the chosen 'Fold' animation effect when navigating between pages.",
+    "keypoints": [
+      "The webpage preview updates to display the chosen 'Fold' animation effect when navigating between pages."
+    ]
+  },
+  {
+    "question": "In Wix, what are the first two steps to access site animation settings from the editor interface?",
+    "answer": "First, click the 'Design' menu in the top navigation bar. Then, select the 'Animation' option from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'Design' menu item located in the top navigation bar of the Wix website editor interface.",
+      "From the 'Design' dropdown menu, the 'Animation' option is selected by a mouse click."
+    ]
+  }
+]

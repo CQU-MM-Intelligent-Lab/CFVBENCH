@@ -1,0 +1,29 @@
+[
+  {
+    "question": "In Wix, how do you add an 'Accessibility Policy' section to your webpage?",
+    "answer": "Click the 'Add Section' button in the center of the editor interface. Then select 'Accessibility Policy' from the dropdown menu that appears, which adds a new 'Accessibility' section to your layout.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the center of the Wix editor interface.",
+      "A dropdown menu appears, displaying various section options including 'Accessibility Policy'.",
+      "The user selects the 'Accessibility Policy' section from the list, and a new section titled 'Accessibility' is added to the webpage layout."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify both the image and text content in an Accessibility Policy section?",
+    "answer": "Click the 'Edit & Replace' button under the image placeholder to change the default image. Then type your content directly into the 'Paragraph' field within the editable area of the section.",
+    "keypoints": [
+      "The screen displays an editable area with placeholders for title, subtitle, paragraph, media, and buttons within the 'Accessibility' section.",
+      "The user clicks on the 'Edit & Replace' button under the image placeholder to modify the default image.",
+      "The user types text into the 'Paragraph' field, updating the content of the accessibility policy description."
+    ]
+  },
+  {
+    "question": "In Wix, what steps change the design layout of the Accessibility section to left-aligned?",
+    "answer": "First click the 'Design' tab at the top of the editor. Then scroll through the design templates and select a left-aligned layout option, which automatically applies the new visual arrangement to the section.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab at the top of the Wix editor to access design customization options for the section.",
+      "The user scrolls through different design templates for the 'Accessibility' section, selecting a left-aligned layout option.",
+      "The selected design template is applied, altering the visual arrangement of the section elements on the page."
+    ]
+  }
+]

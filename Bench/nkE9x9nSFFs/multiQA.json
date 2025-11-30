@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate the frame export process and specify the filename?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export' from the dropdown, choose 'Frame' from the submenu, then type the desired filename (e.g., 'Scene 1 Frame.png') in the dialog box's filename field.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Export' option from the dropdown menu that appears after clicking 'File'.",
+      "The user then chooses the 'Frame' option from the subsequent submenu, which is highlighted for selection.",
+      "A dialog box opens, allowing the user to specify the location and filename for saving the exported frame; the user types 'Scene 1 Frame.png' into the filename field."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens immediately after clicking 'Save' during frame export and how do you verify the output?",
+    "answer": "A confirmation message appears indicating successful saving. Navigate to the desktop to locate the exported frame, then double-click it to open in a photo viewer for content verification.",
+    "keypoints": [
+      "The user clicks the 'Save' button within the dialog box to confirm the export action.",
+      "The screen displays a confirmation message indicating that the file has been successfully saved to the specified location.",
+      "The user navigates to the desktop where the newly exported frame image is visible among other files.",
+      "The user double-clicks on the exported frame image file, opening it in a photo viewer application to verify its content."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you reposition a character and export the updated frame?",
+    "answer": "Select 'Hold in place' under 'After Move' settings in the properties panel, adjust the character's position by dragging it with the mouse, then repeat the export process via File > Export > Frame and save with a new filename (e.g., 'Scene 1 Frame 2.png').",
+    "keypoints": [
+      "The user returns to the Adobe Character Animator interface and selects the 'Hold in place' option under the 'After Move' settings in the properties panel.",
+      "The user adjusts the position of the character using the mouse, moving it slightly to the right within the animation scene.",
+      "The user repeats the export process by selecting 'File', 'Export', and 'Frame' again, this time naming the file 'Scene 1 Frame 2.png'.",
+      "The user confirms the save action in the dialog box, overwriting the existing file with the updated frame."
+    ]
+  }
+]

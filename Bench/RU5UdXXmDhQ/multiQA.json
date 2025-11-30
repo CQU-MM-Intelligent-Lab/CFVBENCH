@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Wix, how do you access the color customization settings to change your website's primary color scheme?",
+    "answer": "Click the 'Design' menu item in the top navigation bar, then select the 'Colors' option from the dropdown menu to open the 'Site Colors' panel on the left side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'Design' menu item located in the top navigation bar of the Wix website builder interface.",
+      "From the dropdown menu, the 'Colors' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Wix, how can you explore and select alternative color shades after setting the main color?",
+    "answer": "Scroll through the 'Mix & Vibrant' section within the 'Site Colors' panel to experiment with different shades, then select your preferred option.",
+    "keypoints": [
+      "The user then scrolls through additional color options within the 'Mix & Vibrant' section, experimenting with different shades until settling on a preferred one."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to fine-tune individual color components after choosing a palette?",
+    "answer": "Click the 'Edit Palette Colors' button at the bottom of the 'Site Colors' panel, then adjust specific color codes to ensure visual consistency before saving to apply changes across all website sections.",
+    "keypoints": [
+      "After selecting the final color, the user clicks the 'Edit Palette Colors' button at the bottom of the 'Site Colors' panel to further customize individual color components of the site's palette.",
+      "The customization process allows for fine-tuning specific color codes, ensuring consistency and visual harmony throughout the website design.",
+      "Once adjustments are complete, the changes are saved, and the updated color scheme is applied consistently across all sections of the webpage."
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can Amazon's new Nova AI models' capability to turn still images into short videos directly benefit sellers on its website, and how might this feature enhance the experience for customers searching for products like those in the 'japanese' search suggestions observed during browsing?",
+    "answer": "The capability to turn still images into short videos can benefit sellers by allowing them to create more engaging product listings. For customers searching for products like \"japanese cat\" or \"japanese candy\" (as seen in search suggestions), these videos could provide a better understanding of the products, potentially leading to higher conversion rates.",
+    "keypoints": {
+      "video": [
+        "The Amazon search bar displays suggestions such as \"japanese cat,\" \"japanese candy,\" and \"amazon home\" when typing \"japanese\"."
+      ],
+      "text": [
+        "Amazon stated the models could provide direct benefits for sellers on its website, such as turning still images into short videos."
+      ]
+    }
+  }
+]

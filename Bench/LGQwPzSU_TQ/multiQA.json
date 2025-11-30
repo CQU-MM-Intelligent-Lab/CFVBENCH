@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Video Editor, how do you navigate to the 16.870-second mark and then verify the corresponding frame number?",
+    "answer": "Drag the timeline slider at the bottom of the interface to 16.870 seconds, then click the frame counter in the center of the screen to display the current frame number (e.g., frame 34).",
+    "keypoints": [
+      "The user drags the timeline slider located at the bottom of the video editing interface, moving it to the 16.870 seconds mark.",
+      "The user clicks on the frame counter displayed in the center of the screen, which updates to show the current frame number as 34."
+    ]
+  },
+  {
+    "question": "In Video Editor, what steps are required to set a video segment starting at 5.000 seconds and ending at 7.000 seconds?",
+    "answer": "Type \"5.000\" into the start time field within the segment selection box to jump to that timestamp, then type \"7.000\" into the end time field to define the segment's endpoint.",
+    "keypoints": [
+      "The user types \"5.000\" into the start time field within the segment selection box, causing the video to jump to that precise timestamp.",
+      "The user adjusts the end time field by typing \"7.000\", refining the selected segment's endpoint."
+    ]
+  },
+  {
+    "question": "In Video Editor, after defining a segment from 8.500 to 9.000 seconds, how do you initiate its export?",
+    "answer": "After entering 8.500 as the start time and 9.000 as the end time in the time code input fields, click the 'Export' button at the bottom right corner to begin exporting the selected segment.",
+    "keypoints": [
+      "The user selects a new segment starting at 8.500 seconds and ending at 9.000 seconds using the time code input fields.",
+      "The user clicks on the 'Export' button located at the bottom right corner of the interface, initiating the export process for the selected video segments."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you precisely set both start and end times for a segment and then export it?",
+    "answer": "Enter the desired start time (e.g., \"5.000\") and end time (e.g., \"7.000\") in the segment selection box fields, then click the 'Export' button to process the segment.",
+    "keypoints": [
+      "The user types \"5.000\" into the start time field within the segment selection box, causing the video to jump to that precise timestamp.",
+      "The user adjusts the end time field by typing \"7.000\", refining the selected segment's endpoint.",
+      "The user clicks on the 'Export' button located at the bottom right corner of the interface, initiating the export process for the selected video segments."
+    ]
+  }
+]

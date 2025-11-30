@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In Wix, how do you add an Education section to your website and what initial content appears?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Education' from the dropdown menu, and the section layout will appear in the main editing area with placeholder text and design elements for academic qualifications.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Education' section from the dropdown menu that appears after clicking the 'Add' button, which is highlighted with a blue outline.",
+      "The selected 'Education' section layout is added to the main editing area of the Wix website editor, displaying a placeholder text and design elements for academic qualifications."
+    ]
+  },
+  {
+    "question": "In Wix, what happens when you create a new page from an Education section item?",
+    "answer": "After clicking 'Create a page from this item' at the bottom of the left sidebar, a new page is generated based on the Education section. The page list updates to show the new entry, and the main editing area displays the new page with identical content/layout.",
+    "keypoints": [
+      "The user clicks on the 'Create a page from this item' option located at the bottom of the left sidebar under the Education section settings.",
+      "A new page is created based on the current Education section, as indicated by the updated page list in the left sidebar showing a new entry named 'Bachelor's of Arts, CalArts'.",
+      "The main editing area transitions to display the newly created page with the same content and layout as the original Education section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you switch the Academic Qualifications section to a three-column layout?",
+    "answer": "Click the 'Design' tab in the top-left corner, then select the three-column layout option from the 'Academic Qualifications' section designs in the left sidebar. The main editing area will immediately update to show the new layout.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab located in the top-left corner of the Wix website editor interface.",
+      "The user selects a different layout option from the 'Academic Qualifications' section designs displayed in the left sidebar, which features three columns instead of one.",
+      "The main editing area updates to reflect the new three-column layout for the Academic Qualifications section, showcasing the selected design changes."
+    ]
+  },
+  {
+    "question": "In Wix, what is the final outcome after clicking the 'Publish' button?",
+    "answer": "Clicking the 'Publish' button initiates the publishing process (indicated by a loading message). Once complete, the live website displays all changes, including the updated Education section and newly created pages.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface.",
+      "The website undergoes a publishing process, as indicated by a loading message in the center of the screen.",
+      "Once published, the website displays the final version with all the applied changes, including the updated Education section and new page."
+    ]
+  }
+]

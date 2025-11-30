@@ -1,0 +1,33 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the Copy command after opening the File menu?",
+    "answer": "After clicking the 'File' menu in the top-left corner, navigate to the 'Edit' dropdown and select the third option labeled 'Copy'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'Edit' dropdown menu, the 'Copy' option, which is the third item, is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify the stroke width of the 'Shape 1' layer?",
+    "answer": "First select 'Shape 1' (highlighted blue, top layer in the 'Layers' panel), then drag the 'Stroke Width' slider rightward in the 'Properties' panel until the value changes from 2px to 5px.",
+    "keypoints": [
+      "In the 'Layers' panel, the user selects the layer named 'Shape 1', which is highlighted in blue and positioned at the top of the list.",
+      "The cursor drags the 'Stroke Width' slider within the 'Properties' panel to the right, increasing the displayed value from '2px' to '5px'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what action triggers the context menu for the 'Background Layer', and how is Feature X enabled afterward?",
+    "answer": "Right-click the 'Background Layer' in the 'Layers' panel to open the context menu, then locate and select the checkbox beside 'Enable Feature X' in the 'Settings' window.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'Background Layer' in the 'Layers' panel, causing a context menu to appear.",
+      "The user selects the 'checkbox' next to the 'Enable Feature X' label within the 'Settings' window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what specific value adjustment occurs when dragging the Stroke Width slider for a selected layer?",
+    "answer": "Dragging the slider rightward increases the stroke width value from 2px to 5px, visible in the 'Properties' panel.",
+    "keypoints": [
+      "The cursor drags the 'Stroke Width' slider within the 'Properties' panel to the right, increasing the displayed value from '2px' to '5px'."
+    ]
+  }
+]

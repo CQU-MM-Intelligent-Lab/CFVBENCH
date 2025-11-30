@@ -1,0 +1,55 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you save a project version directly to the desktop?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Save Project As' from the dropdown, navigate to the 'Desktop' folder in the dialog box, and click the 'Save' button.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Save Project As' option is selected by a mouse click.",
+      "A dialog box appears, and the user navigates to the 'Desktop' folder within the file directory.",
+      "The user clicks the 'Save' button to save the project version onto the desktop."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens after clicking 'Save New Version' in the History panel?",
+    "answer": "A new version entry with a timestamp appears in the history list, indicating the exact time the version was saved.",
+    "keypoints": [
+      "Within the 'History' panel, the user clicks on the 'Save New Version' button.",
+      "A new version entry appears in the history list with a timestamp indicating when it was saved."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you reduce a character's opacity to 67% using the properties panel?",
+    "answer": "Adjust the 'Opacity' slider in the properties panel on the right side of the screen until the value changes to 67%, which visibly increases transparency.",
+    "keypoints": [
+      "The user adjusts the 'Opacity' slider in the properties panel on the right side of the screen.",
+      "The opacity value changes from 100% to 67%, visibly altering the transparency of the character image."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you activate the 'End' trigger for the current scene?",
+    "answer": "Click the 'Triggers' tab in the bottom-right corner, select the 'End' trigger from the list in the Triggers panel, causing it to be highlighted as active.",
+    "keypoints": [
+      "The user clicks on the 'Triggers' tab in the bottom-right corner of the application window.",
+      "In the 'Triggers' panel, the user selects the 'End' trigger from the list.",
+      "The 'End' trigger is highlighted, indicating it has been activated for the current scene."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you create a named project version called 'Beginning'?",
+    "answer": "Select 'Save Named Project Version' from the File menu, type 'Beginning' into the text field in the dialog box, and click 'Save'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item again and selects 'Save Named Project Version'.",
+      "A dialog box prompts the user to name the project version.",
+      "The user types 'Beginning' into the text field and clicks 'Save' to create a named version."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you rename project versions to 'Middle' and 'End' in the History panel?",
+    "answer": "Click the label of the second version in the History panel and rename it to 'Middle', then repeat the process for the third version by renaming it to 'End'.",
+    "keypoints": [
+      "The user renames the second version in the 'History' panel by clicking on its label.",
+      "The label changes from 'Version 2' to 'Middle', reflecting the updated name.",
+      "The third version is similarly renamed to 'End', completing the labeling process."
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "question": "What role did Israeli journalists attribute to AI in Gaza's devastation since October 7, 2023?",
+    "answer": "Israeli journalists reported that much destruction in Gaza since October 7, 2023, was enabled or directed by an artificial intelligence system.",
+    "keypoints": [
+      "Israeli journalists reported that much destruction in Gaza since October 7th, 2023, was enabled or directed by an artificial intelligence system."
+    ]
+  },
+  {
+    "question": "What are two AI systems used by the Israeli Defense Forces and their functions?",
+    "answer": "The Israeli Defense Forces use the AI-powered Iron Dome system for missile defense and the SMASH AI precision rifle sight for targeting.",
+    "keypoints": [
+      "The Israeli Defense Forces use the AI-powered Iron Dome system for missile defense and the SMASH AI precision rifle sight."
+    ]
+  },
+  {
+    "question": "How does Israel utilize AI for surveillance in occupied Palestinian territories?",
+    "answer": "Israel uses AI for surveillance of Palestinians in occupied territories, registering movements and biometrics at checkpoints.",
+    "keypoints": [
+      "Israel uses AI for surveillance of Palestinians in occupied territories, registering movements and biometrics at checkpoints."
+    ]
+  },
+  {
+    "question": "Which publications detailed the Israeli military's use of AI for target selection in Gaza?",
+    "answer": "Reports in +972 and Local Call detailed AI systems used by the Israeli military to select bombing targets in Gaza.",
+    "keypoints": [
+      "Reports in +972 and Local Call detailed AI systems used by the Israeli military to select bombing targets in Gaza."
+    ]
+  },
+  {
+    "question": "What is the function of the Gospel AI system in Gaza operations?",
+    "answer": "The Gospel AI system produces bombing targets for specific buildings in Gaza using surveillance and historical data.",
+    "keypoints": [
+      "The Gospel AI system produces bombing targets for specific buildings in Gaza using surveillance and historical data."
+    ]
+  },
+  {
+    "question": "Which AI tools does the Gospel system collaborate with and for what purposes?",
+    "answer": "Gospel works with Alchemist for data collection and transfer, and Fire Factory for data categorization.",
+    "keypoints": [
+      "Gospel works with other AI tools, including Alchemist for data collection and transfer, and Fire Factory for data categorization."
+    ]
+  },
+  {
+    "question": "What are the Fire Factory's four target categorization types?",
+    "answer": "The Fire Factory categorizes targets into tactical, underground, family homes of militants, and \"power targets\" (non-military structures like residential buildings).",
+    "keypoints": [
+      "The Fire Factory categorizes generated targets into tactical, underground, family homes of militants, and \"power targets\" (non-military structures like residential buildings)."
+    ]
+  },
+  {
+    "question": "What percentage of targets were 'power targets' in the first five days of the Gaza war?",
+    "answer": "Within the first five days of the war, half of all targets identified were \"power targets\".",
+    "keypoints": [
+      "Within the first five days of the war, half of all targets identified were \"power targets\"."
+    ]
+  },
+  {
+    "question": "What was the stated objective of 'power targets' according to +972 sources?",
+    "answer": "Sources told +972 that \"power targets\" aimed to exert civil pressure on Hamas.",
+    "keypoints": [
+      "Sources told +972 that \"power targets\" aimed to exert civil pressure on Hamas."
+    ]
+  },
+  {
+    "question": "How many targets did Lavender AI generate for Hamas or Islamic Jihad operatives?",
+    "answer": "The Lavender AI system generated up to 37,000 targets identified as Hamas or Islamic Jihad operatives using historic data and surveillance.",
+    "keypoints": [
+      "The Lavender AI system generated up to 37,000 targets identified as Hamas or Islamic Jihad operatives using historic data and surveillance."
+    ]
+  },
+  {
+    "question": "What was Lavender AI's reported error rate for target identification?",
+    "answer": "Sources reported Lavender had an error rate of about 10% for its targets.",
+    "keypoints": [
+      "Sources reported Lavender had an error rate of about 10% for its targets."
+    ]
+  },
+  {
+    "question": "How did Israel expand the definition of a Hamas operative?",
+    "answer": "Israel expanded the definition of a Hamas operative to include police, doctors, and civil society members interacting with Hamas.",
+    "keypoints": [
+      "Israel expanded the definition of a Hamas operative to include police, doctors, and civil society members interacting with Hamas."
+    ]
+  },
+  {
+    "question": "What functions does Lavender AI perform and what weapon does it recommend for low-ranking militants?",
+    "answer": "Lavender linked targets to specific homes and recommended weapons, with \"dumb bombs\" preferred for low-ranking militants.",
+    "keypoints": [
+      "Lavender linked targets to specific homes and recommended weapons, with \"dumb bombs\" preferred for low-ranking militants."
+    ]
+  },
+  {
+    "question": "What civilian casualty ratios did sources report for Lavender-marked targets?",
+    "answer": "Sources stated the Israeli military permitted killing 15-20 civilians for every junior Hamas operative marked by Lavender, and up to 300 civilians for some targets.",
+    "keypoints": [
+      "Sources stated the Israeli military permitted killing 15-20 civilians for every junior Hamas operative marked by Lavender, and up to 300 civilians for some targets."
+    ]
+  },
+  {
+    "question": "How did the Israeli Defense Forces respond to claims about civilian targeting policies?",
+    "answer": "The Israeli Defense Forces rejected claims of a policy to kill tens of thousands in their homes and stated human analysts must examine targets.",
+    "keypoints": [
+      "The Israeli Defense Forces rejected claims of a policy to kill tens of thousands in their homes and stated human analysts must examine targets."
+    ]
+  },
+  {
+    "question": "What did human supervision entail for Lavender-marked junior militant targets?",
+    "answer": "Human supervision for bombing houses of junior militants marked by Lavender reportedly consisted only of verifying the target was male.",
+    "keypoints": [
+      "Human supervision for bombing houses of junior militants marked by Lavender reportedly consisted only of verifying the target was male."
+    ]
+  },
+  {
+    "question": "What framework did the US release in November 2023 regarding AI in warfare and did Israel sign it?",
+    "answer": "The US released an international framework for responsible AI use in war in November 2023, which Israel did not sign.",
+    "keypoints": [
+      "The US released an international framework for responsible AI use in war in November 2023, which Israel did not sign."
+    ]
+  }
+]

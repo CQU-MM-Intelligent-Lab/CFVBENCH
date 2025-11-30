@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What was the closing value and percentage decrease for the Dow Jones Industrial Average?",
+    "answer": "The Dow Jones Industrial Average decreased by 2.08% and closed at 41,911.71 points.",
+    "keypoints": [
+      "The Dow Jones Industrial Average has decreased by 2.08%, closing at 41,911.71 points."
+    ]
+  },
+  {
+    "question": "What were the closing value and percentage decline for the S&P 500 index?",
+    "answer": "The S&P 500 index declined by 2.70% and closed at 5,615 points.",
+    "keypoints": [
+      "The S&P 500 index has declined by 2.70%, with a closing value of 5,615 points."
+    ]
+  },
+  {
+    "question": "What was the NASDAQ Composite Index's closing value and percentage fall?",
+    "answer": "The NASDAQ Composite Index fell by 4.00% and ended at 17,468 points.",
+    "keypoints": [
+      "The NASDAQ Composite Index has fallen by 4.00%, ending the day at 17,468 points."
+    ]
+  },
+  {
+    "question": "What was MicroStrategy's stock price and its percentage decrease?",
+    "answer": "MicroStrategy's stock price was $239.27, showing a 16.68% decrease.",
+    "keypoints": [
+      "MicroStrategy's stock price is listed as $239.27, showing a decrease of 16.68%."
+    ]
+  },
+  {
+    "question": "What was Coinbase Global's stock price and its decline percentage?",
+    "answer": "Coinbase Global's stock price was $179.23, reflecting a 17.58% decline.",
+    "keypoints": [
+      "Coinbase Global's stock price is reported at $179.23, reflecting a decline of 17.58%."
+    ]
+  },
+  {
+    "question": "What was Tesla's stock price and the percentage drop?",
+    "answer": "Tesla's stock price was $222.15, with a 15.43% drop.",
+    "keypoints": [
+      "Tesla's stock price is indicated as $222.15, with a drop of 15.43%."
+    ]
+  }
+]

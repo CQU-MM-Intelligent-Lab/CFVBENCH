@@ -1,0 +1,63 @@
+[
+  {
+    "question": "How did the U.S. homeowner vacancy rate change from the early 2000s to 2023, and what historical significance does the 2023 rate hold?",
+    "answer": "The U.S. homeowner vacancy rate peaked at around 2.5% in the early 2000s and declined to below 1% by 2023, marking the lowest rate since data collection began approximately 70 years ago.",
+    "keypoints": {
+      "video": [
+        "The US homeowner vacancy rate peaked at around 2.5% in the early 2000s and then declined to below 1% by 2023."
+      ],
+      "text": [
+        "The U.S. homeowner vacancy rate, indicating the percentage of homes for sale, is currently the lowest since data collection began approximately 70 years ago."
+      ]
+    }
+  },
+  {
+    "question": "What share of active U.S. home listings from 2016 to 2023 were priced under $200,000 versus over $1,000,000, and what broader market trend does this reflect?",
+    "answer": "Homes priced under $200,000 consistently represented less than 20% of active listings, while those over $1,000,000 made up more than 80%. This reflects a broader trend where lower-priced homes represent a decreasing market share, while higher-priced homes above $500,000 and $1,000,000 represent an increasing share.",
+    "keypoints": {
+      "video": [
+        "In the active US home listings by price tier from 2016 to 2023, homes priced under $200K consistently represented less than 20% of the market, while those over $1M made up more than 80%."
+      ],
+      "text": [
+        "Homes priced below $200,000 represent a decreasing share of the U.S. housing market, while homes above $500,000 and $1,000,000 represent an increasing share."
+      ]
+    }
+  },
+  {
+    "question": "How did the average 30-year fixed mortgage rate and median home sale price in the U.S. evolve since the early 1980s, and what effect did the mortgage rate trend have on monthly payments?",
+    "answer": "The average 30-year fixed mortgage rate peaked around 18% in the early 1980s and has generally trended downward, while the median home sale price steadily increased. This decrease in mortgage rates reduced monthly payments despite rising home prices.",
+    "keypoints": {
+      "video": [
+        "The average 30-year fixed-rate mortgage rate in the US peaked around 18% in the early 1980s and has fluctuated since, while the median home sale price has steadily increased over time."
+      ],
+      "text": [
+        "The average mortgage interest rate in the U.S. has generally decreased over the past 50 years, reducing monthly payments despite rising home prices."
+      ]
+    }
+  },
+  {
+    "question": "What disparity exists in mortgage denial rates for Black and Hispanic applicants in Boston, and how does this align with nationwide trends for people of color?",
+    "answer": "Black and Hispanic people are more likely to be denied mortgage loans in Boston compared to other racial groups, aligning with nationwide trends where people of color face higher mortgage denial rates regardless of income.",
+    "keypoints": {
+      "video": [
+        "Black and Hispanic people are more likely to be denied mortgage loans in Boston compared to other racial groups."
+      ],
+      "text": [
+        "People of color in the U.S. face higher mortgage denial rates regardless of income, exacerbating homebuying barriers."
+      ]
+    }
+  },
+  {
+    "question": "What was the trend in monthly income burden for average new U.S. homeowners from 1990 to 2020, and what record did it reach in 2020?",
+    "answer": "The monthly income burden was consistently above 30% from 1990 until 2020, when it spiked sharply to exceed 35%, reaching near the highest level on record.",
+    "keypoints": {
+      "video": [
+        "Monthly income burden on average new US homeowners after a 10% down payment was consistently above 30% from 1990 until 2020, when it spiked sharply.",
+        "The monthly income burden on average new US homeowners after a 10% down payment reached its highest point in 2020, exceeding 35%."
+      ],
+      "text": [
+        "Zillow calculates that the monthly financial burden for the average new U.S. homeowner is near the highest level on record."
+      ]
+    }
+  }
+]

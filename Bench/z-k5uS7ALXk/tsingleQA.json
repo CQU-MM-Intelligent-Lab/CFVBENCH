@@ -1,0 +1,107 @@
+[
+  {
+    "question": "At what times does California's electricity demand typically increase during spring?",
+    "answer": "California's electricity demand increases around 6 AM and again at 6 PM during spring.",
+    "keypoints": [
+      "California's electricity demand increases around 6 AM and again at 6 PM during spring."
+    ]
+  },
+  {
+    "question": "What is the typical pattern of wind power generation for the California grid?",
+    "answer": "Wind power generation for the California grid often increases at night but is variable.",
+    "keypoints": [
+      "Wind power generation for the California grid often increases at night but is variable."
+    ]
+  },
+  {
+    "question": "Do wind and solar power typically meet California's peak electricity demands?",
+    "answer": "No, wind and solar power typically fail to meet California's peak electricity demands.",
+    "keypoints": [
+      "Wind and solar power typically fail to meet California's peak electricity demands."
+    ]
+  },
+  {
+    "question": "What do power companies use to fill the gap between renewable energy supply and peak demand?",
+    "answer": "Power companies rely on fossil fuels like natural gas to fill the gap between renewable supply and peak demand.",
+    "keypoints": [
+      "Power companies rely on fossil fuels like natural gas to fill the gap between renewable supply and peak demand."
+    ]
+  },
+  {
+    "question": "Why are fossil fuels used to supplement renewable energy in California?",
+    "answer": "Fossil fuels are used because they can be stored, unlike current solar and wind energy.",
+    "keypoints": [
+      "Fossil fuels are used because they can be stored, unlike current solar and wind energy."
+    ]
+  },
+  {
+    "question": "What is a major limitation in current renewable energy systems?",
+    "answer": "The inability to store renewable energy is a major gap in the renewable energy system.",
+    "keypoints": [
+      "The inability to store renewable energy is a major gap in the renewable energy system."
+    ]
+  },
+  {
+    "question": "Are lithium-ion batteries ideal for grid-scale energy storage?",
+    "answer": "No, lithium-ion batteries are not ideal for grid-scale energy storage.",
+    "keypoints": [
+      "Lithium-ion batteries, used in homes with solar panels, are not ideal for grid-scale energy storage."
+    ]
+  },
+  {
+    "question": "What challenges hinder grid-scale lithium-ion battery deployment?",
+    "answer": "Grid-scale lithium-ion battery deployment faces challenges due to the massive quantity required and limited global lithium availability.",
+    "keypoints": [
+      "Grid-scale lithium-ion battery deployment faces challenges due to the massive quantity required and limited global lithium availability."
+    ]
+  },
+  {
+    "question": "How many pumped storage hydro facilities currently operate in the US?",
+    "answer": "There are 39 pumped storage hydro facilities operating in the US.",
+    "keypoints": [
+      "There are currently 39 pumped storage hydro facilities operating in the US."
+    ]
+  },
+  {
+    "question": "How does pumped storage hydro generate electricity and what is its efficiency?",
+    "answer": "Releasing water downhill spins turbines to generate electricity, achieving about 90% efficiency.",
+    "keypoints": [
+      "Releasing the water downhill spins turbines to generate electricity when needed, achieving about 90% efficiency."
+    ]
+  },
+  {
+    "question": "How does Energy Vault store renewable energy using gravity?",
+    "answer": "Energy Vault stores renewable energy by using it to lift concrete blocks, creating gravitational potential energy.",
+    "keypoints": [
+      "Energy Vault stores renewable energy by using it to lift concrete blocks, creating gravitational potential energy."
+    ]
+  },
+  {
+    "question": "What efficiency does Energy Vault claim for its gravity storage system?",
+    "answer": "Energy Vault claims its gravity energy storage system can be over 80% efficient.",
+    "keypoints": [
+      "Energy Vault claims its gravity energy storage system can be over 80% efficient."
+    ]
+  },
+  {
+    "question": "How does Quidnet Energy's geomechanical pumped storage work?",
+    "answer": "Quidnet Energy uses renewable energy to pump water underground into pressurized rock for storage as potential energy.",
+    "keypoints": [
+      "Quidnet Energy uses renewable energy to pump water underground into pressurized rock for storage as potential energy (geomechanical pumped storage)."
+    ]
+  },
+  {
+    "question": "How does Quidnet's system generate electricity from stored water?",
+    "answer": "Quidnet's system releases pressurized water to the surface to spin a turbine and generate electricity.",
+    "keypoints": [
+      "Quidnet's system releases pressurized water to the surface to spin a turbine and generate electricity."
+    ]
+  },
+  {
+    "question": "How do some companies store renewable energy as thermal energy?",
+    "answer": "Some companies store renewable energy by converting it to thermal energy, such as superheating insulated salt to later create steam.",
+    "keypoints": [
+      "Some companies store renewable energy by converting it to thermal energy, such as superheating insulated salt to later create steam."
+    ]
+  }
+]

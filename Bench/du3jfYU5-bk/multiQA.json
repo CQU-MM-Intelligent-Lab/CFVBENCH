@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Wix, how do you initiate the process of editing an image?",
+    "answer": "Click the 'Edit' button at the top of the screen (highlighted in blue) to transition to photo editing mode where tools are displayed on the left side.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located at the top of the screen, which is highlighted in blue.",
+      "The interface transitions to a photo editing mode where various editing tools are displayed on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to crop an image to a 3:2 aspect ratio?",
+    "answer": "Select the 'Crop & Resize' tool from the left-side menu (crop symbol icon), then use the dropdown in the 'Crop and Resize' section to change the ratio from 'Free' to '3:2', which automatically adjusts the image to show a preview.",
+    "keypoints": [
+      "The user selects the 'Crop & Resize' tool from the left-side menu, which is represented by an icon with a crop symbol.",
+      "The user changes the crop ratio from 'Free' to '3:2' using the dropdown menu within the 'Crop and Resize' section.",
+      "The image adjusts automatically to fit the new aspect ratio, showing a preview of the cropped area."
+    ]
+  },
+  {
+    "question": "In Wix, how do you verify if the site is ready for publishing after edits?",
+    "answer": "Hover over the 'Publish' button at the top-right corner to trigger a tooltip confirming the site can be published with current changes.",
+    "keypoints": [
+      "The user hovers over the 'Publish' button at the top-right corner of the screen.",
+      "A tooltip appears, confirming that the site can be published with the current changes."
+    ]
+  }
+]

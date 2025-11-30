@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In WIX, how do you switch from desktop to mobile layout and select a section design?",
+    "answer": "Click the 'Mobile' option in the top-right corner to switch to mobile layout, then scroll down and select a section design template (e.g., 'Header Title') from the left sidebar menu.",
+    "keypoints": [
+      "The user clicks on the 'Mobile' option located in the top-right corner of the WIX editor interface, switching the view from desktop to mobile layout.",
+      "The cursor scrolls down within the mobile view and selects a section design template labeled \"Header Title\" from the left sidebar menu."
+    ]
+  },
+  {
+    "question": "In WIX, what happens after applying a section design in mobile view, and how do you customize its content?",
+    "answer": "The selected section design updates the mobile layout with placeholder header/subtitle text. Click the 'Edit' button on the section to open the editing panel, then type new text (e.g., \"Tutor Tube\") into the 'Header Title' field.",
+    "keypoints": [
+      "The selected section design is applied to the current page, updating the mobile layout with a header title and subtitle text.",
+      "The user then clicks on the 'Edit' button associated with the newly added section, opening an editing panel for further customization.",
+      "Within the editing panel, the user types \"Tutor Tube\" into the text field labeled 'Header Title', replacing the placeholder text."
+    ]
+  },
+  {
+    "question": "In WIX, how do you access styling options for a section and adjust its background image opacity?",
+    "answer": "Click the 'Design' tab next to the 'Edit' tab to access styling options, then drag the 'Background Image' slider within the panel to modify the opacity and change the visual appearance.",
+    "keypoints": [
+      "The user continues by clicking on the 'Design' tab next to the 'Edit' tab, accessing additional styling options for the section.",
+      "The user drags the 'Background Image' slider within the 'Design' panel to adjust the opacity, changing the visual appearance of the background image."
+    ]
+  },
+  {
+    "question": "In WIX, how do you add a new section below the 'Contact' area in mobile layout?",
+    "answer": "Right-click on the 'Contact' section to reveal a context menu, then select the 'Add Section' option to insert a new section below it, which automatically populates with default form fields.",
+    "keypoints": [
+      "A right-click action is performed on the 'Contact' section within the mobile layout, revealing a context menu with various options.",
+      "The user selects the 'Add Section' option from the context menu, inserting a new section below the 'Contact' section.",
+      "The newly inserted section is automatically populated with default content, including a form with fields for name, email, subject, and message."
+    ]
+  },
+  {
+    "question": "In WIX, how do you publish website changes and confirm success?",
+    "answer": "Click the 'Publish' button in the top-right corner to initiate publishing. A confirmation message will appear indicating the website has been successfully published.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located at the top-right corner of the WIX editor interface, initiating the publishing process for the website.",
+      "The screen displays a confirmation message indicating that the website has been successfully published."
+    ]
+  },
+  {
+    "question": "In WIX, how do you revert to desktop view after mobile edits, and what consistency is maintained?",
+    "answer": "Click the 'Desktop' option in the top-right corner to switch back. All changes made in mobile view will automatically reflect in the desktop layout, ensuring cross-device consistency.",
+    "keypoints": [
+      "The user navigates back to the desktop view using the 'Desktop' option in the top-right corner, reverting the layout from mobile to desktop.",
+      "The desktop layout reflects all changes made in the mobile view, ensuring consistency across different devices."
+    ]
+  }
+]

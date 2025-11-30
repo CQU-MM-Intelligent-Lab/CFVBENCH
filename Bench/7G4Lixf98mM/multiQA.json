@@ -1,0 +1,54 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the Walk behavior settings for a 2D character layer?",
+    "answer": "First, select the '2D Character for Character Animator' layer in the timeline panel. Then, click the 'Puppet Track Behaviors' option in the properties panel on the right side of the screen, and navigate to the Walk behavior settings.",
+    "keypoints": [
+      "The user selects the '2D Character for Character Animator' layer in the timeline panel of Adobe Character Animator.",
+      "The user clicks on the 'Puppet Track Behaviors' option located in the properties panel on the right side of the screen.",
+      "The user navigates to the 'Walk' behavior settings within the properties panel, where various options such as 'Start & Stop Easing', 'Stride Length', and 'Step Speed' are displayed."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what parameters control the elbow bend, hip sway, and overall strength of a walk animation?",
+    "answer": "Adjust the 'Elbow Bend' slider under the Arm Swing setting to modify arm movements, use the 'Hip Sway' slider to alter hip motion, and set the 'Strength' slider to control the animation's intensity.",
+    "keypoints": [
+      "The user interacts with the 'Arm Swing' setting by adjusting the 'Elbow Bend' slider, enhancing the character's arm movements during walking.",
+      "The user fine-tunes the 'Hip Sway' parameter using the corresponding slider in the 'Walk' behavior settings, altering the character's hip motion.",
+      "The user sets the 'Strength' slider within the 'Walk' behavior settings to a higher value, intensifying the overall animation effect."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify the walk style to 'Slump' and increase movement speed?",
+    "answer": "Select 'Slump' from the 'Style' dropdown menu in the Walk behavior settings, then increase the 'Body Speed' slider value to accelerate the character's movement.",
+    "keypoints": [
+      "The user adjusts the 'Style' dropdown menu under the 'Walk' behavior settings, selecting 'Slump' from the list of available styles.",
+      "The user modifies the 'Body Speed' slider within the 'Walk' behavior settings, increasing its value to observe changes in the character's movement."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what adjustments affect the easing time, stride length, and walking speed in the Walk behavior?",
+    "answer": "Modify the 'Start/Stop Easing' value to control acceleration timing, adjust the 'Stride Length' slider to change step distance, and alter the 'Step Speed' setting to regulate walking pace.",
+    "keypoints": [
+      "The user adjusts the 'Start/Stop Easing' value within the 'Walk' behavior settings, changing it from 0.1 seconds to 2 seconds, resulting in a slower start for the walking animation.",
+      "The user modifies the 'Stride Length' parameter under the 'Walk' behavior settings, increasing its value to observe changes in the character's walking stride length.",
+      "The user alters the 'Step Speed' setting within the 'Walk' behavior options, adjusting it to increase or decrease the speed at which the character walks."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you disable walk easing and adjust body movement parameters?",
+    "answer": "Click the 'Stop Easing' checkbox to disable animation smoothing, then modify the 'Body Speed' slider to control left-right body motion and increase the 'Toe Bend' value to enhance foot articulation.",
+    "keypoints": [
+      "The user clicks on the 'Stop Easing' checkbox, disabling the easing effect for the walk animation.",
+      "The user hovers over the 'Body Speed' option and adjusts its value, changing how much the body moves left and right during the walk.",
+      "The user selects the 'Toe Bend' option and increases its value, enhancing the bending effect of the toes during each step."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you preview walk animation changes after saving the project?",
+    "answer": "After saving via the 'Save' button in the top-right corner, press the left and right arrow keys to trigger the character's walk cycle in the animation preview window.",
+    "keypoints": [
+      "The user saves the current project by clicking the 'Save' button located in the top-right corner of the application window.",
+      "The user presses the left and right arrow keys on the keyboard, causing the character to walk in the animation preview window."
+    ]
+  }
+]

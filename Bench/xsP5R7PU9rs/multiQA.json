@@ -1,0 +1,71 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you open the Characterizer tool to import a face image?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Open Characterizer' from the dropdown, then choose and import an image file from the file explorer in the Characterizer window.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Open Characterizer' option is selected by a mouse click.",
+      "In the 'Characterizer' window that opens, the user selects an image file from the file explorer and imports it into the software."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to create and apply a new style after importing a face image?",
+    "answer": "Click the 'Create New Style' button in the Styles panel, select a style image in the Explorer window, then press 'Open' to apply the style and trigger automatic facial feature detection.",
+    "keypoints": [
+      "The user then clicks on the 'Create New Style' button located in the Styles panel.",
+      "A new Explorer window appears where the user selects a style image file named 'woman_1578_340 copy.jpg'.",
+      "After selecting the style image, the user presses the 'Open' button to apply the style.",
+      "The software automatically detects and outlines facial features with red dots and lines."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you refine facial feature points after automatic detection and proceed to the next step?",
+    "answer": "Adjust the red alignment points using the mouse for accuracy, then click the 'Next' button to advance to the region editing phase.",
+    "keypoints": [
+      "The user adjusts these points using the mouse to align them correctly with the face image.",
+      "Once adjustments are complete, the user clicks the 'Next' button to proceed."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you isolate facial features during the 'Edit Regions' step?",
+    "answer": "Select the 'Face' layer and paint over the facial area, then select the 'Hair' layer and paint over the hair region to define these areas.",
+    "keypoints": [
+      "The user selects the 'Face' layer and paints over the facial area to define it.",
+      "For the hair, the user selects the 'Hair' layer and paints over the hair region."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process to finalize a custom style after defining all regions?",
+    "answer": "Click the 'Done' button after painting all required areas, which displays the stylized character with adjustable settings like stylization and cycles.",
+    "keypoints": [
+      "After defining all regions, the user clicks the 'Done' button to finalize the custom style.",
+      "The final stylized character is displayed on the screen with options to adjust settings like stylization and cycles."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where is the 'Open Characterizer' option located and what appears after selection?",
+    "answer": "The 'Open Characterizer' option is the third item under the 'File' menu. Selecting it opens a new window displaying an imported face image on a checkered transparent background.",
+    "keypoints": [
+      "The user selects the 'Open Characterizer' option from the dropdown menu, which is the third item listed under the 'File' menu.",
+      "A new window opens displaying a face image that was imported previously, appearing in the center of the screen with a checkered background indicating transparency."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you initiate custom style creation from the Styles panel?",
+    "answer": "Click the 'Styles' panel on the left, select a style thumbnail, then click the 'Create New Style...' button at the bottom of the panel.",
+    "keypoints": [
+      "The user clicks on the 'Styles' panel located on the left side of the interface, revealing various style options for character customization.",
+      "The user selects a specific style thumbnail within the 'Styles' panel by clicking on it, changing the preview image to reflect the selected style.",
+      "The user clicks on the 'Create New Style...' button located at the bottom of the 'Styles' panel, initiating the creation of a custom style."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what settings should be configured before generating a puppet?",
+    "answer": "Adjust the 'Stylization' slider for cartoon effects, set 'Cycles' to 2, and select the lowest 'Resolution' for faster processing before clicking 'Generate Puppet'.",
+    "keypoints": [
+      "The user adjusts the 'Stylization' slider in the settings panel to increase the stylization effect, making the character appear more cartoonish.",
+      "The user sets the 'Cycles' parameter to 2 and the 'Resolution' to the lowest setting for faster processing.",
+      "The user clicks on the 'Generate Puppet' button located at the top-right corner of the screen to finalize the character creation process."
+    ]
+  }
+]

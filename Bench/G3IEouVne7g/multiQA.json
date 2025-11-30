@@ -1,0 +1,44 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a joint connection for the left arm and what visual confirmation appears?",
+    "answer": "Click the 'Rig' tab in the left sidebar, then select the 'Left Arm' layer in the 'Rig' panel. A yellow line connecting the 'Left Elbow' and 'Left Wrist' points will appear, confirming the joint connection is established.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located in the left sidebar of the application window.",
+      "The user selects the 'Left Arm' layer from the list within the 'Rig' panel, which is highlighted in blue.",
+      "A yellow line appears connecting the 'Left Elbow' and 'Left Wrist' points on the character's arm, indicating the successful creation of a joint connection."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after creating a left arm joint connection, how do you test the rig's flexibility?",
+    "answer": "After the yellow joint connection line appears, click and drag the 'Left Elbow' point downward. This causes the entire left arm to bend at the elbow, demonstrating the rig's flexibility.",
+    "keypoints": [
+      "A yellow line appears connecting the 'Left Elbow' and 'Left Wrist' points on the character's arm, indicating the successful creation of a joint connection.",
+      "The user drags the 'Left Elbow' point downward, causing the entire left arm to bend at the elbow, demonstrating the flexibility of the rigging setup."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable draggable movement for the right arm after switching to it?",
+    "answer": "Select the 'Right Arm' layer in the 'Rig' panel, then adjust the 'Draggable' handle property. This enables smooth movement when dragging the arm on screen.",
+    "keypoints": [
+      "The user clicks on the 'Right Arm' layer in the 'Rig' panel, switching the focus to the right arm for further adjustments.",
+      "The user adjusts the 'Draggable' handle property for the 'Right Arm', enabling smooth movement when dragging the arm on screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after rigging arm movements, how do you preview the character animation?",
+    "answer": "Click the play button in the timeline at the bottom of the screen. This initiates a preview showing the newly rigged arms moving naturally.",
+    "keypoints": [
+      "The user adjusts the 'Draggable' handle property for the 'Right Arm', enabling smooth movement when dragging the arm on screen.",
+      "The user clicks the play button in the timeline at the bottom of the screen, initiating a preview of the character animation with the newly rigged arms moving naturally."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what are the steps to save a rigged character project with a specific filename and format?",
+    "answer": "In the export dialog box, type the desired filename (e.g., '2D Character for Character Animator') into the filename field. Then select 'Character Animator Project' from the export format dropdown menu, and click 'Save' to complete the export.",
+    "keypoints": [
+      "The user types '2D Character for Character Animator' into the export dialog box's filename field.",
+      "The user selects the 'Character Animator Project' option from the export format dropdown menu.",
+      "The user clicks the 'Save' button in the export dialog box, completing the export process and saving the rigged character file."
+    ]
+  }
+]

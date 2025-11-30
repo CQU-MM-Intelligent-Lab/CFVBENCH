@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What were the closing values and percentage changes for the Dow Industrials, S&P 500, and NASDAQ on Friday, and what specific jobs report data triggered the market decline?",
+    "answer": "The Dow Industrials closed at 40,345 (down 1.01%), the S&P 500 at 5,408 (down 1.73%), and the NASDAQ at 16,691 (down 2.55%). The U.S. Labor Department reported employers added 100,420 jobs in August, less than analysts expected, creating uncertainty about Federal Reserve interest rate cuts.",
+    "keypoints": {
+      "video": [
+        "The U.S. Markets display shows the Dow Industrials at 40,345 with a -1.01% change, S&P 500 at 5,408 with a -1.73% change, and NASDAQ at 16,691 with a -2.55% change."
+      ],
+      "text": [
+        "Federal U.S. stocks declined on Friday due to a jobs report creating uncertainty about Federal Reserve interest rate cuts.",
+        "The U.S. Labor Department reported employers added 100,420 jobs in August, less than analysts expected."
+      ]
+    }
+  },
+  {
+    "question": "What were the exact closing prices and percentage declines for NVIDIA, Marvell Technology, and Advanced Micro Devices, and what was the Philadelphia Semiconductor Index's performance?",
+    "answer": "NVIDIA closed at $102.83 (down 4.09%), Marvell Technology at $66.20 (down 5.28%), and Advanced Micro Devices at $134.35 (down 3.65%). The Philadelphia Semiconductor Index finished 4.5% lower, its biggest weekly drop since March 2020.",
+    "keypoints": {
+      "video": [
+        "NVIDIA's stock price is shown at $102.83 with a 4.09% drop.",
+        "Marvell Technology's stock price is indicated as $66.20 with a 5.28% decrease.",
+        "Advanced Micro Devices' stock price is listed at $134.35 with a 3.65% decline."
+      ],
+      "text": [
+        "The Philadelphia Semiconductor Index finished 4.5% lower, logging its biggest weekly drop since March 2020."
+      ]
+    }
+  }
+]

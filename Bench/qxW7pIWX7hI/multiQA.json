@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In Tutor Tube Video Editor, what happens when you finalize the export after enabling 'Separate files', and how are the output files named?",
+    "answer": "After selecting the 'Separate files' option and clicking 'Export', the file explorer window shows newly created files named with timestamp ranges, such as \"San Francisco Townhouses - Copy-00:00:06.835-00:00:12.796.mp4\" and \"San Francisco Townhouses - Copy-00:00:12.796-00:00:21.672.mp4\".",
+    "keypoints": [
+      "The user selects the 'checkbox' next to the 'Separate files' option to export each segment as an individual file.",
+      "The user clicks on the 'Export' button once more to generate separate files for each segment.",
+      "The file explorer window updates to show the new files named \"San Francisco Townhouses - Copy-00:00:06.835-00:00:12.796.mp4\" and \"San Francisco Townhouses - Copy-00:00:12.796-00:00:21.672.mp4\"."
+    ]
+  },
+  {
+    "question": "In Tutor Tube Video Editor, what notification appears after merging cuts with 'Enable Feature X' activated, and how do you dismiss it?",
+    "answer": "After enabling 'Enable Feature X' in Settings and clicking 'Merge cuts', a notification appears stating: \"Done! Note: cutpoints may be inaccurate. Make sure you test the output files...\" Dismiss it by clicking the 'Close' button in the dialog box.",
+    "keypoints": [
+      "The user selects the checkbox next to the 'Enable Feature X' label within the 'Settings' window to enable additional export options.",
+      "The user clicks on the 'Merge cuts' button to combine multiple segments into a single clip.",
+      "The screen displays a notification stating \"Done! Note: cutpoints may be inaccurate. Make sure you test the output files in your desired player/editor before you delete the source. If output does not look right, see the HELP page.\" after the merge operation.",
+      "The user clicks on the 'Close' button in the notification dialog box to dismiss the message."
+    ]
+  }
+]

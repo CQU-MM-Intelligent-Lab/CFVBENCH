@@ -1,0 +1,40 @@
+[
+  {
+    "question": "How do the scenes of unloading a body bag from a shipping container and carrying a body bag into an ambulance reflect the deterioration of the Palestinian Health Ministry's capacity to maintain death records?",
+    "answer": "The handling of body bags in ad hoc locations like shipping containers and ambulances demonstrates the collapse of standard recording systems due to hospital raids and communication disruptions during the military campaign.",
+    "keypoints": {
+      "video": [
+        "Men unload a blue body bag from a shipping container onto the ground.",
+        "A group of individuals carries a body bag into an ambulance."
+      ],
+      "text": [
+        "The Palestinian Health Ministry had maintained reliable electronic death records, but its capacity deteriorated under Israel’s military campaign, which included raids on hospitals and disruptions to digital communications."
+      ]
+    }
+  },
+  {
+    "question": "Why did researchers employ capture-recapture analysis to estimate Gaza's death toll, and how do evacuation and rescue scenes relate to this methodology?",
+    "answer": "Researchers used capture-recapture analysis to account for unrecorded deaths under rubble, as chaotic conditions shown in building evacuations and street rescues hindered comprehensive fatality documentation.",
+    "keypoints": {
+      "video": [
+        "People evacuate a damaged building, carrying belongings and helping each other.",
+        "Rescue workers carry a person on a stretcher through debris-filled streets."
+      ],
+      "text": [
+        "Researchers used capture-recapture analysis, comparing multiple independent lists of fatalities, to estimate the actual death toll due to unrecorded deaths under rubble."
+      ]
+    }
+  },
+  {
+    "question": "How does the image of a crying child held near rubble exemplify the demographic findings in *The Lancet* study about war fatalities?",
+    "answer": "The distressed child represents vulnerable populations (women, children, and elderly) who comprised nearly 60% of fatalities according to the study.",
+    "keypoints": {
+      "video": [
+        "A child cries while being held by an adult near a pile of rubble."
+      ],
+      "text": [
+        "The *Lancet* study reported that nearly 60% of those killed were women, children, and people over age 65."
+      ]
+    }
+  }
+]

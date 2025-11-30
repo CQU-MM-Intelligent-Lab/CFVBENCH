@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What competitive claim does Alibaba make about its Qwen 2.5 AI model against DeepSeek V3 and other industry leaders, and what visual evidence indicates DeepSeek's market presence?",
+    "answer": "Alibaba claims its Qwen 2.5 model surpasses DeepSeek V3 and outperforms the most advanced open-source models from OpenAI and Meta. DeepSeek's market presence is evidenced by its accessible chat interface offering free access to DeepSeek-V3 and its mobile app being positioned alongside ChatGPT on smartphone screens.",
+    "keypoints": {
+      "video": [
+        "A computer screen shows a chat interface with DeepSeek, offering free access to DeepSeek-V3 and prompting users to start a conversation.",
+        "The DeepSeek app icon is visible next to ChatGPT on a smartphone screen, suggesting a comparison or alternative AI tool."
+      ],
+      "text": [
+        "Alibaba claims its Qwen 2.5 AI model surpasses the performance of DeepSeek V3.",
+        "Alibaba states Qwen 2.5 outperforms the most advanced open-source AI models from DeepSeek, OpenAI, and Meta."
+      ]
+    }
+  }
+]

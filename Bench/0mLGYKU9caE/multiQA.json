@@ -1,0 +1,12 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a new ellipse layer in Photoshop and integrate it back into Character Animator?",
+    "answer": "Click the 'Photoshop' icon in the top-right corner, then select the plus button to create a layer named 'Ellipse'. Draw a circle near the character's head using the Ellipse tool, save the file, and return to Character Animator.",
+    "keypoints": [
+      "The user clicks on the 'Photoshop' icon located in the top-right corner of the application window.",
+      "From the Photoshop interface, the user selects the plus button at the top and creates a new layer named 'Ellipse'.",
+      "The cursor draws a circle on the canvas using the Ellipse tool, positioning it near the character's head.",
+      "The user then saves the file and returns to the Character Animator interface."
+    ]
+  }
+]

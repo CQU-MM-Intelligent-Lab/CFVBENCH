@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What were the levels and daily gains for the Dow Industrials, S&P 500, and NASDAQ?",
+    "answer": "The Dow Industrials was at 42,588 with a 0.01% gain, the S&P 500 was at 5,777 with a 0.16% gain, and the NASDAQ was at 18,272 with a 0.46% gain.",
+    "keypoints": [
+      "The U.S. Markets show positive gains with the Dow Industrials at 42,588 (+0.01%), S&P 500 at 5,777 (+0.16%), and NASDAQ at 18,272 (+0.46%)."
+    ]
+  },
+  {
+    "question": "What was Apple's stock price and its daily percentage change?",
+    "answer": "Apple's stock price was $223.75 with a 1.37% increase.",
+    "keypoints": [
+      "Apple's stock price is listed as $223.75, showing an increase of 1.37%."
+    ]
+  },
+  {
+    "question": "What was NVIDIA's stock price and its daily percentage change?",
+    "answer": "NVIDIA's stock price was $120.69 with a 0.59% decrease.",
+    "keypoints": [
+      "NVIDIA's stock price is shown as $120.69, indicating a decrease of 0.59%."
+    ]
+  },
+  {
+    "question": "What was Tesla's stock price and its daily percentage change?",
+    "answer": "Tesla's stock price was $288.14 with a 3.50% increase.",
+    "keypoints": [
+      "Tesla's stock price is displayed as $288.14, with an increase of 3.50%."
+    ]
+  },
+  {
+    "question": "What was KB Home's stock price and its daily percentage change?",
+    "answer": "KB Home's stock price was $58.57 with a 5.21% decrease.",
+    "keypoints": [
+      "KB Home's stock price is listed as $58.57, showing a decrease of 5.21%."
+    ]
+  },
+  {
+    "question": "What was GameStop's stock price and its daily percentage change?",
+    "answer": "GameStop's stock price was $25.40 with a 0.82% decrease.",
+    "keypoints": [
+      "GameStop's stock price is shown as $25.40, with a decrease of 0.82%."
+    ]
+  }
+]

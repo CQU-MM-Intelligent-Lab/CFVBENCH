@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In Wix Photo Studio, how do you add a text element to an image and customize its font size and content?",
+    "answer": "Click the 'Text' option in the left sidebar, then select the 'Font' dropdown and adjust the font size using the slider. Finally, type your desired text in the text box that appears over the image.",
+    "keypoints": [
+      "The user clicks on the 'Text' option located in the left sidebar of the Wix Photo Studio interface, which is highlighted in blue.",
+      "From the editing tools menu, the 'Font' dropdown menu is selected by a mouse click, and the font size is adjusted to 78 using the slider.",
+      "In the text box displayed over the image, the user types 'TutorTube', which appears in black text with a white outline."
+    ]
+  },
+  {
+    "question": "In Wix Photo Studio, how do you adjust text formatting, add content, resize the text box, and justify alignment?",
+    "answer": "Set the text alignment to center, then type additional content into the text box. Drag the edges of the text box to resize it, and finally select the 'Justify' alignment option to evenly distribute text across the width.",
+    "keypoints": [
+      "The user adjusts the alignment of the text to center it within the text box, ensuring it is visually balanced.",
+      "The user types additional text into the text box, entering 'This is a paragraph.' repeatedly to demonstrate text wrapping and formatting.",
+      "The cursor drags the edges of the text box to resize it, allowing the text to fit neatly within the designated area.",
+      "The user selects the 'Justify' alignment option from the text settings, aligning the text evenly across the width of the text box."
+    ]
+  }
+]

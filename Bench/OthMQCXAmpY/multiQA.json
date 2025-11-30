@@ -1,0 +1,31 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a new scene camera and where does it displayed?",
+    "answer": "Click the 'Scene' menu item at the top of the application window, then select 'New Scene Camera' from the dropdown menu. This adds a new camera track behavior in the right-hand side panel under 'Camera Track Behaviors'.",
+    "keypoints": [
+      "The user clicks on the 'Scene' menu item located at the top of the application window.",
+      "From the dropdown menu, the 'New Scene Camera' option is selected by a mouse click.",
+      "A new camera track behavior appears in the right-hand side panel under 'Camera Track Behaviors'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps configure both position and zoom settings at a specific timeline point?",
+    "answer": "Drag the timeline slider to the 0.5-second mark, select 'Position X' and 'Position Y' under 'Camera Transform', adjust their values, then click the 'Zoom' option and adjust its value to zoom in on the character.",
+    "keypoints": [
+      "The user drags the timeline slider to the 0.5-second mark, positioning it for adding keyframes.",
+      "The user clicks on the 'Position X' and 'Position Y' options under the 'Camera Transform' section in the right-hand side panel.",
+      "The user adjusts the values for 'Position X' and 'Position Y' using the input fields, changing the camera's position accordingly.",
+      "The user clicks on the 'Zoom' option under the 'Camera Transform' section and adjusts its value to zoom in on the character."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify keyframe properties and timing to alter camera movement style?",
+    "answer": "Right-click a keyframe and select 'Ease' to smooth transitions, drag keyframes along the timeline to adjust timing, then select 'Toggle Hold Keyframe' from the context menu to change movement style. Press play to review changes.",
+    "keypoints": [
+      "The user selects the 'Ease' option from the context menu by right-clicking on a keyframe in the timeline, smoothing the transition between keyframes.",
+      "The user drags the selected keyframes along the timeline to adjust the timing of the camera movements.",
+      "The user clicks on the 'Toggle Hold Keyframe' option from the context menu to change the type of keyframe, altering the camera movement style.",
+      "The user presses the play button again to review the updated animation with the new keyframe settings."
+    ]
+  }
+]

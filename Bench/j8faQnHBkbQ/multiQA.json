@@ -1,0 +1,57 @@
+[
+  {
+    "question": "In Photoshop, what are the first three steps to create a new document for character animation?",
+    "answer": "First, click the 'File' menu in the top-left corner. Then select 'New' from the dropdown menu. Finally, choose the 'Film & Video' category in the dialog box and select an HDTV preset like 720p or 1080p.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'New' option from the dropdown menu, which is the second item listed under the 'File' menu.",
+      "The user clicks on the 'Film & Video' category within the new file dialog box, situated near the center of the screen.",
+      "The user selects the 'HDTV 720p' preset from the list, which appears as the third option in the 'Film & Video' section."
+    ]
+  },
+  {
+    "question": "In Photoshop, how do you prepare a reference image for tracing a character?",
+    "answer": "Import the image via 'File > Place Embedded', resize it using Ctrl+T, reduce its opacity via the Layers panel slider, and lock the layer to prevent accidental edits.",
+    "keypoints": [
+      "The user imports an image file by clicking on the 'File' menu and then selecting 'Place Embedded' from the dropdown menu.",
+      "The user places the imported image onto the canvas and adjusts its size using the transform tool accessed via the 'Ctrl + T' keyboard shortcut.",
+      "The user reduces the opacity of the placed image layer to make it semi-transparent for easier tracing.",
+      "The user locks the layer containing the semi-transparent image to prevent accidental modifications."
+    ]
+  },
+  {
+    "question": "In Photoshop, what is the process for tracing and coloring a character's face?",
+    "answer": "Create a new layer named 'Face', trace the contours with the Pen Tool, then fill the shape with a color from the Color Picker.",
+    "keypoints": [
+      "The user creates a new layer named 'Face' by clicking the 'New Layer' button at the bottom of the Layers panel and renaming it.",
+      "The user uses the Pen Tool selected from the toolbar on the left side of the screen to trace around the face area of the character.",
+      "The user fills the traced face shape with a color by selecting a fill color from the Color Picker dialog box."
+    ]
+  },
+  {
+    "question": "In Photoshop, how do you create symmetrical body parts like arms?",
+    "answer": "Duplicate the right arm layer group, rename it to 'Left Arm', flip it horizontally using Ctrl+T, and adjust its position for alignment.",
+    "keypoints": [
+      "The user duplicates the right arm layer group by right-clicking on the layer in the Layers panel and selecting 'Duplicate Layer'.",
+      "The user renames the duplicated group to 'Left Arm' and flips it horizontally using the transform tool (Ctrl + T) and the 'Flip Horizontal' option.",
+      "The user adjusts the positioning and size of different body parts using the 'Ctrl + T' transform tool to ensure they align correctly."
+    ]
+  },
+  {
+    "question": "In Photoshop, what steps ensure smooth animation of joints in Character Animator?",
+    "answer": "Add circular shapes at joints like elbows and knees using the Ellipse Tool, then organize these layers into groups such as 'Arms' or 'Legs'.",
+    "keypoints": [
+      "The user adds circular shapes at joints like elbows and knees to ensure smooth animation later in Character Animator.",
+      "The user creates a new group named 'Body' in the Layers panel by clicking the 'New Group' button and renaming it.",
+      "The user organizes all traced parts into respective folders within the Layers panel for easier management and manipulation."
+    ]
+  },
+  {
+    "question": "In Photoshop, how do you finalize and save a traced character for animation?",
+    "answer": "After organizing all layers into groups like 'Body' or 'Face', go to 'File > Save As' to store the completed design.",
+    "keypoints": [
+      "The user organizes all traced parts into groups within the Layers panel for better management and animation preparation.",
+      "The user saves the completed traced character design by going to the 'File' menu and selecting 'Save As' from the dropdown."
+    ]
+  }
+]

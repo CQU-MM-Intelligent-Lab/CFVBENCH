@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you paste an element onto the 'TutorTube' layer and then adjust its horizontal position to the left side of the screen?",
+    "answer": "First, right-click on the 'TutorTube' layer in the timeline panel to open the context menu and select 'Paste'. Then, in the 'Properties' panel, drag the 'Position X' slider to move the logo from the center to the left side of the screen.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'TutorTube' in the timeline panel, causing a context menu to appear.",
+      "The user selects the 'Paste' option from the context menu that appears after right-clicking on the timeline panel.",
+      "The cursor drags the 'Position X' slider within the 'Properties' panel to adjust the horizontal position of the logo, moving it from the center to the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you copy an element using the Edit menu and paste it onto the 'TutorTube' timeline layer?",
+    "answer": "Select the 'Copy' option (the third item) from the 'Edit' dropdown menu. Then, right-click on the 'TutorTube' layer in the timeline panel and choose 'Paste' from the context menu.",
+    "keypoints": [
+      "From the 'Edit' dropdown menu, the 'Copy' option, which is the third item, is selected by a mouse click.",
+      "A right-click action is performed on the layer named 'TutorTube' in the timeline panel, causing a context menu to appear.",
+      "The user selects the 'Paste' option from the context menu that appears after right-clicking on the timeline panel."
+    ]
+  }
+]

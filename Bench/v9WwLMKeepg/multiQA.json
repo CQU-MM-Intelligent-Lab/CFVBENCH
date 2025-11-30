@@ -1,0 +1,45 @@
+[
+  {
+    "question": "In Wix, how do you add an 'Imprint' section to your webpage and what appears as a result?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select 'Imprint' from the dropdown menu. This action adds an imprint template to your webpage.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix editor interface.",
+      "The user selects the 'Imprint' section from the dropdown menu that appears after clicking the 'Add' button, resulting in an imprint template appearing on the screen."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to edit the title of an 'Imprint' section after adding it?",
+    "answer": "First, click the 'Edit' tab within the imprint section to reveal editable fields. Then, type your desired title (e.g., 'Tutor Tube') into the 'Title' field to update the displayed title.",
+    "keypoints": [
+      "The user clicks on the 'Edit' tab within the imprint section to modify the content, revealing editable fields for title, subtitle, and paragraph text.",
+      "The user types 'Tutor Tube' into the 'Title' field, updating the displayed title in the imprint section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you switch from editing content to customizing the design of an 'Imprint' section?",
+    "answer": "After editing content in the 'Edit' tab, click the 'Design' tab within the imprint section. This reveals design options for appearance customization.",
+    "keypoints": [
+      "The user clicks on the 'Edit' tab within the imprint section to modify the content, revealing editable fields for title, subtitle, and paragraph text.",
+      "The user clicks on the 'Design' tab within the imprint section, presenting various design options to customize the appearance of the imprint."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after clicking the 'Learn More' button in an 'Imprint' section, and how do you publish the website?",
+    "answer": "Clicking 'Learn More' opens a new page with additional imprint information. To publish changes, click the 'Publish' button in the top-right corner of the editor.",
+    "keypoints": [
+      "The user clicks on the 'Learn More' button at the bottom of the imprint section, opening a new page with additional information about imprints.",
+      "The user clicks on the 'Publish' button in the top-right corner of the Wix editor, initiating the process to publish the website changes."
+    ]
+  },
+  {
+    "question": "In Wix, what is the full process to add an 'Imprint' section, set its title, and access design options?",
+    "answer": "Click 'Add' in the top navigation bar and select 'Imprint' to add the section. Then, click the 'Edit' tab, enter your title in the 'Title' field, and finally click the 'Design' tab to access customization options.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix editor interface.",
+      "The user selects the 'Imprint' section from the dropdown menu that appears after clicking the 'Add' button, resulting in an imprint template appearing on the screen.",
+      "The user clicks on the 'Edit' tab within the imprint section to modify the content, revealing editable fields for title, subtitle, and paragraph text.",
+      "The user types 'Tutor Tube' into the 'Title' field, updating the displayed title in the imprint section.",
+      "The user clicks on the 'Design' tab within the imprint section, presenting various design options to customize the appearance of the imprint."
+    ]
+  }
+]

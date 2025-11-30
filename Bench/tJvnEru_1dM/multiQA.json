@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you disable Layer 1 using the Properties panel and what is the visual result?",
+    "answer": "Right-click Layer 1 in the Properties panel, select 'Disable Layer' from the context menu. This makes Layer 1 inactive and disappear from the preview, leaving only Layer 2 and Layer 3 visible.",
+    "keypoints": [
+      "The user right-clicks on Layer 1 in the 'Properties' panel on the right side of the screen, opening a context menu with options such as 'Disable Layer', 'Enable Independent', and 'Add Behavior'.",
+      "The user selects 'Disable Layer' from the context menu, causing Layer 1 to become inactive and disappear from the preview area, leaving only Layer 2 and Layer 3 visible."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add the 'Nutcracker Jaw' behavior to Layer 2?",
+    "answer": "Click Layer 2 in the Properties panel to highlight it, select 'Add Behavior' from the context menu, then choose 'Nutcracker Jaw' from the dropdown list.",
+    "keypoints": [
+      "The user then clicks on Layer 2 in the 'Properties' panel, highlighting it in blue, and selects 'Add Behavior' from the context menu that appears.",
+      "A new dropdown menu appears, and the user selects 'Nutcracker Jaw' from the list of behaviors, adding it to Layer 2."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps initiate recording mode and demonstrate the Nutcracker Jaw behavior with microphone input?",
+    "answer": "Click the 'Record' button at the top, create a new scene via the 'Scene' menu, then speak into the microphone. This makes Layer 2 (mouth) move up/down in sync with audio.",
+    "keypoints": [
+      "After selecting 'Nutcracker Jaw', the user clicks on the 'Record' button located at the top of the application window, initiating the recording mode.",
+      "The user creates a new scene by clicking on the 'New Scene' option in the 'Scene' menu at the top of the application window.",
+      "In the newly created scene, the user speaks into the microphone, and the mouth represented by Layer 2 moves up and down in sync with the audio input, demonstrating the Nutcracker Jaw behavior."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after adjusting Nutcracker Jaw parameters, how do you access fine-tuning controls and preview the animation?",
+    "answer": "Click the 'Controls' tab at the bottom for additional settings, then click the play button in the timeline to preview the character's mouth movement with recorded audio.",
+    "keypoints": [
+      "The user clicks on the 'Controls' tab at the bottom of the application window, accessing additional controls for fine-tuning the animation.",
+      "Finally, the user previews the animation by clicking the play button in the timeline at the bottom of the screen, observing the character's mouth moving naturally in response to the recorded audio."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the Triggers tab and select the Nutcracker Jaw behavior for Layer 2?",
+    "answer": "Click the 'Triggers' tab in the right-side panel, then select 'Nutcracker jaw [Layer 2]' from the dropdown menu in the Triggers section (highlighted in red text).",
+    "keypoints": [
+      "The user clicks on the 'Triggers' tab located in the right-side panel of the Adobe Character Animator interface.",
+      "The user selects the 'Nutcracker jaw [Layer 2]' option from the dropdown menu within the 'Triggers' section, which is highlighted in red text."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure the Nutcracker Jaw behavior to reduce mouth sensitivity, limit movement range, and ensure vertical motion?",
+    "answer": "Decrease the 'Audio Flappiness' slider to 15%, set 'Maximum Movement' to 10%, and select 'Position' from the 'Movement' dropdown menu to enforce vertical movement.",
+    "keypoints": [
+      "The user adjusts the 'Audio Flappiness' slider within the 'Nutcracker jaw [Layer 2]' settings to decrease its value from 39% to 15%, reducing the sensitivity of the mouth movement.",
+      "The user then sets the 'Maximum Movement' parameter to 10%, limiting how far the mouth can move during animation.",
+      "The cursor hovers over the 'Movement' dropdown menu and selects 'Position', ensuring the mouth moves vertically rather than rotating."
+    ]
+  }
+]

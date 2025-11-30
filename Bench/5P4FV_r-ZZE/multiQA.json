@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In LosslessCut, what notification appears after exporting a segment and how do you dismiss it?",
+    "answer": "A notification appears stating: \"Done! Note: cutpoints may be inaccurate. Make sure you test the output files in your desired player/editor before you delete the source. If output does not look right, see the HELP page.\" Dismiss it by clicking the 'Close' button within the notification dialog box.",
+    "keypoints": [
+      "A notification appears stating \"Done! Note: cutpoints may be inaccurate. Make sure you test the output files in your desired player/editor before you delete the source. If output does not look right, see the HELP page.",
+      "The user clicks on the 'Close' button within the notification dialog box to dismiss it."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you verify an exported video segment plays the correct time range?",
+    "answer": "Navigate to the exported file in the file explorer, double-click it to open in a media player, and confirm the video plays from the exported start time (e.g., 00:00:06.268) to end time (e.g., 00:00:09.835).",
+    "keypoints": [
+      "The user navigates through the file explorer and selects the newly exported video file named \"San Francisco Townhouses-00.00.06.268 - 00.00.09.835.mp4\".",
+      "The user double-clicks on the selected exported video file to open it in a media player.",
+      "The media player displays the video content starting from the specified time range of 00:00:06.268 to 00:00:09.835."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you export a new segment with audio included after adjusting the timeline?",
+    "answer": "First, click the 'Export' button to initiate export. Then, select the 'Keep audio' checkbox near the top-right corner. Next, drag the timeline markers to set new in/out points. Finally, click 'Export' again to finalize.",
+    "keypoints": [
+      "The user clicks on the 'Export' button again to initiate another export process for a different segment of the video.",
+      "The user selects the 'Keep audio' checkbox located near the top-right corner of the application window to ensure audio is included in the export.",
+      "The user drags the timeline markers to set new in and out points for the next video segment to be exported.",
+      "The user clicks on the 'Export' button once more to finalize the export of the newly defined segment."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you check export details and exit the application?",
+    "answer": "Inspect the file size and duration of the exported video in the file explorer, then close the application by clicking the 'X' button at the top-right corner of the window.",
+    "keypoints": [
+      "The user checks the file size and duration details of the exported video displayed in the file explorer window.",
+      "The user closes the application window by clicking on the 'X' button at the top-right corner."
+    ]
+  }
+]

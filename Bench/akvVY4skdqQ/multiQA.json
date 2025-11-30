@@ -1,0 +1,33 @@
+[
+  {
+    "question": "In Wix, what are the steps to add a video section with a placeholder to a webpage?",
+    "answer": "First, click the 'Add' button in the top menu bar. Then select 'Video' from the dropdown menu. Choose a layout from the left side panel templates. This adds the video section to the main editing area with a placeholder video showing default title and subtitle text.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Video' option is selected by a mouse click.",
+      "A video section template appears on the left side panel, and the user selects a specific layout by clicking on it.",
+      "The selected video section is added to the main editing area, displaying a placeholder video with the title \"VIDEO TITLE\" and subtitle \"Video Subtitle\"."
+    ]
+  },
+  {
+    "question": "In Wix, how do you replace a video section's placeholder with a custom video from your site files?",
+    "answer": "Click the 'Edit & Replace' button in the left-side media settings panel. In the 'Choose a Video' window, navigate to the 'Site Files' tab. Select your desired video file from the list, then click 'Apply' to replace the placeholder with your selected video in the editing area.",
+    "keypoints": [
+      "The user clicks on the 'Edit & Replace' button within the media settings panel on the left side.",
+      "A new window opens titled \"Choose a Video,\" where the user navigates to the 'Site Files' tab.",
+      "The user selects a video file from the list displayed under 'Site Files'.",
+      "After selecting the video, the user clicks the 'Apply' button to confirm the selection.",
+      "The chosen video replaces the placeholder in the main editing area, showing the actual video content."
+    ]
+  },
+  {
+    "question": "In Wix, what happens immediately after applying a custom video to a section and how do you access its design options?",
+    "answer": "After applying the video, it plays in the designated section. To customize it, click the 'Design' tab at the top of the editing area. This provides access to design tools for further modifications to the video section.",
+    "keypoints": [
+      "The chosen video replaces the placeholder in the main editing area, showing the actual video content.",
+      "The user clicks on the 'Design' tab at the top of the editing area to access design options for the video section.",
+      "The video section now displays the selected video playing within the designated area.",
+      "The user can further customize the video section using the available design tools."
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What advanced reasoning capability does OpenAI's Strawberry project aim to demonstrate that current models like ChatGPT, used for tasks such as conversation and translation, have not yet achieved?",
+    "answer": "OpenAI's Strawberry project aims to demonstrate advanced reasoning capabilities including autonomous internet navigation and deep research, which current models like ChatGPT have not accomplished despite their abilities in conversation and translation.",
+    "keypoints": {
+      "video": [
+        "ChatGPT is a large language model developed by OpenAI, designed to generate human-like text in response to given prompts and can be fine-tuned for various applications including conversation, translation, and more."
+      ],
+      "text": [
+        "The Strawberry project aims to demonstrate advanced reasoning capabilities in OpenAI's models.",
+        "Experts state that achieving reliable autonomous internet navigation and deep research is something current AI models have not yet accomplished."
+      ]
+    }
+  }
+]

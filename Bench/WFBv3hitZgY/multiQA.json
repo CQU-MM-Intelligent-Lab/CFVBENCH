@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In Wix, how do you initiate the process of uploading a video file from your computer?",
+    "answer": "Click the 'Upload Media' button in the media upload interface, then select 'Upload from Computer' in the new window that appears to open the file explorer.",
+    "keypoints": [
+      "The user clicks on the 'Upload Media' button located in the center of the screen within the media upload interface.",
+      "A new window appears, displaying various file options and a central area for dragging and dropping files or selecting 'Upload from Computer'.",
+      "The user selects the 'Upload from Computer' option, which opens a file explorer window."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to locate and begin uploading a specific video file after opening the file explorer?",
+    "answer": "Navigate to the folder containing the desired video file in the file explorer window, then double-click the file to start the upload process.",
+    "keypoints": [
+      "In the file explorer window, the user navigates to the desired folder containing the video file named 'TutorTube - Multimedia Lessons at your Convenience.mp4'.",
+      "The user double-clicks on the selected video file to initiate the upload process."
+    ]
+  },
+  {
+    "question": "In Wix, what visual confirmation indicates successful video upload completion and where is the file stored?",
+    "answer": "A progress bar reaching 100% and the message '1 Upload Complete' confirm successful upload, and the file appears in the 'Site Files' section of the media library.",
+    "keypoints": [
+      "The video file is uploaded successfully, as indicated by the progress bar reaching 100% and the message '1 Upload Complete'.",
+      "The uploaded video file appears in the 'Site Files' section of the media library."
+    ]
+  },
+  {
+    "question": "In Wix, how do you apply an uploaded video as a website background and what immediate change occurs?",
+    "answer": "Click the uploaded video file in the media library to select it, which automatically applies it as the background, replacing any previous background with a dynamic video.",
+    "keypoints": [
+      "The user clicks on the uploaded video file to select it for use as the background video.",
+      "The video file is applied as the background, replacing the previous image with a dynamic video playing in the background."
+    ]
+  },
+  {
+    "question": "In Wix, what should you verify during website preview after setting a video background?",
+    "answer": "Confirm the video plays seamlessly as the background while all other elements like text and images remain clearly visible and functional.",
+    "keypoints": [
+      "The user previews the website to confirm that the video background is functioning correctly.",
+      "The preview shows the video playing seamlessly as the background while other elements like text and images remain visible."
+    ]
+  },
+  {
+    "question": "In Wix, what final steps complete the video background setup process?",
+    "answer": "Return to editing mode to adjust any elements like titles or background settings, then save all changes to implement the dynamic video background.",
+    "keypoints": [
+      "The user returns to the editing mode to make further adjustments if needed.",
+      "The user can now work around with the background, titles, and other elements on the page.",
+      "The user saves the changes made to the website."
+    ]
+  },
+  {
+    "question": "In Wix, what is the end-to-end workflow to add and test a video background?",
+    "answer": "Upload a video file via the media library, apply it as the background, preview to verify seamless playback with visible UI elements, then save changes after final adjustments.",
+    "keypoints": [
+      "The user clicks on the uploaded video file to select it for use as the background video.",
+      "The user previews the website to confirm that the video background is functioning correctly.",
+      "The user returns to the editing mode to make further adjustments if needed.",
+      "The user saves the changes made to the website."
+    ]
+  }
+]

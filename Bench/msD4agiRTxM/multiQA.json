@@ -1,0 +1,40 @@
+[
+  {
+    "question": "What two research methods were conducted at night using specialized underwater operations aboard the ship, and what specific organisms did they target?",
+    "answer": "Researchers zapped water with light to detect and measure algae cell responses, and used nets to capture zooplankton for behavioral testing under varying light and water conditions.",
+    "keypoints": {
+      "video": [
+        "Researchers aboard a ship conduct underwater operations using specialized equipment at night."
+      ],
+      "text": [
+        "Scientists zapped water with light to detect algae cells and measure their response.",
+        "Nets captured zooplankton a few millimeters long for behavioral testing under different light and water conditions."
+      ]
+    }
+  },
+  {
+    "question": "How did Arctic sea ice extent in September 2018 and thickness around Svalbard change compared to historical averages, and what primary factor is driving these changes?",
+    "answer": "The September 2018 sea ice extent was significantly lower than 1979-1990 and 2001-2010 averages, while thickness notably decreased around Svalbard between 1997 and 2017, primarily due to global warming.",
+    "keypoints": {
+      "video": [
+        "The Arctic sea ice extent in September 2018 was significantly lower than the average from 1979-1990 and 2001-2010.",
+        "Arctic ice thickness decreased notably between 1997 and 2017, particularly around Svalbard."
+      ],
+      "text": [
+        "Arctic sea ice has melted to near record levels due to global warming."
+      ]
+    }
+  },
+  {
+    "question": "What significant trend in Arctic sea surface temperature began around 1800, and what human-induced cause is responsible for this change?",
+    "answer": "A significant increase in Arctic sea surface temperature anomaly started around the Industrial Revolution in 1800, driven primarily by carbon pollution.",
+    "keypoints": {
+      "video": [
+        "The Arctic sea surface temperature anomaly has fluctuated over the past 1400 years, with a significant increase starting around the Industrial Revolution in 1800."
+      ],
+      "text": [
+        "Carbon pollution is causing Arctic summer temperatures to rise faster than they have in 1,500 years."
+      ]
+    }
+  }
+]

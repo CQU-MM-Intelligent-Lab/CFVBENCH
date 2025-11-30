@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you take a snapshot of the current character setup and what visual confirmation appears afterward?",
+    "answer": "Click the 'Scene' menu in the top-left corner, then select 'Take Snapshot' from the dropdown. A semi-transparent overlay will appear over the character, confirming the snapshot state.",
+    "keypoints": [
+      "The user clicks on the 'Scene' menu item located in the top-left corner of the application window.",
+      "From the 'Scene' dropdown menu, the 'Take Snapshot' option is selected by a mouse click.",
+      "A semi-transparent overlay appears over the character, indicating the snapshot state."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what two adjustments can be made to the character in the Properties panel after taking a snapshot?",
+    "answer": "In the Properties panel, adjust the character's position using the transform options (e.g., move it slightly right), then decrease opacity by dragging the 'Opacity' slider left (e.g., from 100% to 50%).",
+    "keypoints": [
+      "The user adjusts the position of the character using the transform options in the properties panel, moving it slightly to the right.",
+      "The cursor drags the 'Opacity' slider within the 'Properties' panel to the left, decreasing the displayed value from '100%' to '50%'."
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate the process of copying behaviors from one puppet to another?",
+    "answer": "First, click the 'Edit' menu at the top of the application window, then select 'Copy Behaviors' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'Edit' menu item located at the top of the application window.",
+      "From the 'Edit' dropdown menu, the 'Copy Behaviors' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to paste copied behaviors onto a different puppet?",
+    "answer": "Right-click on the target puppet in the project panel to open its context menu, then select the 'Paste' option from that menu.",
+    "keypoints": [
+      "The cursor moves to the other puppet in the project panel and right-clicks on it, opening a context menu.",
+      "In the context menu, the 'Paste' option is selected by clicking it."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what visual confirmation indicates that behaviors were successfully pasted to a puppet?",
+    "answer": "The properties panel displays an updated list of behaviors applied to the puppet, confirming the copied behaviors are now active.",
+    "keypoints": [
+      "The screen displays the copied behaviors from the original puppet now applied to the new puppet, as indicated by the updated list of behaviors in the properties panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the complete sequence to transfer behaviors between puppets?",
+    "answer": "Copy behaviors via the Edit menu, then paste them by right-clicking the target puppet and selecting 'Paste' from its context menu, resulting in updated behaviors in the properties panel.",
+    "keypoints": [
+      "From the 'Edit' dropdown menu, the 'Copy Behaviors' option is selected by a mouse click.",
+      "The cursor moves to the other puppet in the project panel and right-clicks on it, opening a context menu.",
+      "In the context menu, the 'Paste' option is selected by clicking it.",
+      "The screen displays the copied behaviors from the original puppet now applied to the new puppet, as indicated by the updated list of behaviors in the properties panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where is the 'Paste' option located when applying behaviors to a puppet?",
+    "answer": "The 'Paste' option is found in the context menu that appears after right-clicking on the target puppet in the project panel.",
+    "keypoints": [
+      "The cursor moves to the other puppet in the project panel and right-clicks on it, opening a context menu.",
+      "In the context menu, the 'Paste' option is selected by clicking it."
+    ]
+  }
+]

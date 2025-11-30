@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In LosslessCut, how do you initiate changing the order of a specific video segment?",
+    "answer": "Click the 'segment order' button at the bottom of the timeline to begin changing a segment's position.",
+    "keypoints": [
+      "The user clicks on the 'segment order' button located at the bottom of the timeline in the LosslessCut application window."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you select and renumber subsequent segments after modifying the first one?",
+    "answer": "Click on the next segment in the timeline to highlight it, then type the new position number (e.g., '3', '4') into the text field that appears for each segment.",
+    "keypoints": [
+      "The user selects the next segment by clicking on it within the timeline, highlighting it with a different color.",
+      "The user repeats the process for subsequent segments, typing '3', '4', and so forth into the respective text fields that appear when changing each segment's order."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what visual confirmation confirms all segments are correctly reordered?",
+    "answer": "The timeline updates in real-time to display segments in their new sequential order as each position is adjusted.",
+    "keypoints": [
+      "The screen updates to show the new order of segments as they are adjusted, ensuring all segments are now in proper sequential order."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you finalize and export the video after rearranging segments?",
+    "answer": "Click the 'Export' button at the bottom right corner of the window, then monitor the progress bar in the confirmation dialog box until export completes.",
+    "keypoints": [
+      "The user clicks the 'Export' button located at the bottom right corner of the application window to save the rearranged video file.",
+      "A dialog box appears confirming the export process, showing the progress bar until the file is fully exported."
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Adobe Character Animator, what options appear when right-clicking a keyframe labeled 'Aa'?",
+    "answer": "A context menu appears with phoneme options including 'M (b, p)', 'S (s, z, sh, ch)', 'D (d, th, g)', 'Ea', 'Oh', 'R', 'W or Q (g)', 'L or M', and 'Silence', while the screen highlights the keyframe and displays replacement options.",
+    "keypoints": [
+      "The user right-clicks on a specific keyframe labeled 'Aa' within the timeline section of the Adobe Character Animator interface.",
+      "A context menu appears offering options such as 'M (b, p)', 'S (s, z, sh, ch)', 'D (d, th, g)', 'Ea', 'Oh', 'R', 'W or Q (g)', 'L or M', and 'Silence'.",
+      "The screen highlights the selected keyframe and displays the available phoneme options for replacement."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what does clicking the 'Auto-detect version' button achieve?",
+    "answer": "The software automatically analyzes the audio track to adjust lip sync keyframes, and the screen refreshes to show optimized keyframe placements based on detected phonemes.",
+    "keypoints": [
+      "The user clicks on the 'Auto-detect version' button located at the bottom of the Adobe Character Animator window.",
+      "The software automatically analyzes the audio track and adjusts the lip sync keyframes accordingly.",
+      "The screen refreshes to show optimized keyframe placements based on the detected phonemes in the audio."
+    ]
+  }
+]

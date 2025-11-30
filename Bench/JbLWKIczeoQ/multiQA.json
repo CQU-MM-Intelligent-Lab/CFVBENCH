@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Wix Editor, how do you switch to mobile view and see the entire mobile-optimized layout?",
+    "answer": "Click the 'Mobile' option in the dropdown menu under the top-right icon to switch views, then scroll down to reveal all sections including content blocks and navigation menus.",
+    "keypoints": [
+      "The user clicks on the 'Mobile' option located in the dropdown menu under the icon near the top right of the Wix editor interface, switching the view to display the mobile version of the website.",
+      "The user scrolls down within the mobile preview mode of the Wix editor, revealing various sections of the mobile-optimized website layout including content blocks and navigation menus."
+    ]
+  },
+  {
+    "question": "In Wix Editor, what steps are required to preview the published mobile version of your website?",
+    "answer": "Click the 'Preview' button at the top right corner to open the live version, then select the 'Mobile' option from the device selection dropdown to ensure mobile display.",
+    "keypoints": [
+      "The user clicks on the 'Preview' button located at the top right corner of the Wix editor interface, opening a new page that displays an actual functioning version of the website as it would appear when published.",
+      "The user selects the 'Mobile' option again from the dropdown menu after clicking the device selection icon, ensuring the preview is set to show the mobile version of the website."
+    ]
+  },
+  {
+    "question": "In Wix Editor, how do you test mobile navigation and verify element functionality after setting up mobile preview?",
+    "answer": "Tap the menu icon to expand navigational links like 'Bio' and 'Contact', then scroll through the preview to observe how images, text blocks, and interactive features arrange and function on mobile.",
+    "keypoints": [
+      "The user interacts with the mobile preview by tapping on the menu icon, which expands to reveal a list of navigational links such as 'Bio', 'Experience', 'Education', 'Skills', 'Media Gallery', 'Quote', and 'Contact'.",
+      "The user scrolls through the mobile preview, observing how different elements like images, text blocks, and interactive features are arranged and function on a smaller screen size."
+    ]
+  }
+]

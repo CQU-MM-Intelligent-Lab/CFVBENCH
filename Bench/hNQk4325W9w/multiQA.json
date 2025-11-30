@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What are the total costs and primary accessibility challenges for a $500 bank loan repaid over one year and a $500 credit card balance with flexible payments?",
+    "answer": "A $500 bank loan repaid over one year costs $565 but requires excellent credit, proof of income, and often a $1,000 minimum. A $500 credit card balance costs $700 with flexible payments, and while 80% of Americans have a card, new approvals are slow for urgent needs.",
+    "keypoints": {
+      "video": [
+        "The actual cost of a bank loan with an average APR of 12% is $565 after set payments over a year.",
+        "Using a credit card with an average APR of 24% results in an actual cost of $700 when flexible payments are made."
+      ],
+      "text": [
+        "Borrowing from a bank typically requires excellent credit, a detailed application, proof of income, and many banks have a $1,000 lending minimum.",
+        "About 80% of Americans already have a credit card, but approval for new cards or bank loans takes time, making them potentially unsuitable for time-sensitive expenses."
+      ]
+    }
+  },
+  {
+    "question": "What are two non-institutional options for covering a $500 expense that require no credit checks or fees, and what are their total costs?",
+    "answer": "Selling possessions costs $500 with no debt or fees, though items may need replacement. Borrowing from someone you know costs $500 with 0% APR and no growing debt, though it may involve intangible costs.",
+    "keypoints": {
+      "video": [
+        "Selling something incurs no debt or fees, with an actual cost of $500.",
+        "Borrowing from someone you know has an APR of approximately 0%, resulting in an actual cost of $500."
+      ],
+      "text": [
+        "Selling possessions or borrowing from friends/family requires no approvals or credit checks, though they may involve intangible costs.",
+        "Borrowing from friends or family often involves zero or very low interest (APR), meaning the debt does not grow."
+      ]
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In Wix, how do you add a new 'Clients' section to your webpage and what appears as a result?",
+    "answer": "Click the 'Add' button in the top menu bar, select 'Clients' from the dropdown menu, and a new 'CLIENTS' section will appear on the webpage with placeholders for client logos and descriptions.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Clients' option is selected by a mouse click.",
+      "A new section labeled 'CLIENTS' appears on the webpage with placeholders for client logos and descriptions."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to customize the header title and rename a client item in the 'CLIENTS' section?",
+    "answer": "Type the desired header text into the 'HEADER TITLE' field in the left-side panel, then drag the 'ITEM NAME' text field to rename the client item to your preferred name.",
+    "keypoints": [
+      "The user types 'Our Clients' into the text field labeled 'HEADER TITLE' within the left-side panel.",
+      "The cursor drags the 'ITEM NAME' text field to rename it from 'Hera' to 'TutorTube'."
+    ]
+  },
+  {
+    "question": "In Wix, how do you replace a placeholder client logo with a custom image from your site files?",
+    "answer": "Select the 'Edit & Replace' button next to the 'MEDIA' section in the 'CLIENTS' settings, navigate to the 'Site Files' tab in the media dialog, and choose your desired image file to replace the placeholder logo.",
+    "keypoints": [
+      "The user selects the 'Edit & Replace' button next to the 'MEDIA' section under the 'CLIENTS' settings.",
+      "A media selection dialog opens, and the user navigates to the 'Site Files' tab.",
+      "The user selects an image file named '5.jpg' from the list of available files.",
+      "The chosen image replaces the placeholder logo for the client named 'TutorTube'."
+    ]
+  },
+  {
+    "question": "In Wix, how can you change the clients section layout to a vertical list format?",
+    "answer": "Click the 'Design' tab in the top menu bar, then select a vertical list layout from the recommended options in the left-side panel to update the display format.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab in the top menu bar.",
+      "The user selects a different layout design from the recommended options displayed in the left-side panel.",
+      "The layout changes to display the client logos in a vertical list format."
+    ]
+  }
+]

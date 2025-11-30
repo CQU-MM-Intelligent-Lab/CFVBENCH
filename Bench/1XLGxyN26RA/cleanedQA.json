@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What conditions did passengers experience at Delta Airlines terminals due to the flight cancellations, and how many passengers were affected?",
+    "answer": "Passengers experienced crowded conditions with long lines at check-in counters and baggage claim areas, with some sitting on the floor. The cancellations affected over half a million passengers.",
+    "keypoints": {
+      "video": [
+        "A crowded scene inside the airport terminal shows people waiting in long lines at check-in counters.",
+        "Passengers wait in line at baggage claim areas, with some sitting on the floor."
+      ],
+      "text": [
+        "The Delta Airlines cancellations affected more than half a million passengers."
+      ]
+    }
+  },
+  {
+    "question": "Why did CrowdStrike deny blame for the flight cancellations that affected multiple carriers including Transavia France and KLM, and destinations such as Los Angeles?",
+    "answer": "CrowdStrike stated it was not to blame for the cancellations affecting airlines like Transavia France and KLM and destinations including Los Angeles, despite its faulty software update causing the global disruption.",
+    "keypoints": {
+      "video": [
+        "The flight information display shows multiple canceled flights for airlines including Transavia France and KLM.",
+        "Flight arrival boards list various destinations and statuses, including canceled flights to Los Angeles and other locations."
+      ],
+      "text": [
+        "CrowdStrike stated it is not to blame for the recent flight chaos in the U.S.",
+        "A faulty software update from CrowdStrike caused computers worldwide to crash, leading to thousands of flight cancellations."
+      ]
+    }
+  },
+  {
+    "question": "What were the operational and financial impacts on Delta Airlines of the CrowdStrike outage, as indicated by parked planes on the tarmac and canceled flights to destinations like Dallas-Fort Worth and Dayton?",
+    "answer": "Delta Airlines canceled more than 6,000 flights, resulting in planes being parked on the tarmac and cancellations to destinations such as Dallas-Fort Worth and Dayton, costing the airline $500 million.",
+    "keypoints": {
+      "video": [
+        "Delta Air Lines planes are parked on the tarmac, visible from an airplane window.",
+        "The departure board lists several flights, including those to Dallas-Fort Worth and Dayton, with some marked as canceled or boarding."
+      ],
+      "text": [
+        "Delta Airlines Chief Ed Bastian stated the outage cost his firm $500 million.",
+        "Delta Airlines canceled more than 6,000 flights over a 6-day period."
+      ]
+    }
+  },
+  {
+    "question": "Following CrowdStrike's offer of assistance to Delta Airlines during the outage, how were Delta staff depicted at check-in counters and what does CrowdStrike contend regarding the offer?",
+    "answer": "Delta staff were seen interacting with travelers and assisting at check-in desks while wearing uniforms and gloves. CrowdStrike contends that Delta Airlines should explain why it turned down free onsite help after CrowdStrike reached out to offer assistance during the outage.",
+    "keypoints": {
+      "video": [
+        "A group of travelers interacts with Delta Airlines staff at a busy airport check-in counter.",
+        "Airport staff members assist travelers at the check-in desks, wearing uniforms and gloves."
+      ],
+      "text": [
+        "CrowdStrike stated it reached out to Delta Airlines to offer assistance when the outage occurred but never received a response.",
+        "CrowdStrike contends Delta Airlines should explain why it turned down free onsite help."
+      ]
+    }
+  }
+]

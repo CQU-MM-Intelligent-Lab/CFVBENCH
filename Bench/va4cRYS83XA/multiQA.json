@@ -1,0 +1,29 @@
+[
+  {
+    "question": "In Wix, what are the steps to access the TutorTube site dashboard from the main dashboard?",
+    "answer": "First, click the 'Site Collection' folder in the 'My Sites' section. Then select the 'TutorTube' site from the list. This transitions you to the TutorTube dashboard displaying sections like 'Dashboard', 'Music Library', and 'Video Library' in the left sidebar.",
+    "keypoints": [
+      "The user clicks on the 'Site Collection' folder located in the 'My Sites' section of the Wix dashboard.",
+      "The user selects the 'TutorTube' site from the list displayed under the 'Site Collection', which is highlighted with a thumbnail image and the text 'Select & Edit Site'.",
+      "The screen transitions to the TutorTube site dashboard, displaying various sections such as 'Dashboard', 'Music Library', 'Video Library', and others listed on the left sidebar."
+    ]
+  },
+  {
+    "question": "In Wix, how do you navigate to customer form submissions after reaching the TutorTube dashboard?",
+    "answer": "Hover over the 'Customer Management' option in the left sidebar, then click it. This displays the customer management interface listing form submission categories like 'Contact', 'Feedback', and 'Job Application', each with a 'View Table' button.",
+    "keypoints": [
+      "The user hovers over the 'Customer Management' option in the left sidebar menu within the TutorTube site dashboard.",
+      "The user clicks on the 'Customer Management' option, leading to the display of the customer management interface where form submissions are listed.",
+      "The screen shows multiple form submission categories like 'Contact', 'Feedback', 'Job Application', etc., each with a 'View Table' button for detailed viewing."
+    ]
+  },
+  {
+    "question": "In Wix, how do you locate and review form submissions for the TutorTube site?",
+    "answer": "Click the 'Form Submissions' option in the left sidebar to access the submissions page. Then scroll through the list to review different form types and their submission details.",
+    "keypoints": [
+      "The user clicks on the 'Form Submissions' option in the left sidebar menu within the TutorTube site dashboard.",
+      "The screen transitions to the form submissions page, listing various forms submitted by users with options to view tables for each form type.",
+      "The user scrolls through the list, reviewing different form types and their submission details."
+    ]
+  }
+]

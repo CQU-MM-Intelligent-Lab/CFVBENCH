@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Why was a gravitometer used on the summit of Mount Everest during the height measurement process?",
+    "answer": "A gravitometer was used to measure gravitational forces for precise calculations of the geoid height because GPS measurements provide elevation based on Earth's ellipsoid model, not the geoid, requiring land-based gravity surveys to establish local sea level accurately.",
+    "keypoints": {
+      "video": [
+        "A gravitometer was used on the summit of Mount Everest to measure gravitational forces for precise calculations."
+      ],
+      "text": [
+        "GPS measurements give height based on Earth's ellipsoid, not the geoid, so establishing local sea level still requires precise land-based gravity surveys."
+      ]
+    }
+  },
+  {
+    "question": "After whom was Mount Everest named, and what significant survey did he lead between 1802 and 1871?",
+    "answer": "Mount Everest was named after British surveyor George Everest, who led the Great Trigonometrical Survey that used theodolites for precise measurements across the Indian subcontinent.",
+    "keypoints": {
+      "video": [
+        "George Everest was a British surveyor who led the Great Trigonometrical Survey from 1802 to 1871, which involved using a theodolite for precise measurements."
+      ],
+      "text": [
+        "The name \"Everest\" was given during British colonial rule in India, after British official George Everest."
+      ]
+    }
+  },
+  {
+    "question": "How did the conducting entity of Nepal's first official Mount Everest measurement in 1855 differ from that of Nepal's first independent measurement in 2020?",
+    "answer": "The 1855 measurement was conducted by the British Great Trigonometrical Survey despite being recorded as Nepal's first official measurement, whereas the 2020 measurement was independently executed by Nepal's Survey Department.",
+    "keypoints": {
+      "video": [
+        "Nepal's first official measurement of Mount Everest was recorded in 1855 at 8,840 meters (29,002 feet)."
+      ],
+      "text": [
+        "The first official measurement of Mount Everest in 1855 (8,840 meters) was conducted by the British Great Trigonometrical Survey.",
+        "The 2020 measurement was the first time Nepal independently measured the height of Mount Everest."
+      ]
+    }
+  }
+]

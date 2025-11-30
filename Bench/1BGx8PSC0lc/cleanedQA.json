@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What caused the SpaceX Starship rocket breakup during its test flight, and in which specific component did Elon Musk identify the leak?",
+    "answer": "The breakup was caused by an internal leak of liquid oxygen fuel, and Elon Musk identified the leak occurring in the cavity above the ship engine firewall.",
+    "keypoints": {
+      "video": [
+        "Elon Musk tweets about an oxygen/fuel leak in the cavity above the ship engine firewall that was large enough to build pressure in excess of the vent capacity."
+      ],
+      "text": [
+        "A preliminary assessment indicated an internal leak of liquid oxygen fuel caused the Starship rocket's breakup."
+      ]
+    }
+  }
+]

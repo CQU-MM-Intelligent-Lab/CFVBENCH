@@ -1,0 +1,59 @@
+[
+  {
+    "question": "In Wix, how do you rename a site and update its URL?",
+    "answer": "Click the 'Rename Site' option in the 'Site Actions' dropdown menu. A dialog box will appear prompting you to enter a new site name and URL. Type your desired name (e.g., 'TutorTube') into the 'Site Name' field, update the URL accordingly, then click 'Save' to confirm the changes.",
+    "keypoints": [
+      "The user clicks on the 'Rename Site' option within the 'Site Actions' dropdown menu.",
+      "A dialog box appears prompting the user to enter a new name for the site and URL.",
+      "The user types 'TutorTube' into the 'Site Name' field and updates the URL accordingly.",
+      "After clicking 'Save', the screen confirms that the site has been renamed successfully."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are involved in duplicating a site?",
+    "answer": "Select 'Duplicate Site' from the 'Site Actions' menu. A confirmation dialog will appear asking if you want to create a copy. Click 'Duplicate' to proceed, and the system will generate a copy of the site with 'Copy' appended to its name (e.g., 'TutorTube Copy').",
+    "keypoints": [
+      "The user selects the 'Duplicate Site' option from the 'Site Actions' menu.",
+      "A confirmation dialog asks if the user wants to create a copy of the current site.",
+      "The user clicks 'Duplicate', and the system creates a copy named 'TutorTube Copy'."
+    ]
+  },
+  {
+    "question": "In Wix, how do you create a folder in 'My Sites' and organize sites within it?",
+    "answer": "Click the 'Create New Folder' button at the top-right corner of the 'My Sites' page to create a folder (e.g., 'Example Site Collection'). Then drag any site card (like 'TutorTube Copy') into this folder to organize it, which will be reflected in the site structure display.",
+    "keypoints": [
+      "The user clicks on the 'Create New Folder' button at the top-right corner of the 'My Sites' page.",
+      "A new folder named 'Example Site Collection' is created to organize multiple sites.",
+      "The user drags the 'TutorTube Copy' site into the newly created 'Example Site Collection' folder.",
+      "The screen shows the organized structure with 'TutorTube Copy' now inside the specified folder."
+    ]
+  },
+  {
+    "question": "In Wix, how do you move a site to a folder using the 'Site Actions' menu?",
+    "answer": "Hover over the site card, open its 'Site Actions' dropdown menu, and select 'Move to Folder'. In the dialog box that appears, choose the destination folder (e.g., 'Site Collection') and click 'Move Here' to relocate the site.",
+    "keypoints": [
+      "The user hovers over the 'My Site' card and clicks on the 'Site Actions' dropdown menu, revealing options such as 'Select & Edit Site', 'View Live Site', 'Rename Site', 'Duplicate Site', 'Transfer Site', 'Invite Contributor', 'Move to Folder', and 'Move to Trash'.",
+      "The user selects the 'Move to Folder' option from the 'Site Actions' dropdown menu for the 'TutorTube' site.",
+      "A dialog box appears asking the user to select a destination folder; the user selects the 'Site Collection' folder and clicks 'Move Here', moving the 'TutorTube' site into the 'Site Collection' folder."
+    ]
+  },
+  {
+    "question": "In Wix, how do you access account settings to update personal information?",
+    "answer": "Click your profile icon in the top-right corner and select 'Account Settings'. This navigates you to a dedicated page where you can view and modify account details like basic info and login credentials.",
+    "keypoints": [
+      "The user clicks on the profile icon in the top right corner of the screen and selects 'Account Settings' from the dropdown menu.",
+      "The user navigates to the 'Account Settings' page where they can view and update their account details, including basic info and login information."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after initiating site duplication and confirming the action?",
+    "answer": "After selecting 'Duplicate Site' and confirming in the dialog, the system automatically creates a copy of the site. The new copy appears in your 'My Sites' section with the original site name followed by 'Copy' (e.g., 'TutorTube Copy').",
+    "keypoints": [
+      "The user selects the 'Duplicate Site' option from the 'Site Actions' menu.",
+      "A confirmation dialog asks if the user wants to create a copy of the current site.",
+      "The user clicks 'Duplicate', and the system creates a copy named 'TutorTube Copy'.",
+      "The user navigates to the 'My Sites' section by clicking on 'My Sites' in the top navigation bar.",
+      "The screen displays all available sites including 'My Site', 'TutorTube Copy', and 'TutorTube'."
+    ]
+  }
+]

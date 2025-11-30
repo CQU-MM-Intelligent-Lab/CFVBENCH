@@ -1,0 +1,79 @@
+[
+  {
+    "question": "On April 7, 2023, what was California's peak electricity demand and the primary reason power companies relied on natural gas during evening hours?",
+    "answer": "California's peak electricity demand was approximately 25,000 MW around 6 PM. Power companies relied on natural gas because solar power declines in the evening while wind and solar fail to meet peak demand, and natural gas can be stored to fill the supply gap.",
+    "keypoints": {
+      "video": [
+        "The electricity demand in California on April 7, 2023, peaked at approximately 25,000 MW around 6 PM and reached its lowest point of about 20,000 MW around 4 AM.",
+        "Solar power generation contributed significantly during the daytime, peaking near 10,000 MW around noon, while wind power remained relatively stable throughout the day, contributing less than 5,000 MW.",
+        "Natural gas and other sources filled the gap when solar power declined in the evening, maintaining the supply to meet the high demand."
+      ],
+      "text": [
+        "Wind and solar power typically fail to meet California's peak electricity demands.",
+        "Power companies rely on fossil fuels like natural gas to fill the gap between renewable supply and peak demand.",
+        "Fossil fuels are used because they can be stored, unlike current solar and wind energy."
+      ]
+    }
+  },
+  {
+    "question": "Which three South American countries hold the largest lithium resources, and why is grid-scale lithium-ion battery deployment challenging?",
+    "answer": "Chile (over 9 million tons), Argentina (9 million tons), and Bolivia (7.5 million tons) hold the largest lithium resources. Grid-scale lithium-ion battery deployment is challenging due to the massive quantity required and limited global lithium availability.",
+    "keypoints": {
+      "video": [
+        "World lithium resources are concentrated in Chile with over 9 million tons, Argentina with 9 million tons, and Bolivia with 7.5 million tons, indicating a significant presence in South America."
+      ],
+      "text": [
+        "Grid-scale lithium-ion battery deployment faces challenges due to the massive quantity required and limited global lithium availability."
+      ]
+    }
+  },
+  {
+    "question": "What are the location characteristics of Energy Vault's Resiliency Center, and what efficiency does its gravity storage system claim?",
+    "answer": "The Energy Vault Resiliency Center is located in a mountainous area and features large grid-like structures. Its gravity energy storage system claims over 80% efficiency.",
+    "keypoints": {
+      "video": [
+        "The Energy Vault Resiliency Center is located in a mountainous area, featuring large grid-like structures for energy storage."
+      ],
+      "text": [
+        "Energy Vault claims its gravity energy storage system can be over 80% efficient."
+      ]
+    }
+  },
+  {
+    "question": "How many pumped storage hydro facilities operate in the US, and what is their typical energy conversion efficiency?",
+    "answer": "There are currently 39 pumped storage hydro facilities operating in the US, achieving about 90% energy conversion efficiency.",
+    "keypoints": {
+      "video": [
+        "A detailed infographic explains how pumped storage hydro systems achieve up to 90% efficiency in energy conversion, making them a reliable solution for renewable energy integration."
+      ],
+      "text": [
+        "There are currently 39 pumped storage hydro facilities operating in the US.",
+        "Releasing the water downhill spins turbines to generate electricity when needed, achieving about 90% efficiency."
+      ]
+    }
+  },
+  {
+    "question": "Where and when was the Turlough Hill pumped storage facility built, and in which continents was this technology first established?",
+    "answer": "Turlough Hill was built in Ireland in 1972. Pumped storage hydro technology was first established in Europe and the US.",
+    "keypoints": {
+      "video": [
+        "Turlough Hill in Ireland was an early example of a pumped storage facility built in 1972, showcasing historical advancements in energy storage technology."
+      ],
+      "text": [
+        "Pumped storage hydro is an established energy storage method first built in Europe and the US."
+      ]
+    }
+  },
+  {
+    "question": "How does Form Energy's iron-air battery system operate for long-term energy storage?",
+    "answer": "Form Energy's iron-air battery system operates by charging metallic iron and discharging it as rust, utilizing the chemical reaction of iron rusting to store and discharge energy.",
+    "keypoints": {
+      "video": [
+        "Form Energy's iron-air battery system operates by charging metallic iron and discharging it as rust, facilitating long-term energy storage."
+      ],
+      "text": [
+        "Iron air batteries utilize the chemical reaction of iron rusting to store and discharge energy."
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you add a shape layer to the scene workspace?",
+    "answer": "First, click the 'Scene' tab at the top of the interface. Then, select a shape layer from the 'Shapes' section in the project panel on the left. Finally, drag the selected layer into the central scene area, which will display multiple colored circles.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the Adobe Character Animator interface.",
+      "The user selects a shape layer from the project panel on the left side of the screen, which is labeled as 'Shapes'.",
+      "The selected shape layer is then dragged into the scene area in the center of the screen, resulting in the appearance of multiple colored circles within the scene."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure physics collisions and gravity for multiple shapes?",
+    "answer": "Right-click a shape in the scene and select 'Properties'. In the Properties panel, open the 'Physics' section, increase gravity using the strength slider, then disable collisions by unchecking the 'Collide' checkbox for each shape layer individually.",
+    "keypoints": [
+      "The user right-clicks on one of the shapes within the scene and selects the 'Properties' option from the context menu that appears.",
+      "In the Properties panel on the right side of the screen, the user clicks on the 'Physics' section and adjusts the gravity strength slider to increase its value.",
+      "The user then clicks on the 'Collide' checkbox under the Physics section for each shape layer, disabling it one by one."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when you preview the animation after disabling shape collisions?",
+    "answer": "After clicking the play button to preview, the shapes fall due to increased gravity but do not collide with each other, demonstrating the disabled collision effect.",
+    "keypoints": [
+      "After disabling Collide for several shapes, the user clicks the play button at the bottom of the screen to preview the animation.",
+      "During the preview, the shapes fall due to gravity but do not collide with each other as expected."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you record and save a non-colliding shape animation?",
+    "answer": "Pause any active preview, then click the 'Record' button at the top. Drag shapes around the scene during recording to demonstrate collision-free movement. Finally, stop recording and save via File > Save.",
+    "keypoints": [
+      "The user pauses the preview and clicks on the 'Record' button at the top of the screen to start recording the animation.",
+      "While recording, the user drags the shapes around the scene using the mouse, demonstrating their movement without collision.",
+      "Finally, the user stops the recording and saves the project by clicking on the 'File' menu and selecting 'Save' from the dropdown list."
+    ]
+  }
+]

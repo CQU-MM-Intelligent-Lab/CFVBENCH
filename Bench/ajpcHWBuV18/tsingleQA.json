@@ -1,0 +1,100 @@
+[
+  {
+    "question": "Who were the first individuals to reach the summit of Mount Everest and what were their nationalities?",
+    "answer": "Edmund Hillary from New Zealand and Tenzing Norgay, a Sherpa from Nepal and India.",
+    "keypoints": [
+      "Edmund Hillary from New Zealand and Tenzing Norgay, a Sherpa from Nepal and India, were the first people to climb to the summit of Mount Everest."
+    ]
+  },
+  {
+    "question": "What are the recorded official heights of Mount Everest and their measurement years?",
+    "answer": "8,840 meters in 1855, 8,848 meters in 1976, 8,850 meters in 1999, and 8,849 meters at the end of 2020.",
+    "keypoints": [
+      "The official height of Mount Everest has been measured differently over time: 8,840 meters in 1855, 8,848 meters in 1976, 8,850 meters in 1999, and 8,849 meters at the end of 2020."
+    ]
+  },
+  {
+    "question": "What are the local names for Mount Everest in Nepal and Tibet?",
+    "answer": "Sagarmatha in Nepal and Chomolungma in Tibet.",
+    "keypoints": [
+      "Mount Everest is known as Sagarmatha in Nepal and Chomolungma in Tibet."
+    ]
+  },
+  {
+    "question": "After whom was Mount Everest named and during which historical period?",
+    "answer": "British official George Everest during British colonial rule in India.",
+    "keypoints": [
+      "The name \"Everest\" was given during British colonial rule in India, after British official George Everest."
+    ]
+  },
+  {
+    "question": "Which organization conducted the first official measurement of Mount Everest in 1855?",
+    "answer": "The British Great Trigonometrical Survey.",
+    "keypoints": [
+      "The first official measurement of Mount Everest in 1855 (8,840 meters) was conducted by the British Great Trigonometrical Survey."
+    ]
+  },
+  {
+    "question": "Why did the Great Trigonometrical Survey measure the Himalayas from India instead of Nepal?",
+    "answer": "Because surveyors could not enter Nepal, so they established sea level by walking from the Bay of Bengal and measuring from over 100 miles away in India.",
+    "keypoints": [
+      "Surveyors in the Great Trigonometrical Survey established sea level for the Himalayas by walking from the Bay of Bengal and measuring from over 100 miles away in India because they could not enter Nepal."
+    ]
+  },
+  {
+    "question": "What factors complicate establishing local sea level for mountain height measurements?",
+    "answer": "Tides, global warming, Earth's ellipsoid shape, and variations in gravity affecting the geoid.",
+    "keypoints": [
+      "Measuring mountain height requires establishing the local sea level, which is complicated by factors like tides, global warming, Earth's ellipsoid shape, and variations in gravity affecting the geoid."
+    ]
+  },
+  {
+    "question": "At what annual rate are the Himalayas rising and what causes this?",
+    "answer": "Approximately 5 millimeters per year due to the ongoing collision of the Indian and Asian tectonic plates.",
+    "keypoints": [
+      "The Himalayas are still rising approximately 5 millimeters per year due to the ongoing collision of the Indian and Asian tectonic plates."
+    ]
+  },
+  {
+    "question": "What event triggered Nepal to remeasure Mount Everest's height in recent years?",
+    "answer": "The 2015 Nepal earthquake.",
+    "keypoints": [
+      "The 2015 Nepal earthquake prompted Nepalese surveyors to remeasure Mount Everest."
+    ]
+  },
+  {
+    "question": "Why are land-based gravity surveys necessary despite GPS measurements for mountain height?",
+    "answer": "Because GPS measurements give height based on Earth's ellipsoid, not the geoid, requiring gravity surveys to establish local sea level.",
+    "keypoints": [
+      "GPS measurements give height based on Earth's ellipsoid, not the geoid, so establishing local sea level still requires precise land-based gravity surveys."
+    ]
+  },
+  {
+    "question": "What did Nepalese surveyor Susheel Dangol achieve between 2017-2019 for Everest's measurement?",
+    "answer": "He led a survey establishing around 300 control points across a 100-kilometer area to measure gravity and determine geoid height.",
+    "keypoints": [
+      "Nepalese surveyor Susheel Dangol led a survey from 2017 to 2019, establishing around 300 control points across a 100-kilometer area to measure gravity and determine the geoid height."
+    ]
+  },
+  {
+    "question": "What height for Mount Everest was announced by Nepal and China in December 2020?",
+    "answer": "8,848.86 meters.",
+    "keypoints": [
+      "A joint Nepal-China survey announced a new agreed-upon height for Mount Everest of 8,848.86 meters in December 2020."
+    ]
+  },
+  {
+    "question": "When did Nepal first independently measure Mount Everest's height?",
+    "answer": "2020.",
+    "keypoints": [
+      "The 2020 measurement was the first time Nepal independently measured the height of Mount Everest."
+    ]
+  },
+  {
+    "question": "Why is Mount Chimborazo taller than Mount Everest when measured from Earth's center?",
+    "answer": "Due to its location near the Equator.",
+    "keypoints": [
+      "Mount Chimborazo in Ecuador is taller than Mount Everest if measured from Earth's center due to its location near the Equator."
+    ]
+  }
+]

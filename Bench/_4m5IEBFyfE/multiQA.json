@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Video Editor Pro, what steps are needed to view properties of the merged video file?",
+    "answer": "Select the merged video file by clicking it once, right-click to open the context menu, then choose the 'Properties' option to view file details.",
+    "keypoints": [
+      "The user selects the merged video file by clicking on it once.",
+      "The user right-clicks on the selected merged video file to open a context menu with various options.",
+      "The user clicks on the 'Properties' option from the context menu to view detailed information about the merged video file."
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, what file details are displayed in the properties window and how do you close it?",
+    "answer": "The properties window shows file size, dimensions, frame rate, and total bitrate. Close it by clicking the 'X' button at the top-right corner.",
+    "keypoints": [
+      "The properties window displays details such as the file size, dimensions, frame rate, and total bitrate of the merged video file.",
+      "The user closes the properties window by clicking the 'X' button at the top-right corner."
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate saving a project with a new name?",
+    "answer": "Click the 'File' menu in the top-left corner of the application window, then select 'Save Project As...' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Save Project As...' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required in the save dialog to save a project to the desktop with a specific name?",
+    "answer": "Navigate to the desktop folder using the directory tree on the left, type the desired file name into the 'File name' text field, then click the 'Save' button at the bottom of the dialog box.",
+    "keypoints": [
+      "The user navigates to the desktop folder within the dialog box using the directory tree on the left side.",
+      "The user types 'TutorTube' into the text field labeled 'File name'.",
+      "The user clicks the 'Save' button at the bottom of the dialog box to save the project with the specified name and location."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you open a PSD file from a saved project for editing in Photoshop?",
+    "answer": "Open the project folder on the desktop, navigate to the 'Gathered Media' subfolder, and double-click the desired PSD file to launch Adobe Photoshop and load the file.",
+    "keypoints": [
+      "The user then opens the newly created 'TutorTube' folder on the desktop, revealing its contents including an Adobe Character Animator project file.",
+      "The user double-clicks on the 'Tall.psd' file within the 'Gathered Media' subfolder to open it in Adobe Photoshop.",
+      "Adobe Photoshop launches and loads the 'Tall.psd' file, displaying the character image with multiple layers visible in the Layers panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you save a project into a new folder on the desktop?",
+    "answer": "In the save dialog box, navigate to the desktop, create a new folder, enter the project name, then click 'Save' to store all assets within the new folder.",
+    "keypoints": [
+      "The user navigates to the desktop and creates a new folder named 'tututube'.",
+      "Inside the 'tututube' folder, the user saves the project with the name 'youtube'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what does the project folder contain after saving, and how are assets organized?",
+    "answer": "The project folder contains the character project file, media files, and PSD files, with all assets copied into the specified folder structure for individual editing.",
+    "keypoints": [
+      "After clicking the 'Save' button, all assets are copied and saved within the specified folder structure.",
+      "The user then opens the saved folder to view its contents, revealing the character project file, media files, and PSD files for individual editing in Photoshop."
+    ]
+  }
+]

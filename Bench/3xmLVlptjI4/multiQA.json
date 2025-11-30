@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you apply an 'Ease In' effect to the first keyframe in the timeline?",
+    "answer": "First, select the first keyframe by clicking on it in the timeline. Then, right-click the selected keyframe to open the context menu and choose the 'Ease In' option.",
+    "keypoints": [
+      "The user selects the first keyframe in the timeline by clicking on it, which is highlighted and shows its position value as -600.1.",
+      "The user right-clicks on the selected keyframe to open a context menu, then selects the 'Ease In' option from the list."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you adjust the motion path and preview changes to an animation?",
+    "answer": "Drag the second keyframe along the timeline to modify its position and timing, then adjust the keyframe handles in the graph view to alter the motion curve for acceleration/deceleration. Finally, click the play button in the playback controls to preview the animation.",
+    "keypoints": [
+      "The user drags the second keyframe along the timeline to adjust its position, changing the animation's timing and easing effect.",
+      "The user adjusts the handles of the keyframes in the graph view, altering the curve shape and thus refining the animation's acceleration and deceleration.",
+      "The user clicks the play button located in the playback controls at the bottom center of the screen to preview the animation, showing the logo moving smoothly from left to right."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access and modify keyframe properties for animation refinement?",
+    "answer": "Click the 'Timeline' tab at the bottom of the window to reveal keyframes, select a keyframe by clicking it, then adjust its position or right-click to apply effects like 'Ease In' from the context menu.",
+    "keypoints": [
+      "The user clicks on the 'Timeline' tab located at the bottom of the application window, revealing a timeline with keyframes for an animation.",
+      "The user selects the first keyframe in the timeline by clicking on it, which is highlighted and shows its position value as -600.1.",
+      "The user right-clicks on the selected keyframe to open a context menu, then selects the 'Ease In' option from the list."
+    ]
+  }
+]

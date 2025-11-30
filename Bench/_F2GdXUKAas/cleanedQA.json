@@ -1,0 +1,28 @@
+[
+  {
+    "question": "What is the name of the satellite vehicle developed by D-Orbit to address space debris, and what sequence of actions does it perform when approaching a target satellite as depicted in the video?",
+    "answer": "The satellite vehicle is named Gia. It first searches for and locates the target satellite, then performs an inspection and capture sequence by docking with the satellite for maintenance or servicing purposes.",
+    "keypoints": {
+      "video": [
+        "The D-Orbit spacecraft searches for and locates a target in space, as indicated by on-screen text stating \"SEARCHING\" followed by \"TARGET FOUND\".",
+        "An inspection and capture sequence is depicted, where the D-Orbit spacecraft approaches another satellite for docking or maintenance purposes."
+      ],
+      "text": [
+        "Italian firm D-Orbit developed an innovative satellite vehicle named Gia to address space debris."
+      ]
+    }
+  },
+  {
+    "question": "What future concept for space debris recycling does D-Orbit envision, and what scope of services is indicated by the sign displayed with the European Space Agency logo in the video?",
+    "answer": "D-Orbit's concept involves bringing space debris to recycling stations in orbit to produce raw material for manufacturing. The sign displayed with the European Space Agency logo indicates services including \"SPACE LOGISTICS FOR SATELLITES, HOSTED PAYLOAD SERVICES... AND BEYOND\".",
+    "keypoints": {
+      "video": [
+        "The European Space Agency logo is displayed prominently, along with a sign that reads \"SPACE LOGISTICS FOR SATELLITES, HOSTED PAYLOAD SERVICES... AND BEYOND\"."
+      ],
+      "text": [
+        "The concept involves bringing space debris to recycling stations in orbit to produce raw material.",
+        "The recycled raw material would be used in orbital manufacturing facilities to create higher-value products."
+      ]
+    }
+  }
+]

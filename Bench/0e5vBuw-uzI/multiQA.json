@@ -1,0 +1,10 @@
+[
+  {
+    "question": "In Wix, where is the 'Publish' button located and what appears after clicking it?",
+    "answer": "The 'Publish' button is located in the top-right corner of the editor interface. After clicking it, a dialog box titled 'Choose a domain to publish your site on' appears, offering options for a free Wix.com domain or a custom domain.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface.",
+      "The screen displays a dialog box titled \"Choose a domain to publish your site on,\" with options for selecting a free Wix.com domain or connecting a custom domain."
+    ]
+  }
+]

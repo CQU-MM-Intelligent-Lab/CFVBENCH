@@ -1,0 +1,39 @@
+[
+  {
+    "question": "How did Amazon distort the regular price of the Cuisinart Mini-Prep Food Processor to exaggerate discount savings, and what was its actual historical price range on Amazon from 2008 to 2018?",
+    "answer": "Amazon listed the Cuisinart Mini-Prep Food Processor at a regular price of $75 to advertise a 52% discount (sale price $35), despite the product's historical price fluctuating between $40 and $60 from 2008 to 2018 and never exceeding $40 in the past decade.",
+    "keypoints": {
+      "video": [
+        "The Amazon price of the Cuisinart Mini-Prep Food Processor fluctuated between $40 and $60 from 2008 to 2018."
+      ],
+      "text": [
+        "Retailers frequently distort regular prices to make discounts appear larger, as demonstrated by Amazon listing a Cuisinart food processor at $35 (52% off $75) despite never selling it above $40 in the past decade."
+      ]
+    }
+  },
+  {
+    "question": "What specific BOGO pricing practices prompted legal challenges against both Visionworks and Burger King?",
+    "answer": "Visionworks inflated the price of the first pair of glasses to partly cover the cost of the second 'free' pair, while Burger King overcharged customers through a BOGO coupon scheme where using a coupon for Croissan'wiches resulted in a higher per-sandwich price ($3.19) versus purchasing without the coupon ($2.16).",
+    "keypoints": {
+      "video": [
+        "A legal document states that Visionworks inflated the price of the first pair of glasses to partly cover the cost of the second and purportedly 'free' pair of glasses."
+      ],
+      "text": [
+        "Burger King faced a lawsuit alleging overcharging customers through this BOGO pricing practice over several years.",
+        "A Burger King customer discovered that using a BOGO coupon for Croissan'wiches resulted in each sandwich costing $3.19, compared to $2.16 for a single sandwich without the coupon."
+      ]
+    }
+  },
+  {
+    "question": "What consumer behavior do BOGO deals like the MyPillow Premiums offer exploit, and what financial risk does this create?",
+    "answer": "BOGO deals exploit consumers' tendency to overlook actual savings calculations and be influenced by the word 'free', leading to unintended increased spending. This occurs in offers like the MyPillow Premiums promotion (two pillows at one price with code Sleep44), where perceived value often masks higher total expenditures.",
+    "keypoints": {
+      "video": [
+        "The promotional offer for two MyPillow Premiums at one low price is available with promo code Sleep44."
+      ],
+      "text": [
+        "Consumers often fail to calculate actual savings in BOGO deals and are strongly influenced by the word 'free,' leading them to spend more money than intended."
+      ]
+    }
+  }
+]

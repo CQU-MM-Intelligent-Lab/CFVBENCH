@@ -1,0 +1,48 @@
+[
+  {
+    "question": "In Wix, how do you add a new image section to a webpage and what initial content appears?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select 'Image' from the dropdown menu. This adds a new section to the webpage with placeholder text 'IMAGE TITLE' and 'Image Subtitle'.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "A dropdown menu appears, and the user selects the 'Image' section from the list of options displayed.",
+      "The screen displays a new image section added to the webpage layout with placeholder text \"IMAGE TITLE\" and \"Image Subtitle\"."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to customize the text content of an image section and verify the changes?",
+    "answer": "Enter your desired title in the 'Title' field and subtitle in the 'Subtitle' field within the image section settings panel on the left. The webpage preview will automatically update to display the new text.",
+    "keypoints": [
+      "The user types \"TutorTube\" into the 'Title' field within the image section settings panel on the left side of the screen.",
+      "The subtitle field is updated with the text \"Lessons at your Convenience\" by the user.",
+      "The webpage preview updates to display the newly entered title and subtitle within the image section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you replace the default image in an image section using a file from your site media library?",
+    "answer": "Navigate to the 'Media' tab in the left sidebar and select 'Site Files'. Choose your desired image from the file selection dialog that appears, which will replace the placeholder image in the section.",
+    "keypoints": [
+      "The user navigates to the 'Site Files' option under the 'Media' tab in the left sidebar.",
+      "A file selection dialog opens, showing various images stored in the site files.",
+      "The user selects an image file named \"5_edited.jpg\" from the list.",
+      "The selected image replaces the default placeholder image in the image section on the webpage."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify the background image layout and confirm the adjustments?",
+    "answer": "Use the 'Background' option in the media settings panel to adjust the image layout. The webpage preview will immediately reflect these layout changes.",
+    "keypoints": [
+      "The user adjusts the image layout using the 'Background' option in the media settings panel.",
+      "The webpage preview reflects the updated background image with the specified layout adjustments."
+    ]
+  },
+  {
+    "question": "In Wix, what is the process to apply a dark overlay effect to an image section?",
+    "answer": "Click the 'Design' button below the image section to open the customization panel. Select the color adjustment tool and apply a dark overlay effect, which will be visible in the updated preview.",
+    "keypoints": [
+      "The user clicks on the 'Design' button located below the image section on the webpage.",
+      "A design customization panel appears, allowing further styling options for the image section.",
+      "The user selects a color adjustment tool from the design panel and applies a dark overlay effect to the image.",
+      "The final webpage preview shows the completed image section with the applied title, subtitle, custom image, and design adjustments."
+    ]
+  }
+]

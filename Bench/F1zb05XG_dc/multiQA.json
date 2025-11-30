@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you change a character's hand pose to pointing and adjust its horizontal position during recording?",
+    "answer": "Press the 'P' key to change the hand pose to pointing, then adjust the 'Position X' slider in the 'Properties' panel to move the character left.",
+    "keypoints": [
+      "The user presses the 'P' key on the keyboard, changing the pose of the character's hand to a pointing gesture.",
+      "The user adjusts the 'Position X' slider within the 'Properties' panel, moving the character slightly to the left."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps finalize a recording session and save the animation?",
+    "answer": "After exploring options in the 'Triggers' section, click 'Stop Recording' to end the session, then select 'Export' from the menu to save the animation as a video file.",
+    "keypoints": [
+      "The user hovers over the 'Triggers' section in the interface, exploring additional control options for the character's actions.",
+      "The user selects the 'Stop Recording' button to halt the recording session, finalizing the current animation.",
+      "The user clicks on the 'Export' option in the menu to save the completed animation as a video file."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what sequence allows you to trigger a hand pose change, reposition the character, and review the result?",
+    "answer": "Press 'P' for a pointing hand pose, adjust the 'Position X' slider to move the character left, then drag the timeline slider to review the changes.",
+    "keypoints": [
+      "The user presses the 'P' key on the keyboard, changing the pose of the character's hand to a pointing gesture.",
+      "The user adjusts the 'Position X' slider within the 'Properties' panel, moving the character slightly to the left.",
+      "The user drags the timeline slider to review the recorded animation sequence, observing the character's movements and expressions."
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you open the 'Character Animator Project 3'?",
+    "answer": "First, click the 'File' menu item in the top-left corner of the application window. Then, select 'Character Animator Project 3' from the project list displayed in the center of the screen.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Character Animator Project 3' from the project list, which is displayed in the center of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you verify that the 'Stop / Sustain replay' setting immediately halts an animation upon key release?",
+    "answer": "Set 'When Trigger Ends' to 'Stop / Sustain replay', then hold the 'A' key to start the walking animation. Upon releasing the 'A' key, the animation stops instantly, confirming the setting's effect.",
+    "keypoints": [
+      "The user changes the setting under 'When Trigger Ends' from 'Let replay finish' to 'Stop / Sustain replay', resulting in the animation stopping as soon as the 'A' key is released.",
+      "The user holds down the 'A' key again, observing that the character continues its walking animation until the key is released, at which point the animation stops immediately.",
+      "The user releases the 'A' key, demonstrating that the animation halts instantly due to the new 'Stop / Sustain replay' setting."
+    ]
+  }
+]

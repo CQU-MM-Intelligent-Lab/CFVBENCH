@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you enable touch control for the Dragger tool and increase its movement range?",
+    "answer": "Select the checkbox next to 'Mouse & Touch Input' in the Dragger options within the properties panel to enable touch control. Then, increase the draggable range by adjusting the 'Limit Range' value to a higher number using the slider or input field.",
+    "keypoints": [
+      "The user selects the checkbox next to the 'Mouse & Touch Input' label within the 'Dragger' options in the properties panel, enabling touch input control for the arm.",
+      "The user adjusts the 'Limit Range' value from 52 pixels to a higher number using the slider or input field in the properties panel, increasing the draggable range of the arm."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify a dragged arm's return behavior and adjust its return speed?",
+    "answer": "Change the 'After Move' setting from 'Hold in place' to 'Return to rest' in the properties panel to make the arm return to its original position. Then, modify the 'Return Duration' value to 1 second using the input field to slow down the return motion.",
+    "keypoints": [
+      "The user changes the 'After Move' setting from \"Hold in place\" to \"Return to rest\" in the properties panel, causing the arm to return to its original position after being dragged.",
+      "The user modifies the 'Return Duration' value from 0.2 seconds to 1 second using the input field in the properties panel, slowing down the return motion of the arm."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you initiate and complete the export of an animation as a video file?",
+    "answer": "Select the 'Export' option from the File menu to open the export settings dialog box. Then, click the 'Export' button within the dialog box to finalize and export the animation as a video file with your specified settings.",
+    "keypoints": [
+      "The user selects the 'Export' option from the 'File' menu, opening a dialog box to choose export settings for the animation.",
+      "The user clicks on the 'Export' button within the export dialog box, exporting the animation as a video file with the specified settings."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you reposition a character's arm using the Dragger tool and lock it in place?",
+    "answer": "Click the 'Dragger' option in the right-side properties panel, then drag the hand icon in the animation workspace to the desired position. Upon releasing the mouse button, the hand remains fixed in its new position due to the 'Hold in place' setting in the 'After Move' section.",
+    "keypoints": [
+      "The user clicks on the 'Dragger' option located in the right-side properties panel of the Adobe Character Animator interface.",
+      "The cursor drags the hand icon within the animation workspace, demonstrating how the arm can be moved around freely.",
+      "The user releases the mouse button, and the hand remains in its new position as indicated by the \"Hold in place\" setting under the 'After Move' section in the properties panel."
+    ]
+  }
+]

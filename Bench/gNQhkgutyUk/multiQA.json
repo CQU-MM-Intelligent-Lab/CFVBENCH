@@ -1,0 +1,31 @@
+[
+  {
+    "question": "In Adobe Premiere Pro, after double-clicking a Character Animator .chproj file, what steps finalize the scene import?",
+    "answer": "In the 'Import Character Animator Scene' dialog box, select the desired scene (e.g., 'Scene 1') from the list, then click the 'OK' button to confirm.",
+    "keypoints": [
+      "An 'Import Character Animator Scene' dialog box appears, listing available scenes. The user selects 'Scene 1' from the list.",
+      "The user clicks the 'OK' button to confirm the selection."
+    ]
+  },
+  {
+    "question": "In Adobe Premiere Pro, what happens after confirming scene selection during import, and how can you review the result?",
+    "answer": "The timeline updates with the imported character animation. To preview it, drag the playhead along the timeline.",
+    "keypoints": [
+      "The timeline in Adobe Premiere Pro updates with the imported scene, showing the character animation.",
+      "The user drags the playhead along the timeline to preview the animation."
+    ]
+  },
+  {
+    "question": "After saving a project in Adobe Character Animator, what is the complete process to import and preview it in Adobe Premiere Pro?",
+    "answer": "Open Premiere Pro, select 'Import Files...' from the 'File' menu, navigate to the .chproj file and double-click it. Choose the scene in the dialog box and click 'OK'. The timeline will update; drag the playhead to preview.",
+    "keypoints": [
+      "The user opens Adobe Premiere Pro and selects 'Import Files...' from the 'File' menu.",
+      "A file explorer window opens, and the user navigates to the location where 'Character Animator Project 2.chproj' is stored.",
+      "The user double-clicks on 'Character Animator Project 2.chproj' to import it into Adobe Premiere Pro.",
+      "An 'Import Character Animator Scene' dialog box appears, listing available scenes. The user selects 'Scene 1' from the list.",
+      "The user clicks the 'OK' button to confirm the selection.",
+      "The timeline in Adobe Premiere Pro updates with the imported scene, showing the character animation.",
+      "The user drags the playhead along the timeline to preview the animation."
+    ]
+  }
+]

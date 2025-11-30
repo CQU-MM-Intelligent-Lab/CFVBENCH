@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What caused the deadliest wildfire in California history, and what specific transmission line hazard does this incident illustrate?",
+    "answer": "The Camp Fire was caused by PG&E electrical transmission lines on May 15, 2019, illustrating the hazard of vegetation contact with high-voltage lines that can ignite wildfires.",
+    "keypoints": {
+      "video": [
+        "Officials confirmed that the Camp Fire, deadliest in California history, was caused by PG&E electrical transmission lines on May 15, 2019."
+      ],
+      "text": [
+        "California wildfires have been caused by trees contacting high-voltage transmission lines.",
+        "High-voltage transmission lines require substantial clearance from obstacles like trees due to their bare-wire design and air gaps for insulation."
+      ]
+    }
+  },
+  {
+    "question": "What are the key challenges in expanding US transmission infrastructure to achieve 100% renewable energy by 2050, according to Princeton University projections?",
+    "answer": "Expansion requires physically larger cables and taller structures increasing construction complexity, faces land rights obstacles from private landowners, and needs $320 billion investment within a decade while transmission projects take 3-10 years to complete.",
+    "keypoints": {
+      "video": [
+        "Transmission lines needed for 100% renewable energy by 2050 are projected by Princeton University.",
+        "Generation projects take 1 year while transmission projects require 3-10 years.",
+        "Incremental capital required by 2030 for net-zero emissions by 2050 includes $320 billion for solar electricity according to Princeton University."
+      ],
+      "text": [
+        "Expanding the transmission grid requires physically larger cables and taller structures, increasing construction complexity.",
+        "Securing land rights from private landowners is a major obstacle to building new transmission lines.",
+        "Princeton University estimates nearly $320 billion in transmission infrastructure investment is needed within the next decade for US decarbonization."
+      ]
+    }
+  }
+]

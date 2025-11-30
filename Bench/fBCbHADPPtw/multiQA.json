@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In WixADIAI, what steps are taken to apply the 'Tropical' filter after accessing the filter options?",
+    "answer": "First, select the 'Tropical' filter from the grid of available filters. The image preview will immediately update to show the filter's effect, altering color tones and brightness.",
+    "keypoints": [
+      "The cursor selects a filter labeled 'Tropical' from the grid of available filters displayed on the screen.",
+      "The image preview updates to reflect the applied 'Tropical' filter, showing a change in color tones and brightness."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you adjust the intensity of an applied filter and what visual feedback is provided during the process?",
+    "answer": "Drag the slider at the bottom of the screen to modify the filter intensity. The image preview dynamically updates in real-time as you move the slider, enabling precise tuning of the effect.",
+    "keypoints": [
+      "The user drags the slider at the bottom of the screen to adjust the intensity of the 'Tropical' filter.",
+      "The image preview dynamically changes as the slider is moved, allowing for fine-tuning of the filter's effect."
+    ]
+  },
+  {
+    "question": "In WixADIAI, what happens immediately after selecting a filter and how can you refine its appearance?",
+    "answer": "Upon selecting a filter, the image preview instantly updates to display its effect. You can then refine the appearance by dragging the intensity slider at the bottom of the screen to adjust the filter strength.",
+    "keypoints": [
+      "The image preview updates to reflect the applied 'Tropical' filter, showing a change in color tones and brightness.",
+      "The user drags the slider at the bottom of the screen to adjust the intensity of the 'Tropical' filter."
+    ]
+  }
+]

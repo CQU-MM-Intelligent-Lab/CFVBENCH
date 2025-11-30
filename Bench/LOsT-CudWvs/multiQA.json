@@ -1,0 +1,44 @@
+[
+  {
+    "question": "In Wix, how do you access the font customization options after opening the website editor?",
+    "answer": "Click the 'Design' menu at the top of the editor, then select 'Fonts' from the dropdown menu to open the 'SITE FONTS' panel.",
+    "keypoints": [
+      "The user clicks on the 'Design' menu item located at the top of the Wix website editor interface.",
+      "From the 'Design' dropdown menu, the 'Fonts' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to apply and enlarge the 'Inspire' font style in the 'SITE FONTS' panel?",
+    "answer": "Hover over and select 'Inspire' from the recommended fonts list, then drag the 'SIZE' slider from 'MEDIUM' to a larger setting to increase text size.",
+    "keypoints": [
+      "In the 'SITE FONTS' panel that appears on the left side of the screen, the user hovers over and selects the 'Inspire' font style from the list of recommended fonts.",
+      "The cursor drags the 'SIZE' slider within the 'SITE FONTS' panel to adjust the font size from 'MEDIUM' to a larger setting, visibly increasing the text size on the webpage preview."
+    ]
+  },
+  {
+    "question": "In Wix, after selecting a font style and adjusting its size, how can you reveal advanced customization options for 'Inspire'?",
+    "answer": "Right-click on the 'Inspire' font style in the 'SITE FONTS' panel to open a context menu with additional settings.",
+    "keypoints": [
+      "In the 'SITE FONTS' panel that appears on the left side of the screen, the user hovers over and selects the 'Inspire' font style from the list of recommended fonts.",
+      "The cursor drags the 'SIZE' slider within the 'SITE FONTS' panel to adjust the font size from 'MEDIUM' to a larger setting, visibly increasing the text size on the webpage preview.",
+      "A right-click action is performed on the 'Inspire' font style in the 'SITE FONTS' panel, causing a context menu to appear with additional options for customization."
+    ]
+  },
+  {
+    "question": "In Wix, what is the final action to make font changes publicly visible on your website?",
+    "answer": "Click the 'Publish' button at the top-right corner of the editor to apply and publish all modifications.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located at the top-right corner of the Wix website editor interface, initiating the process to publish the changes made to the website."
+    ]
+  },
+  {
+    "question": "In Wix, how do you navigate from the main editor to modifying a specific font's size?",
+    "answer": "First, click 'Design' > 'Fonts' to open the font panel. Then select your desired font style and adjust the 'SIZE' slider.",
+    "keypoints": [
+      "The user clicks on the 'Design' menu item located at the top of the Wix website editor interface.",
+      "From the 'Design' dropdown menu, the 'Fonts' option is selected by a mouse click.",
+      "In the 'SITE FONTS' panel that appears on the left side of the screen, the user hovers over and selects the 'Inspire' font style from the list of recommended fonts.",
+      "The cursor drags the 'SIZE' slider within the 'SITE FONTS' panel to adjust the font size from 'MEDIUM' to a larger setting, visibly increasing the text size on the webpage preview."
+    ]
+  }
+]

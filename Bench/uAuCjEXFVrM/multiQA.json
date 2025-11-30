@@ -1,0 +1,66 @@
+[
+  {
+    "question": "In TutorTube Animation Studio, how do you start recording and add a walk animation to the timeline?",
+    "answer": "Click the 'Record' button at the bottom of the application window to initiate recording, then select the 'Walk' behavior from the left panel and drag it onto the timeline to add a walking animation.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located at the bottom of the application window, initiating the recording process.",
+      "The cursor selects the 'Walk' behavior from the list in the left panel and drags it onto the timeline, adding a walking animation to the character."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, after adding a walk animation, how do you modify the character's walking style and what is the immediate visual effect?",
+    "answer": "Adjust the 'Step Length' and 'Speed' parameters in the 'Walk' settings within the right panel to alter the walking style, which immediately changes the character's movement shown in the preview.",
+    "keypoints": [
+      "The screen displays the character performing a walk cycle as the timeline plays forward, showing the character's movement across the screen.",
+      "The user adjusts the 'Walk' settings in the right panel by modifying parameters such as 'Step Length' and 'Speed', altering the character's walking style."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, how do you insert a hand wave gesture into an existing animation and verify its timing?",
+    "answer": "Select the 'Hand Wave' behavior from the left panel list and add it to a specific point on the timeline. The character will perform the gesture when the timeline reaches that section, allowing you to verify the timing.",
+    "keypoints": [
+      "The cursor then selects the 'Hand Wave' behavior from the list and adds it to the timeline at a specific point, introducing a hand wave gesture into the animation.",
+      "The character performs the hand wave gesture as the timeline reaches the corresponding section, demonstrating the combined animations."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, how do you pause an ongoing animation and what final output is displayed?",
+    "answer": "Click the 'Pause' button on the timeline controls to stop the animation sequence. The screen then shows the completed animation with the character walking and waving, reflecting all adjustments.",
+    "keypoints": [
+      "The user pauses the recording by clicking the 'Pause' button on the timeline controls, stopping the current animation sequence.",
+      "The screen shows the completed animation with the character walking and waving, reflecting the adjustments made during the recording session."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, how do you reset a character's position for further editing after previewing an animation?",
+    "answer": "Click the 'Refresh Scene' button in the top menu to reset the character's position. This returns the character to its initial state, ready for additional modifications.",
+    "keypoints": [
+      "The user refreshes the scene by clicking the 'Refresh Scene' button in the top menu, resetting the character's position for further editing.",
+      "The character returns to its initial position on the screen after the scene is refreshed, ready for additional modifications."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, how do you initiate a walk animation and adjust the character's movement path?",
+    "answer": "Click the 'Walk' trigger in the 'Triggers' panel on the right to start the animation, then drag the timeline cursor along the horizontal timeline to reposition the character and control its movement path across the background.",
+    "keypoints": [
+      "The user clicks on the 'Walk' trigger located in the 'Triggers' panel on the right side of the screen, initiating a walking animation for the character displayed in the central preview window.",
+      "The user drags the timeline cursor along the horizontal timeline at the bottom of the screen to adjust the timing and position of the character's walk animation, causing the character to move across the white background in the preview window."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, how do you manipulate a character's hand movement and adjust step distance during a walk animation?",
+    "answer": "Select 'Handle 3' from the 'Properties' section to enable hand movement control, then modify the 'Slide Length' parameter under 'Walk' settings in the Triggers panel to change the distance per step.",
+    "keypoints": [
+      "The user selects the 'Handle 3' draggable item from the 'Properties' section on the right side of the screen, enabling manipulation of the character's hand movement within the animation.",
+      "The user adjusts the 'Slide Length' parameter under the 'Walk' settings in the 'Triggers' panel, changing the distance the character moves with each step as shown in the preview window."
+    ]
+  },
+  {
+    "question": "In TutorTube Animation Studio, how do you preview a full animation sequence and then reset the scene?",
+    "answer": "Click the play button below the preview window to see the entire sequence, then click 'Refresh this scene' near the bottom-right corner to reset the character's position and animation progress.",
+    "keypoints": [
+      "The user clicks the play button located below the preview window to preview the entire animation sequence, showing the character walking, waving, and returning to its starting position.",
+      "The user refreshes the scene by clicking the 'Refresh this scene' button located near the bottom-right corner of the preview window, resetting the character's position and animation progress."
+    ]
+  }
+]

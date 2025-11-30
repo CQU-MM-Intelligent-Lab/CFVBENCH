@@ -1,0 +1,43 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate the export process to Adobe Media Encoder?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export' from the dropdown, and choose 'Video via Adobe Media Encoder...' from the submenu.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export' option is selected by a mouse click.",
+      "In the 'Export' submenu, the 'Video via Adobe Media Encoder...' option is chosen with a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to name and save a video file during export?",
+    "answer": "In the save dialog, type the filename (e.g., 'Master Scene.mp4') into the 'File name' field and click the 'Save' button to confirm the export location.",
+    "keypoints": [
+      "A dialog box appears prompting the user to save the file. The user types 'Master Scene.mp4' into the text field labeled 'File name.'",
+      "The user selects the 'Save' button within the dialog box to confirm the export location and filename."
+    ]
+  },
+  {
+    "question": "In Adobe Media Encoder, how do you render a video after selecting a preset?",
+    "answer": "Select the desired preset (e.g., 'YouTube 1080p Full HD') from the list and click the 'Start Queue' button to begin rendering.",
+    "keypoints": [
+      "The screen displays the Adobe Media Encoder interface where the user selects the 'YouTube 1080p Full HD' preset from the list.",
+      "The user clicks the 'Start Queue' button in the Adobe Media Encoder window to begin rendering the video."
+    ]
+  },
+  {
+    "question": "After rendering completes in Adobe Media Encoder, how can you review specific parts of the exported video?",
+    "answer": "Navigate to the desktop to locate the exported file, open it in a media player, and drag the timeline slider to review specific sections of the animation.",
+    "keypoints": [
+      "After the rendering process completes, the user navigates to the desktop where the exported video file 'Master Scene.mp4' is visible.",
+      "The user opens the exported video file, which shows an animated character walking through different scenes including a cityscape and a snowy landscape.",
+      "The user drags the timeline slider within the video player to review specific parts of the animation."
+    ]
+  },
+  {
+    "question": "What indicates successful rendering completion in Adobe Media Encoder?",
+    "answer": "A green checkmark appears next to the file in the queue, and the status changes from 'Ready' to 'Done' upon completion.",
+    "keypoints": [
+      "Once the rendering completes, the status changes from 'Ready' to 'Done', and a green checkmark appears next to the file."
+    ]
+  }
+]

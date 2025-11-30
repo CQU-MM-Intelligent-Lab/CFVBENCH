@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When and where did the uncrewed Boeing Starliner spacecraft successfully return to Earth after its mission to the International Space Station?",
+    "answer": "The uncrewed Starliner successfully returned to Earth on September 6, landing at White Sands Space Harbor, New Mexico.",
+    "keypoints": {
+      "video": [
+        "The uncrewed Starliner returns to Earth on September 6, three months after its departure.",
+        "The spacecraft lands at White Sands Space Harbor, New Mexico."
+      ],
+      "text": [
+        "Starliner spacecraft successfully returned to Earth."
+      ]
+    }
+  },
+  {
+    "question": "Due to thruster issues extending the stay of NASA astronauts Sunita Williams and Barry Wilmore, which company was assigned to return them to Earth, and what inherent characteristic of human spaceflight did mission personnel emphasize?",
+    "answer": "SpaceX was assigned to return the astronauts to Earth. Mission personnel emphasized that human spaceflight is inherently challenging and not easy.",
+    "keypoints": {
+      "video": [
+        "SpaceX is tasked with bringing the astronauts home due to the thruster issues."
+      ],
+      "text": [
+        "Mission personnel stated human spaceflight is inherently challenging and not easy."
+      ]
+    }
+  }
+]

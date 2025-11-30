@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In Wix, how do you add a 'PROJECTS' section to your website and what appears after this action?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select 'Projects' from the dropdown menu. This displays a new 'PROJECTS' section with placeholders for project titles and descriptions.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "A dropdown menu appears, and the user selects the 'Projects' section from the list of options displayed.",
+      "The screen displays a new section titled 'PROJECTS' with placeholders for project titles and descriptions."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to edit a project item's name in the 'PROJECTS' section?",
+    "answer": "Click the 'Edit' button within the 'PROJECTS' section to expand the sidebar. Under the 'List Items' section, type the new name into the 'ITEM NAME' field, which updates the corresponding placeholder in the main editing area.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button within the newly added 'PROJECTS' section.",
+      "The sidebar on the left side of the screen expands to show various editable elements such as 'Header Title', 'Header Subtitle', and 'List Items'.",
+      "The user types 'Work 1' into the 'ITEM NAME' field under the 'List Items' section in the sidebar.",
+      "The text 'Work 1' is updated in the corresponding placeholder within the 'PROJECTS' section on the main editing area."
+    ]
+  },
+  {
+    "question": "In Wix, how do you replace the default image for a project item in the 'PROJECTS' section?",
+    "answer": "Within the 'List Items' settings in the sidebar, click the 'Media' tab. Then select an image from the media library using the 'Choose an Image' option, which replaces the default image in the 'PROJECTS' section.",
+    "keypoints": [
+      "The user clicks on the 'Media' tab within the 'List Items' settings in the sidebar.",
+      "The user selects an image from the media library by clicking on the 'Choose an Image' option.",
+      "The selected image replaces the default placeholder image in the 'PROJECTS' section."
+    ]
+  }
+]

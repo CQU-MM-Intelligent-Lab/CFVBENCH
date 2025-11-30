@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What is the shape of the 3D-printed structures shown during construction and upon completion in the desert environment in the video, and what key architectural features characterize El Cosmico's world-first 3D-printed hotel?",
+    "answer": "The structures are cylindrical in shape. El Cosmico's 3D-printed hotel features domes, arches, and curved walls.",
+    "keypoints": {
+      "video": [
+        "An automated construction machine labeled 'ICON' is seen printing large cylindrical structures in a desert environment, with workers monitoring the process.",
+        "The video concludes with a shot of the completed cylindrical structures under a clear sky."
+      ],
+      "text": [
+        "The 3D printed buildings feature domes, arches, and curved walls, architectural elements typically too expensive for large-scale replication with traditional construction."
+      ]
+    }
+  }
+]

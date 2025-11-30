@@ -1,0 +1,45 @@
+[
+  {
+    "question": "Why does increasing sound volume from 85 decibels to 88 decibels double the perceived loudness, and what OSHA regulation addresses exposure at this threshold?",
+    "answer": "Increasing volume from 85dB to 88dB doubles loudness due to the logarithmic nature of the decibel scale. OSHA requires employers to implement hearing conservation programs when noise exposure reaches or exceeds 85 decibels averaged over 8 working hours.",
+    "keypoints": {
+      "video": [
+        "A bar chart illustrates that loudness increases significantly from 79dB to 88dB, highlighting the impact of volume levels on hearing.",
+        "OSHA requires employers to implement a hearing conservation program when noise exposure is at or above 85 decibels averaged over 8 working hours."
+      ],
+      "text": [
+        "Increasing volume from 85dB to 88dB doubles the loudness due to the logarithmic scale of decibel measurement.",
+        "Permanent hearing damage results from both the duration and loudness of sound exposure, measured in decibels (dB)."
+      ]
+    }
+  },
+  {
+    "question": "How do active noise-canceling headphones functionally differ from passive noise cancellation in protecting against hearing damage, and in which environments are they most effective?",
+    "answer": "Active noise cancellation uses microphones to generate anti-waves that cancel environmental sounds, while passive noise cancellation relies on physical barriers to block sound. These technologies are most effective in reducing persistent low-frequency sounds (around 1000 hertz or below) like airplane turbines or train noise.",
+    "keypoints": {
+      "video": [
+        "Passive noise cancellation reduces ambient sound through physical barriers.",
+        "Active noise cancellation uses microphones to listen to the environment and generate anti-waves that cancel out environmental sounds.",
+        "The headphones on a mannequin head demonstrate how active noise cancellation works in various environments like subways, highways, and airports."
+      ],
+      "text": [
+        "Noise-canceling headphones use microphones to analyze environmental sound and generate an inverse 'anti-wave' to cancel it out.",
+        "Noise-canceling headphones work best at reducing persistent low-frequency sounds (around 1000 hertz or below), such as airplane turbines or train noise."
+      ]
+    }
+  },
+  {
+    "question": "What specific hearing risk affects over one billion young adults globally, and what per-person investment does the World Health Organization recommend to address it?",
+    "answer": "Over one billion young adults are at risk of permanent hearing loss due to unsafe listening practices. The World Health Organization recommends an annual investment of US$ 1.40 per person to scale up global hearing care services.",
+    "keypoints": {
+      "video": [
+        "Over 1 billion young adults are at risk of permanent hearing loss due to unsafe listening practices.",
+        "The World Health Organization recommends an annual investment of US$ 1.40 per person to scale up hearing care services globally."
+      ],
+      "text": [
+        "Over one billion young adults are at risk of permanent, avoidable hearing loss.",
+        "Hearing damage is invisible, unlike a sunburn, requiring conscious effort to protect ears."
+      ]
+    }
+  }
+]

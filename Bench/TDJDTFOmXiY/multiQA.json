@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Wix, how do you add a 'Selected Work' gallery section to your webpage?",
+    "answer": "Click the 'Add Section' button in the left sidebar, then select 'Selected Work' from the dropdown menu to open the gallery selection window.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the left sidebar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Selected Work' option is selected by a mouse click, which opens a gallery selection window."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add and position an image within a gallery section?",
+    "answer": "In the 'Organize Your Gallery' dialog box, select an image thumbnail from the grid layout, then drag it to the designated area in the gallery section to update the webpage preview.",
+    "keypoints": [
+      "In the 'Organize Your Gallery' dialog box, the user selects an image thumbnail labeled 'Building' from the grid layout.",
+      "The cursor drags the selected image to the designated area within the gallery section, updating the webpage preview with the new image placement."
+    ]
+  },
+  {
+    "question": "In Wix, how do you set metadata for an image in a gallery after placement?",
+    "answer": "Right-click the image to open the context menu, enter text in the 'Title' field of the Image Settings panel, then configure the link by selecting 'Web Address' in the 'Link' field and entering a URL.",
+    "keypoints": [
+      "A right-click action is performed on the image within the gallery section, causing a context menu to appear with options like 'Edit Image', 'Replace Image', and 'Remove'.",
+      "The user types 'Building' into the text field labeled 'Title' within the 'Image Settings' panel on the right side of the screen.",
+      "The user clicks on the 'Link' field within the 'Image Settings' panel and selects 'Web Address' from the dropdown menu, entering 'https://example.com/building' into the link input field."
+    ]
+  },
+  {
+    "question": "In Wix, how do you finalize gallery edits and publish the webpage?",
+    "answer": "Click the 'Done' button in the 'Organize Your Gallery' dialog box to confirm gallery changes, then click the 'Publish' button in the top-right corner to deploy the updated webpage.",
+    "keypoints": [
+      "The user clicks the 'Done' button at the bottom of the 'Organize Your Gallery' dialog box, finalizing the changes made to the gallery section.",
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface, initiating the publishing process for the updated webpage."
+    ]
+  },
+  {
+    "question": "In Wix, how do you create a new blank page and apply a gallery layout?",
+    "answer": "Click the 'Edit Site' button in the top-left corner, select a blank page from the 'Page: Blank Page' dropdown, then choose a design template thumbnail from the 'SECTION DESIGN' panel to populate the page with a gallery layout.",
+    "keypoints": [
+      "The user clicks on the 'Edit Site' button located in the top-left corner of the Wix website editor interface.",
+      "The user selects a blank page from the dropdown menu labeled 'Page: Blank Page' situated at the top left of the screen, resulting in a new blank page appearing in the editing area.",
+      "The user navigates to the 'SECTION DESIGN' panel on the left side of the screen and clicks on a design template thumbnail, which then populates the blank page with a gallery layout featuring multiple images and text elements."
+    ]
+  },
+  {
+    "question": "In Wix, how do you access design customization options for a gallery section and publish changes?",
+    "answer": "Hover over the 'Design' tab in the SECTION DESIGN panel to reveal customization options, then click the 'Publish' button in the top-right corner to apply all modifications.",
+    "keypoints": [
+      "The user hovers over the 'Design' tab within the SECTION DESIGN panel, revealing additional options for customizing the gallery section.",
+      "The user clicks on the 'Publish' button located in the top-right corner of the screen, initiating the process to publish the edited webpage."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In YouTube, what steps are required to obtain the embed code for a video externally?",
+    "answer": "Click the red rectangular 'Share' button below the video player, select the 'Embed' option (third item in the dropdown menu), then copy the iframe HTML code from the text area in the 'Embed Video' dialog box using a keyboard shortcut.",
+    "keypoints": [
+      "The user clicks on the 'Share' button located below the YouTube video player, which is a red rectangular button with white text.",
+      "From the dropdown menu that appears, the 'Embed' option, which is the third item in the list, is selected by a mouse click.",
+      "In the 'Embed Video' dialog box, the user highlights and copies the iframe HTML code displayed within the text area using a keyboard shortcut."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add and configure an HTML Embed section to display external content?",
+    "answer": "Click the blue circular 'Add' button in the top navigation bar, select the 'HTML Embed' option (code snippet icon) from the 'Add Section' panel, then paste the copied HTML code into the text area under the 'HTML' tab of the new section.",
+    "keypoints": [
+      "The user navigates to the Wix website editor interface and selects the 'Add' button from the top navigation bar, which is a blue circular icon with a plus sign.",
+      "Within the 'Add Section' panel on the left side of the screen, the user scrolls down and selects the 'HTML Embed' option, which is represented by an icon resembling a code snippet.",
+      "The user clicks on the 'HTML' tab within the newly added section, which is located at the bottom of the section's settings panel.",
+      "The user pastes the previously copied iframe HTML code into the designated text area under the 'HTML' tab."
+    ]
+  },
+  {
+    "question": "In Wix, how do you reposition an embedded section and modify its placeholder text?",
+    "answer": "Click the 'Design' tab next to the 'HTML' tab, drag the section to the desired position, then click the placeholder text below the video and type the new text.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab within the section settings panel, which is located next to the 'HTML' tab.",
+      "The user adjusts the layout of the embedded section by dragging it to the desired position on the page, as indicated by the cursor movement and the visual feedback of the section moving.",
+      "The user clicks on the 'Sample Video' placeholder text within the section, which is located below the embedded video, and types in the new text 'SAMPLE VIDEO'."
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What percentage of items that Americans try to recycle are unrecyclable due to contamination?",
+    "answer": "Approximately 25% of items Americans attempt to recycle cannot be recycled due to contamination.",
+    "keypoints": [
+      "Approximately 25% of items Americans attempt to recycle cannot actually be recycled due to contamination."
+    ]
+  },
+  {
+    "question": "What was the contamination rate in Palm Beach County, Florida, which requires pre-sorted recyclables?",
+    "answer": "Palm Beach County, Florida, requiring pre-sorted recyclables, had a contamination rate of 9%.",
+    "keypoints": [
+      "Palm Beach County, Florida, requiring pre-sorted recyclables, had a contamination rate of 9%."
+    ]
+  },
+  {
+    "question": "What was the contamination rate in Broward County, Florida, which uses single-stream recycling?",
+    "answer": "Broward County, Florida, using single-stream recycling, had a contamination rate of 30%.",
+    "keypoints": [
+      "Broward County, Florida, using single-stream recycling, had a contamination rate of 30%."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "question": "In WixADIAI, how do you configure an image as a background with reduced opacity?",
+    "answer": "Click the blue 'Edit' button at the top of the media settings panel, select 'Image' from the 'Media Type' dropdown, choose 'Background' in the 'Media Layout' dropdown, then drag the 'Image Opacity' slider left to 65%.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located at the top of the media settings panel, which is blue and labeled with white text.",
+      "From the 'Media Type' dropdown menu, the 'Image' option, which is the first item, is selected by a mouse click.",
+      "In the 'Media Layout' dropdown menu, the 'Background' option is chosen, causing the image to appear as a background layout.",
+      "The cursor drags the 'Image Opacity' slider within the 'Media Settings' panel to the left, decreasing the displayed value from '100%' to '65%'."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you apply a 'Zoom In' scroll effect to an image?",
+    "answer": "Right-click the image in the main workspace to open the context menu, then select 'Zoom In' from the scroll effect dropdown located below the 'Color Behind Image' section.",
+    "keypoints": [
+      "A right-click action is performed on the image in the main workspace, causing a context menu to appear.",
+      "The user selects the 'Zoom In' option from the scroll effect dropdown menu, which is located below the 'Color Behind Image' section."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you replace the main image using the Wix media library?",
+    "answer": "Click 'Media from Wix' in the left sidebar, select an image from the gallery (highlighted with a blue border), and it will automatically replace the previous image in the main image area.",
+    "keypoints": [
+      "The user clicks on the 'Media from Wix' option located in the left sidebar of the Wix Adi workspace.",
+      "The user selects an image from the gallery displayed in the pop-up window, which is highlighted with a blue border.",
+      "The selected image is applied to the main image area on the webpage, replacing the previous image."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you disable scroll effects for a background image?",
+    "answer": "Click the 'Edit' button in the media settings panel, select 'Background' from the media type dropdown, ensure the layout is set to 'Background', then choose 'None' from the scroll effect dropdown.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located at the top of the media settings panel.",
+      "The user selects the 'Background' option from the media type dropdown menu within the media settings panel.",
+      "The user adjusts the scroll effect setting by selecting 'None' from the dropdown menu in the media settings panel."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you change the background pattern of the 'WELCOME' section?",
+    "answer": "Click the 'Section Design' button under the 'WELCOME' section in the left sidebar, then select a new pattern from the patterns section to update the background design.",
+    "keypoints": [
+      "The user clicks on the 'Section Design' button located in the left sidebar under the 'WELCOME' section.",
+      "The user selects a new pattern from the patterns section, changing the background design of the webpage."
+    ]
+  },
+  {
+    "question": "In WixADIAI, what is the outcome of publishing the webpage?",
+    "answer": "Clicking the 'Publish' button in the top-right corner applies all changes and displays the final webpage with updated background and layout modifications.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix Adi workspace.",
+      "The user views the final webpage design after publishing, showing the updated background and layout changes."
+    ]
+  }
+]

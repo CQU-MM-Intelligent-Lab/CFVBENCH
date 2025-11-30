@@ -1,0 +1,50 @@
+[
+  {
+    "question": "In Adobe Character Animator, what are the sequential steps to make the right heel draggable after selecting the Legs section?",
+    "answer": "First, right-click on the 'Right Leg' layer in the 'Properties' panel and select 'Add Tag Right Heel'. Then, click the 'Draggable' checkbox next to 'Right Heel' in the 'Properties' panel to enable dragging functionality.",
+    "keypoints": [
+      "The user right-clicks on the 'Right Leg' layer in the 'Properties' panel and selects 'Add Tag Right Heel' from the context menu.",
+      "The user clicks on the 'Draggable' checkbox next to 'Right Heel' in the 'Properties' panel, making the heel draggable."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test and refine leg movement after making the heel draggable?",
+    "answer": "Navigate to the 'Record' tab and drag the 'Right Heel' handle to observe movement. If the leg moves unnaturally, select the 'Stick Tool' and create bones by dragging between the hip, knee, and ankle handles.",
+    "keypoints": [
+      "The user navigates to the 'Record' tab at the top of the screen and clicks on it.",
+      "The user drags the 'Right Heel' handle in the animation workspace, observing the leg movement.",
+      "The user observes that the leg moves like a noodle due to the lack of bone structure and adjusts this by adding stick tools to create bones along the leg.",
+      "The user selects the 'Stick Tool' from the toolbar on the left side of the screen and clicks and drags between the 'Right Hip', 'Right Knee', and 'Right Ankle' handles to create bones for the leg."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what settings should be adjusted for both legs after rigging the left leg?",
+    "answer": "Adjust 'Stretchiness', 'Bend Strength', and 'Ankle Flexibility' in the 'Properties' panel. Then toggle 'Ground Detection' to control foot placement and apply 'Fit Pinning' to secure specific leg parts.",
+    "keypoints": [
+      "The user clicks on the 'Left Leg' layer in the 'Properties' panel and repeats the rigging process for the left leg.",
+      "The user adjusts settings such as 'Stretchiness', 'Bend Strength', and 'Ankle Flexibility' in the 'Properties' panel for both legs.",
+      "The user toggles the 'Ground Detection' option in the 'Properties' panel to observe its effect on leg movement.",
+      "The user selects the 'Fit Pinning' option in the 'Properties' panel to pin specific parts of the legs."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you prepare the right leg for bone creation before using the Stick Tool?",
+    "answer": "Drag the origin point near the hip to adjust its position, then add handles at the knee and ankle by clicking on their designated areas along the leg.",
+    "keypoints": [
+      "The user drags the origin point of the right leg in the character animator interface, which is located near the hip area, to adjust its position.",
+      "The user adds handles at specific points along the right leg by clicking on designated areas: one at the knee and another at the ankle."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the complete workflow to rig and test draggable legs starting from the Rig tab?",
+    "answer": "Select the 'Rig' tab, then click the 'Legs' section. Add and enable draggable tags for both heels, test movement in the 'Record' tab, create bones if needed, and finally adjust limb settings like stretchiness and ground detection.",
+    "keypoints": [
+      "The user selects the 'Rig' tab located on the left side of the interface.",
+      "The user clicks on the 'Legs' section within the 'Rig' tab, revealing options for rigging legs.",
+      "The user clicks on the 'Left Leg' layer in the 'Properties' panel and repeats the rigging process for the left leg.",
+      "The user navigates to the 'Record' tab at the top of the screen and clicks on it.",
+      "The user drags the 'Right Heel' handle in the animation workspace, observing the leg movement.",
+      "The user adjusts settings such as 'Stretchiness', 'Bend Strength', and 'Ankle Flexibility' in the 'Properties' panel for both legs."
+    ]
+  }
+]

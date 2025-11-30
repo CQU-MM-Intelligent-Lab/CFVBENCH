@@ -1,0 +1,58 @@
+[
+  {
+    "question": "In Character Animation Software, how do you create a new blank scene to replace existing content?",
+    "answer": "Click the 'Scene' tab at the top of the application window, then select the option to create a new scene from the dropdown menu. This creates a new blank scene in the central workspace, replacing any previous content.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the application window",
+      "The user selects the option to create a new scene from the dropdown menu that appears after clicking the 'Scene' tab",
+      "A new blank scene is created in the central workspace, replacing any previous content"
+    ]
+  },
+  {
+    "question": "In Character Animation Software, what happens after dragging 'Chloe' into a new scene and adjusting 'Tell's size?",
+    "answer": "After dragging 'Chloe' into the scene, she appears alongside another character. Then, after resizing and repositioning 'Tell', you position 'Chloe' to the side, resulting in both characters being placed next to each other in the workspace.",
+    "keypoints": [
+      "The user drags the character named 'Chloe' from the project panel into the newly created scene",
+      "The character 'Chloe' appears in the central workspace alongside another character",
+      "The user adjusts the size of the character 'Tell' by selecting and resizing it within the central workspace",
+      "The resized character 'Tell' is repositioned to a different area within the scene",
+      "The user positions the character 'Chloe' to the side within the central workspace",
+      "Both characters are now positioned next to each other in the scene"
+    ]
+  },
+  {
+    "question": "In Character Animation Software, how do you activate webcam control and make 'Chloe' respond to movements?",
+    "answer": "Activate the webcam control feature within the interface to display a live feed window. Then move your face in front of the webcam, which causes 'Chloe' to mimic your movements and respond to expressions in real-time.",
+    "keypoints": [
+      "The user activates the webcam control feature within the application interface",
+      "A live feed from the webcam appears in a small window on the right side of the screen",
+      "The user moves their face in front of the webcam, causing the character 'Chloe' to mimic the movements",
+      "The character 'Chloe' responds to the user's facial expressions and movements in real-time"
+    ]
+  },
+  {
+    "question": "In Character Animation Software, how do you switch webcam control to 'Tell' after using it with 'Chloe'?",
+    "answer": "First ensure 'Chloe' is responding to webcam input. Then click on 'Tell' to make it active, after which 'Tell' will mimic your facial expressions and movements instead.",
+    "keypoints": [
+      "The character 'Chloe' responds to the user's facial expressions and movements in real-time",
+      "The user clicks on the character 'Tell' to make it active for webcam control",
+      "The character 'Tell' now mimics the user's facial expressions and movements as seen through the webcam"
+    ]
+  },
+  {
+    "question": "In Character Animation Software, how do you enable synchronized control of both characters with one webcam?",
+    "answer": "Select both 'Chloe' and 'Tell' simultaneously in the central workspace. This enables both characters to be controlled together using the same webcam input, allowing synchronized responses to your movements.",
+    "keypoints": [
+      "The user selects both characters 'Chloe' and 'Tell' simultaneously within the central workspace",
+      "Both characters are now controlled together using the same webcam input"
+    ]
+  },
+  {
+    "question": "In Character Animation Software, what happens when you reposition characters during synchronized webcam control?",
+    "answer": "When you drag one character to adjust its position during synchronized control, both characters maintain their real-time movement synchronization while adapting to the new positioning.",
+    "keypoints": [
+      "The user drags one character slightly to adjust its position relative to the other",
+      "Both characters maintain their synchronized movement despite the positional adjustment"
+    ]
+  }
+]

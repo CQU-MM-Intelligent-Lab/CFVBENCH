@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Video Editor Pro, how do you open the file explorer to select video files for merging?",
+    "answer": "Click the 'File' menu in the top-left corner, then select the 'Open' option (the second item) from the dropdown menu to launch the file explorer.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Open' option from the dropdown menu, which is the second item listed"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, how do you sequence videos and initiate merging after they appear in the list?",
+    "answer": "Drag files into your preferred order within the list, then click the blue 'Merge' button at the bottom to start combining them.",
+    "keypoints": [
+      "The user rearranges the order of the files by dragging \"Tracking_Footage.mov\" to the top position, followed by \"My First Edit_Export.mp4,\" and then \"TutorTube_Lesson 4.mp4\"",
+      "The user clicks on the 'Merge' button, which is blue and located at the bottom of the list"
+    ]
+  },
+  {
+    "question": "In Video Editor Pro, how do you review technical details of the merged video file?",
+    "answer": "Double-click the merged video in the file explorer to open it; properties like length, size, frame width, and frame rate will appear on the right.",
+    "keypoints": [
+      "The user double-clicks on the merged video file in the file explorer to open it again for review",
+      "The video file properties are displayed on the right side of the file explorer window, including details such as length, size, frame width, and frame rate"
+    ]
+  }
+]

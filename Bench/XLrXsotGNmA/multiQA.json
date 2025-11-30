@@ -1,0 +1,48 @@
+[
+  {
+    "question": "In Video Editor, how do you open a video file that is not natively supported?",
+    "answer": "First, click the 'File' menu in the top-left corner and select 'Open'. When the file explorer appears, navigate to the target folder and double-click the video file. The file will load but display a warning about unsupported format and potential playback issues.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Open' option from the dropdown menu, which is the first item listed",
+      "A file explorer window appears, and the user navigates to a folder containing video files",
+      "The user double-clicks on a file named 'San Francisco Townhouses.wmv', which is highlighted in blue",
+      "A message appears stating \"File not natively supported. Preview may have no audio or low quality,\" indicating that the file format is unsupported"
+    ]
+  },
+  {
+    "question": "In Video Editor, what steps are required to convert an unsupported video file to a high-quality supported format?",
+    "answer": "After opening the unsupported file, click the 'File' menu and select 'Convert to supported format'. In the dialog box, choose 'Slowest: High quality encode' from the options, then click 'OK' to start the conversion process.",
+    "keypoints": [
+      "A message appears stating \"File not natively supported. Preview may have no audio or low quality,\" indicating that the file format is unsupported",
+      "The user clicks on the 'File' menu again and selects 'Convert to supported format' from the options",
+      "A dialog box titled 'Convert to supported format' appears, listing various conversion options such as 'Fastest: Low playback speed (no audio)' and 'Slowest: High quality encode'",
+      "The user selects the 'Slowest: High quality encode' option and clicks the 'OK' button"
+    ]
+  },
+  {
+    "question": "In Video Editor, how is conversion progress monitored and what indicates completion?",
+    "answer": "After clicking 'OK' in the conversion dialog, a progress bar appears in the center of the screen. It starts at 0% and gradually increases to 100%, with 100% indicating the conversion is complete.",
+    "keypoints": [
+      "The user selects the 'Slowest: High quality encode' option and clicks the 'OK' button",
+      "A progress bar appears in the center of the screen, showing the conversion process at 0% initially",
+      "As the conversion progresses, the percentage increases gradually until it reaches 100%, completing the conversion"
+    ]
+  },
+  {
+    "question": "In Video Editor, what improvements occur after successfully converting an unsupported video file?",
+    "answer": "Post-conversion, the video preview shows significantly enhanced quality with smooth playback, and the file becomes fully editable and exportable in supported formats.",
+    "keypoints": [
+      "After conversion, the video preview improves significantly, showing smooth playback with enhanced quality",
+      "The user can now edit and export the video with precision, as the file has been converted to a supported format"
+    ]
+  },
+  {
+    "question": "In Video Editor, where is the 'Convert to supported format' option located and what triggers its appearance?",
+    "answer": "The 'Convert to supported format' option appears in the 'File' menu dropdown after opening an unsupported video file that displays a format warning.",
+    "keypoints": [
+      "A message appears stating \"File not natively supported. Preview may have no audio or low quality,\" indicating that the file format is unsupported",
+      "The user clicks on the 'File' menu again and selects 'Convert to supported format' from the options"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What role does melatonin play in the body?",
+    "answer": "Melatonin acts as an internal timekeeper that regulates the body's circadian rhythm.",
+    "keypoints": [
+      "Melatonin is described as an internal timekeeper that regulates the body's circadian rhythm."
+    ]
+  },
+  {
+    "question": "How does color temperature affect human alertness?",
+    "answer": "Higher color temperature light (e.g., 5600K daylight) increases alertness more than lower color temperature light (e.g., 3000K sunset light).",
+    "keypoints": [
+      "The color temperature of light affects alertness, with daylight at 5600K being more alerting than sunset light at 3000K."
+    ]
+  },
+  {
+    "question": "What are three evidence-based tips for better sleep with evening screen use?",
+    "answer": "Key recommendations include enabling warm color shift, limiting screen time duration, and reducing screen brightness before bedtime.",
+    "keypoints": [
+      "Better sleep tips include turning on warm shift, limiting duration, and limiting brightness of screens before bedtime."
+    ]
+  },
+  {
+    "question": "What is the function of tokenization in text processing?",
+    "answer": "Tokenization converts text into smaller, manageable units called tokens for efficient computational analysis.",
+    "keypoints": [
+      "Tokenization methods convert text into smaller, more manageable units called tokens."
+    ]
+  },
+  {
+    "question": "What data is essential for building a bigram model?",
+    "answer": "A comprehensive list of all possible two-word combinations (bigrams) is required to construct a bigram model.",
+    "keypoints": [
+      "For a bigram model, a list of all two-word pairs (bigrams) is required."
+    ]
+  }
+]

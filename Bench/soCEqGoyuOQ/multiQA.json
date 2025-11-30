@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Wix, how do you add a job application form section to a blank page?",
+    "answer": "Click the 'Add Section' button in the center of the blank page, then select the 'Job Application' template from the left-side menu.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the center of the blank page within the Wix website editor interface.",
+      "The user selects the 'Job Application' section from the left-side menu, which is highlighted and labeled as a form template for job applications."
+    ]
+  },
+  {
+    "question": "In Wix, what fields appear when you add a job application form section?",
+    "answer": "The form includes fields for First Name, Last Name, Email, Phone, Position applying for, Available start date, Link to Your Resume, and an 'Apply Now' button.",
+    "keypoints": [
+      "A job application form section appears on the screen with fields for First Name, Last Name, Email, Phone, Position applying for, Available start date, Link to Your Resume, and an 'Apply Now' button."
+    ]
+  },
+  {
+    "question": "In Wix, how do you make the 'Position I'm applying for' field mandatory in a job application form?",
+    "answer": "Toggle the switch next to the 'Position I'm applying for' dropdown field to enable the mandatory requirement.",
+    "keypoints": [
+      "The user makes the 'Position I'm applying for' field mandatory by clicking on the toggle switch next to it."
+    ]
+  },
+  {
+    "question": "In Wix, how do you preview a job application form and what does it show?",
+    "answer": "Click the 'Preview' button at the top right corner to see the form as it appears to visitors, including all configured fields and the 'Apply Now' button.",
+    "keypoints": [
+      "The user previews the job application form by clicking the 'Preview' button at the top right corner of the Wix editor.",
+      "The preview displays the completed job application form as it would appear to visitors, including all filled-in fields and the 'Apply Now' button."
+    ]
+  },
+  {
+    "question": "In Wix, what is the sequence to customize the 'Position' field and submit a job application form?",
+    "answer": "Add a new position option to the dropdown, make the field mandatory, then click 'Apply Now' after completing all fields to trigger the submission confirmation.",
+    "keypoints": [
+      "The user adds a new choice labeled 'Graphics Designer' to the dropdown list of positions.",
+      "The user makes the 'Position I'm applying for' field mandatory by clicking on the toggle switch next to it.",
+      "The user clicks the 'Apply Now' button after filling out the form fields.",
+      "The form submission message 'Thanks for submitting!' appears below the form fields."
+    ]
+  }
+]

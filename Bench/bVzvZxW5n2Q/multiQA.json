@@ -1,0 +1,77 @@
+[
+  {
+    "question": "How many vehicles were damaged in the pileup on the Yamuna Expressway in Noida, India, due to reduced visibility from thick smog?",
+    "answer": "At least 24 vehicles were damaged.",
+    "keypoints": {
+      "video": [
+        "A highway in India, specifically the Yamuna Expressway in Noida, is shown with multiple vehicles involved in a collision during foggy conditions."
+      ],
+      "text": [
+        "Thick smog near Delhi caused a pileup damaging at least 24 vehicles as drivers had severely reduced visibility."
+      ]
+    }
+  },
+  {
+    "question": "Why do farmers in Punjab and Haryana burn rice crop stubble, and which legislation contributed to this practice?",
+    "answer": "Farmers burn rice crop stubble to quickly prepare fields for the next crop after the Haryana Preservation of Sub-Soil Water Act, 2009, delayed planting and harvesting by restricting sowing before June 15th.",
+    "keypoints": {
+      "video": [
+        "The Haryana Preservation of Sub-Soil Water Act, 2009, restricts the sowing and transplanting of paddy before June 15th unless notified otherwise by the State Government.",
+        "Farmers in Punjab, Haryana, and Uttar Pradesh burn crop stubble immediately after harvesting, contributing to air pollution."
+      ],
+      "text": [
+        "Farmers in Punjab and Haryana burn rice crop stubble to quickly prepare fields after a 2009 water conservation law delayed planting and harvesting."
+      ]
+    }
+  },
+  {
+    "question": "How do the Himalayan mountains and winter weather patterns exacerbate air pollution?",
+    "answer": "The Himalayas act as a barrier directing smoke from crop burning in Punjab and Haryana toward Delhi, while winter weather traps pollution as cold mountain air flows beneath warm lowland air.",
+    "keypoints": {
+      "video": [
+        "The Himalayas trap cold mountain air, causing it to mix with warm air from the plains, exacerbating pollution in Delhi."
+      ],
+      "text": [
+        "The Himalayan mountains act as a barrier, directing the smoke from Punjab and Haryana towards Delhi.",
+        "Winter weather patterns trap pollution over Delhi as cold mountain air flows beneath a dome of warm lowland air."
+      ]
+    }
+  },
+  {
+    "question": "What was the outcome of the Indian Supreme Court's November 2019 ruling ordering northern states to stop crop stubble burning?",
+    "answer": "Tens of thousands of crop fires continued in Punjab and Haryana as the ruling was not enforced.",
+    "keypoints": {
+      "video": [
+        "The Indian Supreme Court ordered an immediate end to stubble burning in November 2019, but farm fires continued despite the ruling."
+      ],
+      "text": [
+        "India's Supreme Court ruled in November 2019 that northern states must stop farmers from burning crop stubble, but the ruling has not been enforced.",
+        "Tens of thousands of crop fires continued in Punjab and Haryana after the Supreme Court ruling."
+      ]
+    }
+  },
+  {
+    "question": "During peak pollution months, what PM 2.5 levels did Delhi experience in 2016 and 2018, and how do these compare to safe levels?",
+    "answer": "PM 2.5 levels exceeded 300 micrograms per cubic meter in 2016 and 2018, reaching fifty times the safe levels.",
+    "keypoints": {
+      "video": [
+        "Delhi experiences hazardous levels of air pollution with micrograms of particles per cubic meter (PM 2.5) exceeding 300 in 2016 and 2018."
+      ],
+      "text": [
+        "Delhi's average air quality remains unhealthy year-round, but pollution spikes to fifty times safe levels during October and November."
+      ]
+    }
+  },
+  {
+    "question": "What was Delhi's population in 2018, and by how much did it grow in the preceding decade?",
+    "answer": "Delhi's population was 28.5 million in 2018, having grown by more than 7 million people in the preceding decade.",
+    "keypoints": {
+      "video": [
+        "The population of Delhi in 2018 was 28.5 million, making it one of the most populous cities globally."
+      ],
+      "text": [
+        "Delhi's population grew by more than 7 million people in the last decade, making it the world's second-largest city and among the most polluted."
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What was the value and percentage change of the Dow Jones Industrial Average (DJI)?",
+    "answer": "The Dow Jones Industrial Average (DJI) reached 41,985.35, up by 0.08%.",
+    "keypoints": [
+      "The Dow Jones Industrial Average (DJI) is up by 0.08%, reaching a value of 41,985.35."
+    ]
+  },
+  {
+    "question": "What is Nike's current stock price and its percentage change?",
+    "answer": "Nike's stock price is $67.94, down by 5.46%.",
+    "keypoints": [
+      "Nike's stock price is listed as $67.94, showing a decrease of 5.46%."
+    ]
+  },
+  {
+    "question": "What is Boeing's current stock price and its percentage change?",
+    "answer": "Boeing's stock price is $178.11, up by 3.06%.",
+    "keypoints": [
+      "Boeing's stock price is noted at $178.11, indicating an increase of 3.06%."
+    ]
+  }
+]

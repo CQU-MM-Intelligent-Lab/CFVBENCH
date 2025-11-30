@@ -1,0 +1,93 @@
+[
+  {
+    "question": "What percentage of Vermont's electricity currently comes from renewable sources?",
+    "answer": "Vermont currently sources two-thirds of its electricity from renewable energy sources like solar, wind, or hydroelectric plants.",
+    "keypoints": [
+      "Vermont currently sources two-thirds of its electricity from renewable energy sources like solar, wind, or hydroelectric plants."
+    ]
+  },
+  {
+    "question": "What is Vermont's renewable electricity target for 2032?",
+    "answer": "Vermont aims to increase its renewable electricity share to 75% by 2032.",
+    "keypoints": [
+      "Vermont aims to increase its renewable electricity share to 75% by 2032."
+    ]
+  },
+  {
+    "question": "What is the current capacity of Vermont's electrical grid?",
+    "answer": "Vermont's existing power plants and imports from Canada supply approximately 450 megawatts, matching the grid's current capacity.",
+    "keypoints": [
+      "Vermont's existing power plants and imports from Canada already supply approximately 450 megawatts, matching the grid's current capacity."
+    ]
+  },
+  {
+    "question": "By what year does Washington, DC plan to achieve 100% renewable electricity?",
+    "answer": "Washington, DC plans to source 100% of its electricity from renewable sources by 2032.",
+    "keypoints": [
+      "Washington, DC plans to source 100% of its electricity from renewable sources by 2032."
+    ]
+  },
+  {
+    "question": "What are President Biden's targets for US emissions reduction and solar energy adoption?",
+    "answer": "President Biden aims to reduce US emissions by 50% by 2030 and have nearly half of US power come from solar by 2050.",
+    "keypoints": [
+      "President Biden aims to reduce US emissions by 50% by 2030 and have nearly half of US power come from solar by 2050."
+    ]
+  },
+  {
+    "question": "How much could US electricity demand increase through electrification of transportation, heating, and appliances?",
+    "answer": "Electrifying transportation, heating, and appliances could increase US electricity demand by 40% to 100%.",
+    "keypoints": [
+      "Electrifying transportation, heating, and appliances could increase US electricity demand by 40% to 100%."
+    ]
+  },
+  {
+    "question": "Where are optimal locations for new US wind and solar projects according to Princeton University?",
+    "answer": "Optimal locations are predominantly in the central US and offshore.",
+    "keypoints": [
+      "Optimal locations for new wind and solar projects, identified by Princeton University modeling, are predominantly in the central US and offshore."
+    ]
+  },
+  {
+    "question": "Why do high-voltage transmission lines require substantial clearance from obstacles?",
+    "answer": "They require substantial clearance due to their bare-wire design and air gaps for insulation.",
+    "keypoints": [
+      "High-voltage transmission lines require substantial clearance from obstacles like trees due to their bare-wire design and air gaps for insulation."
+    ]
+  },
+  {
+    "question": "What has caused some wildfires in California?",
+    "answer": "Trees contacting high-voltage transmission lines have caused California wildfires.",
+    "keypoints": [
+      "California wildfires have been caused by trees contacting high-voltage transmission lines."
+    ]
+  },
+  {
+    "question": "What is a major obstacle to building new transmission lines?",
+    "answer": "Securing land rights from private landowners is a major obstacle.",
+    "keypoints": [
+      "Securing land rights from private landowners is a major obstacle to building new transmission lines."
+    ]
+  },
+  {
+    "question": "How long do generation projects versus transmission projects typically take to build?",
+    "answer": "Building a generation project typically takes one year, while transmission projects can take three to over ten years.",
+    "keypoints": [
+      "Building a generation project typically takes one year, while transmission projects can take three to over ten years."
+    ]
+  },
+  {
+    "question": "How much transmission investment does Princeton University estimate is needed for US decarbonization in the next decade?",
+    "answer": "Nearly $320 billion in transmission infrastructure investment is needed.",
+    "keypoints": [
+      "Princeton University estimates nearly $320 billion in transmission infrastructure investment is needed within the next decade for US decarbonization."
+    ]
+  },
+  {
+    "question": "What are the projected US renewable energy percentages by 2050 under current trends versus with policy changes?",
+    "answer": "Under current trends, 42% is projected, but could reach 80% with implemented policy proposals.",
+    "keypoints": [
+      "The US is projected to source 42% of its energy from renewables by 2050 under current trends, but could reach 80% with implemented policy proposals."
+    ]
+  }
+]

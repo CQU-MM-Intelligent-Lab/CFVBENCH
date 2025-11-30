@@ -1,0 +1,41 @@
+[
+  {
+    "question": "In Wix, how do you locate and activate the Chat app after accessing the applications list?",
+    "answer": "Scroll through the available apps list on the left side of the screen to find 'Chat', then click its adjacent 'Open' button to launch the settings panel.",
+    "keypoints": [
+      "A list of available apps appears on the left side of the screen, and the user scrolls to find the 'Chat' app.",
+      "The user clicks on the 'Open' button next to the 'Chat' app within the list."
+    ]
+  },
+  {
+    "question": "In Wix, what fields require input when configuring the Chat app settings?",
+    "answer": "Enter your desired chat title in the 'CHAT TITLE' text field and your greeting message in the 'CHAT MESSAGE' text field within the chat settings panel.",
+    "keypoints": [
+      "In the chat settings panel that opens, the user types \"Message Us\" into the text field labeled 'CHAT TITLE'.",
+      "The user then types \"Ask us any question.\" into the text field labeled 'CHAT MESSAGE'."
+    ]
+  },
+  {
+    "question": "In Wix, how do you publish website changes after modifying app configurations?",
+    "answer": "Click the 'Publish' button in the top-right corner of the interface to apply and activate all recent modifications.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website builder interface."
+    ]
+  },
+  {
+    "question": "In Wix, what happens when you add the Pricing Plans app to your website?",
+    "answer": "Selecting the 'Pricing Plans' app from the applications list adds a dedicated page displaying three pricing tiers: Beginner, Pro, and VIP.",
+    "keypoints": [
+      "The user selects the 'Pricing Plans' app from the list of available apps.",
+      "The pricing plans page is added to the website, displaying three different pricing options: Beginner, Pro, and VIP."
+    ]
+  },
+  {
+    "question": "In Wix, how do you set the Pro plan as the default option and finalize pricing configurations?",
+    "answer": "Click the 'Select' button under the Pro plan to highlight it, then click 'Save' to confirm and apply all pricing plan adjustments.",
+    "keypoints": [
+      "The user clicks on the 'Select' button under the 'Pro' plan to choose it as the highlighted plan.",
+      "The user clicks on the 'Save' button to apply the changes made to the pricing plans."
+    ]
+  }
+]

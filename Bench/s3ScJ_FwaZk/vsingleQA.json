@@ -1,0 +1,65 @@
+[
+  {
+    "question": "What percentage of Vermont's energy came from renewable sources in 2019, and what is the state's renewable energy target for 2032?",
+    "answer": "In 2019, 66% of Vermont's energy came from renewable sources, with a state goal of reaching 75% renewable energy by 2032.",
+    "keypoints": [
+      "Vermont's energy sources in 2019 were 66% renewable, with a goal of reaching 75% by 2032."
+    ]
+  },
+  {
+    "question": "What percentage of U.S. electricity demand could be met by wind and solar energy by 2050, and what is their combined coverage potential?",
+    "answer": "By 2050, wind energy could meet 88% of U.S. electricity demand, solar energy could meet 56%, resulting in a combined 144% coverage potential.",
+    "keypoints": [
+      "The US wind and solar potential for 2050 indicates that wind could meet 88% of electricity demand and solar 56%, totaling 144% coverage."
+    ]
+  },
+  {
+    "question": "What data source is used to map high-voltage transmission lines above 345kV in the United States?",
+    "answer": "Homeland Infrastructure Foundation-Level Data is used to map high-transmission power lines above 345kV.",
+    "keypoints": [
+      "High-transmission power lines above 345kV are mapped using Homeland Infrastructure Foundation-Level Data."
+    ]
+  },
+  {
+    "question": "What caused the Camp Fire, the deadliest wildfire in California history, and when was this confirmed?",
+    "answer": "Officials confirmed on May 15, 2019, that the Camp Fire was caused by PG&E electrical transmission lines.",
+    "keypoints": [
+      "Officials confirmed that the Camp Fire, deadliest in California history, was caused by PG&E electrical transmission lines on May 15, 2019."
+    ]
+  },
+  {
+    "question": "How long do generation projects and transmission projects typically take to complete?",
+    "answer": "Generation projects typically take 1 year to complete, while transmission projects require 3 to 10 years.",
+    "keypoints": [
+      "Generation projects take 1 year while transmission projects require 3-10 years."
+    ]
+  },
+  {
+    "question": "How much incremental capital is required for solar electricity by 2030 to achieve net-zero emissions by 2050, according to Princeton University?",
+    "answer": "According to Princeton University, $320 billion in incremental capital is required for solar electricity by 2030 to achieve net-zero emissions by 2050.",
+    "keypoints": [
+      "Incremental capital required by 2030 for net-zero emissions by 2050 includes $320 billion for solar electricity according to Princeton University."
+    ]
+  },
+  {
+    "question": "What did the World Resources Institute state about the U.S. infrastructure bill in its August 9, 2021 commentary?",
+    "answer": "In an August 9, 2021 commentary, the World Resources Institute stated that the U.S. infrastructure bill is good but insufficient to transform the electricity grid.",
+    "keypoints": [
+      "The US infrastructure bill is good but not enough to transform the electricity grid as stated in an August 9, 2021 commentary by the World Resources Institute."
+    ]
+  },
+  {
+    "question": "What percentage of U.S. energy production came from renewable sources in 2020, and what is the predicted percentage for 2050?",
+    "answer": "Renewable sources accounted for 21% of U.S. energy production in 2020, with predictions indicating this will rise to 42% by 2050.",
+    "keypoints": [
+      "Renewable sources accounted for 21% of US energy production in 2020, with an outlook predicting this will increase to 42% by 2050."
+    ]
+  },
+  {
+    "question": "What percentage of U.S. energy production is projected to come from renewable sources by 2050 under a clean energy standard?",
+    "answer": "Under a clean energy standard, renewable sources are projected to constitute 80% of U.S. energy production by 2050.",
+    "keypoints": [
+      "Under a clean energy standard, renewable sources are projected to make up 80% of US energy production by 2050."
+    ]
+  }
+]

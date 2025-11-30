@@ -1,0 +1,29 @@
+[
+  {
+    "question": "In Adobe Character Animator, what steps are required to export a video with alpha channel using Adobe Media Encoder?",
+    "answer": "First, click the 'File' menu in the top-left corner. Then select 'Export' from the dropdown. In the export dialog, choose 'Video with Alpha via Adobe Media Encoder...'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export' option is selected by a mouse click.",
+      "In the export dialog box, the user selects the 'Video with Alpha via Adobe Media Encoder...' option from the list."
+    ]
+  },
+  {
+    "question": "In Adobe After Effects, how do you import an encoded video and create a background layer for compositing?",
+    "answer": "Select 'Import File' from the 'File' menu to import the video. Then right-click in the timeline, choose 'New > Solid...', and adjust the solid layer's size and color for the background.",
+    "keypoints": [
+      "After the encoding completes, the user imports the exported video file into Adobe After Effects by selecting 'Import File' from the 'File' menu.",
+      "Within Adobe After Effects, the user creates a new solid layer by right-clicking in the timeline area and selecting 'New > Solid...'.",
+      "The user adjusts the size and color of the solid layer to fit the background requirements."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the procedure to export a video with alpha channel directly?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export' from the dropdown, then choose 'Video with Alpha' in the export options dialog.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export' option is selected by a mouse click.",
+      "In the export options dialog box, the user selects 'Video with Alpha' from the list of available formats."
+    ]
+  }
+]

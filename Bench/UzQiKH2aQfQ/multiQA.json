@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you add and tag a 'breathe' handle on a character's torso?",
+    "answer": "First, click the 'Rig' tab in the left sidebar. Then, select the 'body' part from the rig section in the central panel. Next, add a handle to the torso by clicking with the selected tool at the desired position. Finally, tag the new handle as 'breathe' in the miscellaneous section on the right side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located in the left sidebar of the application window.",
+      "From the 'rig' section, the user selects the 'body' part from the list of character components displayed in the central panel.",
+      "A handle is added to the torso area by clicking with the selected tool at the desired position on the character's body.",
+      "The user then tags the newly added handle as 'breathe' within the miscellaneous section on the right side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are taken to apply the breathing behavior and verify its effect after adding a handle?",
+    "answer": "Click the plus button in the behaviors portion and select 'breathe' from the dropdown to add the behavior. Then, adjust parameters like breaths per minute and scale percentage using sliders in the properties panel on the right. Finally, observe the character's subtle breathing motion in the preview window to confirm the effect.",
+    "keypoints": [
+      "In the behaviors portion, the user clicks the plus button and selects 'breathe' from the dropdown menu to add the breathing behavior to the character.",
+      "The user adjusts the breathing parameters such as breaths per minute and scale percentage using the sliders and input fields in the properties panel on the right.",
+      "After adjusting the settings, the user observes the character's subtle breathing motion in the preview window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you synchronize breathing with head movements and ensure natural motion across the character?",
+    "answer": "Disable the independence of the arms and other parts to allow unified movement. Then, fine-tune the offset value for the breathing behavior to synchronize it with the character's head. Confirm no additional keyframes are needed as the behavior functions naturally.",
+    "keypoints": [
+      "The user disables the independence of the arms and other parts to ensure natural breathing movement across the entire character.",
+      "The user fine-tunes the offset value for the breathing behavior to synchronize it with the character's head movements.",
+      "Finally, the user confirms that no additional keyframes are needed as the breathing behavior functions naturally without them."
+    ]
+  }
+]

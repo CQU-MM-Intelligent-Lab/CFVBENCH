@@ -1,0 +1,99 @@
+[
+  {
+    "question": "How do lenders use credit scores to determine mortgage interest rates, and what specific rates apply to borrowers with scores of 450 versus 780?",
+    "answer": "Lenders use credit scores to set interest rates, charging higher rates to borrowers with lower scores. A credit score of 450 results in a 7.25% interest rate on a home loan, while a score of 780 leads to a 5.95% rate.",
+    "keypoints": {
+      "video": [
+        "A credit score of 450 leads to an interest rate of 7.25% on a home loan, compared to 5.95% for a score of 780."
+      ],
+      "text": [
+        "Lenders use credit scores to determine loan eligibility and set interest rates for products like mortgages, car loans, and student loans, charging higher rates to borrowers with lower scores deemed riskier."
+      ]
+    }
+  },
+  {
+    "question": "What is the estimated number of Americans without a credit score, and what specific housing barrier might they face despite financial readiness?",
+    "answer": "An estimated 45 million Americans lack a credit score, which can result in being denied the ability to apply for an apartment even with sufficient funds for a down payment and last month's rent.",
+    "keypoints": {
+      "video": [
+        "You can pay the down payment, last month's rent, and have more than enough in the account, but without a credit score, you were denied the ability to even apply for some of the apartment buildings."
+      ],
+      "text": [
+        "An estimated 45 million Americans do not have a credit score, making it difficult to rent an apartment, get car insurance, or even get a job."
+      ]
+    }
+  },
+  {
+    "question": "Which states have implemented credit check bans or restrictions, and for what types of non-lending decisions are these bans applied?",
+    "answer": "States with credit check bans and restrictions include California, Colorado, Illinois, Michigan, Oregon, Vermont, Maryland, Delaware, Massachusetts, and Hawaii. These bans prohibit using credit scores for non-lending decisions like hiring, promotions, or setting car insurance rates.",
+    "keypoints": {
+      "video": [
+        "States with credit check bans and restrictions include California, Colorado, Illinois, Michigan, Oregon, Vermont, Maryland, Delaware, Massachusetts, and Hawaii."
+      ],
+      "text": [
+        "Lawmakers in some cities and states have outlawed using credit scores for non-lending decisions like hiring, promotions, or setting car insurance rates."
+      ]
+    }
+  },
+  {
+    "question": "How does the RentPlus program address gaps in credit reporting, and what alternative data source does it leverage?",
+    "answer": "The RentPlus program helps renters build credit by tracking timely rent and utility bill payments, leveraging alternative data like rent payment histories to formalize non-traditional credit information.",
+    "keypoints": {
+      "video": [
+        "The RentPlus program helps renters build their credit by tracking timely rent and utility bill payments."
+      ],
+      "text": [
+        "Proposed solutions include empowering local credit unions or nonprofits to formalize informal lending circles and report payments, and startups making loans based on alternative data like rent payment histories."
+      ]
+    }
+  },
+  {
+    "question": "What interest rate applies to a borrower with a 650 credit score, and how does this relate to financial challenges faced by over half of Black adults?",
+    "answer": "A credit score of 650 results in a 7.25% interest rate. Since more than half of Black adults have a credit score below 650, they face significantly higher interest rates on loans like mortgages.",
+    "keypoints": {
+      "video": [
+        "Credit scores influence interest rates: a score of 650 results in an interest rate of 7.25%, while a score of 780 leads to an interest rate of 5.95%."
+      ],
+      "text": [
+        "More than half of Black adults have a credit score below 650, leading to significantly higher interest rates for loans like 30-year mortgages compared to those with higher scores."
+      ]
+    }
+  },
+  {
+    "question": "What are the three major credit reporting agencies that supply data for credit score calculations?",
+    "answer": "TransUnion, Experian, and Equifax are the three major credit reporting agencies that collect and report credit information used to calculate credit scores.",
+    "keypoints": {
+      "video": [
+        "TransUnion, Experian, and Equifax are the three major credit reporting agencies that collect and report credit information."
+      ],
+      "text": [
+        "Credit scores, ranging from 300 to 850, are calculated by companies like FICO and VantageScore using algorithms that analyze data from credit reports supplied by three major credit reporting agencies."
+      ]
+    }
+  },
+  {
+    "question": "What factors determine credit scores, and how are they exemplified in a profile with a 9-year history, mixed loans, $2,500 payment history, and 30% credit utilization?",
+    "answer": "Factors include payment history, length of credit history, mix of accounts, account balances, and credit utilization. For example, a 9-year history with mixed loans (student, mortgage, credit card), $2,500 payment history, and 30% credit utilization results in a FICO score of 611 and VantageScore of 608.",
+    "keypoints": {
+      "video": [
+        "For example, a person with a credit history of 9 years, a mix of loans including a student loan, mortgage, and credit card, a payment history of $2,500, and a credit utilization of 30% has a FICO score of 611 and a VantageScore of 608."
+      ],
+      "text": [
+        "Factors influencing credit scores include payment history, length of credit history, mix of accounts, account balances, and for credit cards, the percentage of available credit used."
+      ]
+    }
+  },
+  {
+    "question": "Why is understanding loan terms critical for borrowers, and what do College Ave (2019) and Nerd Wallet (2023) report about student awareness?",
+    "answer": "Understanding loan terms is critical because lenders use credit scores to set interest rates and approve loans. Only one in three students understand their loan terms, and 46% are unaware of their owed amounts or creditors.",
+    "keypoints": {
+      "video": [
+        "Only one in three students understand the financial terms of their loans according to data from College Ave in 2019.",
+        "Forty-six percent of students do not know how much they owe or who they owe it to based on Nerd Wallet's 2023 report."
+      ],
+      "text": [
+        "Lenders use credit scores to determine loan eligibility and set interest rates for products like mortgages, car loans, and student loans, charging higher rates to borrowers with lower scores deemed riskier."
+      ]
+    }
+  }
+]

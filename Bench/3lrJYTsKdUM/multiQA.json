@@ -1,0 +1,38 @@
+[
+  {
+    "question": "According to a bar chart comparing carbon dioxide equivalents per kilogram of food products, which items have the highest environmental impact in descending order, and what two factors primarily drive emissions disparities?",
+    "answer": "Beef has the highest environmental impact, followed by sheep, cheese, and chocolate. The two primary factors driving emissions disparities are farming process emissions and land use change impacts.",
+    "keypoints": {
+      "video": [
+        "The bar chart shows that beef production has the highest environmental impact among various food items, followed by sheep, cheese, and chocolate, based on factors like distribution, animal feed, farming process, and land use change."
+      ],
+      "text": [
+        "The largest emissions disparity stems from farming process emissions and land use change impacts."
+      ]
+    }
+  },
+  {
+    "question": "How has global human land use changed from the year 100 to 2016, and what was the primary driver of the dramatic increase starting in the 1700s?",
+    "answer": "Global human land use increased from approximately 0.5 billion hectares in the year 100 to over 5 billion hectares by 2016. The dramatic increase starting in the 1700s was primarily driven by agriculture.",
+    "keypoints": {
+      "video": [
+        "Global human land use increased from approximately 0.5 billion hectares in the year 100 to over 5 billion hectares by 2016, with a significant rise in built environment and agriculture contributing to this growth."
+      ],
+      "text": [
+        "Land development for human purposes increased dramatically starting in the 1700s, with agriculture as the primary driver."
+      ]
+    }
+  },
+  {
+    "question": "In the Amazon rainforest, what is the primary cause of deforestation, and how has deforestation progressed in Rondônia, Brazil between 1984 and 2016?",
+    "answer": "The primary cause of deforestation in the Amazon rainforest is cattle ranching, accounting for 80% of deforestation. In Rondônia, Brazil, deforestation progressed significantly between 1984 and 2016.",
+    "keypoints": {
+      "video": [
+        "Deforestation in Rondônia, Brazil, progressed significantly between 1984 and 2016, as indicated by satellite imagery showing cleared areas expanding over time."
+      ],
+      "text": [
+        "80% of deforestation in the Amazon rainforest is for cattle ranching."
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate the import process for a project file and where does it located after import?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Import' from the dropdown, choose your file in the file explorer window, and click 'Import'. The imported file will appear as a new layer labeled 'Character Animator Project' in the project panel.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import' option is selected by a mouse click.",
+      "A file explorer window appears, and the user navigates to select a file named \"TutorTube.ai\".",
+      "After selecting the file, the user clicks the 'Import' button within the file explorer window.",
+      "The imported file appears as a new layer in the project panel labeled \"Character Animator Project\"."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add handles to a specific layer in the Rig tab and where are they placed?",
+    "answer": "Select the 'Rig' tab from the top navigation bar, right-click the target layer (e.g., \"Crittandles\") in the project panel, choose 'Add Handle' from the context menu, then click positions like left, right, top, and bottom around the object to place handles.",
+    "keypoints": [
+      "The user then selects the 'Rig' tab from the top navigation bar.",
+      "Within the 'Rig' tab, the user right-clicks on the newly imported layer named \"Crittandles\" in the project panel.",
+      "A context menu appears, and the user selects the 'Add Handle' option.",
+      "The user adds handles at various points around the yellow circle object, including left, right, top, and bottom positions.",
+      "Each handle is added by clicking on the respective position around the circle."
+    ]
+  }
+]

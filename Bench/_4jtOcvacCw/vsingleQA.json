@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What were the Dow Industrials, S&P 500, and NASDAQ values and their percentage changes as displayed?",
+    "answer": "Dow Industrials: 41,938 (down 1.63%), S&P 500: 5,827 (down 1.54%), NASDAQ: 19,161 (down 1.63%).",
+    "keypoints": [
+      "A screen displays U.S. market indices: Dow Industrials at 41,938 down by -1.63%, S&P 500 at 5,827 down by -1.54%, and NASDAQ at 19,161 down by -1.63%."
+    ]
+  },
+  {
+    "question": "What was the labeled price and percentage decrease for a box of Corona Extra beer bottles?",
+    "answer": "$181.81 with a 17.09% decrease.",
+    "keypoints": [
+      "A box of Corona Extra beer bottles is labeled with a price of $181.81 and a decrease of 17.09%."
+    ]
+  },
+  {
+    "question": "What was the stock price and percentage increase for Walgreens Boots Alliance?",
+    "answer": "$11.76 with a 27.55% increase.",
+    "keypoints": [
+      "A Walgreens Boots Alliance logo appears with a stock price of $11.76 and an increase of 27.55%."
+    ]
+  }
+]

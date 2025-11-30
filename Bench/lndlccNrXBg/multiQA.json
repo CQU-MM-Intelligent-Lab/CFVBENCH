@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you open the rig tab for the 'Tall' puppet and select its 'Head' layer?",
+    "answer": "Double-click the 'Tall' puppet icon in the left-side panel to open the rig tab, then select the 'Head' layer from the hierarchical list in the left panel.",
+    "keypoints": [
+      "The user double-clicks on the 'Tall' puppet icon located in the left-side panel of the Adobe Character Animator interface, which is a small, blue, cartoon-like figure.",
+      "In the rig tab that appears after the double-click action, the user selects the 'Head' layer from the hierarchical list of layers displayed on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the rig hierarchy, select the 'Head' layer, and then choose the 'Right Eye' component?",
+    "answer": "Click the 'Rig' tab in the left sidebar to reveal the component hierarchy, select the 'Head' layer to display its properties, then double-click the 'Right Eye' layer to highlight it.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located in the left sidebar of the application window, revealing a hierarchical list of character components.",
+      "The cursor selects the 'Head' layer from the rig hierarchy displayed in the left panel, highlighting it and showing its properties on the right side of the screen.",
+      "The user double-clicks on the 'Right Eye' layer within the rig hierarchy, causing the corresponding eye component to be selected and highlighted on the character model."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you hide freckles and adjust hair transparency after selecting facial features?",
+    "answer": "Toggle the 'Freckles' layer visibility by clicking its checkbox in the rig hierarchy to remove freckles, then drag the 'Opacity' slider for the 'Hair1' layer in the properties panel to modify transparency.",
+    "keypoints": [
+      "The user toggles the visibility of the 'Freckles' layer by clicking the checkbox next to it in the rig hierarchy, resulting in the freckles disappearing from the character's face.",
+      "The user drags the 'Opacity' slider for the 'Hair1' layer in the properties panel to adjust its transparency, visibly changing the hair's appearance on the character."
+    ]
+  }
+]

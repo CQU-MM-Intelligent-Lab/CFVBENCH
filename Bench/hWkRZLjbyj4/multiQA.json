@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a swap set for the 'Right Hand' layer and assign a trigger key?",
+    "answer": "Right-click on the 'Right Hand' layer in the character rigging panel to open the context menu, select 'Create Swap Set' to generate a new swap set named 'Hand 2', then assign a trigger key like 'S' to this swap set.",
+    "keypoints": [
+      "The user right-clicks on the 'Right Hand' layer in the character rigging panel, causing a context menu to appear.",
+      "From the context menu, the 'Create Swap Set' option is selected by a mouse click.",
+      "A new swap set named 'Hand 2' appears under the 'Right Hand' layer in the rigging panel.",
+      "The user assigns the letter 'S' as a trigger key for the first swap set under the 'Right Hand' layer."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you create a swap set for the 'Left Hand' layer and assign its trigger key?",
+    "answer": "Select the 'Left Hand' layer in the character rigging panel, right-click to open the context menu, choose 'Create Swap Set' to add a new swap set named 'Hand 2', then assign a trigger key like 'D' to this swap set.",
+    "keypoints": [
+      "The user selects the 'Left Hand' layer in the character rigging panel and repeats the process of creating a swap set.",
+      "Another swap set named 'Hand 2' appears under the 'Left Hand' layer in the rigging panel.",
+      "The letter 'D' is assigned as a trigger key for the second swap set under the 'Left Hand' layer."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when pressing the 'S' key during recording, and what error occurs when pressing the 'D' key?",
+    "answer": "Pressing the 'S' key triggers both hands to change gestures simultaneously, while pressing the 'D' key displays an orange error message indicating duplicate letter assignments for swap layers.",
+    "keypoints": [
+      "In the record section of the application window, the user presses the 'S' key, which triggers both hands to change their gestures simultaneously.",
+      "Pressing the 'D' key results in an error message appearing in orange text, indicating that two swap layers are assigned with the same letters."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you resolve the swap layer error and demonstrate simultaneous triggering?",
+    "answer": "Navigate to the 'Rig' tab and latch out unnecessary layers, then open the arms in the animation preview area to demonstrate triggering both hand gestures simultaneously using the assigned keys.",
+    "keypoints": [
+      "The user navigates to the 'Rig' tab in the application window and latches out the unnecessary layers.",
+      "After latching, the user opens up the arms in the animation preview area, demonstrating how both layers can be triggered at the same time using the assigned keys."
+    ]
+  }
+]

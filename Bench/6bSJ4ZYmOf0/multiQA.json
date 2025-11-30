@@ -1,0 +1,37 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you add the Head Turner behavior to a character's head layer?",
+    "answer": "First, click the 'Rig' tab at the top of the application window. Then select the 'head' layer in the Properties panel. Right-click the 'head' layer and choose 'Add Behavior > Head Turner [Head]' from the context menu. The behavior will appear in the 'Behaviors' section of the Properties panel.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located at the top of the application window.",
+      "The user selects the 'head' layer within the 'Properties' panel, which is highlighted in blue.",
+      "The user right-clicks on the 'head' layer and selects 'Add Behavior > Head Turner [Head]' from the context menu.",
+      "A new behavior labeled 'Head Turner [Head]' appears under the 'Behaviors' section in the 'Properties' panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when you adjust the Head Turner behavior's sensitivity to 50% with webcam enabled?",
+    "answer": "After setting the 'Sensitivity' slider to 50% in the Head Turner [Head] settings, the character's head will turn in response to the user's head movements when the webcam is active.",
+    "keypoints": [
+      "The user adjusts the 'Sensitivity' slider within the 'Head Turner [Head]' settings to a value of 50%.",
+      "The character's head begins to turn in response to the user's head movements when the webcam is enabled."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure profile views and set a rest pose for character animation?",
+    "answer": "Disable the 'Independent' checkbox for both 'left profile' and 'right profile' layers in the Properties panel. Then switch views using the 'frontal', 'left profile', and 'right profile' buttons in the Scene panel. Finally, click the 'Set Rest Pose' button in the Controls panel to define the default position.",
+    "keypoints": [
+      "The user disables the 'Independent' checkbox for the 'left profile' and 'right profile' layers in the 'Properties' panel.",
+      "The user switches between the 'frontal', 'left profile', and 'right profile' views by clicking the respective buttons in the 'Scene' panel.",
+      "The user sets the rest pose for the character by clicking the 'Set Rest Pose' button in the 'Controls' panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do sensitivity adjustments between 25% and 100% affect the Head Turner behavior?",
+    "answer": "Increasing sensitivity to 100% makes head movements more pronounced, while decreasing it to 25% reduces movement intensity. The slider directly controls how dramatically the character's head responds to user motions.",
+    "keypoints": [
+      "The user increases the sensitivity of the head turn behavior by adjusting the 'Sensitivity' slider to 100%, resulting in more pronounced head movements.",
+      "The user decreases the sensitivity of the head turn behavior by adjusting the 'Sensitivity' slider to 25%, resulting in less pronounced head movements."
+    ]
+  }
+]

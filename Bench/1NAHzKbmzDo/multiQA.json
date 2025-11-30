@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Wix, how do you add a contact support form to your webpage?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select the 'Support' option under the 'Forms' category in the dropdown menu. This adds a 'Contact Support' section with fields for First Name, Last Name, Email, Phone, Choose an Issue dropdown, and a text box for additional details.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "From the dropdown menu, the user selects the 'Support' option under the 'Forms' category, which is highlighted and positioned towards the bottom of the list.",
+      "A new section titled 'Contact Support' appears on the webpage, featuring fields for 'First Name', 'Last Name', 'Email', 'Phone', 'Choose an Issue', and a text box for additional details."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify the placeholder text for the 'Choose an Issue' dropdown in a contact support form?",
+    "answer": "Click the 'Edit' button within the support section, then in the left editing panel, click the 'Choose an Issue' dropdown field and type the new placeholder text (e.g., 'Forgot Password').",
+    "keypoints": [
+      "The user clicks on the 'Edit' button within the newly added support section to customize its elements.",
+      "In the editing panel on the left side, the user modifies the placeholder text for the 'Choose an Issue' dropdown field by clicking on it and typing 'Forgot Password'."
+    ]
+  },
+  {
+    "question": "In Wix, what steps finalize and preview changes after customizing a contact support form?",
+    "answer": "Click the 'Publish' button at the top right corner to save changes, then click the 'Preview' button to view the updated webpage with the customized form.",
+    "keypoints": [
+      "The user then clicks on the 'Publish' button at the top right corner of the screen to save and publish the changes made to the webpage.",
+      "After publishing, the user previews the webpage by clicking on the 'Preview' button, which displays the updated contact support form with all the customized fields."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after submitting a contact support form, and how do you return to the main page?",
+    "answer": "After filling the form and clicking 'Get in Touch', a 'Thanks for submitting!' confirmation appears. Click the website's logo at the top center to navigate back to the main page.",
+    "keypoints": [
+      "The user submits the form by clicking on the 'Get in Touch' button, which triggers a confirmation message stating 'Thanks for submitting!'.",
+      "The user navigates back to the main page by clicking on the 'Tutor Tube' logo at the top center of the webpage."
+    ]
+  }
+]

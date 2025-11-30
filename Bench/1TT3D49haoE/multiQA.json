@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you set the total timeline duration to 5 seconds?",
+    "answer": "Click the 'Timeline' tab at the bottom of the application window, then drag the timeline slider to the right until the total time displays 0:05 seconds.",
+    "keypoints": [
+      "The user clicks on the 'Timeline' tab located at the bottom of the application window.",
+      "The user drags the timeline slider to the right, increasing the total time from 0:00 to 0:05 seconds."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you synchronize the 'TutorTube' and 'Earthmap' layers to both last five seconds?",
+    "answer": "Select the 'TutorTube' layer in the timeline panel and drag its endpoint to extend it for five seconds. Then, click the 'Earthmap' layer and similarly drag its endpoint to match the TutorTube layer's duration.",
+    "keypoints": [
+      "The user selects the 'TutorTube' layer in the timeline panel and adjusts its duration by dragging the end point to extend it for five seconds.",
+      "The user clicks on the 'Earthmap' layer within the timeline panel and extends its duration by dragging the endpoint to match the TutorTube layer's length."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after playing the initial animation sequence, how do you enable precise layer adjustments?",
+    "answer": "Play the animation using the play button in the timeline controls to observe the sequence, then zoom in on the timeline using a mouse scroll action for finer control over layer positioning.",
+    "keypoints": [
+      "The user plays the animation using the play button located in the center of the timeline controls, showing the YouTube logo appearing first followed by the Earth map.",
+      "The user zooms in on the timeline using a mouse scroll action, allowing for more precise adjustments of the layers."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you create a smooth transition between the 'TutorTube' and 'Earthmap' layers and verify the effect?",
+    "answer": "Overlap the layers by adjusting their start/end points in the timeline panel to create transition, then preview the animation play button to observe both elements appearing briefly during the overlap.",
+    "keypoints": [
+      "The user overlaps the 'TutorTube' and 'Earthmap' layers slightly by adjusting their start and end points, creating a smooth transition between them.",
+      "The user previews the animation again, observing the overlapping effect where both the YouTube logo and Earth map are visible briefly."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps finalize the animation project after previewing the transition effect?",
+    "answer": "After previewing the overlapping transition, save the project by clicking the 'File' menu item and selecting 'Save' from the dropdown list.",
+    "keypoints": [
+      "The user previews the animation again, observing the overlapping effect where both the YouTube logo and Earth map are visible briefly.",
+      "The user saves the project by clicking on the 'File' menu item and selecting 'Save' from the dropdown list."
+    ]
+  }
+]

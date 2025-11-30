@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Webpage Editor, how do you start adding a text section to a webpage?",
+    "answer": "Click the plus icon at the bottom center of the screen to make a menu appear, then select the 'Text' option from that menu.",
+    "keypoints": [
+      "The user clicks on the plus icon located at the bottom center of the screen",
+      "The user selects the 'Text' option from the menu"
+    ]
+  },
+  {
+    "question": "In Webpage Editor, what steps are required to set both the subtitle and paragraph content for a text section?",
+    "answer": "First, click the subtitle field and type your subtitle text. Then, click the paragraph field and type your paragraph content.",
+    "keypoints": [
+      "The user clicks on the subtitle field within the text section",
+      "The user types \"Welcome\" into the subtitle field",
+      "The user clicks on the paragraph field within the text section",
+      "The user types a description into the paragraph field"
+    ]
+  },
+  {
+    "question": "In Webpage Editor, how do you add an image to a text section after setting its text content?",
+    "answer": "Click the 'Media' option within the text section to open the image interface, then upload your desired image.",
+    "keypoints": [
+      "The user clicks on the 'Media' option within the text section",
+      "The user uploads an image using the image upload interface"
+    ]
+  },
+  {
+    "question": "In Webpage Editor, how do you change the design layout of a text section that already has content?",
+    "answer": "Click the 'Section Design' button below the text section to open design options, then select your preferred new layout.",
+    "keypoints": [
+      "The user clicks on the 'Section Design' button located below the text section",
+      "The user selects a new design layout from the section design options"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "question": "What is the weekly frequency of drone attacks in Hersan, Ukraine, and what specific structural damage to buildings results from these attacks as visually documented?",
+    "answer": "Hersan experiences between 600 and 700 drone attacks weekly, causing significant structural damage including partially collapsed multi-story buildings and debris-scattered ruins.",
+    "keypoints": {
+      "video": [
+        "A building shows significant structural damage with debris scattered around.",
+        "A partially collapsed multi-story building stands amidst other intact structures."
+      ],
+      "text": [
+        "According to Hersan region governor Alexander Pudin, the city experiences between 600 and 700 drone attacks each week."
+      ]
+    }
+  },
+  {
+    "question": "Despite constant drone threats in Hersan, what public commercial activity persists as evidenced by market scenes, and how has the population changed since the invasion?",
+    "answer": "Residents continue purchasing produce at market stalls and fruit stands despite attacks, while Hersan's population has dwindled from nearly 300,000 to 60,000 people.",
+    "keypoints": {
+      "video": [
+        "A market stall displays various fruits and vegetables for sale.",
+        "People gather near a fruit stand on a sidewalk next to parked cars."
+      ],
+      "text": [
+        "Hersan's population has dwindled from nearly 300,000 people to 60,000 people."
+      ]
+    }
+  },
+  {
+    "question": "What protective adaptation have residents implemented on buildings in Hersan, and what diplomatic effort seeks to address the ongoing attacks?",
+    "answer": "Buildings feature boarded windows as protection against drone strikes, while U.S. and Russian negotiators are attempting to establish a 30-day ceasefire through talks in Saudi Arabia.",
+    "keypoints": {
+      "video": [
+        "A man in a green jacket stands outside a building with boarded windows."
+      ],
+      "text": [
+        "U.S. and Russian negotiators met in Saudi Arabia on Monday to try to establish a proposed 30-day pause and move towards a broader ceasefire."
+      ]
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "question": "In LosslessCut, how do you open a video file for editing using the menu system?",
+    "answer": "Click the 'File' menu in the top-left corner of the application window, then select the 'Open' option from the dropdown menu to launch the file explorer.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Open' option from the dropdown menu, which is the second item listed."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you zoom the timeline for a more detailed frame view and what is the result?",
+    "answer": "Click the zooming option at the bottom left of the screen, select 'Zoom 2x' from the dropdown menu, and the timeline will adjust to show finer video frame details.",
+    "keypoints": [
+      "The user clicks on the zooming option located at the bottom left of the screen, selecting 'Zoom 2x' from the dropdown menu.",
+      "The timeline adjusts accordingly, showing a more detailed view of the video frames."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you place a marker at a precise point while previewing the video?",
+    "answer": "Drag the playhead along the timeline to your desired position while monitoring the preview window, then right-click the timeline at that point and select 'Add Marker' from the context menu.",
+    "keypoints": [
+      "The user drags the playhead along the timeline, observing changes in the preview window as different parts of the video are highlighted.",
+      "The user right-clicks on the timeline at a specific point and selects 'Add Marker' from the context menu, placing a marker at that position."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what is the complete export workflow from initiation to file saving?",
+    "answer": "Click the 'Export' button in the bottom-right corner to open the export dialog, specify your output format and destination folder, then click the 'Export' button within the dialog. The final video will save to your specified computer location.",
+    "keypoints": [
+      "The user clicks on the 'Export' button located in the bottom-right corner of the screen, initiating the export process for the edited video.",
+      "The export dialog box appears, allowing the user to specify the output format and destination folder.",
+      "The user completes the export process by clicking the 'Export' button within the dialog box.",
+      "The final exported video file is saved to the specified location on the computer."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you navigate through the video to preview different segments before exporting?",
+    "answer": "Drag the playhead along the timeline while watching the preview window to observe how different segments of the video appear.",
+    "keypoints": [
+      "The user drags the playhead along the timeline, observing changes in the preview window as different parts of the video are highlighted."
+    ]
+  }
+]

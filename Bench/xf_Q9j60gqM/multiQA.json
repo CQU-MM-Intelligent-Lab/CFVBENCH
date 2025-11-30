@@ -1,0 +1,50 @@
+[
+  {
+    "question": "In Tutor Tube, how do you initiate the process to clear project history and saved versions?",
+    "answer": "Click the 'File' menu in the top-left corner, then select 'Clear History...' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Clear History...' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, what happens after selecting 'Clear History...' and how do you confirm the action?",
+    "answer": "A confirmation dialog appears asking if you want to clear the entire project undo history and saved versions. Click the 'Clear History' button in the dialog to proceed.",
+    "keypoints": [
+      "A confirmation dialog box appears with the text \"Are you SURE you want to clear your entire project undo history and all saved versions?\"",
+      "The user clicks the 'Clear History' button within the confirmation dialog box."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, what is the result of clearing undo history and what happens when attempting to undo afterward?",
+    "answer": "A message confirms the undo history is completely cleared. Pressing Ctrl + Z afterward has no effect because no history remains.",
+    "keypoints": [
+      "The screen displays a message indicating that the undo history has been totally cleared out.",
+      "The user presses Ctrl + Z, but nothing happens because there is no history saved."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, how do you access and navigate through the project's action history?",
+    "answer": "Select the 'History' tab in the left panel to reveal the history, then navigate through the list showing actions like 'New Puppet from Example' and 'Record Performance'.",
+    "keypoints": [
+      "The user selects the 'History' tab from the left panel, revealing the start of the history itself.",
+      "The user navigates through the history list, showing various actions like 'New Puppet from Example', 'Record Performance', and 'Move Recording'."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, how do you select a specific historical step and save it as a new version?",
+    "answer": "Highlight the desired step in the history list, then click the 'Save New Version' button at the bottom of the history panel.",
+    "keypoints": [
+      "The user highlights a particular step in the history list, indicating the ability to choose around a specific step to work with.",
+      "The user clicks on the 'Save New Version' button at the bottom of the history panel."
+    ]
+  },
+  {
+    "question": "In Tutor Tube, how do you redo a performance recording after selecting an undo set from the timeline?",
+    "answer": "First select the 'Undo Set When Trigger Ends to Stop/Sustain replay' action in the timeline controls, then click the 'Redo Record Performance' button.",
+    "keypoints": [
+      "The user selects the 'Undo Set When Trigger Ends to Stop / Sustain replay' action from the timeline controls.",
+      "The user clicks on the 'Redo Record Performance' button in the timeline controls."
+    ]
+  }
+]

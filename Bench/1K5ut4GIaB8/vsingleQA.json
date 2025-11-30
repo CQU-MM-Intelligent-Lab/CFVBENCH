@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What was the closing value and percentage change for the Dow Jones Industrial Average?",
+    "answer": "The Dow Jones Industrial Average increased by 0.33% to close at 42,313.00 points.",
+    "keypoints": [
+      "The Dow Jones Industrial Average increased by 0.33% to close at 42,313.00 points."
+    ]
+  },
+  {
+    "question": "What were the percentage changes for the S&P 500 and NASDAQ?",
+    "answer": "The S&P 500 was down by 0.13% and the NASDAQ was down by 0.39%.",
+    "keypoints": [
+      "The U.S. Markets display shows the S&P 500 down by 0.13% and NASDAQ down by 0.39%."
+    ]
+  },
+  {
+    "question": "What was NVIDIA's stock price and its percentage change?",
+    "answer": "NVIDIA's stock price was $121.40, showing a decrease of 2.13%.",
+    "keypoints": [
+      "NVIDIA's stock price is $121.40, showing a decrease of 2.13%."
+    ]
+  },
+  {
+    "question": "What was Bristol-Myers Squibb's stock price and its percentage change?",
+    "answer": "Bristol-Myers Squibb's stock price was $50.91, indicating an increase of 1.58%.",
+    "keypoints": [
+      "Bristol-Myers Squibb's stock price is $50.91, indicating an increase of 1.58%."
+    ]
+  },
+  {
+    "question": "What was Costco's stock price and its percentage change?",
+    "answer": "Costco's stock price was $1.58, showing a decrease of 1.75%.",
+    "keypoints": [
+      "Costco's stock price is $1.58, showing a decrease of 1.75%."
+    ]
+  }
+]

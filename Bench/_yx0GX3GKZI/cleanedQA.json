@@ -1,0 +1,28 @@
+[
+  {
+    "question": "What activities were the astronauts and ground crew engaged in during preparation for Boeing's Starliner crewed test flight that was later scrubbed, and what system triggered the abort minutes before liftoff?",
+    "answer": "Astronauts in blue suits were seated inside the spacecraft preparing for the mission, and ground crew members wearing numbered uniforms were assisting an astronaut entering the spacecraft. The mission was halted minutes before liftoff by a computer abort system.",
+    "keypoints": {
+      "video": [
+        "Astronauts in blue suits are seated inside a spacecraft, preparing for a mission.",
+        "Ground crew members wearing numbered uniforms assist an astronaut as they enter the spacecraft."
+      ],
+      "text": [
+        "The mission was halted minutes before liftoff by a computer abort system."
+      ]
+    }
+  },
+  {
+    "question": "What distinguishing features were visible on the astronauts' suits and launch vehicle during the second scrubbed Starliner attempt, and when is the next potential launch window?",
+    "answer": "Astronauts wore blue suits inside the spacecraft, and the rocket on the launch pad displayed the ULA logo. The next Starliner launch attempt could occur next week.",
+    "keypoints": {
+      "video": [
+        "A rocket is positioned on a launch pad with the ULA logo visible, surrounded by support structures and equipment.",
+        "Astronauts in blue suits are seated inside a spacecraft, preparing for a mission."
+      ],
+      "text": [
+        "The next Starliner launch attempt could occur next week."
+      ]
+    }
+  }
+]

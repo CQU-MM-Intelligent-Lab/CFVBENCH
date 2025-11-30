@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do I pin a character's legs in place during rigging?",
+    "answer": "Click the 'Rig' tab, select the 'Frontal' layer in the 'Properties' panel under 'body', then drag a yellow line from the bottom of the character's body to pin the legs.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located at the top of the Character Animator interface.",
+      "From the 'Properties' panel, the user selects the 'Frontal' layer under the 'body' section.",
+      "The cursor drags a yellow line from the bottom of the character's body to pin it in place, ensuring the legs remain fixed during animation."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are needed to change a layer's movement setting to 'Free'?",
+    "answer": "Click the 'Rig' tab, select the 'Frontal' layer in the left-side panel, then drag the 'Draggable' option from 'Fixed' to 'Free' in the right-side 'Properties' section.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located in the top menu bar of the Adobe Character Animator interface.",
+      "The user selects the 'Frontal' layer within the character's body structure in the left-side panel, highlighting it for manipulation.",
+      "The cursor drags the 'Draggable' option from 'Fixed' to 'Free' under the 'Properties' section on the right side of the screen, changing the movement settings of the selected layer."
+    ]
+  }
+]

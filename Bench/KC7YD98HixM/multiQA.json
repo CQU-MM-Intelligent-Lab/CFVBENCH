@@ -1,0 +1,71 @@
+[
+  {
+    "question": "What are the key components of the water intake system at the Indian Point nuclear plant, and what environmental impact did its operation have on aquatic life in the Hudson River?",
+    "answer": "The water intake system included a grate, grill, and pump. It drew in water equivalent to three Olympic swimming pools daily from the Hudson River, killing an estimated one billion aquatic organisms annually.",
+    "keypoints": {
+      "video": [
+        "The video includes a diagram illustrating the components of a water intake system for a nuclear plant, including a grate, grill, and pump.",
+        "Fish can be drawn into the intake system through the grate and grill before being expelled by the pump."
+      ],
+      "text": [
+        "The plant's cooling system drew in water equivalent to three Olympic swimming pools from the Hudson River daily.",
+        "The cooling system killed an estimated one billion aquatic organisms annually."
+      ]
+    }
+  },
+  {
+    "question": "What event in 2015 renewed calls to close the Indian Point nuclear plant, and what agreement regarding its closure was confirmed by Governor Cuomo in 2017?",
+    "answer": "A 2015 fire that leaked thousands of gallons of oil into the Hudson River renewed closure calls. Governor Cuomo confirmed a 2017 agreement to permanently shut down the plant.",
+    "keypoints": {
+      "video": [
+        "A fire prompted renewed calls to close the Indian Point nuclear plant according to The New York Times on May 12, 2015.",
+        "Governor Cuomo confirmed a deal to close the Indian Point nuclear plant on January 9, 2017."
+      ],
+      "text": [
+        "A 2015 fire at Indian Point leaked thousands of gallons of oil into the Hudson River.",
+        "A 2017 agreement finalized the decision to shut down Indian Point."
+      ]
+    }
+  },
+  {
+    "question": "How did the cost per energy unit for coal, solar PV, wind, and nuclear change between 2009 and 2020, and what economic challenge does this trend create for existing nuclear plants?",
+    "answer": "Coal decreased from $380 to below $100, solar PV from around $350 to under $50, wind from approximately $140 to below $60, while nuclear remained stable between $100 and $150. This makes existing nuclear plants struggle to compete economically with cheaper energy sources.",
+    "keypoints": {
+      "video": [
+        "The cost of energy by source shows a significant decline for coal, solar PV, and wind from 2009 to 2020, with coal decreasing from $380 to below $100, solar PV from around $350 to under $50, and wind from approximately $140 to below $60.",
+        "Nuclear energy costs have remained relatively stable over the same period, fluctuating between $100 and $150."
+      ],
+      "text": [
+        "Existing nuclear plants struggle to compete economically with cheaper energy sources."
+      ]
+    }
+  },
+  {
+    "question": "What energy sources are categorized as clean, firm, or both clean and firm, and what reliability advantage does nuclear power have over wind and solar energy?",
+    "answer": "Clean energy sources include wind, water, and solar. Firm energy sources encompass natural gas, coal, and oil. Nuclear energy is both clean and firm, providing dispatchable, carbon-free power that operates regardless of weather conditions—unlike intermittent wind and solar.",
+    "keypoints": {
+      "video": [
+        "Clean energy sources include wind, water, and solar, while firm energy sources encompass natural gas, coal, and oil.",
+        "Nuclear energy is positioned as both clean and firm, alongside long-term storage and carbon capture technologies."
+      ],
+      "text": [
+        "Nuclear power provides 'clean firm power,' meaning it is dispatchable and carbon-free.",
+        "Wind and solar power are intermittent, depending on weather conditions."
+      ]
+    }
+  },
+  {
+    "question": "What primary safety concerns motivated over 2,000 protesters at Indian Point, and how did CBS News characterize the plant?",
+    "answer": "Protesters demonstrated over fears of terrorist attacks—including Al-Qaeda's consideration of targeting nuclear plants—and environmental concerns. CBS News characterized Indian Point as a 'disaster waiting to happen.'",
+    "keypoints": {
+      "video": [
+        "CBS News reported that the Indian Point nuclear plant was called a 'disaster waiting to happen.'",
+        "Richard Webster, Legal Director at Riverkeeper, speaks about environmental concerns related to the Indian Point nuclear plant."
+      ],
+      "text": [
+        "Over 2,000 anti-nuclear protesters gathered at the Indian Point power plant to demonstrate safety concerns.",
+        "Safety concerns included fears of terrorist attacks, referencing Al-Qaeda's consideration of targeting nuclear plants."
+      ]
+    }
+  }
+]

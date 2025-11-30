@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What was NVIDIA's stock price and percentage increase on Tuesday, and what was its trading volume status among US companies?",
+    "answer": "NVIDIA's stock price was $128.30 with a 1.46% increase, and it was the most traded company on US stock exchanges on Tuesday.",
+    "keypoints": {
+      "video": [
+        "NVIDIA's stock price is shown as $128.30 with an increase of 1.46%, indicating positive market performance."
+      ],
+      "text": [
+        "Nvidia was the most traded company on US stock exchanges on Tuesday according to LSEG data."
+      ]
+    }
+  },
+  {
+    "question": "What were Alphabet's stock price and percentage change on Tuesday, and in which category of stocks did it experience losses?",
+    "answer": "Alphabet's stock price was $166.38 with a 0.92% decrease, and it was among the mega-cap stocks that lost ground on Tuesday.",
+    "keypoints": {
+      "video": [
+        "Google Alphabet's stock price is listed as $166.38 with a decrease of 0.92%, reflecting its market status."
+      ],
+      "text": [
+        "Mega-cap stocks ended mixed on Tuesday, with Alphabet, Amazon, and Tesla losing ground."
+      ]
+    }
+  },
+  {
+    "question": "What were Amazon's stock price and percentage decline on Tuesday, and what broader trend affected mega-cap stocks?",
+    "answer": "Amazon's stock price was $173.12 with a 1.36% decline, and mega-cap stocks ended mixed with Amazon among those losing ground.",
+    "keypoints": {
+      "video": [
+        "Amazon's stock price is noted as $173.12 with a decline of 1.36%, showing its current market value."
+      ],
+      "text": [
+        "Mega-cap stocks ended mixed on Tuesday, with Alphabet, Amazon, and Tesla losing ground."
+      ]
+    }
+  },
+  {
+    "question": "What were Tesla's stock price and percentage drop on Tuesday, and how did it perform relative to other mega-cap stocks?",
+    "answer": "Tesla's stock price was $209.21 with a 1.88% drop, and it was part of the mega-cap stocks that lost ground on Tuesday.",
+    "keypoints": {
+      "video": [
+        "Tesla's stock price is reported as $209.21 with a drop of 1.88%, highlighting its recent market trend."
+      ],
+      "text": [
+        "Mega-cap stocks ended mixed on Tuesday, with Alphabet, Amazon, and Tesla losing ground."
+      ]
+    }
+  },
+  {
+    "question": "What was Super Micro Computer's stock price and percentage decline on Tuesday, and what specific event triggered this decrease?",
+    "answer": "Super Micro Computer's stock price was $547.64 with a 2.64% decline, triggered by short seller Hindenberg Research announcing a short position in the AI server maker.",
+    "keypoints": {
+      "video": [
+        "Super Micro Computer's stock price is displayed as $547.64 with a significant decrease of 2.64%, indicating a notable change in its market position."
+      ],
+      "text": [
+        "Super Micro Computer stock dropped more than 2.5% after short seller Hindenberg Research announced a short position in the AI server maker."
+      ]
+    }
+  },
+  {
+    "question": "What was Paramount Global's stock price and percentage decrease on Tuesday, and what corporate development immediately preceded this decline?",
+    "answer": "Paramount Global's stock price was $10.52 with a 7.15% decrease, following Edgar Bronfman Jr.'s abandonment of his bid for the company.",
+    "keypoints": {
+      "video": [
+        "Paramount Global PARA's stock price is shown as $10.52 with a substantial decline of 7.15%, reflecting its market performance."
+      ],
+      "text": [
+        "Paramount Global shares slid more than 7% after Edgar Bronfman Jr. abandoned his bid for the company."
+      ]
+    }
+  }
+]

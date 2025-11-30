@@ -1,0 +1,55 @@
+[
+  {
+    "question": "In WIX, what are the steps to add a Quote section to a webpage?",
+    "answer": "Click the 'Add' button at the top of the editor to open the Section Design panel. Then select the 'Quote' template from the panel to add a new section with a black background and placeholder text.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located at the top of the WIX website editor interface.",
+      "The 'Section Design' panel appears on the left side of the screen, displaying various section templates.",
+      "The user selects a 'Quote' section template from the 'Section Design' panel by clicking on it.",
+      "A new section with a black background and placeholder text for an inspirational quote is added to the webpage."
+    ]
+  },
+  {
+    "question": "In WIX, how do you customize the text content of a Quote section?",
+    "answer": "Click the 'Title' field to type your heading, the 'Subtitle' field to add secondary text, and the 'Paragraph' field to input the main body text. Each field activates a cursor for text entry when clicked.",
+    "keypoints": [
+      "The user clicks on the 'Title' field within the newly added 'Quote' section.",
+      "The cursor becomes active in the 'Title' field, allowing the user to type \"Inspirational Quote\".",
+      "The user clicks on the 'Subtitle' field within the 'Quote' section.",
+      "The cursor becomes active in the 'Subtitle' field, and the user types \"TutorTube\".",
+      "The user clicks on the 'Paragraph' field within the 'Quote' section.",
+      "The cursor becomes active in the 'Paragraph' field, and the user types \"Keep on Learning! Keep on Improving!\"."
+    ]
+  },
+  {
+    "question": "In WIX, how do you replace the default image in a Quote section with a custom file?",
+    "answer": "Click the 'Media' option in the section settings to open the media dialog. Navigate to the 'Site Files' tab and select your desired image file to replace the placeholder image.",
+    "keypoints": [
+      "The user clicks on the 'Media' option within the 'Quote' section settings.",
+      "A media selection dialog opens, allowing the user to choose an image or video file.",
+      "The user navigates to the 'Site Files' tab within the media selection dialog.",
+      "The user selects an image file named \"5_edited_edited_edited.jpg\" from the list of available files.",
+      "The selected image is inserted into the 'Quote' section, replacing the default placeholder image."
+    ]
+  },
+  {
+    "question": "In WIX, what happens after you finalize layout adjustments in a Quote section?",
+    "answer": "After repositioning elements using the Design tab's tools, click the 'Publish' button at the top-right corner. Confirm the action in the dialog to make all changes live on the website.",
+    "keypoints": [
+      "The user adjusts the layout of the 'Quote' section using the design tools.",
+      "The text and image elements are repositioned to create a balanced and visually appealing arrangement.",
+      "The user clicks on the 'Publish' button located at the top-right corner of the WIX website editor interface.",
+      "A confirmation dialog appears, prompting the user to finalize and publish the changes made to the webpage.",
+      "The user clicks on the 'Confirm' button within the confirmation dialog.",
+      "The webpage is published, and the changes are live on the TutorTube website."
+    ]
+  },
+  {
+    "question": "In WIX, where can you find the design customization options for a Quote section?",
+    "answer": "Design options for the Quote section are located in the 'Design' tab of the editor interface, which becomes visible after clicking the tab.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab within the WIX website editor interface.",
+      "The design options for the 'Quote' section become visible, allowing customization of colors, fonts, and layout."
+    ]
+  }
+]

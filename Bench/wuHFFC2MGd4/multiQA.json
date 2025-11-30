@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Wix, how do you add a list section to a blank page and what placeholder content appears?",
+    "answer": "Click the 'Add Section' button in the center of the blank page, then select 'List' from the left sidebar menu. This adds a section displaying a placeholder 'Header Title' and three 'List Item Title' entries with descriptions.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the center of the blank page within the Wix website editor interface.",
+      "The user selects the 'List' option from the left sidebar menu, which is highlighted and displayed as an available section type.",
+      "The list section is added to the webpage, displaying a placeholder text labeled 'Header Title' and three 'List Item Title' entries with corresponding descriptions."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to edit the header title of a newly added list section to 'Software Tutorials'?",
+    "answer": "Click the 'Edit' button above the list section to enable editing, then type 'Software Tutorials' into the 'Header Title' field to replace the placeholder text.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button located above the newly added list section, enabling editing options for the header title and list items.",
+      "The user types 'Software Tutorials' into the 'Header Title' field, updating the placeholder text accordingly."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify the first list item to display 'Adobe After Effects' and add its description?",
+    "answer": "Click the first 'List Item Title' entry and type 'Adobe After Effects' to replace the default text. Then click the description area below it and type the relevant content.",
+    "keypoints": [
+      "The user clicks on the first 'List Item Title' entry and types 'Adobe After Effects', replacing the default placeholder text.",
+      "The user adds a description under the 'Adobe After Effects' list item by clicking on the description area and typing relevant content."
+    ]
+  },
+  {
+    "question": "In Wix, what is the outcome of clicking the 'Publish' button, and what content appears on the final webpage?",
+    "answer": "Clicking the 'Publish' button at the top-right corner initiates publishing. The published webpage displays the updated content, including the 'Software Tutorials' header and the 'Adobe After Effects' list item with its description.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located at the top-right corner of the Wix editor interface, initiating the publishing process for the webpage.",
+      "The user views the final published webpage, which displays the updated content including the 'Software Tutorials' header and the 'Adobe After Effects' list item with its description."
+    ]
+  }
+]

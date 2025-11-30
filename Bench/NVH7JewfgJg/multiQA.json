@@ -1,0 +1,43 @@
+[
+  {
+    "question": "How did the discovery of diamonds in the 1870s transform Cape Colony's economy and infrastructure, and what were its long-term effects on racial inequality?",
+    "answer": "The diamond discovery led to significant economic activity, railway construction connecting mines to Cape Town's port, and cemented Cape Colony as a prized British territory. However, it reinforced racial inequality by excluding Black regions from economic benefits and centralizing wealth for white colonists.",
+    "keypoints": {
+      "video": [
+        "Diamond mines were discovered in the region, leading to significant economic activity and labor migration."
+      ],
+      "text": [
+        "The discovery of diamonds in the 1870s transformed Cape Colony into one of Britain's most prized colonies, leading to railway construction connecting mines to the port of Cape Town.",
+        "The railroad economy centered Cape Colony's economy but largely excluded Black regions, reinforcing racial inequality."
+      ]
+    }
+  },
+  {
+    "question": "What disparities exist between Strand and Nomzamo in Cape Town regarding piped water access, internet access, and racial demographics?",
+    "answer": "Strand has 92.9% piped water access and 50.8% internet access with an 83% white population, while Nomzamo has 48.8% piped water access and 23.9% internet access with a 92% Black population.",
+    "keypoints": {
+      "video": [
+        "Strand has 92.9% piped water access compared to 48.8% in Nomzamo.",
+        "Internet access is at 50.8% in Strand and 23.9% in Nomzamo.",
+        "The population of Strand is 83% white, while Nomzamo's population is 92% Black."
+      ],
+      "text": [
+        "Strand features backyards and driveways, while Nomzamo is much denser and has fewer basic services like piped water and internet access.",
+        "Nomzamo is majority Black, while Strand area is majority white, illustrating a stark racial divide visible on maps across Cape Town and much of South Africa."
+      ]
+    }
+  },
+  {
+    "question": "What is the current status of District Six in Cape Town, and how have former residents influenced its development?",
+    "answer": "District Six remains largely undeveloped as an empty lot due to successful resistance by former residents against private development. While some residents have returned to city-built houses, hundreds of claimants still await restitution.",
+    "keypoints": {
+      "video": [
+        "District Six remains an empty lot, serving as a stark reminder of the historical injustices and ongoing efforts to address them."
+      ],
+      "text": [
+        "District Six remains largely undeveloped due to successful resistance by former residents against private development.",
+        "Some former District Six residents have returned to houses built by the city, but hundreds of claimants still await return."
+      ]
+    }
+  }
+]

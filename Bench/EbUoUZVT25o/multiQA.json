@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the Transform options for the 'Basic Transform Layer'?",
+    "answer": "Select the 'Basic Transform Layer' from the timeline panel at the bottom of the application window, then click the 'Transform' option in the properties section on the right side of the screen.",
+    "keypoints": [
+      "The user selects a layer named \"Basic Transform Layer\" from the timeline panel located at the bottom of the application window.",
+      "The user clicks on the 'Transform' option in the properties section on the right side of the screen, which is highlighted with a red border."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after adjusting a character's transparency, how can you rotate it using direct manipulation and precise input methods?",
+    "answer": "After adjusting the opacity slider to change transparency, drag the rotation handle around the character in the preview area for free rotation, or type a specific value like '45' into the rotation input field under Transform options for precise angle control.",
+    "keypoints": [
+      "The user adjusts the opacity slider within the 'Transform' options to change the transparency of the character, making it more transparent as indicated by the reduced visibility of the yellow smiley face on the preview screen.",
+      "The user drags the rotation handle around the smiley face icon in the preview area, causing the character to rotate clockwise and counterclockwise as shown on the screen.",
+      "The user types '45' into the rotation input field under the 'Transform' options, resulting in the smiley face rotating 45 degrees as displayed in the preview."
+    ]
+  }
+]

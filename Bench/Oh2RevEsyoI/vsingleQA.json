@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Which age range has the highest customer count in the Starbucks bar chart titled 'Misleading Graphs'?",
+    "answer": "The 35-54 age range has the highest customer count.",
+    "keypoints": [
+      "The video features a bar chart titled 'Misleading Graphs,' which shows Starbucks customer counts by age ranges: 16-24, 25-34, 35-54, 55-64, and 65+. The highest customer count is in the 35-54 age range."
+    ]
+  },
+  {
+    "question": "What age range represents the middle 50% of Starbucks customers earning over $90k according to the histogram?",
+    "answer": "The middle 50% of Starbucks customers earning over $90k are aged between 43 and 66 years old.",
+    "keypoints": [
+      "A histogram illustrates that the middle 50% of Starbucks customers earning over $90k are aged between 43 and 66 years old."
+    ]
+  },
+  {
+    "question": "Which country is shown as the leading coffee producer with a high GDP in the scatter plot?",
+    "answer": "Brazil is shown as the leading coffee producer with a high GDP.",
+    "keypoints": [
+      "The scatter plot compares GDP (trillion dollars) on the X-axis with coffee production (billion kg) on the Y-axis, showing Brazil as the leading producer with a high GDP."
+    ]
+  }
+]

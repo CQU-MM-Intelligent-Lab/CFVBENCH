@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In LosslessCut, what is restored in the timeline after successfully loading a project file following media file opening?",
+    "answer": "The in and out points set in the original project are restored, as indicated by the highlighted segments in the timeline.",
+    "keypoints": [
+      "The user selects 'Load project (CSV)' again from the 'File' menu and chooses the previously saved 'TutorTube Lesson.csv' file",
+      "The in and out points set in the original project are restored in the timeline, as indicated by the highlighted segments"
+    ]
+  },
+  {
+    "question": "In LosslessCut, what sequence of actions successfully restores project settings after application launch?",
+    "answer": "First open a media file via the 'File' menu, then load the project file using the 'Load project (CSV)' option to restore settings and timepoints.",
+    "keypoints": [
+      "The user opens the video file 'San Francisco Townhouses.mp4' from the 'Open' dialog box, which is accessed via the 'File' menu",
+      "The user selects 'Load project (CSV)' again from the 'File' menu and chooses the previously saved 'TutorTube Lesson.csv' file",
+      "The user continues working on the video project using the restored settings and timepoints"
+    ]
+  }
+]

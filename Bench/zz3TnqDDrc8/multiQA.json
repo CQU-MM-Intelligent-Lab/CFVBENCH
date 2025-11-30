@@ -1,0 +1,55 @@
+[
+  {
+    "question": "In Adobe Photoshop, how do you brighten a character's facial skin tone using the Levels adjustment?",
+    "answer": "Right-click the 'Head' layer in the Layers panel and select 'Edit Original'. Then navigate to Image > Adjustments > Levels and enter the desired brightness value in the Output Levels field.",
+    "keypoints": [
+      "In the Photoshop window, the user right-clicks on the layer named 'Head' within the Layers panel and selects the 'Edit Original' option from the context menu.",
+      "Within the Photoshop workspace, the user adjusts the skin tone of the character's face by selecting the 'Image' menu at the top of the screen, then choosing 'Adjustments,' followed by 'Levels.'",
+      "The user types '150' into the Output Levels field of the Levels adjustment dialog box to brighten the character's skin tone."
+    ]
+  },
+  {
+    "question": "In Adobe Photoshop, how do you change a character's clothing color to blue using Hue/Saturation?",
+    "answer": "Select the target clothing layer (e.g., 'Pants'), then go to Image > Adjustments > Hue/Saturation. Adjust the hue slider to achieve a blue color and click 'OK' to apply the changes.",
+    "keypoints": [
+      "The user then selects the 'Hue/Saturation' option from the 'Image' > 'Adjustments' menu for the 'Pants' layer",
+      "In the Hue/Saturation dialog box, the user adjusts the hue slider to change the color of the pants to blue",
+      "The user clicks 'OK' to apply the hue adjustment to the pants layer"
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you trigger a waving animation for a character?",
+    "answer": "Navigate to the 'Controls' tab and select the 'Wave' gesture control. This activates the waving motion, causing the character's hand gestures to update accordingly.",
+    "keypoints": [
+      "The user navigates to the 'Controls' tab in the Character Animator interface.",
+      "The user selects the 'Wave' gesture control, triggering the character to perform a waving motion.",
+      "The character's hand gestures change accordingly, showing the successful implementation of the new animation features."
+    ]
+  },
+  {
+    "question": "In Adobe Photoshop, how do you remove overlapping areas on a character's torso layer?",
+    "answer": "Select the 'Torso' layer, then choose the Eraser tool from the left toolbar. Carefully erase the sections overlapping with adjacent body parts like the neck.",
+    "keypoints": [
+      "The user repeats the process for other layers such as 'Left Hand,' 'Right Hand,' and 'Torso,' adjusting their brightness levels to 150 using the same method.",
+      "The user erases parts of the torso layer that overlap with the neck area using the Eraser tool selected from the toolbar on the left side of the Photoshop window."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are needed to save a project and exit the application?",
+    "answer": "Click the 'Save' icon in the top-right corner, confirm the file location and name in the dialog box, then exit the software after saving completes.",
+    "keypoints": [
+      "The user saves the project in Adobe Character Animator by clicking the 'Save' icon in the top-right corner of the application window.",
+      "The save dialog appears, prompting the user to confirm the location and name for saving the file.",
+      "After confirming, the project is saved, and the user exits the software, completing the workflow."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure arm movement for an imported character?",
+    "answer": "After importing the character file, adjust the arm IK settings in the 'Puppet Track Behaviors' section. Manipulate the controls to test the arm movement dynamics.",
+    "keypoints": [
+      "The user opens Adobe Character Animator software and imports the edited character file.",
+      "Within the Character Animator interface, the user adjusts the character's arm IK settings using the 'Puppet Track Behaviors' section.",
+      "The character's arms move dynamically as the user manipulates the controls, demonstrating the new animation capabilities."
+    ]
+  }
+]

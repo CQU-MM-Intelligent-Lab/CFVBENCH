@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you load the 'Red Monster' preset character into the project?",
+    "answer": "First, click the 'Home' button at the top-left corner. Then, select 'Red Monster' from the example puppets on the home screen. The character will appear in the preview area once loaded.",
+    "keypoints": [
+      "The user clicks on the 'Home' button located at the top-left corner of the Adobe Character Animator interface.",
+      "From the home screen, the user selects a preset character named 'Red Monster' from the list of example puppets displayed in the center of the screen.",
+      "The selected 'Red Monster' character appears in the preview area, indicating it has been successfully loaded into the project."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after loading a character, how do you access and enable the Auto Blink behavior?",
+    "answer": "Navigate to the 'Behavior' tab in the right-side properties panel. Then, select 'Auto Blink' from the 'Puppet Behaviors' dropdown menu in the Behavior section.",
+    "keypoints": [
+      "The user navigates to the 'Behavior' tab within the properties panel on the right side of the screen.",
+      "In the 'Behavior' section, the user selects the 'Auto Blink' option from the dropdown menu under 'Puppet Behaviors'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what parameters become configurable after enabling Auto Blink and where are they be found?",
+    "answer": "After enabling Auto Blink, parameters including 'Blinks per Minute', 'Randomness', and 'Blink Duration' appear in the properties panel under the Behavior tab.",
+    "keypoints": [
+      "In the 'Behavior' section, the user selects the 'Auto Blink' option from the dropdown menu under 'Puppet Behaviors'.",
+      "Upon selecting 'Auto Blink', additional parameters such as 'Blinks per Minute', 'Randomness', and 'Blink Duration' become visible in the properties panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure all three Auto Blink parameters for natural blinking behavior?",
+    "answer": "Set 'Blinks per Minute' to 30 using its slider, adjust 'Randomness' by dragging its slider, and enter '80' in the 'Blink Duration' field. These changes immediately affect the character's blinking in the preview area.",
+    "keypoints": [
+      "The user adjusts the 'Blinks per Minute' slider to set the blink rate to 30 blinks per minute, which is reflected in the character's blinking behavior in the preview area.",
+      "The user modifies the 'Randomness' parameter by dragging the slider, changing the interval pattern of the character's blinking.",
+      "The user sets the 'Blink Duration' value to 80 milliseconds using the input field, affecting how long each blink lasts for the character."
+    ]
+  }
+]

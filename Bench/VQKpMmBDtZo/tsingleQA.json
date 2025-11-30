@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What causes the significant risk of catastrophic collisions from space debris in low Earth orbit?",
+    "answer": "Discarded rocket bodies, mission-related debris, and thousands of defunct satellites cause catastrophic collision risks.",
+    "keypoints": [
+      "Space debris accumulation in low Earth orbit poses a significant risk of catastrophic collisions due to discarded rocket bodies, mission-related debris, and thousands of defunct satellites."
+    ]
+  },
+  {
+    "question": "What types of large space debris exceeding 10 centimeters are trackable from Earth?",
+    "answer": "Dead satellites, rocket bodies, and mission fragments are trackable large debris.",
+    "keypoints": [
+      "Large space debris exceeding 10 centimeters includes dead satellites, rocket bodies, and mission fragments, which are trackable from Earth."
+    ]
+  },
+  {
+    "question": "How do ClearSpace and Astroscale plan to remove large space debris?",
+    "answer": "They are developing spacecraft to push or pull debris into Earth's atmosphere for destruction, with demonstrations planned within the next decade.",
+    "keypoints": [
+      "Commercial companies ClearSpace and Astroscale are developing spacecraft to remove large debris by pushing or pulling it into Earth's atmosphere for destruction, with demonstrations planned within the next decade."
+    ]
+  },
+  {
+    "question": "Why is debris between 1 and 10 centimeters critical for space debris management according to NASA?",
+    "answer": "It is too small to track reliably but large enough to destroy satellites.",
+    "keypoints": [
+      "Debris between 1 and 10 centimeters is too small to track reliably but large enough to destroy satellites, with NASA analysis identifying this range as critical for overall debris management."
+    ]
+  },
+  {
+    "question": "What method uses lasers to address 1-10 centimeter space debris?",
+    "answer": "A 'laser broom' applies force to nudge debris into higher orbits or into the atmosphere.",
+    "keypoints": [
+      "Lasers offer a solution for 1-10 centimeter debris by applying force to nudge debris into higher orbits or into the atmosphere, a method termed a 'laser broom'."
+    ]
+  },
+  {
+    "question": "What did NASA's 2023 analysis identify as the most cost-effective method for removing 1-10 centimeter debris?",
+    "answer": "Ground- or space-based laser systems are the most cost-effective method.",
+    "keypoints": [
+      "NASA's 2023 analysis found ground- or space-based laser systems to be the most cost-effective method for removing 1-10 centimeter debris."
+    ]
+  },
+  {
+    "question": "How do ground-based and space-based laser systems differ for debris removal?",
+    "answer": "Ground-based lasers use radar to track debris through the atmosphere, while space-based lasers have better targeting angles but lack Earth's power grid.",
+    "keypoints": [
+      "Ground-based lasers use radar to track debris and fire precise energy pulses through the atmosphere, while space-based lasers have better targeting angles but lack Earth's power grid."
+    ]
+  },
+  {
+    "question": "What legal barrier prevents entities from removing space debris they didn't launch?",
+    "answer": "International space law prohibits touching space objects not launched by the entity.",
+    "keypoints": [
+      "International space law currently prohibits any entity from touching space objects it did not launch, creating a legal barrier for debris removal efforts."
+    ]
+  },
+  {
+    "question": "What prevention strategy does the European Space Agency's 2023 Zero Debris Charter emphasize?",
+    "answer": "It emphasizes designing satellites to reenter Earth's atmosphere after mission completion.",
+    "keypoints": [
+      "The European Space Agency's June 2023 Zero Debris Charter emphasizes preventing new debris by designing satellites to reenter Earth's atmosphere post-mission."
+    ]
+  },
+  {
+    "question": "What de-orbit rule did the U.S. FCC implement in September 2022 for low Earth orbit spacecraft?",
+    "answer": "U.S. low Earth orbit spacecraft must de-orbit within five years after mission completion.",
+    "keypoints": [
+      "The U.S. FCC implemented a rule in September 2022 requiring U.S. low Earth orbit spacecraft to de-orbit within five years after mission completion."
+    ]
+  }
+]

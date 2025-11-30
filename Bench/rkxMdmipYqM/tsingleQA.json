@@ -1,0 +1,170 @@
+[
+  {
+    "question": "What is the average price of a new electric vehicle in the US?",
+    "answer": "The average price is approximately $55,000.",
+    "keypoints": [
+      "The average price of a new electric vehicle in the US is approximately $55,000."
+    ]
+  },
+  {
+    "question": "What percentage of an electric vehicle's production cost comes from batteries?",
+    "answer": "Batteries account for roughly 40% of the production cost.",
+    "keypoints": [
+      "Batteries account for roughly 40% of the production cost of an electric vehicle."
+    ]
+  },
+  {
+    "question": "Which US states did Ford explore for a new battery plant in 2023?",
+    "answer": "Ford explored sites in Virginia and Michigan.",
+    "keypoints": [
+      "Ford explored sites in Virginia and Michigan for a new battery plant in 2023 to lower costs."
+    ]
+  },
+  {
+    "question": "Which Chinese company's battery technology did Ford plan to use?",
+    "answer": "Ford planned to use technology from CATL, a company based in Fujian Province, China.",
+    "keypoints": [
+      "Ford planned to use battery technology from CATL, a company based in Fujian Province, China."
+    ]
+  },
+  {
+    "question": "What is CATL's position in the global battery market?",
+    "answer": "CATL is the world's largest battery maker.",
+    "keypoints": [
+      "CATL is the world's largest battery maker."
+    ]
+  },
+  {
+    "question": "Why did Virginia's governor reject Ford's battery plant proposal?",
+    "answer": "The rejection was due to the plant's links to China.",
+    "keypoints": [
+      "Virginia's governor rejected the battery plant proposal in his state because of its links to China."
+    ]
+  },
+  {
+    "question": "What key factor contributed to the rise of China's EV industry?",
+    "answer": "China's dominance in the EV battery market is a key factor.",
+    "keypoints": [
+      "China's dominance in the EV battery market is a key factor in its EV industry rise."
+    ]
+  },
+  {
+    "question": "When did Chinese EV battery development begin receiving substantial government support?",
+    "answer": "Support began roughly 20 years ago.",
+    "keypoints": [
+      "Chinese EV battery development received substantial government support starting roughly 20 years ago."
+    ]
+  },
+  {
+    "question": "What were China's primary objectives in promoting electric vehicles?",
+    "answer": "China aimed for energy independence and to address urban air pollution.",
+    "keypoints": [
+      "China aimed for energy independence and addressed urban air pollution by promoting EVs."
+    ]
+  },
+  {
+    "question": "What types of support did the Chinese government provide to the EV industry?",
+    "answer": "Subsidies, cheap land leases, and cheap loans.",
+    "keypoints": [
+      "The Chinese government provided subsidies, cheap land leases, and cheap loans to the EV industry."
+    ]
+  },
+  {
+    "question": "How much financial support did China provide to its EV industry from 2009 to 2022?",
+    "answer": "$29 billion in subsidies, research spending, and tax breaks.",
+    "keypoints": [
+      "From 2009 to 2022, the Chinese government gave $29 billion in subsidies, research spending, and tax breaks to the EV industry."
+    ]
+  },
+  {
+    "question": "How did Chinese local governments create an instant market for EVs?",
+    "answer": "By contracting companies to electrify bus and taxi fleets, such as Shenzhen's 16,000 buses electrified by BYD.",
+    "keypoints": [
+      "Local governments created an instant market by contracting companies to electrify bus and taxi fleets, like Shenzhen's 16,000 buses electrified by BYD."
+    ]
+  },
+  {
+    "question": "What incentives did Chinese consumers receive for purchasing EVs?",
+    "answer": "Generous subsidies, charging discounts, favorable parking, and traffic congestion benefits.",
+    "keypoints": [
+      "Chinese consumers received generous subsidies, charging discounts, favorable parking, and traffic congestion benefits for purchasing EVs."
+    ]
+  },
+  {
+    "question": "What requirement did China impose on foreign EV makers like GM and Tesla for subsidies?",
+    "answer": "They must use Chinese-made batteries.",
+    "keypoints": [
+      "China mandated that foreign EV makers like GM and Tesla use Chinese-made batteries to qualify for consumer subsidies."
+    ]
+  },
+  {
+    "question": "When did China phase out central government consumer subsidies for EVs?",
+    "answer": "In 2022.",
+    "keypoints": [
+      "China phased out central government consumer subsidies for EVs in 2022."
+    ]
+  },
+  {
+    "question": "What percentage of new car sales in China were electric in 2024?",
+    "answer": "Over half.",
+    "keypoints": [
+      "Over half of new car sales in China were electric in 2024."
+    ]
+  },
+  {
+    "question": "What strategy did Chinese companies use to control mineral supplies for batteries?",
+    "answer": "Acquiring ownership stakes in mines globally for minerals like nickel, cobalt, manganese, graphite, and lithium.",
+    "keypoints": [
+      "Chinese companies acquired ownership stakes in mines globally to control mineral supplies like nickel, cobalt, manganese, graphite, and lithium."
+    ]
+  },
+  {
+    "question": "What role does China play in manufacturing EV battery components?",
+    "answer": "China manufactures the vast majority of the four main components and assembles them into battery cells.",
+    "keypoints": [
+      "China manufactures the vast majority of the four main EV battery components and assembles them into battery cells."
+    ]
+  },
+  {
+    "question": "Why did Chinese companies innovate lithium iron phosphate (LFP) battery technology?",
+    "answer": "To avoid using expensive nickel and cobalt.",
+    "keypoints": [
+      "Chinese companies innovated lithium iron phosphate (LFP) battery technology to avoid expensive nickel and cobalt."
+    ]
+  },
+  {
+    "question": "What is BYD's proprietary LFP battery called and what advantage does it offer?",
+    "answer": "The blade battery, which increases energy density.",
+    "keypoints": [
+      "BYD developed its own LFP battery called the blade battery, which increases energy density."
+    ]
+  },
+  {
+    "question": "In which countries has CATL built or planned battery plants?",
+    "answer": "CATL has built plants in Germany and plans one in Hungary.",
+    "keypoints": [
+      "CATL has built battery plants in Germany and plans one in Hungary."
+    ]
+  },
+  {
+    "question": "What makes the Marshall battery plant significant in the US?",
+    "answer": "It would be the first LFP battery plant in the US.",
+    "keypoints": [
+      "The Marshall plant would be the first LFP battery plant in the US."
+    ]
+  },
+  {
+    "question": "What concerns exist about China's battery supply chain?",
+    "answer": "Unfair global competition from government support and human rights/environmental issues.",
+    "keypoints": [
+      "Concerns exist about unfair global competition from Chinese government support and human rights/environmental issues in China's battery supply chain."
+    ]
+  },
+  {
+    "question": "How much is the US investing to build its domestic battery industry by 2030, according to Bloomberg?",
+    "answer": "An estimated $82 billion.",
+    "keypoints": [
+      "The US is investing government support, estimated by Bloomberg at $82 billion, to build its domestic battery industry by 2030."
+    ]
+  }
+]

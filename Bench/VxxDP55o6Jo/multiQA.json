@@ -1,0 +1,69 @@
+[
+  {
+    "question": "In Wix Editor, what are the steps to add and display a Schedule section on your page?",
+    "answer": "First, click the 'Add' button in the top navigation bar. Then, select the 'Schedule' section from the left-side menu (highlighted with red background and white text). The schedule section will load in the main editing area with placeholder header text.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix editor interface.",
+      "The user selects the 'Schedule' section from the left-side menu, which is highlighted with a red background and white text.",
+      "The schedule section loads up on the main editing area, displaying a placeholder text for the header title and subtitle."
+    ]
+  },
+  {
+    "question": "In Wix Editor, how do you modify the year in a Schedule section's subtitle and confirm the change?",
+    "answer": "Type the desired year (e.g., '2025') into the 'Header Subtitle' field within the schedule section. The screen will immediately update to display the new year in the subtitle format.",
+    "keypoints": [
+      "The user types '2025' into the 'Header Subtitle' field within the schedule section.",
+      "The screen updates to reflect the new year in the subtitle, showing 'January 24, 2025'."
+    ]
+  },
+  {
+    "question": "In Wix Editor, what happens when you add a new item to a Schedule section?",
+    "answer": "Click the 'Add Item' button under the list items section. A new schedule item labeled with a default time (e.g., '12:30 PM') will appear below existing items.",
+    "keypoints": [
+      "The user clicks on the 'Add Item' button under the list items section.",
+      "A new schedule item appears below the existing ones, labeled as '12:30 PM'."
+    ]
+  },
+  {
+    "question": "In Wix Editor, how do you access editing options for a schedule item after adding it?",
+    "answer": "Click the 'Edit' button next to the newly added schedule item. This displays edit options allowing modifications to time, description, and other details.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button next to the newly added schedule item.",
+      "The edit options for the schedule item are displayed, allowing modifications to the time, description, and other details."
+    ]
+  },
+  {
+    "question": "In Wix Editor, how can you adjust an element's dimensions using the Tools panel?",
+    "answer": "Drag the 'Brush Size' slider within the 'Tools' panel to increase or decrease its value. The size change will be visually reflected on the selected element in the design preview.",
+    "keypoints": [
+      "The user drags the 'Brush Size' slider within the 'Tools' panel to adjust the size of an element, increasing its value.",
+      "The change in size is visually reflected on the selected element in the design preview."
+    ]
+  },
+  {
+    "question": "In Wix Editor, what is the process to change a Schedule section's background color?",
+    "answer": "Select a color option from the 'Section Colors' dropdown menu in the left sidebar. The chosen color will be applied to the schedule section's background, altering its appearance.",
+    "keypoints": [
+      "The user selects a color option from the 'Section Colors' dropdown menu in the left sidebar.",
+      "The selected color is applied to the background of the schedule section, changing its appearance."
+    ]
+  },
+  {
+    "question": "In Wix Editor, what occurs when initiating the publishing process?",
+    "answer": "Click the 'Publish' button at the top-right corner. A confirmation dialog box will appear, prompting you to finalize publishing.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located at the top-right corner of the Wix editor.",
+      "A confirmation dialog box appears, prompting the user to finalize the publishing process."
+    ]
+  },
+  {
+    "question": "In Wix Editor, how do you add a schedule item and immediately edit its properties?",
+    "answer": "After clicking 'Add Item' to create a new schedule item, click its 'Edit' button. This reveals options to modify time, description, and other details.",
+    "keypoints": [
+      "The user clicks on the 'Add Item' button under the list items section.",
+      "A new schedule item appears below the existing ones, labeled as '12:30 PM'.",
+      "The user clicks on the 'Edit' button next to the newly added schedule item.",
+      "The edit options for the schedule item are displayed, allowing modifications to the time, description, and other details."
+    ]
+  }
+]

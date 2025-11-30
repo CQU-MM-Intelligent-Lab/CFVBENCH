@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What are the 2019 U.S. federal income tax rates and corresponding income ranges for the first four tax brackets, and what is the taxation system that applies different rates to different portions of income called?",
+    "answer": "The 2019 U.S. federal income tax rates are 10% for income from $0 to $9,700, 12% for income from $9,701 to $39,475, 22% for income from $39,476 to $84,200, and 24% for income above $84,201. This system is known as marginal tax rates.",
+    "keypoints": {
+      "video": [
+        "The tax brackets for income are set at 10%, 12%, 22%, and 24% for the respective income ranges of $0 to $9,700, $9,701 to $39,475, $39,476 to $84,200, and above $84,201."
+      ],
+      "text": [
+        "The concept described is known as marginal tax rates."
+      ]
+    }
+  },
+  {
+    "question": "What is the standard deduction amount for a single individual in the 2019 U.S. federal tax system, and by how much would taxable income decrease with an additional $2,000 deduction?",
+    "answer": "The standard deduction for a single individual is $12,000. With an additional $2,000 deduction, taxable income decreases by a total of $14,000.",
+    "keypoints": {
+      "video": [
+        "Deductions reduce taxable income; a standard deduction of $12,000 plus an additional $2,000 lowers taxable income by $14,000."
+      ],
+      "text": [
+        "The U.S. federal income tax system includes a standard deduction allowing single individuals to exclude $12,000 of income from taxation in 2019."
+      ]
+    }
+  },
+  {
+    "question": "For a post-deduction taxable income of $70,000, what is the calculated federal income tax, and how does the marginal tax system determine this amount?",
+    "answer": "The federal income tax is $7,667. The marginal tax system calculates this by applying tiered rates: 10% to the first $9,700 ($970), 12% to income between $9,701 and $39,475 ($3,573), and 22% to the remaining portion up to $70,000 ($3,124).",
+    "keypoints": {
+      "video": [
+        "For an income of $70,000 after deductions, the tax amounts to $970 for the first bracket, $3,573 for the second, and $3,124 for the third, totaling $7,667."
+      ],
+      "text": [
+        "Taxable income after deductions is taxed progressively using marginal rates applied to specific income ranges, not the entire income."
+      ]
+    }
+  }
+]

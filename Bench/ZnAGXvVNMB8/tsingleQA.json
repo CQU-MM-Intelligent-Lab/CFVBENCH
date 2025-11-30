@@ -1,0 +1,100 @@
+[
+  {
+    "question": "What is a key auditory difference between electric vehicles and internal combustion engine vehicles?",
+    "answer": "Electric vehicles operate quietly, lacking the characteristic noise of internal combustion engines.",
+    "keypoints": [
+      "Electric vehicles operate quietly, lacking the characteristic noise of internal combustion engines."
+    ]
+  },
+  {
+    "question": "Why does the quiet operation of electric vehicles create safety concerns?",
+    "answer": "The absence of engine noise poses safety risks for pedestrians and cyclists who rely on auditory cues.",
+    "keypoints": [
+      "The absence of engine noise in electric vehicles poses safety risks for pedestrians and cyclists who rely on auditory cues."
+    ]
+  },
+  {
+    "question": "What requirement did regulators in the European Union and the United States impose on electric and hybrid vehicles starting in 2019?",
+    "answer": "Regulators mandated artificial sound systems for electric and hybrid vehicles starting in 2019.",
+    "keypoints": [
+      "Regulators in the European Union and the United States mandated artificial sound systems for electric and hybrid vehicles starting in 2019."
+    ]
+  },
+  {
+    "question": "How do manufacturers implement artificial sounds in electric and hybrid vehicles?",
+    "answer": "Manufacturers implement these sounds using an Acoustic Vehicle Alerting System (AVAS) with hidden speakers.",
+    "keypoints": [
+      "Manufacturers implement these sounds using an Acoustic Vehicle Alerting System (AVAS) with hidden speakers."
+    ]
+  },
+  {
+    "question": "What decibel requirement must the Acoustic Vehicle Alerting System (AVAS) meet?",
+    "answer": "AVAS must meet minimum decibel levels to ensure audibility without being overly disruptive.",
+    "keypoints": [
+      "AVAS must meet minimum decibel levels to ensure audibility without being overly disruptive."
+    ]
+  },
+  {
+    "question": "How must AVAS volume change relative to vehicle speed?",
+    "answer": "AVAS volume must rise proportionally with vehicle speed until tire and wind noise dominate above 30 kilometers per hour.",
+    "keypoints": [
+      "AVAS volume must rise proportionally with vehicle speed until tire and wind noise dominate above 30 kilometers per hour."
+    ]
+  },
+  {
+    "question": "How does AVAS pitch convey vehicle speed information?",
+    "answer": "AVAS pitch must increase as the vehicle accelerates and decrease as it decelerates to convey speed information.",
+    "keypoints": [
+      "AVAS pitch must increase as the vehicle accelerates and decrease as it decelerates to convey speed information."
+    ]
+  },
+  {
+    "question": "Why must AVAS produce both high and low-frequency sounds?",
+    "answer": "AVAS must produce sound at both high and low frequencies to cut through varying background noise.",
+    "keypoints": [
+      "AVAS must produce sound at both high and low frequencies to cut through varying background noise."
+    ]
+  },
+  {
+    "question": "What challenge do sound designers face when creating AVAS sounds?",
+    "answer": "Sound designers face challenges creating pleasant, non-annoying sounds within strict regulatory parameters.",
+    "keypoints": [
+      "Sound designers face challenges creating pleasant, non-annoying sounds within the strict regulatory parameters."
+    ]
+  },
+  {
+    "question": "What causes basic AVAS implementations to produce artificial-sounding output?",
+    "answer": "Basic implementations use short, looping audio samples that pitch-shift linearly with speed, resulting in artificial-sounding output.",
+    "keypoints": [
+      "Basic AVAS implementations often use short, looping audio samples that pitch-shift linearly with speed, resulting in artificial-sounding output."
+    ]
+  },
+  {
+    "question": "How do designers enhance realism in AVAS sounds?",
+    "answer": "Designers enhance realism by layering additional samples, filters, and modulations triggered by driving conditions like acceleration.",
+    "keypoints": [
+      "Designers enhance realism by layering additional samples, filters, and modulations triggered by driving conditions like acceleration."
+    ]
+  },
+  {
+    "question": "What sources are used to create sounds for AVAS?",
+    "answer": "Sound sources include musical instruments, orchestral scores, and synthesized imitations of combustion engines.",
+    "keypoints": [
+      "Sound sources for AVAS include musical instruments, orchestral scores, and synthesized imitations of combustion engines."
+    ]
+  },
+  {
+    "question": "Why do some AVAS designs mimic combustion engine sounds?",
+    "answer": "Some designs employ skeuomorphism, mimicking combustion engine sounds to ease the transition to electric vehicles.",
+    "keypoints": [
+      "Some designs employ skeuomorphism, mimicking combustion engine sounds to ease the transition to electric vehicles."
+    ]
+  },
+  {
+    "question": "What is the core design goal of the Acoustic Vehicle Alerting System?",
+    "answer": "The core design goal is to bridge the auditory gap between traditional combustion vehicles and future electric mobility.",
+    "keypoints": [
+      "The core design goal is to bridge the auditory gap between traditional combustion vehicles and future electric mobility."
+    ]
+  }
+]

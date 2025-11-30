@@ -1,0 +1,45 @@
+[
+  {
+    "question": "In Wix, what are the steps to add a product section to a webpage?",
+    "answer": "First, click the 'Add' button in the top navigation bar. Then select the 'Product' section option from the dropdown menu. This adds a new product section with customizable placeholder text and images to the webpage.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Product' section option is selected by a mouse click.",
+      "A new product section appears on the webpage with placeholder text and images for customization."
+    ]
+  },
+  {
+    "question": "In Wix, how do you edit the header title of a product section and what is the result?",
+    "answer": "Click the 'Header Title' field in the product section to activate it (indicated by a blinking cursor), then type the new title. The entered text immediately replaces the default placeholder text in the header area.",
+    "keypoints": [
+      "The user clicks on the 'Header Title' field within the newly added product section.",
+      "The cursor blinks inside the 'Header Title' field, indicating it is ready for text input.",
+      "The user types 'Our Products' into the 'Header Title' field.",
+      "The text 'Our Products' replaces the default placeholder text in the header title area."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after clicking the 'Replace' button in a product section's media area?",
+    "answer": "A new window opens displaying the user's image library files, allowing selection of a replacement image for the placeholder.",
+    "keypoints": [
+      "The user clicks on the 'Replace' button next to the image placeholder in the media section.",
+      "A new window opens displaying the user's library files for selecting an image."
+    ]
+  },
+  {
+    "question": "In Wix, how do you replace a product section's placeholder image after accessing your library?",
+    "answer": "Select an image file from your library. The chosen image automatically replaces the placeholder image in the product section.",
+    "keypoints": [
+      "The user selects an image file named '5_added.jpg' from the library.",
+      "The selected image replaces the placeholder image in the product section."
+    ]
+  },
+  {
+    "question": "In Wix, where can you find design customization options for a product section?",
+    "answer": "Click the 'Design' tab at the top of the product section. This makes all design options for the section immediately visible for customization.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab at the top of the product section.",
+      "The design options for the product section become visible, allowing further customization."
+    ]
+  }
+]

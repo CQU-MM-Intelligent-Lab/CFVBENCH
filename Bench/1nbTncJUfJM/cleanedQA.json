@@ -1,0 +1,28 @@
+[
+  {
+    "question": "How has Argentina's record dengue outbreak impacted healthcare facilities, as evidenced by the waiting line at 'Admisión BA' and the scene of healthcare workers assisting a patient with IV treatment?",
+    "answer": "The outbreak has caused over 120,000 cases during the 2023-2024 season, leading to increased patient volume and strain on healthcare facilities, resulting in long waiting lines at admission counters like 'Admisión BA' and necessitating medical interventions such as intravenous fluid administration.",
+    "keypoints": {
+      "video": [
+        "A group of people wait in a line at an admission counter labeled 'Admisión BA'.",
+        "Healthcare workers assist a patient lying on a bed with an IV drip above them."
+      ],
+      "text": [
+        "Argentina is experiencing a major dengue outbreak with over 120,000 cases recorded during the 2023-2024 season, positioning it to break previous records."
+      ]
+    }
+  },
+  {
+    "question": "What public health education measure is shown through the 'Signos de Alarma del Dengue' display, and what key symptoms would it communicate given Argentina's outbreak context?",
+    "answer": "The 'Signos de Alarma del Dengue' sign serves as a public health education tool highlighting critical symptoms including high fever, headache, vomiting, skin rash, severe muscle and joint pain, and fatigue during Argentina's outbreak exceeding 120,000 cases.",
+    "keypoints": {
+      "video": [
+        "A sign titled 'Signos de Alarma del Dengue' is displayed on a table, providing information about dengue warning signs."
+      ],
+      "text": [
+        "Argentina is experiencing a major dengue outbreak with over 120,000 cases recorded during the 2023-2024 season, positioning it to break previous records.",
+        "Symptoms of dengue include high fever, headache, vomiting, skin rash, severe muscle and joint pain, and fatigue."
+      ]
+    }
+  }
+]

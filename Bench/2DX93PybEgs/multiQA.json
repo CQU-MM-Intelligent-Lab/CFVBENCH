@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In Wix, what information must be entered in the service management pop-up to define a new service?",
+    "answer": "Enter the service name in the 'Name Your Service' text field, select a category from the adjacent dropdown menu, and input the description in the service details box.",
+    "keypoints": [
+      "The user types 'Tour around the City' into the text field labeled 'Name Your Service'.",
+      "The user selects the 'Travel' category from the dropdown menu next to the service name.",
+      "The user enters 'See the city view.' into the description box under the service details."
+    ]
+  },
+  {
+    "question": "In Wix, how do you configure operational details for a new service in the management pop-up?",
+    "answer": "Set the total price in the pricing section, adjust the maximum participants in the participants section, and select operating days in the scheduling section.",
+    "keypoints": [
+      "The user sets the total price to '100 USD' in the pricing section.",
+      "The user adjusts the maximum number of participants to '50' in the participants section.",
+      "The user selects the days of operation as Monday through Sunday in the scheduling section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you apply a specific design layout to a service list section?",
+    "answer": "In the left-side panel under 'Section Design', select a design layout by clicking a preview thumbnail to apply it to the service list section.",
+    "keypoints": [
+      "In the left-side panel under 'Section Design,' the user selects a design layout for the service list by clicking on one of the preview thumbnails.",
+      "The selected design layout is applied to the service list section, displaying three placeholder services with images and text fields labeled 'Service Name.'"
+    ]
+  }
+]

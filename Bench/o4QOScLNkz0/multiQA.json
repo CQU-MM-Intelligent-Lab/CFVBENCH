@@ -1,0 +1,21 @@
+[
+
+  {
+    "question": "In Video Editor, how do you modify keyframe properties for a timeline segment and what confirms the changes?",
+    "answer": "Right-click on a timeline segment to open a context menu with keyframe management options, select a modification option to adjust properties, and observe the screen update to reflect the new keyframe configuration for accurate video quality representation.",
+    "keypoints": [
+      "The user right-clicks on a segment of the timeline to access additional options related to keyframe management.",
+      "A context menu appears, offering various actions for refining and adjusting keyframe settings within the video clip.",
+      "The user selects an option from this menu to modify keyframe properties, enhancing the precision of video editing tasks.",
+      "The screen updates to reflect any changes made to the keyframe configuration, ensuring accurate representation of video quality throughout the editing process."
+    ]
+  },
+  {
+    "question": "In Video Editor, what happens when dragging the timeline cursor between keyframes and regular frames?",
+    "answer": "Dragging the timeline cursor across the video duration shows smooth transitions and visual detail changes between keyframes and regular frames, with the screen dynamically reflecting content variations during navigation.",
+    "keypoints": [
+      "The user drags the timeline cursor across the video duration, observing the transition between keyframes and regular frames.",
+      "The screen reflects smooth transitions and changes in visual details corresponding to the movement along the timeline."
+    ]
+  }
+]

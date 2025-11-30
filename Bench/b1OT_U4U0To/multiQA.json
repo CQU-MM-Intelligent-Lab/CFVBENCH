@@ -1,0 +1,40 @@
+[
+  {
+    "question": "In Wix, how do you initiate adding a video element to your webpage and what template selection follows?",
+    "answer": "Click the 'Add' button in the top navigation bar, then select 'Video' from the dropdown menu. Next, choose a video template from the displayed selection options.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "A dropdown menu appears, and the user selects the 'Video' option from the list of elements.",
+      "The screen displays a selection of video templates, and the user chooses a template featuring a coffee cup and keyboard image."
+    ]
+  },
+  {
+    "question": "In Wix, after selecting a video template, how do you replace it with a YouTube video and what specific steps are involved?",
+    "answer": "Click the 'Edit & Replace' button in the media settings panel on the left. Then, navigate to YouTube, open the desired video, click 'Share', copy its URL, and paste it into the 'Video URL' field in Wix's media settings panel.",
+    "keypoints": [
+      "After selecting the template, the user clicks on the 'Edit & Replace' button within the media settings panel on the left side of the screen.",
+      "The user navigates to YouTube, opens a specific video titled \"Toon Boom Harmony Tutorial - Lesson 9,\" and clicks on the 'Share' button below the video.",
+      "The share dialog box appears, and the user copies the video URL from the input field.",
+      "Returning to the Wix editor, the user pastes the copied YouTube URL into the 'Video URL' field in the media settings panel."
+    ]
+  },
+  {
+    "question": "In Wix, how do you finalize embedding a YouTube video and what is the direct outcome?",
+    "answer": "Click the 'Publish' button at the top right corner of the editor. The published webpage will then display the embedded YouTube video playing directly on the site.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button at the top right corner of the Wix editor interface.",
+      "The published webpage now shows the embedded YouTube video playing directly on the site."
+    ]
+  },
+  {
+    "question": "In Wix, what is the complete sequence to embed a YouTube video starting from template selection?",
+    "answer": "After template selection, click 'Edit & Replace', navigate to YouTube to copy the video's URL via the 'Share' dialog, paste the URL into Wix's 'Video URL' field, and publish the page to make the embedded video live.",
+    "keypoints": [
+      "After selecting the template, the user clicks on the 'Edit & Replace' button within the media settings panel on the left side of the screen.",
+      "The user navigates to YouTube, opens a specific video titled \"Toon Boom Harmony Tutorial - Lesson 9,\" and clicks on the 'Share' button below the video.",
+      "The share dialog box appears, and the user copies the video URL from the input field.",
+      "Returning to the Wix editor, the user pastes the copied YouTube URL into the 'Video URL' field in the media settings panel.",
+      "The user clicks on the 'Publish' button at the top right corner of the Wix editor interface."
+    ]
+  }
+]

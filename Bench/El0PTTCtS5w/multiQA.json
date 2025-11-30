@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In Video Editor, how do you access the rotation settings to adjust a video's orientation?",
+    "answer": "Click the 'Tools' menu in the top-right corner, then select 'Set output rotation' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'Tools' menu item located in the top-right corner of the application window.",
+      "The user selects the 'Set output rotation' option from the dropdown menu, which is highlighted with a small icon resembling an arrow in a circle."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you export a rotated video and specify its save location?",
+    "answer": "After setting the rotation, click the 'Export' button at the bottom right. In the file explorer window, navigate to your target folder (e.g., 'My First Edit') and click 'Save' to start exporting.",
+    "keypoints": [
+      "After setting the desired rotation, the user clicks on the 'Export' button located at the bottom right of the interface.",
+      "A file explorer window opens, allowing the user to select the destination folder for the exported video.",
+      "The user navigates through the directory structure and selects a folder named 'My First Edit'.",
+      "The user clicks on the 'Save' button within the file explorer window, initiating the export process."
+    ]
+  },
+  {
+    "question": "In Video Editor, what confirmation appears after exporting, and how do you proceed post-export?",
+    "answer": "A message states: 'Done! Note: cutpoints may be inaccurate. Test output files before deleting sources.' Close this message, then double-click the exported file to verify rotation in a media player.",
+    "keypoints": [
+      "Once the export is complete, a confirmation message appears stating \"Done! Note: cutpoints may be inaccurate. Make sure you test the output files in your desired player/editor before you delete the source.",
+      "The user closes the confirmation message by clicking on the 'Close' button.",
+      "The user double-clicks on the newly exported video file in the file explorer to open it.",
+      "The video plays in a media player, showing the rotated content as intended."
+    ]
+  }
+]

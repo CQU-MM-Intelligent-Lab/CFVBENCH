@@ -1,0 +1,34 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you configure a character's walk behavior to start with a run and adjust its stopping speed?",
+    "answer": "In the 'Walk' behavior settings panel on the right side of the screen, select 'Run' from the 'Starting Entry' dropdown menu. Then, drag the 'Stop Speed' slider left to decrease the value to 50%, controlling how quickly the character stops moving.",
+    "keypoints": [
+      "The user adjusts the 'Starting Entry' dropdown menu within the 'Walk' behavior settings panel on the right side of the screen. The dropdown menu is expanded to show various options including 'Walk', 'Slump', 'Step', 'Sneak', 'Run', 'Head Bang', and 'Jump'. The user selects the 'Run' option from this list.",
+      "The user modifies the 'Stop Speed' slider within the 'Walk' behavior settings panel. The slider is dragged to the left, decreasing the value from 100% to 50%, which changes the speed at which the character stops moving."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps adjust movement intensity and allow real-time testing of a character's walk animation?",
+    "answer": "Increase movement intensity by dragging the 'Strength' slider right in the 'Walk' behavior settings panel. Then press the left arrow key to make the character walk left in the preview area, demonstrating the adjusted animation.",
+    "keypoints": [
+      "The user clicks on the 'Strength' slider within the 'Walk' behavior settings panel. The slider is moved slightly to the right, increasing the strength value from 80% to 90%, which affects the intensity of the character's movements.",
+      "The user presses the left arrow key on the keyboard while observing the character's movement in the preview area. The character begins walking towards the left side of the screen, demonstrating the walk cycle animation."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify body movement parameters and apply different walking styles to a character?",
+    "answer": "Adjust parameters like stride length and step speed using sliders in the 'Walk Behavior' settings under the 'Triggers' section. Then select a style like 'Sneak' from the 'Style' dropdown menu to alter the walking animation.",
+    "keypoints": [
+      "The user navigates to the 'Walk Behavior' settings under the 'Triggers' section in the 'Properties' panel. Various options such as 'Stride Length,' 'Step Speed,' and 'Arm Swing' are adjusted using sliders. These adjustments influence the character's walking style, stride length, speed, and arm movement.",
+      "The user selects the 'Style' dropdown menu in the 'Walk Behavior' settings and chooses different styles like 'Slump' or 'Sneak.' Each selection alters the character's walking animation accordingly."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable head movement during walking and access advanced rigging controls?",
+    "answer": "Check the 'Head Swing' checkbox in the 'Walk' behavior settings panel to make the head move during walks. Then click the 'Motion Layers' section in the 'Properties' panel to access rigging controls like 'Head Source' and 'Modifiers'.",
+    "keypoints": [
+      "The user selects the 'Head Swing' checkbox within the 'Walk' behavior settings panel. This action enables the head swing effect, causing the character's head to move back and forth as it walks.",
+      "The user clicks on the 'Motion Layers' section within the 'Properties' panel on the right side of the screen. The motion layers for the character are expanded, revealing additional options such as 'Head Source', 'Triggers', and 'Modifiers'."
+    ]
+  }
+]

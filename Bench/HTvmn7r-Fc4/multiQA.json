@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, what are the steps to import an Illustrator file into a project?",
+    "answer": "First, click the 'File' menu in the top-left corner. Then select 'Import' from the dropdown menu. Finally, navigate to and select the desired Illustrator file in the file explorer dialog box.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Import' option from the dropdown menu that appears after clicking 'File'.",
+      "The user navigates to and selects an Illustrator file named 'Shapes' from the file explorer dialog box, which contains multiple layers of circular shapes."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, where does an imported Illustrator file appear and how is it added to the scene?",
+    "answer": "The imported file appears as a new layer in the project panel. To add it to the scene, drag this layer onto the timeline to display its content on the canvas.",
+    "keypoints": [
+      "The selected 'Shapes' file is imported into Adobe Character Animator, appearing as a new layer in the project panel.",
+      "The user drags the 'Shapes' layer onto the timeline within the application, creating a new scene with the shapes displayed on the canvas."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable physics behaviors for a specific shape layer and what is the immediate result?",
+    "answer": "Double-click the layer in the project panel to reveal its properties, expand the 'Tag' section, and enable both 'Dynamic' and 'Collide' options under physics behavior. The shape will immediately begin falling and colliding with other shapes when switching to record mode.",
+    "keypoints": [
+      "The user double-clicks on the 'Shapes' layer in the project panel to reveal its properties, showing that physics behavior is applied by default but not yet activated.",
+      "The user expands the 'Tag' section for one of the shape layers and enables the 'Dynamic' and 'Collide' options under the physics behavior settings.",
+      "Upon enabling these physics behaviors, the selected shape begins to fall and collide with other shapes when the user switches to record mode."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the purpose of refreshing the scene after adjusting physics settings, and what does it demonstrate?",
+    "answer": "Refreshing the scene updates the interactions to reflect adjusted physics parameters, demonstrating that physics behaviors automatically generate realistic movement and collisions without manual animation.",
+    "keypoints": [
+      "The user refreshes the scene to observe the updated interactions between the shapes based on the adjusted physics settings.",
+      "The user demonstrates that no manual animation is required as the physics behavior automatically generates the movement and collision of the shapes."
+    ]
+  }
+]

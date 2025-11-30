@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access and modify the horizontal position of an object after setting the animation timing?",
+    "answer": "After dragging the playhead in the animation timeline to set the timing, locate the 'Position X' slider in the 'Transform' properties panel and drag it to the right to increase the value (e.g., from 0% to 50%).",
+    "keypoints": [
+      "In the animation timeline at the bottom of the screen, the user drags the playhead to adjust the timing of the animation sequence.",
+      "The cursor drags the 'Position X' slider within the 'Transform' properties panel to the right, increasing the displayed value from '0%' to '50%'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to record a precise rotation angle adjustment for a layer?",
+    "answer": "Click the 'Record' button in the top toolbar, then enter the desired value (e.g., '45') into the 'Rotation' input field within the 'Properties' panel to set the exact rotation angle.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located in the top toolbar of the application window.",
+      "The user adjusts the rotation angle for 'Layer 10' using the 'Rotation' input field in the 'Properties' panel.",
+      "The user types '45' into the 'Rotation' input field labeled 'Rotation' within the 'Properties' panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure collision detection and reduce gravity effects for an object?",
+    "answer": "Enable collision by selecting the 'Collision' checkbox in the 'Physics' section of the 'Properties' panel, then drag the 'Gravity Strength' slider leftward to decrease its value (e.g., from 100% to 50%).",
+    "keypoints": [
+      "The user selects the 'Collision' checkbox next to the 'Collision' label within the 'Physics' section of the 'Properties' panel.",
+      "The user drags the 'Gravity Strength' slider within the 'Physics' properties panel to the left, decreasing the displayed value from '100%' to '50%'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the complete process to initiate an animation preview after adjusting object properties?",
+    "answer": "After modifying properties like rotation or physics, click the 'Play' button in the bottom center of the animation timeline to preview the animation sequence.",
+    "keypoints": [
+      "The user adjusts the rotation angle for 'Layer 10' using the 'Rotation' input field in the 'Properties' panel.",
+      "The user types '45' into the 'Rotation' input field labeled 'Rotation' within the 'Properties' panel.",
+      "The user clicks on the 'Play' button located in the bottom center of the animation timeline to preview the animation."
+    ]
+  }
+]

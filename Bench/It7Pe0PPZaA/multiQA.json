@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In the video editing software, what are the first two steps to initiate a file export?",
+    "answer": "First, click the 'File' menu in the top-left corner, then select the 'Export' option (the fourth item in the dropdown menu).",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Export' option from the dropdown menu, which is the fourth item listed under the 'File' menu."
+    ]
+  },
+  {
+    "question": "In Windows, how do you restore a deleted video file from the Recycle Bin and verify its location?",
+    "answer": "Navigate to the Recycle Bin via the left sidebar icon, right-click the file, select 'Restore', and it will reappear in its original folder.",
+    "keypoints": [
+      "The user navigates to the 'Recycle Bin' through the file explorer by clicking on the 'Recycle Bin' icon located on the left sidebar.",
+      "Within the 'Recycle Bin', the user right-clicks on the file named 'San Francisco Townhouses.mp4' and selects the 'Restore' option from the context menu.",
+      "The restored file reappears in the original folder location as indicated by the file explorer window."
+    ]
+  },
+  {
+    "question": "In the video editing software, what keyboard shortcuts set the in-point and out-point during timeline editing?",
+    "answer": "Press 'i' to set an in-point and 'o' to set an out-point at the current timeline position.",
+    "keypoints": [
+      "The user presses the 'i' key on the keyboard to set an in-point at the current timeline position.",
+      "The user presses the 'o' key on the keyboard to set an out-point at the current timeline position."
+    ]
+  },
+  {
+    "question": "In the video editing software, what steps finalize a new editing segment and start exporting?",
+    "answer": "Click the '+' button to add the segment, then click the 'Export' button in the bottom-right corner to begin export.",
+    "keypoints": [
+      "The user clicks on the '+' button located in the toolbar to add a new segment for editing.",
+      "The user clicks on the 'Export' button located in the bottom-right corner of the interface to initiate the export process."
+    ]
+  }
+]

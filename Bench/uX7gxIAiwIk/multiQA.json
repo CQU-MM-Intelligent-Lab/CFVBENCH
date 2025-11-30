@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In Kite Animation Software, how do you import a kite file named 'Kite.ai' and create a new scene for it?",
+    "answer": "First, click the 'File' menu in the top-left corner and select the 'Import' option. Then, navigate to and select the 'Kite.ai' file in the file explorer. After it appears as 'Kites' in the project panel, right-click it and select 'New Scene for \"Kites\"' to create a scene with the kite displayed centrally.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window",
+      "The user selects the 'Import' option from the dropdown menu, which is the third item listed",
+      "A file explorer window opens, and the user navigates to select a kite file named 'Kite.ai'",
+      "The selected kite file appears in the project panel under the name 'Kites'",
+      "The user right-clicks on the 'Kites' entry in the project panel and selects 'New Scene for \"Kites\"' from the context menu",
+      "A new scene titled 'Kites' is created, displaying the imported kite graphic in the center of the canvas"
+    ]
+  },
+  {
+    "question": "In Kite Animation Software, what happens when you set gravity strength to -5% in the Physics tab after scaling the kite to 150%?",
+    "answer": "After scaling the kite to 150% via the properties panel (which visibly enlarges it), setting gravity to -5% in the Physics tab inverts gravity direction, causing the kite to float upwards on the canvas.",
+    "keypoints": [
+      "The user adjusts the scale of the kite by selecting the 'Scale' option in the properties panel and setting it to 150%",
+      "The kite's size increases visibly on the canvas as the scale is adjusted",
+      "The user selects the 'Physics' tab within the properties panel and sets the gravity strength to -5%",
+      "The kite begins to float upwards on the canvas as the gravity direction is inverted"
+    ]
+  },
+  {
+    "question": "In Kite Animation Software, how do you adjust wind physics and observe the kite's movement?",
+    "answer": "Set wind strength to 5 in the physics panel to enhance movement dynamics (subtly altering trajectory), then drag the timeline slider to observe the kite's smooth, natural floating motion across the canvas.",
+    "keypoints": [
+      "The user fine-tunes the wind strength setting in the physics panel to 5, enhancing the kite's movement dynamics",
+      "The kite's trajectory changes subtly, reflecting the increased wind influence",
+      "The user drags the timeline slider to observe the kite's floating animation over time",
+      "The kite moves smoothly across the canvas, simulating a natural floating motion"
+    ]
+  },
+  {
+    "question": "In Kite Animation Software, how do you save and exit after finalizing kite animations?",
+    "answer": "Click the 'Save' button at the top-right corner (triggering a success confirmation dialog), then click the 'Close' button in the same area to exit the application.",
+    "keypoints": [
+      "The user saves the project by clicking the 'Save' button located at the top-right corner of the application window",
+      "A confirmation dialog appears, indicating that the project has been successfully saved",
+      "The user exits the application by clicking the 'Close' button in the top-right corner of the window",
+      "The application closes, completing the tutorial session"
+    ]
+  },
+  {
+    "question": "In Kite Animation Software, how do you adjust a kite's dynamics using puppet properties after importing?",
+    "answer": "After importing a kite file and creating a scene, open the 'Puppet' tab, set 'Dangle' stiffness to 100% (activating dynamic movement), then adjust physics gravity to 12% to alter floating behavior.",
+    "keypoints": [
+      "The user creates a new scene by clicking on the 'Scene' tab within the project panel and selecting the newly imported kite file",
+      "The user opens the kite's puppet properties by clicking on the 'Puppet' tab in the right-side panel",
+      "The user clicks on the 'Dangle' option within the puppet properties and sets the stiffness value to 100% using the slider control",
+      "The user accesses the 'Physics' settings under the puppet properties and adjusts the gravity strength to 12%"
+    ]
+  },
+  {
+    "question": "In Kite Animation Software, how do you achieve balanced kite floating using gravity and dangle settings?",
+    "answer": "Set gravity to 8 for balanced floating (after testing values like 20), then adjust dangle squashiness/dampness parameters to refine dynamic responses to movement and forces.",
+    "keypoints": [
+      "The user experiments with different gravity values, such as setting it to 20, which pulls the kite further outwards. Adjusting the gravity to around 8 results in a balanced floating effect",
+      "The user tweaks the dangle effect settings, adjusting squashiness and dampness parameters to modify the kite's dynamic behavior"
+    ]
+  }
+]

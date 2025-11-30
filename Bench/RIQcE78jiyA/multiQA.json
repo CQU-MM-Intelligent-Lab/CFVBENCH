@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Wix, what are the initial steps to add and configure a testimonial section with a three-item layout?",
+    "answer": "First, click the 'Add' button at the top of the editor. Then, select the 'Testimonials' section from the left sidebar and drag it into the main editing area. Finally, choose a layout featuring three testimonials with images and descriptions from the displayed options.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located at the top of the Wix website editor interface.",
+      "From the left sidebar, the user selects the 'Testimonials' section option and drags it into the main editing area.",
+      "The screen displays various testimonial layout options; the user chooses a layout featuring three testimonials with images and descriptions."
+    ]
+  },
+  {
+    "question": "In Wix, how do you customize a testimonial section by editing its header, modifying a testimonial entry, and updating its image?",
+    "answer": "Edit the header title to your desired text in the testimonial section settings panel on the left. Then, modify a testimonial's description text within the list items section. Finally, update the associated image by clicking the 'Edit & Replace' button next to the placeholder image.",
+    "keypoints": [
+      "The user edits the header title to \"Experiences\" in the testimonial section settings panel on the left side.",
+      "The user changes the item description text for one of the testimonials to \"Robert Bert\" within the list items section.",
+      "The testimonial image for Robert Bert is updated by clicking the 'Edit & Replace' button next to his placeholder image."
+    ]
+  },
+  {
+    "question": "In Wix, what actions transform the testimonial section into a single-scrolling format and add supplementary information?",
+    "answer": "Select a new single-scrolling testimonial layout with a circular picture frame from the section design options. Then, add a footer paragraph under the testimonial section by typing your desired explanatory text.",
+    "keypoints": [
+      "A new testimonial layout is selected from the section design options, changing the display format to a single scrolling testimonial with a circular picture frame.",
+      "The user adds a footer paragraph under the testimonial section, typing additional information about customer feedback."
+    ]
+  },
+  {
+    "question": "In Wix, where can you find the controls to change the layout design of an existing testimonial section?",
+    "answer": "Access layout customization options by clicking the 'Design' tab in the top menu while the testimonial section is selected.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab in the top menu to explore more layout customization options for the testimonial section."
+    ]
+  }
+]

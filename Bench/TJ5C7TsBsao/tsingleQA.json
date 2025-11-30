@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What category was Hurricane Katrina when it struck the Gulf Coast in August 2005?",
+    "answer": "Category 3.",
+    "keypoints": [
+      "Hurricane Katrina struck the Gulf Coast in late August 2005 as a Category 3 hurricane."
+    ]
+  },
+  {
+    "question": "What caused the levees in New Orleans to break before Hurricane Katrina made landfall?",
+    "answer": "Storm surge.",
+    "keypoints": [
+      "Storm surge caused the levees in New Orleans to break before Katrina made landfall, resulting in catastrophic flooding."
+    ]
+  },
+  {
+    "question": "What was the primary cause of fatalities during Hurricane Katrina?",
+    "answer": "Storm surge.",
+    "keypoints": [
+      "Storm surge was the primary cause of fatalities during Hurricane Katrina and can be the most dangerous aspect of any hurricane."
+    ]
+  },
+  {
+    "question": "How does a storm surge form?",
+    "answer": "Hurricane winds push ocean water ashore, creating a destructive bulge that floods coastal regions.",
+    "keypoints": [
+      "Storm surge forms when hurricane winds push ocean water ashore, creating a destructive bulge that floods coastal regions."
+    ]
+  },
+  {
+    "question": "What storm surge height did Hurricane Camille generate in 1969?",
+    "answer": "About 22 feet.",
+    "keypoints": [
+      "Hurricane Camille in 1969, a Category 5 hurricane with 190 mph winds, generated a storm surge of about 22 feet."
+    ]
+  },
+  {
+    "question": "What impact did Hurricane Ike's 2008 storm surge have in Galveston, Texas?",
+    "answer": "It blocked evacuation routes and stranded hundreds of people.",
+    "keypoints": [
+      "Hurricane Ike in 2008 caused a major storm surge around Galveston, Texas, that blocked evacuation routes and stranded hundreds of people."
+    ]
+  },
+  {
+    "question": "What type of warnings did the National Hurricane Center issue for Hurricane Irma's storm surge?",
+    "answer": "Dire warnings.",
+    "keypoints": [
+      "The National Hurricane Center issued dire warnings for the storm surge accompanying Hurricane Irma."
+    ]
+  },
+  {
+    "question": "How does global warming affect storm surge risks?",
+    "answer": "Rising sea levels elevate the risk of more severe storm surges.",
+    "keypoints": [
+      "Rising sea levels due to global warming elevate the risk of more severe storm surges."
+    ]
+  },
+  {
+    "question": "Which U.S. coastlines are among the most vulnerable globally to storm surges?",
+    "answer": "The eastern and southeastern coastlines.",
+    "keypoints": [
+      "The U.S. eastern and southeastern coastlines rank among the most vulnerable areas globally for storm surges."
+    ]
+  },
+  {
+    "question": "Why do Northwest Florida and Georgia face high storm surge risks?",
+    "answer": "Because shallow waters enable faster and more extensive inland flooding.",
+    "keypoints": [
+      "Coastal regions like Northwest Florida and Georgia face high storm surge risks because shallow waters enable faster and more extensive inland flooding."
+    ]
+  }
+]

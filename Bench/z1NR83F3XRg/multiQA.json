@@ -1,0 +1,78 @@
+[
+  {
+    "question": "In Wix, what are the steps to add a welcome section to a page?",
+    "answer": "First, click the 'Add' button in the top menu bar. Then select 'Section' from the dropdown menu. In the 'ADD SECTION' panel on the left, scroll through section templates and select a welcome section. Finally, drag the selected template to the main editing area on the right.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Section' option is selected by a mouse click.",
+      "In the 'ADD SECTION' panel on the left side of the screen, the user scrolls through various section templates and selects a welcome section template.",
+      "The selected welcome section template is dragged from the left panel to the main editing area on the right side of the screen."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify both the title and subtitle of a newly added section?",
+    "answer": "Click the title text in the section to highlight it, then edit using your keyboard. Next, click the subtitle text below the title and modify it similarly with your keyboard.",
+    "keypoints": [
+      "The user clicks on the title text 'TUTOR TUBE' within the newly added section.",
+      "The cursor highlights the text 'TUTOR TUBE' and changes it to 'TUTORTUBE' using the keyboard.",
+      "The user clicks on the subtitle text 'My Skills & Experience' below the title.",
+      "The cursor highlights the subtitle text and modifies it using the keyboard."
+    ]
+  },
+  {
+    "question": "In Wix, what is the process to replace a section's background image?",
+    "answer": "Click the 'Edit & Replace' button under the media section on the left. In the image selection dialog that appears, choose a new image from recommended options and click 'Apply' to set it as the background.",
+    "keypoints": [
+      "The user clicks on the 'Edit & Replace' button located under the media section on the left side of the screen.",
+      "A new image selection dialog opens, allowing the user to choose a different image for the section.",
+      "The user selects a new image from the recommended options and clicks 'Apply' to set it as the background image."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add and link a button to an internal page?",
+    "answer": "Click 'Add Button' under the 'BUTTONS' section in the left sidebar to place a button at the section bottom. Then click the button's 'Link' option, select 'Page' in the configuration dialog, and choose a destination page from the site's navigation structure.",
+    "keypoints": [
+      "The user clicks on the 'Add Button' option in the left sidebar under the 'BUTTONS' section.",
+      "A new button labeled 'Learn More' is added to the bottom of the section.",
+      "The user clicks on the 'Link' option associated with the 'Learn More' button.",
+      "A link configuration dialog appears, where the user can specify the destination URL or page for the button.",
+      "The user selects the 'Page' option from the link configuration dialog and chooses a specific page from the site's navigation structure."
+    ]
+  },
+  {
+    "question": "In Wix, how do you configure a button to link to an external website?",
+    "answer": "Click the 'Link' option in the button settings panel on the left. In the 'Link To' dialog, select the 'Web Address' radio button, enter the URL (e.g., 'www.youtube.com'), and click 'Done' to confirm.",
+    "keypoints": [
+      "The user clicks on the 'Link' option in the button settings panel, which is located on the left side of the screen.",
+      "Within the 'Link To' dialog box, the user selects the 'Web Address' radio button and types 'www.youtube.com' into the provided text field.",
+      "After entering the URL, the user clicks the 'Done' button to confirm the link setting."
+    ]
+  },
+  {
+    "question": "In Wix, what steps change the layout of an existing section?",
+    "answer": "Click the 'Design' tab at the top interface. Scroll through section designs in the main area using arrows or mouse wheel, then select a new layout from recommended options in the left sidebar to apply it.",
+    "keypoints": [
+      "The user then clicks on the 'Design' tab at the top of the interface to switch from editing mode to design mode.",
+      "In the main content area, the user scrolls through various section designs by clicking on the arrows or using the mouse wheel.",
+      "The user selects a new section layout from the recommended options displayed on the left sidebar.",
+      "The selected section layout is applied to the current page, updating the visual appearance of the website."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add a new blank page to the site structure?",
+    "answer": "Navigate to the 'Manage Pages' menu on the left sidebar. Select the 'Blank Page' option from this menu to add it to your site's page list.",
+    "keypoints": [
+      "The user navigates to the 'Manage Pages' menu on the left sidebar to organize the site's pages.",
+      "From the 'Manage Pages' menu, the user selects the 'Blank Page' option to add a new blank page to the site."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after publishing the website?",
+    "answer": "After clicking the 'Publish' button at the top right corner, click the 'View Site' button to see the live version with all updated content and design changes.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button located at the top right corner of the screen to publish the website.",
+      "After publishing, the user views the live version of the website by clicking the 'View Site' button.",
+      "The live website displays the updated content and design changes made during the editing process."
+    ]
+  }
+]

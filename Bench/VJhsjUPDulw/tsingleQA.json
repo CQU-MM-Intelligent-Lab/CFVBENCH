@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What was the standard deduction amount for single individuals in the U.S. federal income tax system for 2019?",
+    "answer": "The standard deduction allowed single individuals to exclude $12,000 of income from taxation in 2019.",
+    "keypoints": [
+      "The U.S. federal income tax system includes a standard deduction allowing single individuals to exclude $12,000 of income from taxation in 2019."
+    ]
+  },
+  {
+    "question": "What types of expenses may qualify for additional deductions beyond the standard deduction in the U.S. federal tax system?",
+    "answer": "Significant medical expenses or charitable donations may qualify for additional deductions.",
+    "keypoints": [
+      "Additional deductions may be available for significant medical expenses or charitable donations."
+    ]
+  },
+  {
+    "question": "How is taxable income calculated after deductions under the U.S. federal progressive tax system?",
+    "answer": "Taxable income is taxed progressively by applying marginal rates to specific income ranges rather than the entire income amount.",
+    "keypoints": [
+      "Taxable income after deductions is taxed progressively using marginal rates applied to specific income ranges, not the entire income."
+    ]
+  },
+  {
+    "question": "At what rate is the first $9,700 of taxable income taxed in the U.S. federal tax system?",
+    "answer": "The first $9,700 of taxable income is taxed at a 10% rate.",
+    "keypoints": [
+      "The first $9,700 of taxable income is taxed at a 10% rate."
+    ]
+  },
+  {
+    "question": "What tax rate applies to U.S. taxable income above $9,700 within the next bracket?",
+    "answer": "Income above $9,700 within the next specified range is taxed at a 12% rate.",
+    "keypoints": [
+      "Income above $9,700 and within the next specified range is taxed at a 12% rate."
+    ]
+  },
+  {
+    "question": "What tax rate applies to income in the subsequent bracket after the 12% range in the U.S. tax system?",
+    "answer": "Income within the subsequent specified range is taxed at a 22% rate.",
+    "keypoints": [
+      "Income within a subsequent specified range is taxed at a 22% rate."
+    ]
+  },
+  {
+    "question": "How does a salary raise affect taxation under a marginal tax system?",
+    "answer": "A raise increases only the portion of income that falls into the highest applicable marginal tax bracket or the next higher bracket if it exceeds the current bracket's limit.",
+    "keypoints": [
+      "A raise increases only the portion of income falling into the highest applicable marginal tax bracket or the next higher bracket if it exceeds the current bracket's limit."
+    ]
+  },
+  {
+    "question": "Which income segment is affected when politicians propose increasing the top marginal tax rate?",
+    "answer": "Proposed increases to the top marginal tax rate apply only to the highest income bracket, not lower brackets.",
+    "keypoints": [
+      "Politicians proposing increases to the top marginal tax rate are referring to the rate applied only to the highest income bracket, not lower brackets."
+    ]
+  },
+  {
+    "question": "What is the tax system called where rates apply progressively to specific income ranges?",
+    "answer": "This taxation approach is known as marginal tax rates.",
+    "keypoints": [
+      "The concept described is known as marginal tax rates."
+    ]
+  },
+  {
+    "question": "Why is the claim that the government wants to 'take away 70% of your income' misleading under marginal taxation?",
+    "answer": "The claim is misleading because marginal tax rates apply only to income within specific brackets, not to an individual's entire income.",
+    "keypoints": [
+      "The text states that some politicians claim the government wants to 'take away 70% of your income,' which the author implies is misleading in the context of marginal tax systems."
+    ]
+  }
+]

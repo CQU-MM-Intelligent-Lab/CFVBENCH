@@ -1,0 +1,87 @@
+[
+  {
+    "question": "In WixADIAI, what are the initial steps to create a new account starting from the sign-up screen?",
+    "answer": "First, click the blue oval 'Sign Up' button in the center of the screen. Then enter your email in the rectangular 'Email' input box and your password in the rectangular 'Password' input box.",
+    "keypoints": [
+      "The user clicks on the 'Sign Up' button located in the center of the screen, which is a blue oval with white text.",
+      "The user types 'tutorutube@outlook.com' into the email field labeled 'Email', which is a rectangular input box with placeholder text.",
+      "The user types '**********' into the password field labeled 'Password', which is another rectangular input box with placeholder text."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you indicate your experience level and proceed to the template selection phase?",
+    "answer": "Select 'never done this before.' from the dropdown menu below the 'I want to create a site for myself' field, click the blue oval 'Start Now' button at the bottom left, then click the blue oval 'Let's Do It' button in the center.",
+    "keypoints": [
+      "The user selects the option 'never done this before.' from the dropdown menu below the text field labeled 'I want to create a site for myself. It should be other site and I've'.",
+      "The user clicks on the 'Start Now' button located at the bottom left of the screen, which is a blue oval with white text.",
+      "The user clicks on the 'Let's Do It' button located in the center of the screen, which is a blue oval with white text."
+    ]
+  },
+  {
+    "question": "In WixADIAI, what steps bypass introductory options and initiate template selection?",
+    "answer": "Click the gray 'Skip' link at the bottom right corner, then select the blue 'Choose a Template' link on the right side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'Skip' link located at the bottom right corner of the screen, which is a small gray text.",
+      "The user clicks on the 'Choose a Template' link located on the right side of the screen, which is a blue text."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you specify a portfolio site type and proceed to feature selection?",
+    "answer": "Click the 'What type of site do you want to create?' field in the center, type 'portfolio' to trigger options, select 'Portfolio' from the dropdown, then click the 'Next' button at the bottom right.",
+    "keypoints": [
+      "The user clicks on the 'What type of site do you want to create?' text field located in the center of the screen.",
+      "The user types 'portfolio' into the text field, which triggers a dropdown menu with various portfolio-related options.",
+      "The user selects 'Portfolio' from the dropdown list by clicking on it.",
+      "The user clicks on the 'Next' button located at the bottom right corner of the screen after selecting the portfolio option."
+    ]
+  },
+  {
+    "question": "In WixADIAI, what steps add specific features like a blog and online store before finalizing?",
+    "answer": "Check the boxes for 'Blog', 'Online Store', and 'Bookings' in the feature selection screen, then click the 'Next' button at the bottom right corner.",
+    "keypoints": [
+      "A new screen appears asking \"What do you need on your new website?\" with various checkboxes for features like Blog, Online Store, and Bookings.",
+      "The user scrolls through the list of features and checks the boxes next to 'Blog', 'Online Store', and 'Bookings'.",
+      "After selecting the desired features, the user clicks on the 'Next' button at the bottom right corner of the screen."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you enter and confirm personal details before theme selection?",
+    "answer": "Type your full name (e.g., 'Tutor Tube') in the 'What is your full name?' field, click 'Next', enter a source for content import (e.g., 'youtube.com/tutortube'), check the image review box, click 'Import', then confirm details in the 'Review and edit your info' section before clicking 'Next'.",
+    "keypoints": [
+      "The user is prompted to enter their full name in the text field labeled 'What is your full name?'.",
+      "The user types 'Tutor Tube' into the text field.",
+      "The user clicks on the 'Next' button at the bottom right corner of the screen.",
+      "The user is asked if they want to import images and text from an existing website or Google Places.",
+      "The user enters 'youtube.com/tutortube' into the text field provided.",
+      "The user clicks on the checkbox to review available images and then clicks on the 'Import' button at the bottom right corner of the screen.",
+      "The user reviews and edits their information in the section labeled 'Review and edit your info'.",
+      "The user confirms their name as 'Tutor Tube' and email address as 'tutortube@outlook.com'.",
+      "The user clicks on the 'Next' button at the bottom right corner of the screen."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you finalize website creation after selecting a theme and template?",
+    "answer": "Select a theme like 'CLEAN', click 'Continue', choose a homepage template, then wait for the system to load features. After previewing sections via the navigation bar, click the 'Publish' button in the top-right corner.",
+    "keypoints": [
+      "The user selects a theme for their website by clicking on the 'CLEAN' theme option displayed on the screen.",
+      "The user clicks on the 'Continue' button at the bottom right corner of the screen after selecting the theme.",
+      "The user picks their favorite homepage design from a selection of templates shown on the screen.",
+      "The user clicks on one of the template designs that best suits their preferences.",
+      "The user waits while the system loads their selected features and adds pages to their website.",
+      "Once the loading process is complete, the user is presented with a preview of their newly created website.",
+      "The user navigates through the different sections of the website using the navigation bar at the top of the page.",
+      "The user clicks on the 'Publish' button located in the top-right corner of the Wix website editor interface."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you add branding elements like a title and image after publishing?",
+    "answer": "Click the 'Add' dropdown in the top toolbar, type text (e.g., 'TUTOR TUBE') into the title field for bold centered text, then drag an image from the media library and position it below the heading.",
+    "keypoints": [
+      "The user clicks on the 'Add' dropdown menu located in the top toolbar of the Wix editor.",
+      "The user types 'TUTOR TUBE' into the designated title field within the editing area.",
+      "The text appears in bold, centered alignment at the top of the webpage.",
+      "The user drags an image element from the media library onto the editing canvas.",
+      "The image, featuring a desk setup with sticky notes and a glass bowl, is resized and positioned beneath the main heading."
+    ]
+  }
+]

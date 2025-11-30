@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How is the urban delivery timeline structured, and what environmental significance does the last mile phase hold?",
+    "answer": "The urban delivery timeline consists of Phase 1, which includes factory, hub, freight warehouse stages, and Phase 2 covering the last mile delivery to the customer. The last mile phase accounts for 30-50% of a package's total carbon footprint.",
+    "keypoints": {
+      "video": [
+        "The urban delivery timeline is divided into phases: Phase 1 includes factory, hub, freight, and warehouse stages, while Phase 2 covers the last mile involving delivery to the customer."
+      ],
+      "text": [
+        "The 'last mile' delivery phase accounts for 30-50% of a package's total carbon footprint."
+      ]
+    }
+  },
+  {
+    "question": "How do cargo bikes and vans compare in total distance covered and CO2 emissions in London, and what broader environmental implication does this have for last mile delivery?",
+    "answer": "Cargo bikes covered 16,450 km with 372 kg of CO2 emissions, while vans covered 17,400 km with 4,268 kg of CO2 emissions. This demonstrates cargo bikes' potential to significantly reduce emissions in the last mile phase, which accounts for 30-50% of a package's carbon footprint.",
+    "keypoints": {
+      "video": [
+        "Cargo bikes covered a total distance of 16,450 km in London, while vans covered 17,400 km.",
+        "The total CO2 emissions for cargo bikes were 372 kg compared to 4268 kg for vans."
+      ],
+      "text": [
+        "The 'last mile' delivery phase accounts for 30-50% of a package's total carbon footprint."
+      ]
+    }
+  }
+]

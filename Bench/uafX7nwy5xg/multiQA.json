@@ -1,0 +1,60 @@
+[
+  {
+    "question": "In Wix, how do you add an 'Event List' section with the 'Upcoming Events' layout to a webpage?",
+    "answer": "First, click the 'Add' menu in the top navigation bar and select 'Section'. Then, in the left sidebar under 'SECTION DESIGN', find the 'Event List' template and click the 'Upcoming Events' layout to add it.",
+    "keypoints": [
+      "The user clicks on the 'Add' menu item located in the top navigation bar of the Wix editor interface.",
+      "From the dropdown menu, the user selects the 'Section' option by clicking on it.",
+      "On the left sidebar under 'SECTION DESIGN', the user scrolls down and finds the 'Event List' section template.",
+      "The user clicks on the 'Upcoming Events' layout within the 'Event List' section to add it to the webpage."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after selecting a text-only layout for an event list section?",
+    "answer": "After selecting a text-only layout from the left sidebar design options, the event list updates to display events in a vertical list format with text descriptions and RSVP buttons.",
+    "keypoints": [
+      "The user selects a new layout from the left sidebar that changes the display format of the event list from images with text overlays to a list format with text only.",
+      "After applying the new layout, the event list updates to show the events as a vertical list with text descriptions and RSVP buttons."
+    ]
+  },
+  {
+    "question": "In Wix, how do you edit an existing event to change its name, set it as online, and add an image?",
+    "answer": "Click the 'Edit' icon next to the event, change the name in the settings, select the 'Online' option for location, and click the image placeholder to choose an image from the site files. Save to update the event list.",
+    "keypoints": [
+      "The user clicks on the 'Edit' icon next to one of the events to open its settings.",
+      "Within the event settings, the user changes the event name to 'Second Different' and sets it as an online event.",
+      "The user also adds a picture to the event by clicking on the image placeholder and selecting an image from the site files.",
+      "After saving the changes, the updated event list is displayed with the new event name and image."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add a new 'Events' section using drag-and-drop?",
+    "answer": "After clicking 'Add' > 'Section', scroll to the bottom left corner, select the 'Events' section from available options, then drag and drop it onto the main editing area.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix editor interface.",
+      "From the dropdown menu, the 'Section' option is selected by a mouse click.",
+      "The user scrolls down to the bottom left corner of the screen and selects the 'Events' section from the list of available sections.",
+      "The 'Events' section is dragged and dropped onto the main editing area, integrating it into the webpage design."
+    ]
+  },
+  {
+    "question": "In Wix, what fields must be completed when creating a new event through the '+ Add Event' button?",
+    "answer": "Complete the 'Event Name' field, set 'Date and Time', and choose a location type (like 'Online' via radio button) before clicking 'Create Event'.",
+    "keypoints": [
+      "A form appears prompting the user to enter details for the new event such as 'Event Name', 'Date and Time', and 'Location'.",
+      "The user types '2nd Event' into the 'Event Name' field.",
+      "The user selects the 'Online' radio button under the 'Location' section.",
+      "The user clicks on the 'Create Event' button at the bottom of the form."
+    ]
+  },
+  {
+    "question": "In Wix, how do you change the visual layout of an events section after adding it?",
+    "answer": "Click the 'Design' tab in the left sidebar, then select a new layout template from the available options to instantly update the section's visual presentation.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab in the left sidebar of the Wix editor.",
+      "The design options for the events section become visible, allowing customization of the layout and appearance.",
+      "The user selects a different layout design for the events section from the available templates.",
+      "The webpage layout updates to reflect the new design choice, altering the visual presentation of the events list."
+    ]
+  }
+]

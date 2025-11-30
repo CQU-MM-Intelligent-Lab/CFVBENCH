@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Wix, what are the initial steps to add a Past Events section to a website and select its design?",
+    "answer": "First, click the 'Add' button at the top of the editor. Then, select 'Past Events' from the left-side menu (highlighted in blue). Finally, choose a design from the displayed list by clicking on it, such as the first design option.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located at the top of the Wix website editor interface.",
+      "The user selects the 'Past Events' section from the left-side menu, which is highlighted in blue.",
+      "The screen displays a list of possible designs for the past events section, and the user chooses the first design option by clicking on it."
+    ]
+  },
+  {
+    "question": "In Wix, after adding a Past Events section, how do you customize its header, subtitle, and update an event date?",
+    "answer": "Edit the header title to your desired text (e.g., 'Past Events') and the subtitle (e.g., 'Looking Back'). Then, update the date for any past event to the desired date (e.g., 'January 12, 2018'), which will reflect immediately on the screen.",
+    "keypoints": [
+      "The selected past event section appears on the main editing area with placeholders for past events.",
+      "The user edits the header title to 'Past Events' and the subtitle to 'Looking Back.'",
+      "The user updates the date for one of the past events to 'January 12, 2018,' which reflects immediately on the screen."
+    ]
+  }
+]

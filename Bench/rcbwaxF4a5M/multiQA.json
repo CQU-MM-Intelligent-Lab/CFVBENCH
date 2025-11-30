@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In the video editing application, what happens when you click the 'one frame forward' button after setting the timeline to display frame numbers?",
+    "answer": "The frame number increments (e.g., from 26.12 to 27.00), allowing precise navigation through the video frames while the updated frame number is displayed.",
+    "keypoints": [
+      "The screen displays the timeline with frame numbers instead of milliseconds, showing values like 26.12 as the user navigates through the video frames.",
+      "The user clicks on the 'one frame forward' button at the bottom of the screen, and the frame number increments from 26.12 to 27.00, indicating progression through the video's frames."
+    ]
+  },
+  {
+    "question": "In the video editing application, what is the final outcome after saving the project with the exported segment?",
+    "answer": "The exported video segment displays a clear cityscape view, confirming successful editing, followed by the YouTube logo indicating process completion.",
+    "keypoints": [
+      "The user clicks on the 'File' menu again, this time selecting the 'Save project' option to store the current project settings and timeline configurations.",
+      "The screen shows the final exported video segment with a clear view of the cityscape and buildings, confirming the successful completion of the editing process.",
+      "The YouTube logo appears on the screen, indicating the end of the tutorial video."
+    ]
+  }
+]

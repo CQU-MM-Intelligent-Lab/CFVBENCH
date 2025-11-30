@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In LosslessCut, what is displayed on the screen immediately after launching the application from the desktop icon?",
+    "answer": "After launching, the LosslessCut window appears with a black screen displaying 'DROP FILE(S)' and instructions to press '?' for help or use cutpoints.",
+    "keypoints": [
+      "The user clicks on the 'LosslessCut' application icon located on the desktop, launching the software.",
+      "The LosslessCut window appears with a black screen displaying 'DROP FILE(S)' and instructions to press '?' for help or use cutpoints."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what functions are accessible through the bottom navigation area and bottom-right corner?",
+    "answer": "The bottom navigation area includes play, pause, and marker settings, while the bottom right-hand corner provides delete and export options.",
+    "keypoints": [
+      "The user highlights the navigation options at the bottom of the screen, including play, pause, and marker settings.",
+      "The user points out the delete and export options located on the bottom right-hand side of the screen."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what is the purpose of the central interface area and how is it identified?",
+    "answer": "The central area is designated for video display, demonstrated by the mouse cursor moving around this region to show where videos appear once loaded.",
+    "keypoints": [
+      "The user navigates back to the main interface, focusing on the central area designated for video display.",
+      "The mouse cursor is moved around the central area, demonstrating where videos will be displayed once loaded."
+    ]
+  }
+]

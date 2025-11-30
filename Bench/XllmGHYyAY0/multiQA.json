@@ -1,0 +1,55 @@
+[
+  {
+    "question": "In Wix, how do you start setting up a product gallery and choose its initial layout?",
+    "answer": "First, click the 'Product Gallery' option in the left sidebar. Then, select a layout template from the gallery section that displays product images and descriptions in a grid format.",
+    "keypoints": [
+      "The user clicks on the 'Product Gallery' option located in the left sidebar of the Wix editor interface.",
+      "The user selects a layout template from the gallery section, which is displayed as a grid of product images and descriptions."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to create a new digital product after accessing the product management dashboard?",
+    "answer": "Click the 'New Product' button in the product management dashboard to initiate creation. Then upload an image file using the 'Upload File' button, enter the product name in the 'Name' field under 'Basic Info', set the price in the 'Price' input field, and finally click the 'Save' button at the top-right corner.",
+    "keypoints": [
+      "The user clicks on the 'New Product' button in the product management dashboard, initiating the creation of a new digital product.",
+      "The user uploads an image file named 'IMG_0156.JPG' by selecting it from the file explorer window that appears after clicking the 'Upload File' button.",
+      "The user enters 'Rizer Photograph' into the 'Name' text field under the 'Basic Info' section for the new product.",
+      "The user types '20' into the 'Price' input field, setting the price for the product.",
+      "The user clicks on the 'Save' button at the top-right corner of the product editing screen to save the newly created product details."
+    ]
+  },
+  {
+    "question": "In Wix, how do you upload and assign an image to a product using the media dialog?",
+    "answer": "Click the 'Choose Images' button in the top-left corner to open the media upload dialog. Select an image file via the 'Upload from Computer' option, then choose the uploaded image from the 'Digital Goods Files' section.",
+    "keypoints": [
+      "The user clicks on the 'Choose Images' button located in the top-left corner of the application window, opening a media upload dialog.",
+      "The user selects an image file named 'IMG_0156.JPG' from their computer using the 'Upload from Computer' option within the media upload dialog.",
+      "The uploaded image appears in the 'Digital Goods Files' section, and the user selects it for further actions."
+    ]
+  },
+  {
+    "question": "In Wix, what is the process for adding a new item to your product list and preparing it for publication?",
+    "answer": "Navigate to the 'Products' section via the left sidebar menu. Create a new product by specifying its title and price to add it to the list, then select it from the product list to highlight it for editing or publishing.",
+    "keypoints": [
+      "The user navigates to the 'Products' section by clicking on the 'Products' menu item in the left sidebar.",
+      "The user creates a new product titled 'Rizer Photograph' with a price of Rs20.00 and adds it to the product list.",
+      "The user selects the newly created product 'Rizer Photograph' from the product list, highlighting it for editing or viewing."
+    ]
+  },
+  {
+    "question": "In Wix, how do you publish website changes and verify the product display?",
+    "answer": "Click the 'Publish' button at the top-right corner to make changes live. Then view the published product page to confirm it displays the product with its image, price, and description correctly.",
+    "keypoints": [
+      "The user clicks on the 'Publish' button at the top-right corner of the screen to publish the changes made to the website.",
+      "The user views the published product page, which displays the 'Rizer Photograph' product with its image, price, and description."
+    ]
+  },
+  {
+    "question": "In Wix, how do you modify the product gallery layout to showcase multiple items?",
+    "answer": "Scroll through layout options in the design panel and select a grid-based template. Finalize the selection to update the webpage with the new gallery arrangement.",
+    "keypoints": [
+      "The user scrolls through the product gallery layout options in the design panel, selecting a layout that showcases multiple products in a grid format.",
+      "The user finalizes the selection of the chosen product gallery layout, updating the webpage to display the selected layout style."
+    ]
+  }
+]

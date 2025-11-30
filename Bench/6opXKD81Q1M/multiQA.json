@@ -1,0 +1,59 @@
+[
+  {
+    "question": "In Wix, how do you change the header title of an Experience section from 'Past Experience' to 'Experiences Till Now'?",
+    "answer": "Select the 'Edit' option from the toolbar above the Experience section, then type 'Experiences Till Now' into the 'Header Title' field in the settings panel. This replaces the header text on the webpage.",
+    "keypoints": [
+      "The user selects the 'Edit' option from the toolbar above the newly added 'Experience' section.",
+      "The cursor moves to the 'Header Title' field within the 'Experience' section settings panel on the left side of the screen and types 'Experiences Till Now'.",
+      "The text 'Experiences Till Now' replaces 'Past Experience' as the header title for the section on the webpage."
+    ]
+  },
+  {
+    "question": "In Wix, what happens when you delete the text in the 'Subtitle' field of an Experience section?",
+    "answer": "The subtitle area under the header on the webpage becomes empty after deleting the existing text in the 'Subtitle' field.",
+    "keypoints": [
+      "The user clicks on the 'Subtitle' field within the 'Experience' section settings panel and deletes the existing text.",
+      "The subtitle area under the header 'Experiences Till Now' on the webpage becomes empty."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add a job entry with title and dates to an Experience section?",
+    "answer": "Type the job title (e.g., 'Manager, TutorTube') into the 'Job Title' field of the first list item, then enter the dates (e.g., 'January 2024 - June 2025') in the adjacent 'Dates' field. The details will display in the section entry.",
+    "keypoints": [
+      "The user clicks on the 'Job Title' field within the first list item of the 'Experience' section settings panel and types 'Manager, TutorTube'.",
+      "The job title 'Manager, TutorTube' appears in the first entry under the 'Experiences Till Now' section on the webpage.",
+      "The user clicks on the 'Dates' field next to the 'Manager, TutorTube' entry and types 'January 2024 - June 2025'.",
+      "The dates 'January 2024 - June 2025' appear next to the 'Manager, TutorTube' entry on the webpage."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add an image and a contact button to an Experience section?",
+    "answer": "Upload an image via the 'Media' tab to display it next to entries, then add a 'Contact Me' button using the 'Button' tab to place it below the section.",
+    "keypoints": [
+      "The user clicks on the 'Media' tab within the 'Experience' section settings panel and uploads an image file named 'profile.jpg'.",
+      "The uploaded image appears next to the 'Manager, TutorTube' entry on the webpage.",
+      "The user clicks on the 'Button' tab within the 'Experience' section settings panel and adds a button labeled 'Contact Me'.",
+      "The 'Contact Me' button appears below the 'Experiences Till Now' section on the webpage."
+    ]
+  },
+  {
+    "question": "In Wix, how do you change the layout of an Experience section?",
+    "answer": "Click the 'Section Design' button to open the customization dialog, select a new layout option, and the webpage will update to reflect the change.",
+    "keypoints": [
+      "The user clicks on the 'Section Design' button at the bottom of the 'Experience' section settings panel.",
+      "The 'Customize Section Design' dialog box opens, displaying various design options for the 'Experience' section.",
+      "The user selects a different layout option from the 'Customize Section Design' dialog box.",
+      "The layout of the 'Experience' section on the webpage changes according to the selected design option."
+    ]
+  },
+  {
+    "question": "In Wix, how do you add a new experience section using the plus icon and select its layout?",
+    "answer": "Click the plus icon in the section area, choose the 'experience' section option, then select a layout from the panel to display the new section with placeholders.",
+    "keypoints": [
+      "The user clicks on the 'plus' icon located in the section design area of the Wix Adi interface.",
+      "From the options that appear, the user selects the 'experience' section option to add a new experience section to the page.",
+      "The user chooses a layout from the available options displayed in the section design panel.",
+      "After selecting the layout, the screen updates to show the newly added 'Experiences Till Now' section with placeholder text and icons for job titles and companies."
+    ]
+  }
+]

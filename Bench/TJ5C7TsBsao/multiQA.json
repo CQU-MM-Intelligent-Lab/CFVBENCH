@@ -1,0 +1,52 @@
+[
+  {
+    "question": "On what date did the mayor of New Orleans issue the mandatory evacuation order for Hurricane Katrina, and why was this timing insufficient to prevent disaster?",
+    "answer": "The mayor of New Orleans issued the mandatory evacuation order on August 28, 2005. This timing was insufficient because the storm surge caused the levees to break before landfall, resulting in catastrophic flooding that could not be mitigated with only one day's notice.",
+    "keypoints": {
+      "video": [
+        "New Orleans experienced a mandatory evacuation on August 28, 2005, due to the approaching Hurricane Katrina."
+      ],
+      "text": [
+        "The mayor of New Orleans issued an evacuation order only one day before Katrina's landfall, which was too late to prevent disaster.",
+        "Storm surge caused the levees in New Orleans to break before Katrina made landfall, resulting in catastrophic flooding."
+      ]
+    }
+  },
+  {
+    "question": "What factors influence storm surge severity, and how do shallow coastal waters like those off Northwest Florida and Georgia increase inland flooding risks?",
+    "answer": "Factors influencing storm surge severity include central pressure, storm intensity, size, forward speed, angle of approach, coastline shape, ocean bottom slope, and local features. Shallow coastal waters off Northwest Florida and Georgia increase inland flooding risks by enabling faster and more extensive water penetration due to reduced ocean depth.",
+    "keypoints": {
+      "video": [
+        "Central pressure, storm intensity, size, forward speed, angle of approach, coastline shape, ocean bottom slope, and local features all influence storm surge severity."
+      ],
+      "text": [
+        "Coastal regions like Northwest Florida and Georgia face high storm surge risks because shallow waters enable faster and more extensive inland flooding."
+      ]
+    }
+  },
+  {
+    "question": "What prediction model does the National Hurricane Center use for storm surge flooding, and for which hurricane did it issue dire warnings along the Florida coast?",
+    "answer": "The National Hurricane Center uses the SLOSH model to predict storm surge flooding levels. It issued dire warnings for the storm surge accompanying Hurricane Irma along the Florida coast.",
+    "keypoints": {
+      "video": [
+        "The National Hurricane Center's SLOSH model predicts flooding levels greater than 9 feet in certain areas along the Florida coast."
+      ],
+      "text": [
+        "The National Hurricane Center issued dire warnings for the storm surge accompanying Hurricane Irma."
+      ]
+    }
+  },
+  {
+    "question": "Which regions had the highest frequency of storm surge events between 1880 and 2015, and why are U.S. southeastern coastlines particularly vulnerable to extensive flooding?",
+    "answer": "The Caribbean and eastern coast of the United States had the highest frequency of storm surge events between 1880 and 2015. U.S. southeastern coastlines are particularly vulnerable due to shallow waters that enable faster and more extensive inland flooding.",
+    "keypoints": {
+      "video": [
+        "Storm surge events from 1880 to 2015 were most frequent in the Caribbean and along the eastern coast of the United States."
+      ],
+      "text": [
+        "The U.S. eastern and southeastern coastlines rank among the most vulnerable areas globally for storm surges.",
+        "Coastal regions like Northwest Florida and Georgia face high storm surge risks because shallow waters enable faster and more extensive inland flooding."
+      ]
+    }
+  }
+]

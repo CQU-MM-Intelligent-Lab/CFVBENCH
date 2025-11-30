@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What were the peak and lowest electricity demand levels in California on April 7, 2023, and when did they occur?",
+    "answer": "On April 7, 2023, California's electricity demand peaked at approximately 25,000 MW around 6 PM and reached its lowest point of about 20,000 MW around 4 AM.",
+    "keypoints": [
+      "The electricity demand in California on April 7, 2023, peaked at approximately 25,000 MW around 6 PM and reached its lowest point of about 20,000 MW around 4 AM."
+    ]
+  },
+  {
+    "question": "How does a pumped storage hydro system store energy during periods of excess electricity?",
+    "answer": "It uses excess energy to pump water from a lower reservoir to an upper reservoir, storing potential energy for later use.",
+    "keypoints": [
+      "The pumped storage hydro system operates by transferring water between two reservoirs; excess energy pumps water from the lower to the upper reservoir, storing potential energy for later use."
+    ]
+  },
+  {
+    "question": "How is electricity generated in a pumped storage hydro system when energy is needed?",
+    "answer": "Water flows back down through turbines, converting stored potential energy into kinetic energy that produces electrical energy for the grid.",
+    "keypoints": [
+      "Kinetic energy is generated as water flows back down through turbines, converting stored potential energy into electrical energy for the grid."
+    ]
+  },
+  {
+    "question": "What are two specific examples of pumped storage hydro plants demonstrating global application of this technology?",
+    "answer": "The Rocky River plant in New Milford, Connecticut, and Verbund AG's facility in Kaprun, Austria.",
+    "keypoints": [
+      "The Rocky River pumped storage hydro plant in New Milford, Connecticut, and Verbund AG's facility in Kaprun, Austria, demonstrate the global application of this technology."
+    ]
+  },
+  {
+    "question": "What maximum energy conversion efficiency can pumped storage hydro systems achieve?",
+    "answer": "Pumped storage hydro systems achieve up to 90% efficiency in energy conversion.",
+    "keypoints": [
+      "A detailed infographic explains how pumped storage hydro systems achieve up to 90% efficiency in energy conversion, making them a reliable solution for renewable energy integration."
+    ]
+  },
+  {
+    "question": "What core technology does Energy Vault use for its long-duration energy storage solutions?",
+    "answer": "Energy Vault harnesses gravity-based technology for efficient power management.",
+    "keypoints": [
+      "Energy Vault's long-duration energy storage solutions harness gravity-based technology for efficient power management."
+    ]
+  },
+  {
+    "question": "Where is the Energy Vault Resiliency Center located and what distinctive feature does it have?",
+    "answer": "It is located in a mountainous area and features large grid-like structures for energy storage.",
+    "keypoints": [
+      "The Energy Vault Resiliency Center is located in a mountainous area, featuring large grid-like structures for energy storage."
+    ]
+  },
+  {
+    "question": "How does Form Energy's iron-air battery system facilitate long-term energy storage?",
+    "answer": "It charges by converting metallic iron to rust during discharge and reverses the process during charging.",
+    "keypoints": [
+      "Form Energy's iron-air battery system operates by charging metallic iron and discharging it as rust, facilitating long-term energy storage."
+    ]
+  }
+]

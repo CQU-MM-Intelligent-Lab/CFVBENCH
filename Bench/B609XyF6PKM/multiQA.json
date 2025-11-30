@@ -1,0 +1,12 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you import a cycle file named 'cycle' and where does it appear after import?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Import' from the dropdown menu, navigate to the 'cycle' file in the dialog box, and double-click it. The imported file appears in the project panel on the left side of the screen, showing four layers labeled 'Layer 1' through 'Layer 4'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Import' option from the dropdown menu, which is the second item listed under the 'File' menu.",
+      "A file selection dialog box appears, and the user navigates to the desired folder containing the cycle file. The user then double-clicks on the file named 'cycle'.",
+      "The imported cycle file appears in the project panel on the left side of the screen, showing four layers labeled as 'Layer 1', 'Layer 2', 'Layer 3', and 'Layer 4'."
+    ]
+  }
+]

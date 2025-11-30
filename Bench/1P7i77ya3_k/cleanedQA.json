@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What was the previous workforce size at the La Plata railway construction site and what is the current workforce following the paralysis of work?",
+    "answer": "Previously, the site employed approximately 60 workers across two shifts. Currently, it operates with only six workers due to the paralysis of work.",
+    "keypoints": {
+      "video": [
+        "The text overlay indicates that the project had approximately 60 people working in two shifts, with 30 people in each shift."
+      ],
+      "text": [
+        "The La Plata railway construction site currently operates with only six workers due to paralysis of the work."
+      ]
+    }
+  },
+  {
+    "question": "What event occurred on November 19, 2023, featuring a crowd raising phones and a banner reading 'MILEI LA ÚNICA SOLUCIÓN', and what economic policy did President Javier Milei pledge upon taking office the following month?",
+    "answer": "On November 19, 2023, a crowd gathered at an event displaying a banner supporting Javier Milei. Upon taking office in December 2023, President Javier Milei pledged to slash public spending to address Argentina's economic crisis.",
+    "keypoints": {
+      "video": [
+        "A crowd of people raises their phones to capture a moment at an event on November 19, 2023, with a banner reading 'MILEI LA ÚNICA SOLUCIÓN'."
+      ],
+      "text": [
+        "Self-described libertarian President Javier Milei, a right-wing economist who took office in Argentina in December 2023, pledged to slash public spending to address the country's worst economic crisis."
+      ]
+    }
+  },
+  {
+    "question": "Which specific public infrastructure project was paralyzed by the national government as indicated by a construction site sign, and what broader action caused this paralysis?",
+    "answer": "The repavimentation of Camino General Manuel Belgrano was paralyzed by the national government. This resulted from President Javier Milei's administration abruptly halting most public infrastructure works across Argentina without prior warning.",
+    "keypoints": {
+      "video": [
+        "A construction site displays a sign indicating that the work on the repavimentation of Camino General Manuel Belgrano has been paralyzed by the national government."
+      ],
+      "text": [
+        "President Javier Milei's administration abruptly halted most public infrastructure works across Argentina, including road repairs and school construction, without prior warning."
+      ]
+    }
+  }
+]

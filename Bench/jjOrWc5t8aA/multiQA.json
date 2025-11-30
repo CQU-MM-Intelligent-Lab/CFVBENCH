@@ -1,0 +1,39 @@
+[
+  {
+    "question": "In Wix, how do you add a bio section to your webpage?",
+    "answer": "Click the 'Add' button in the top menu bar, then select the 'Bio' section option from the dropdown menu. This adds a new bio section to the webpage with placeholder text and an image area.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu bar of the Wix website editor interface.",
+      "The user selects the 'Bio' section option from the dropdown menu that appears after clicking the 'Add' button, which is highlighted with a blue outline.",
+      "A new bio section is added to the webpage, displaying a placeholder text and an image area for customization."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to customize the title and subtitle of a bio section?",
+    "answer": "Click the 'Title' field and enter your desired title text, then click the 'Subtitle' field below it and enter your subtitle text. This replaces the placeholder content in both fields.",
+    "keypoints": [
+      "The user clicks on the 'Title' field within the newly added bio section, which is indicated by a blinking cursor inside the text box.",
+      "The user types into the 'Title' field, replacing the placeholder text with the new title.",
+      "The user clicks on the 'Subtitle' field below the title, where a blinking cursor appears, indicating it is ready for input.",
+      "The user types into the 'Subtitle' field, updating the subtitle text accordingly."
+    ]
+  },
+  {
+    "question": "In Wix, what is the process for adding and positioning an image in a bio section?",
+    "answer": "Click the 'Image' tab in the bio section's settings panel, select an image from the gallery to insert it, then adjust element alignment by dragging and dropping within the design panel.",
+    "keypoints": [
+      "The user clicks on the 'Image' tab located at the bottom of the bio section's settings panel, preparing to upload or select an image.",
+      "The user selects an image from the gallery and inserts it into the designated image area of the bio section.",
+      "The user adjusts the layout of the bio section by dragging and dropping elements within the design panel, ensuring proper alignment."
+    ]
+  },
+  {
+    "question": "In Wix, how do you finalize changes to a bio section after customization?",
+    "answer": "Preview the updates by clicking the 'Preview' button in the top-right corner, return to editing with the 'Go to Editor' button if adjustments are needed, then save all changes by clicking the 'Publish' button.",
+    "keypoints": [
+      "The user previews the updated bio section by clicking on the 'Preview' button in the top-right corner of the Wix editor.",
+      "The user navigates back to the main editing interface using the 'Go to Editor' button, making further adjustments if necessary.",
+      "The user finalizes the bio section by clicking the 'Publish' button, saving all changes made to the webpage."
+    ]
+  }
+]

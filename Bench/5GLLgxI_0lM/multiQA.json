@@ -1,0 +1,54 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you add a new scene camera to your project?",
+    "answer": "Click the 'Scene' tab at the top of the application window to reveal camera options, then select 'New Scene Camera' from the dropdown menu. This adds a new camera labeled 'Camera 1' to the project panel.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the application window, revealing options for adding a new scene camera.",
+      "From the dropdown menu under 'Scene', the 'New Scene Camera' option is selected by a mouse click, resulting in the addition of a new camera labeled 'Camera 1' to the project panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to create and configure a triggerable shot with custom camera settings?",
+    "answer": "In the properties panel on the right, click 'Create Triggerable Shot' to generate a shot (e.g., 'Shot 1'). Then adjust position/zoom values in the 'Camera Track Behaviors' section to specific coordinates, and add a keyframe by clicking the timeline bar to mark the animation start.",
+    "keypoints": [
+      "In the properties panel on the right side of the screen, the user selects the 'Create Triggerable Shot' button, which creates a triggerable shot named 'Shot 1'.",
+      "The user then adjusts the position and zoom settings within the 'Camera Track Behaviors' section of the properties panel, changing the values from their default positions to specific coordinates and zoom levels.",
+      "A keyframe is added at the current timeline position by clicking on the timeline bar, marking the start of the animation sequence."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you trigger a shot using keyboard shortcuts and configure its return behavior?",
+    "answer": "Press the assigned key (e.g., '5') to activate the shot and apply its camera effects. To make the shot return to default when released, uncheck the 'Latch' checkbox in the properties panel.",
+    "keypoints": [
+      "The user presses the number '5' on the keyboard, triggering the newly created shot that zooms into the character as specified in the camera settings.",
+      "The user disables the 'Latch' option for the shot by unchecking the corresponding checkbox in the properties panel, ensuring the shot returns to its default state when the trigger is released."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you record and verify camera animations?",
+    "answer": "Click the 'Record' button at the bottom of the screen to capture the animated sequence with camera movements. After recording, use the play button in the timeline controls to review transitions between shots.",
+    "keypoints": [
+      "After configuring the shots, the user records the performance by clicking the 'Record' button at the bottom of the screen, capturing the animated sequence with the applied camera movements.",
+      "Once recording is complete, the user plays back the animation using the play button in the timeline controls, verifying the smooth transition between different camera angles and shots."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you create a medium shot for a character and enable persistent activation?",
+    "answer": "Click 'Create Triggerable Shot' in the right panel to generate 'Shot 1', select it from the left panel, then adjust camera zoom/position to frame a medium shot. Enable persistence by checking the 'Latch' checkbox next to the shot.",
+    "keypoints": [
+      "The user clicks on the 'Create Triggerable Shot' button located in the right-side panel of the application window, resulting in a new trigger shot labeled 'Shot 1' appearing in the timeline.",
+      "The user selects the newly created 'Shot 1' from the list of triggerable shots within the left-side panel, highlighting it for further editing.",
+      "The user adjusts the camera zoom and position using the mouse to frame the character closer, changing the view from a wide shot to a medium shot as indicated by the updated camera properties on the right.",
+      "The user checks the 'Latch' checkbox next to 'Shot 1' in the left-side panel, enabling the latch feature for this specific shot."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you set a tight shot as the default view when no triggers are active?",
+    "answer": "Select 'Shot 2' from the triggerable shots list, zoom in further to create a tight shot using the mouse, then check the 'Default' checkbox for that shot to make it the baseline view.",
+    "keypoints": [
+      "The user selects 'Shot 2' from the list of triggerable shots, preparing to adjust its settings similarly to 'Shot 1'.",
+      "The user zooms in further on the character using the mouse, creating an even tighter shot for 'Shot 2', with the updated camera properties reflecting these changes.",
+      "The user checks the 'Default' checkbox for 'Shot 2', setting it as the default shot that will be displayed when no other triggers are active."
+    ]
+  }
+]

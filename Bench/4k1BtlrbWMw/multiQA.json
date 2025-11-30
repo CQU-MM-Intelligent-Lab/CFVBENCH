@@ -1,0 +1,56 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a swap set for a character's right arm?",
+    "answer": "First, click the 'Rig' tab at the top of the application window. Then, select the 'Right Arm' layer in the left-hand section. Right-click the layer and choose 'Create Swap Set' from the context menu.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab located at the top of the application window, revealing options for character rigging.",
+      "From the left-hand section of the interface, the user selects the 'Right Arm' layer within the character's body structure.",
+      "A right-click action is performed on the 'Right Arm' layer, causing a context menu to appear with options such as 'Create Trigger' and 'Create Swap Set'.",
+      "The user selects the 'Create Swap Set' option from the context menu, initiating the creation of a swap set for the selected arm layer."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you assign a keystroke to a right arm swap set and verify its functionality?",
+    "answer": "After creating the swap set, locate it under the 'Triggers' section in the left panel. Type '2' into the swap set's key assignment field to associate it with that keystroke. Press the '2' key to trigger the arm movement and confirm the swap set works.",
+    "keypoints": [
+      "The screen displays the newly created swap set under the 'Triggers' section in the left panel, labeled as 'Frontal/Body/Right Arm/Unlinked 1'.",
+      "The user then assigns the number '2' to this swap set by typing it into the corresponding field, associating it with a specific keystroke for animation purposes.",
+      "After assigning the key, the user tests the functionality by pressing the assigned key, resulting in the character's right arm changing its position according to the predefined swap set."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you create a swap set for hand layers starting from the Rig section?",
+    "answer": "In the left panel's 'Rig' section, select the 'Left Hand' layer. Then right-click the 'Right Hand' layer and choose 'Create Swap Set' from the context menu that appears.",
+    "keypoints": [
+      "The user clicks on the 'Rig' section located in the left panel of the Character Animator interface.",
+      "Within the 'Rig' section, the user selects the 'Left Hand' layer from the list of layers displayed.",
+      "The user right-clicks on the 'Right Hand' layer within the 'Rig' section to open a context menu.",
+      "In the context menu that appears after right-clicking the 'Right Hand' layer, the user selects the option to create a swap set."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you assign trigger keys to multiple hand positions in a swap set?",
+    "answer": "After creating the swap set, locate it in the right-side properties panel. Click the field for the default hand position and type '1'. Then click another hand position's field and type '2' to assign the second trigger key.",
+    "keypoints": [
+      "After selecting the option to create a swap set for the 'Right Hand' layer, a new swap set is created and displayed in the properties panel on the right side of the screen.",
+      "The user assigns the letter '1' to the default hand position by clicking on the corresponding field in the swap set options.",
+      "The user then assigns the letter '2' to another hand position within the same swap set by clicking on its respective field."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test hand swap sets and enable persistent positioning?",
+    "answer": "During recording mode, press the assigned keys (e.g., '1' and '2') to switch between hand positions. Then, enable the 'Latch' checkbox in the 'Layers and Replays' section to maintain the selected position until manually changed.",
+    "keypoints": [
+      "Upon assigning the letters, the user presses the assigned keys '1' and '2' during recording mode, which changes the hand positions as expected according to the swap set configuration.",
+      "The user adjusts the 'Latch' checkbox within the 'Layers and Replays' section to ensure the selected hand position remains active until manually changed."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you resize a character's hand and begin recording animations?",
+    "answer": "Adjust hand size by dragging the 'X Scale' slider in the properties panel. Then click the 'Record' button at the bottom of the screen to start capturing the animation with the new hand configurations.",
+    "keypoints": [
+      "The user drags the 'X Scale' slider in the properties panel to adjust the size of the character's hand, changing its dimensions on the canvas.",
+      "The user clicks on the 'Record' button at the bottom of the screen to start recording the animation with the configured hand positions."
+    ]
+  }
+]

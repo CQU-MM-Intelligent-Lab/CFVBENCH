@@ -1,0 +1,39 @@
+[
+  {
+    "question": "In Adobe Character Animator, what are the steps to import an external AI file into the project panel?",
+    "answer": "First, click the 'File' menu in the top-left corner. Then select 'Import' from the dropdown menu. In the file explorer, navigate to the folder containing the AI file, select it, and drag it into the project panel to add it as a new asset.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import' option is selected by a mouse click.",
+      "In the file explorer dialog box, the user navigates to the 'TutorTube' folder and selects the 'TutorTube cop.ai' file.",
+      "The cursor drags the imported 'TutorTube cop.ai' file into the project panel, where it appears as a new asset."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you gather media files for a specific layer and where are they stored after completion?",
+    "answer": "Right-click on the desired layer in the timeline panel and select 'Copy Media Files into Project Folder'. During the process, a notification appears at the bottom of the screen. After completion, the files are organized into a new folder within the project directory.",
+    "keypoints": [
+      "The user right-clicks on the 'Chloe (Photoshop)' layer within the timeline panel, causing a context menu to appear.",
+      "The user selects the 'Copy Media Files into Project Folder' option from the context menu.",
+      "A notification at the bottom of the screen indicates that the media files are being gathered.",
+      "Once completed, the gathered media files are organized into a new folder named 'Gathered Media 2' within the project directory."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how can you verify that gathered media files are correctly stored in the project directory?",
+    "answer": "Open the project folder in the file explorer and check the gathered media folder to confirm the presence of the expected files.",
+    "keypoints": [
+      "The user opens the 'Character Animator Project 6' folder in the file explorer to verify the copied media files.",
+      "The user confirms the presence of the 'TutorTube cop.ai' file within the 'Gathered Media 2' folder."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are involved in recording character animation and saving the project?",
+    "answer": "Click the 'Record' button in the top toolbar to start recording. Adjust the character's pose using the puppet controls in the preview window. Finally, save the project by clicking the 'Save' icon in the top-right corner of the application window.",
+    "keypoints": [
+      "The user clicks on the 'Record' button in the top toolbar to start recording the animation.",
+      "The user adjusts the character's pose using the puppet controls in the preview window.",
+      "The user saves the project by clicking on the 'Save' icon in the top-right corner of the application window."
+    ]
+  }
+]

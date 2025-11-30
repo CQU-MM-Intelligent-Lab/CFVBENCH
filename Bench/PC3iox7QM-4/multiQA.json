@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a new project after closing the file explorer?",
+    "answer": "After closing the file explorer and returning to the interface, click the 'New Project...' button in the bottom-left corner to create a new project (e.g., 'Character Animator Project 6'), which updates the workspace.",
+    "keypoints": [
+      "The user closes the file explorer window and returns to the Adobe Character Animator interface.",
+      "The user clicks on the 'New Project...' button located in the bottom left corner of the application window.",
+      "A new project titled 'Character Animator Project 6' is created, and the workspace updates to reflect this new project."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process to save a project?",
+    "answer": "Click the 'Save' button in the top-right corner, which opens a dialog to choose a location and name. Select the folder, enter the project name, and click 'Save' to finalize.",
+    "keypoints": [
+      "The user clicks on the 'Save' button located in the top-right corner of the application window.",
+      "A save dialog box appears, prompting the user to choose a location and name for the project file.",
+      "The user selects the desired folder and enters the project name before clicking the 'Save' button to finalize the save action."
+    ]
+  }
+]

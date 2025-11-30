@@ -1,0 +1,39 @@
+[
+  {
+    "question": "How are solar-powered sensors physically installed on coffee plants at Ule Coffee Farm, and which organizations manage this project?",
+    "answer": "Sensors are attached to tree branches with a solar-powered device mounted on the trunk connected by wires. The project is managed by the Italian espresso Research Center Academia Del Cafe Espresso and think tank Panat.",
+    "keypoints": {
+      "video": [
+        "A woman is seen attaching a sensor to a tree branch in a coffee plantation.",
+        "A solar-powered device is mounted on a tree, connected by wires to the trunk."
+      ],
+      "text": [
+        "The Italian espresso Research Center Academia Del Cafe Espresso and think tank Panat are running the sensor project."
+      ]
+    }
+  },
+  {
+    "question": "What system is being developed using data from the wired coffee plants, and where are researchers conducting the analysis at Ule Coffee Farm?",
+    "answer": "An AI system using machine learning algorithms to automatically alert when intervention is needed is being developed. Researchers conduct analysis in the middle of the coffee plantation using a laptop.",
+    "keypoints": {
+      "video": [
+        "Three individuals are examining a laptop in the middle of a coffee plantation."
+      ],
+      "text": [
+        "Machine learning algorithms are being trained to develop an AI system that will automatically alert when intervention is needed on the plantation."
+      ]
+    }
+  },
+  {
+    "question": "What beverage production is associated with Academia Del Cafe Espresso, and what is the primary objective of their sensor technology according to CEO Camila Pandoli?",
+    "answer": "Espresso production is associated with the organization. The primary objective is to decode plants' electrical activities to improve water management and agricultural practices.",
+    "keypoints": {
+      "video": [
+        "A close-up shot displays a cup of espresso being poured from a machine."
+      ],
+      "text": [
+        "CEO Camila Pandoli states the technology aims to decode plants' electrical activities to improve water management and agricultural practices."
+      ]
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "In Adobe Character Animator, what steps are involved in entering login credentials and adjusting brush size settings?",
+    "answer": "In the 'Login' dialog box, type your email address into the text field labeled 'Email Address'. Then, locate the 'Brush Size' slider in the 'Tools' panel and drag it to the right to increase the brush size to your desired value.",
+    "keypoints": [
+      "In the 'Login' dialog box, the user types 'testuser@example.com' into the text field labeled 'Email Address'.",
+      "The cursor drags the 'Brush Size' slider within the 'Tools' panel to the right, increasing the displayed value from '10px' to '25px'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the context menu for a layer and enable a specific feature in Settings?",
+    "answer": "Right-click on the target layer (e.g., 'Background Layer') in the 'Layers' panel to open its context menu. Next, navigate to the 'Settings' window and select the checkbox beside the 'Enable Feature X' label to activate the feature.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'Background Layer' in the 'Layers' panel, causing a context menu to appear.",
+      "The user selects the 'checkbox' next to the 'Enable Feature X' label within the 'Settings' window."
+    ]
+  }
+]

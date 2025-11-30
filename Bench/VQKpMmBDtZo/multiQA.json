@@ -1,0 +1,86 @@
+[
+  {
+    "question": "According to the European Space Agency's December 2023 report, what are the estimated numbers of space debris objects in the size categories of smaller than 1 cm, between 1-10 cm, and larger than 10 cm, and why is the 1-10 cm category particularly critical?",
+    "answer": "The European Space Agency reported approximately 130 million objects smaller than 1 cm, about 1 million between 1-10 cm, and more than 36,500 larger than 10 cm. The 1-10 cm category is particularly critical because these objects are too small to track reliably but large enough to destroy satellites.",
+    "keypoints": {
+      "video": [
+        "The European Space Agency reported in December 2023 that there are approximately 130 million space debris objects smaller than 1 cm, about 1 million between 1-10 cm, and more than 36,500 larger than 10 cm."
+      ],
+      "text": [
+        "Debris between 1 and 10 centimeters is too small to track reliably but large enough to destroy satellites, with NASA analysis identifying this range as critical for overall debris management."
+      ]
+    }
+  },
+  {
+    "question": "What cost ranges did the March 2023 analysis by Thomas J. Colvin, John Karcz, and Grace Wusk estimate for removing 100,000 pieces of 1-10 cm space debris using ground-based and space-based lasers, and what did NASA's 2023 analysis conclude about the cost-effectiveness?",
+    "answer": "The analysis estimated costs for ground-based lasers at $30 to $600 million and for space-based lasers at $30 to $300 million. NASA's 2023 analysis concluded that both ground- and space-based laser systems are the most cost-effective methods for removing 1-10 cm debris.",
+    "keypoints": {
+      "video": [
+        "A cost-benefit analysis by Thomas J. Colvin, John Karcz, and Grace Wusk on March 10, 2023, estimated the costs to remove 100,000 pieces of small debris (1-10 cm) with ground lasers ranging from $30 to $600 million and space lasers from $30 to $300 million."
+      ],
+      "text": [
+        "NASA's 2023 analysis found ground- or space-based laser systems to be the most cost-effective method for removing 1-10 centimeter debris."
+      ]
+    }
+  },
+  {
+    "question": "What legal barrier exists for the Pentagon's 1997 consideration of using a ground-based laser against a dying space satellite, as mentioned by the Oakland Tribune?",
+    "answer": "International space law prohibits any entity from touching space objects it did not launch.",
+    "keypoints": {
+      "video": [
+        "The Oakland Tribune mentioned on September 3, 1997, that Pentagon officials considered firing a ground-based laser against a dying space satellite for defense purposes."
+      ],
+      "text": [
+        "International space law currently prohibits any entity from touching space objects it did not launch, creating a legal barrier for debris removal efforts."
+      ]
+    }
+  },
+  {
+    "question": "As of May 2023, how many active satellites did SpaceX and OneWeb operate, and why does the increasing number of objects in space raise concerns about catastrophic collisions?",
+    "answer": "SpaceX operated 3,996 active satellites and OneWeb operated 589. The increasing number of objects raises the probability of collisions that could trigger a runaway chain reaction known as the Kessler syndrome.",
+    "keypoints": {
+      "video": [
+        "In May 2023, SpaceX operated the largest number of active satellites at 3,996, followed by OneWeb with 589 satellites."
+      ],
+      "text": [
+        "The increasing number of objects launched by the booming space industry raises the probability of collisions that could trigger a runaway chain reaction known as the Kessler syndrome."
+      ]
+    }
+  },
+  {
+    "question": "What rule did the U.S. Federal Communications Commission adopt to address orbital debris, and when was it implemented?",
+    "answer": "The rule requires satellite operators to dispose of their satellites within five years after mission completion, and it was implemented in September 2022.",
+    "keypoints": {
+      "video": [
+        "The Federal Communications Commission adopted new rules requiring satellite operators to dispose of their satellites within five years post-mission to address the growing risk of orbital debris."
+      ],
+      "text": [
+        "The U.S. FCC implemented a rule in September 2022 requiring U.S. low Earth orbit spacecraft to de-orbit within five years after mission completion."
+      ]
+    }
+  },
+  {
+    "question": "How does Japan's startup EX-Fusion plan to remove space debris differ from the methods being developed by commercial companies ClearSpace and Astroscale?",
+    "answer": "EX-Fusion plans to use a powerful nuclear fusion laser, while ClearSpace and Astroscale are developing spacecraft to physically push or pull large debris into the Earth's atmosphere.",
+    "keypoints": {
+      "video": [
+        "Japan's startup EX-Fusion plans to use a powerful nuclear fusion laser to remove space junk from orbit."
+      ],
+      "text": [
+        "Commercial companies ClearSpace and Astroscale are developing spacecraft to remove large debris by pushing or pulling it into Earth's atmosphere for destruction, with demonstrations planned within the next decade."
+      ]
+    }
+  },
+  {
+    "question": "What is the Zero Debris Charter introduced by Europe, and what is its primary focus?",
+    "answer": "The Zero Debris Charter is an initiative by the European Space Agency to lead by example in addressing space debris, with a primary focus on preventing new debris by designing satellites to reenter Earth's atmosphere after their mission.",
+    "keypoints": {
+      "video": [
+        "The Zero Debris Charter was introduced by Europe as an initiative to lead by example in addressing space debris."
+      ],
+      "text": [
+        "The European Space Agency's June 2023 Zero Debris Charter emphasizes preventing new debris by designing satellites to reenter Earth's atmosphere post-mission."
+      ]
+    }
+  }
+]

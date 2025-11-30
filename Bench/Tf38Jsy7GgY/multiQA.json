@@ -1,0 +1,60 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you import a file and have it appear as a named asset in the project panel?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Import' from the dropdown, navigate to and select the desired file in the file explorer dialog box, and click 'Import'. The imported file will then appear as a named asset in the project panel.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import' option is selected by a mouse click.",
+      "In the file explorer dialog box, the user navigates to the folder containing the file named 'Shapes.ai', selects it, and clicks the 'Import' button.",
+      "The imported file appears in the project panel as an asset named 'Shapes'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps create a new scene containing imported shapes?",
+    "answer": "Click the 'Scene' tab within the interface and select the 'New Scene' option from the dropdown menu. This creates a new scene with the imported shapes embedded within it.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab within the interface and selects the 'New Scene' option from the dropdown menu.",
+      "The new scene is created with the imported shapes embedded within it."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you isolate two specific layers after expanding an asset in the project panel?",
+    "answer": "Expand the asset in the project panel to reveal its layers, then uncheck the visibility icons for all layers except the two you want to keep enabled.",
+    "keypoints": [
+      "The user expands the 'Shapes' asset in the project panel, revealing multiple layers.",
+      "The user disables all layers except for two specific ones by unchecking their visibility icons."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure the first layer to be draggable and the second layer to have dynamic and collide physics properties?",
+    "answer": "Select the first layer and enable the 'Draggable' tag in the 'Tags' section of the properties panel. Then select the second layer and apply both the 'Dynamic' and 'Collide' tags in the 'Physics' section of the properties panel.",
+    "keypoints": [
+      "The user selects the first layer and enables the 'Draggable' tag under the 'Tags' section in the properties panel.",
+      "The user then selects the second layer and applies the 'Dynamic' and 'Collide' tags under the 'Physics' section in the properties panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test interactions between a draggable object and a physics-enabled object?",
+    "answer": "Switch to record mode by clicking the 'Record' button at the top of the interface, then drag the draggable object around the canvas to observe its collision and dynamic interactions with other objects.",
+    "keypoints": [
+      "The user switches to the 'Record' mode by clicking the 'Record' button at the top of the interface.",
+      "In record mode, the user drags the draggable object around the canvas, observing its interaction with the dynamic and colliding object."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add and configure a magnet behavior to enable attraction between objects?",
+    "answer": "Go to the 'Puppet' tab, add the 'Magnet' behavior from the 'Behaviors' dropdown menu, and configure it to affect specified objects. This enables magnetic attraction between them during interactions.",
+    "keypoints": [
+      "The user returns to the 'Puppet' tab and adds a 'Magnet' behavior to the main puppet by selecting it from the 'Behaviors' dropdown menu.",
+      "The magnet behavior is configured to affect the specified objects, enabling magnetic attraction between them."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test and fine-tune magnet behavior after configuration?",
+    "answer": "Drag the draggable object near the magnetized object to observe attraction, then adjust the strength and range sliders in the properties panel to refine the magnetic effect.",
+    "keypoints": [
+      "The user tests the magnet behavior by dragging the draggable object near the other object, observing how they attract each other according to the set parameters.",
+      "The user adjusts the magnet settings in the properties panel to fine-tune the strength and range of the magnetic effect."
+    ]
+  }
+]

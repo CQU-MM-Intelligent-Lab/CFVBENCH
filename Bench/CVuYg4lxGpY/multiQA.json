@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Wix, what steps are required to locate and select a specific image for your header background after opening the settings?",
+    "answer": "In the 'Choose an Image' dialog box, enter your search term in the top search bar, then select the desired image thumbnail from the 'Site Files' section.",
+    "keypoints": [
+      "In the 'Choose an Image' dialog box, the user types 'tutorTube' into the search bar at the top of the window.",
+      "The cursor selects the image thumbnail labeled '5_edited_edited_edited.jpg' within the 'Site Files' section."
+    ]
+  },
+  {
+    "question": "In Wix, how do you assign a new tag to the selected background image and confirm the changes?",
+    "answer": "Select the 'Tags' field, enter your desired tag text, then click the 'Apply' button at the bottom-right corner of the dialog box to save modifications.",
+    "keypoints": [
+      "The user selects the 'Tags' field and enters 'tutorTube' as a new tag for the image.",
+      "The user clicks the 'Apply' button located at the bottom-right corner of the 'Choose an Image' dialog box."
+    ]
+  },
+  {
+    "question": "In Wix, what action reveals contextual options for a selected image in the background dialog, and how is tagging initiated afterward?",
+    "answer": "Right-click the image thumbnail to open a context menu with options like 'Copy URL', then access the 'Tags' field to enter your desired tag.",
+    "keypoints": [
+      "A right-click action is performed on the selected image thumbnail, causing a context menu to appear with options like 'Copy URL'.",
+      "The user selects the 'Tags' field and enters 'tutorTube' as a new tag for the image."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you apply a smoother transition to an animation clip and then adjust its duration?",
+    "answer": "First, right-click on the selected animation clip in the timeline and choose 'Blend in and Out' from the context menu to apply the transition. Then, drag the 'Blend in and Out' handles on the timeline to adjust the duration of the blending effect.",
+    "keypoints": [
+      "The user clicks on the 'Blend in and Out' option from the right-click menu that appears after selecting an animation clip within the timeline. This action applies a smoother transition effect to the selected animation clip.",
+      "The user drags the 'Blend in and Out' handles on the timeline to adjust the duration of the blending effect, visually smoothing out the transitions between animation frames."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are needed to link animation clips for continuous blending after adjusting an initial blend?",
+    "answer": "After adjusting the initial blend duration, right-click on the next animation clip and select 'Next Blend' from the context menu to link it to the subsequent clip, creating a continuous blending effect.",
+    "keypoints": [
+      "The user drags the 'Blend in and Out' handles on the timeline to adjust the duration of the blending effect, visually smoothing out the transitions between animation frames.",
+      "The user selects the 'Next Blend' option from the right-click menu on another animation clip, linking it to the subsequent clip for a continuous blending effect."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you rearrange animation clips and preview the results with blended transitions?",
+    "answer": "Drag clips up or down on the timeline to rearrange their order, then click the play button at the bottom center of the application window to preview the animation and observe the smoothness of the blended transitions.",
+    "keypoints": [
+      "The user adjusts the position of animation clips on the timeline by dragging them up or down, rearranging their order to create a desired sequence.",
+      "The user clicks the play button located at the bottom center of the application window to preview the animation, observing the smoothness of the blended transitions."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you apply a blend-in effect and immediately preview the smoother transitions?",
+    "answer": "Select the 'Blend In' option from the timeline menu in the top-right corner of the timeline panel, then click the play button at the bottom center of the screen to preview the animation and observe the smoother transitions between poses.",
+    "keypoints": [
+      "The user selects the 'Blend In' option from the timeline menu, which is located in the top-right corner of the timeline panel.",
+      "The user clicks on the 'Play' button at the bottom center of the screen to preview the animation, showing a smoother transition between poses."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you adjust blend timing and apply a blend-out effect to a pose?",
+    "answer": "Drag the timeline cursor along the horizontal bar within the timeline panel to adjust the timing, then right-click on the selected pose and choose 'Blend Out' from the context menu.",
+    "keypoints": [
+      "The user drags the timeline cursor along the horizontal bar within the timeline panel to adjust the timing of the blend effect.",
+      "The user right-clicks on the selected pose in the timeline and chooses the 'Blend Out' option from the context menu that appears."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify animation smoothness and apply blending to multiple poses simultaneously?",
+    "answer": "Adjust the 'Velocity Threshold' slider in the motion lines settings panel at the bottom-right corner, then hold Ctrl while clicking poses to select multiple poses and apply a blend effect to all selected poses at once.",
+    "keypoints": [
+      "The user adjusts the 'Velocity Threshold' slider in the motion lines settings panel, located at the bottom-right corner of the screen, to modify the smoothness of the animation.",
+      "The user selects multiple poses in the timeline by holding down the 'Ctrl' key while clicking on each pose, then applies a blend effect to all selected poses simultaneously."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you label an animation take and switch scenes afterward?",
+    "answer": "Type the desired name into the 'Take Name' text field in the timeline panel to label the take, then click on the desired scene tab at the top of the timeline panel to switch between scenes.",
+    "keypoints": [
+      "The user types 'talk & smile (L&R hands)' into the text field labeled 'Take Name' in the timeline panel to label the current animation take.",
+      "The user clicks on the 'Scene 1' tab at the top of the timeline panel to switch between different scenes in the project."
+    ]
+  }
+]

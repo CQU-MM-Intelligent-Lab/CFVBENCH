@@ -1,0 +1,79 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you select a character for manipulation and what appears in the workspace afterward?",
+    "answer": "Click on the character in the project panel to select it, causing the selected character to appear in the main workspace with labeled and highlighted body parts.",
+    "keypoints": [
+      "The user clicks on the character named \"Chloe\" in the project panel, selecting it for manipulation.",
+      "The selected character appears in the main workspace with various body parts labeled and highlighted."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to access and configure motion lines for the left arm?",
+    "answer": "Navigate to the left arm section in the puppet properties panel, expand it to reveal components, select the draggable handle, add motion line behavior via the 'Behaviors' option, then adjust parameters like velocity threshold (100 pixels) and line lifespan (200 frames) in the properties panel.",
+    "keypoints": [
+      "The user navigates to the left arm section within the puppet properties panel.",
+      "The left arm is expanded to reveal its components such as handles and layers.",
+      "The user selects the draggable handle under the left arm's properties.",
+      "A motion line behavior is added to the left arm by clicking on the 'Behaviors' option and selecting 'Motion Lines'.",
+      "The user adjusts the motion line parameters in the right-hand properties panel.",
+      "The velocity threshold is set to 100 pixels, and the line lifespan is adjusted to 200 frames."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you customize motion line appearance for an arm?",
+    "answer": "Modify color settings by increasing red to 90 and setting green/blue to 75 each, toggle secondary line offset to 50, and reduce opacity to create a faded effect.",
+    "keypoints": [
+      "The user modifies the color settings of the motion lines.",
+      "The red color value is increased to 90, while the green and blue values are set to 75 each.",
+      "The user toggles the secondary line offset feature, setting it to 50.",
+      "The opacity of the motion lines is reduced to create a faded effect."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you apply motion lines to the right arm after configuring the left arm?",
+    "answer": "Apply identical motion line settings to the same parameter adjustments used for the left arm.",
+    "keypoints": [
+      "The user applies similar motion line settings to the right arm.",
+      "The same parameter adjustments are made for the right arm's motion lines."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when moving a character's arms after applying motion lines?",
+    "answer": "Visible motion trails appear behind the moving arms, demonstrating the applied effects.",
+    "keypoints": [
+      "The user tests the motion lines by moving the character's arms.",
+      "Visible motion trails appear behind the moving arms, demonstrating the applied effects."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add motion lines via the Puppet tab and adjust opacity?",
+    "answer": "Click the 'Puppet' tab, select 'Behaviors' from the dropdown, choose 'Motion Lines' in the Properties panel, then drag the 'Opacity' slider to 90%.",
+    "keypoints": [
+      "The user clicks on the 'Puppet' tab located in the top-left corner of the application window.",
+      "From the 'Puppet' dropdown menu, the 'Behaviors' option is selected by a mouse click.",
+      "In the 'Properties' panel on the right side of the screen, the user selects the 'Motion Lines' behavior from the list.",
+      "The cursor drags the 'Opacity' slider within the 'Motion Lines' settings to increase its value from 75% to 90%."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure motion lines using the Layers panel context menu?",
+    "answer": "Right-click the 'Right Arm' layer, select 'Add Behavior', choose 'Motion Lines', then set velocity threshold to 100, line width to 50 pixels, enable secondary lines, and select red color.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'Right Arm' in the 'Layers' panel, causing a context menu to appear.",
+      "The user selects the 'Add Behavior' option and then chooses 'Motion Lines' from the submenu.",
+      "The user types '100' into the text field labeled 'Velocity Threshold' within the 'Motion Lines' settings.",
+      "The user adjusts the 'Line Width' slider to set it at 50 pixels.",
+      "The user clicks on the checkbox next to 'Secondary Lines' to enable this feature.",
+      "The user selects the color red for the motion lines using the color picker tool."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test and save motion line effects?",
+    "answer": "Click 'Record', move the character's arms to generate visible motion lines, then click 'Save' in the top-right corner to preserve the project.",
+    "keypoints": [
+      "The user clicks on the 'Record' button at the bottom of the screen to start recording the character's movements.",
+      "The user moves the character's arm, resulting in visible motion lines appearing on the screen.",
+      "The user clicks on the 'Save' button located in the top-right corner of the application window to save the project."
+    ]
+  }
+]

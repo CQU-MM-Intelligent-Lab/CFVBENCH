@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How does the climate stability during the 10,000-year development period of human civilization compare to the temperature fluctuations shown in the 140,000-year graph?",
+    "answer": "Human civilization developed during an unusually stable 10,000-year period with temperatures varying within about 1 degree Celsius, contrasting sharply with temperature fluctuations between -12°C and 4°C over the preceding 140,000 years.",
+    "keypoints": {
+      "video": [
+        "A line graph illustrates temperature changes over time, showing fluctuations between -12°C and 4°C over 140,000 years."
+      ],
+      "text": [
+        "Human civilization developed during an unusually stable 10,000-year period with temperatures varying within about 1 degree Celsius."
+      ]
+    }
+  },
+  {
+    "question": "What was the global human population in 1900 and 2000, and how does the actual growth factor compare to a quadrupling over that period?",
+    "answer": "The global human population was 1.6 billion in 1900 and 7.3 billion in 2000, representing a growth factor of 4.56, which exceeds a quadrupling (factor of 4).",
+    "keypoints": {
+      "video": [
+        "A bar chart compares population growth from 1900 to 2000, showing an increase from 1.6 billion to 7.3 billion people."
+      ],
+      "text": [
+        "The global human population has quadrupled in the past hundred years."
+      ]
+    }
+  },
+  {
+    "question": "Where did Homo sapiens first emerge, and what percentage of Earth's history have modern humans existed?",
+    "answer": "Homo sapiens first emerged in Africa and have existed for only 0.004% of Earth's history.",
+    "keypoints": {
+      "video": [
+        "A map outlines Africa, noting the emergence of Homo sapiens."
+      ],
+      "text": [
+        "Modern humans have existed for only 0.004% of Earth's history, with agriculture present for just 5% of human history."
+      ]
+    }
+  }
+]

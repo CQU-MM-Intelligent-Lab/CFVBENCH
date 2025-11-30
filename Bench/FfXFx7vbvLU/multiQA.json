@@ -1,0 +1,46 @@
+[
+  {
+    "question": "In Wix, how do you add a music player to your webpage and what appears after doing so?",
+    "answer": "Click the 'Music Player' option in the left sidebar of the editor. This adds a new section to the webpage displaying a placeholder with options like 'Create Your First Album'.",
+    "keypoints": [
+      "The user clicks on the 'Music Player' option located in the left sidebar of the Wix website editor interface.",
+      "A new section for a music player is added to the webpage, displaying a placeholder with options like 'Create Your First Album'."
+    ]
+  },
+  {
+    "question": "In Wix, what action transitions you to the album creation form after adding a music player?",
+    "answer": "After the music player placeholder appears, select the 'Create Single' button in the 'Welcome to Wix Music' dialog box. This transitions the screen to the album creation form.",
+    "keypoints": [
+      "A new section for a music player is added to the webpage, displaying a placeholder with options like 'Create Your First Album'.",
+      "The user selects the 'Create Single' button within the 'Welcome to Wix Music' dialog box.",
+      "The screen transitions to a form where details such as 'Album Name', 'Artist Name', and 'Album Description' can be entered."
+    ]
+  },
+  {
+    "question": "In Wix, how do you confirm text entry in the 'Album Name' field during album creation?",
+    "answer": "Type the desired album name into the 'Album Name' field. The text will appear in the designated input area to confirm successful entry.",
+    "keypoints": [
+      "The user types 'Test TutorTube' into the 'Album Name' field.",
+      "The text appears in the designated input area, confirming the entry."
+    ]
+  },
+  {
+    "question": "In Wix, how do you publish the website and verify the music player functionality?",
+    "answer": "Click the 'Publish' button at the top-right corner to make the site live. Then navigate to the live site and click the music player's play button to start playback and activate controls.",
+    "keypoints": [
+      "The user clicks the 'Publish' button at the top-right corner of the Wix editor.",
+      "The website is published, and the music player is now visible on the live site.",
+      "The user navigates to the live site and clicks the play button on the music player.",
+      "The first track starts playing, and the playback controls become active."
+    ]
+  },
+  {
+    "question": "In Wix, how do you change the music player's design layout?",
+    "answer": "Click the 'Design' tab in the top navigation bar, then select a layout from the 'SECTION DESIGN' panel on the left. The chosen design immediately updates the music player's appearance in the editing area.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab located in the top navigation bar of the Wix website editor interface.",
+      "The user selects a music player design from the 'SECTION DESIGN' panel on the left side of the screen, which displays various layout options for the music player.",
+      "The selected music player design is applied to the main editing area, changing the appearance of the music player section on the webpage."
+    ]
+  }
+]

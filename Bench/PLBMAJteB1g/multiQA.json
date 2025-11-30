@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In Adobe Photoshop, how do you rename the 'Frontal' layer to 'Plus Frontal' and reposition the 'Left Profile' layer beneath it?",
+    "answer": "Double-click the 'Frontal' layer name in the Layers panel and type 'Plus Frontal' to rename it. Then select the 'Left Profile' layer, rename it to 'Plus Left Profile' by double-clicking its name, and move it below the 'Plus Frontal' layer in the layer hierarchy.",
+    "keypoints": [
+      "The user double-clicks on the text label 'Frontal' in the Layers panel and renames it to 'Plus Frontal', updating the layer name directly within the panel.",
+      "The user selects the 'Left Profile' layer from the 'Layers' panel on the right side of the screen.",
+      "The user renames this layer to 'Plus Left Profile' by double-clicking on its current name and typing the new name.",
+      "The renamed layer is then moved below the 'Plus Frontal' layer within the hierarchy."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process for importing a character file?",
+    "answer": "Click the 'Import' button in the software interface, navigate to the character file using the file explorer window, select the file, and click 'Open' to import it into the workspace.",
+    "keypoints": [
+      "The user clicks on the 'Import' button within the 'Character Animator' software interface, initiating the process to bring in a new character file.",
+      "A file explorer window opens, and the user navigates to a specific folder containing the character files.",
+      "The user selects the character file from the file explorer window.",
+      "The user clicks on the 'Open' button to import the character file into the application."
+    ]
+  }
+]

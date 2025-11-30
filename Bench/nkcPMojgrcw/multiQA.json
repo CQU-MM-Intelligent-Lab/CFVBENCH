@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In Video Editing Software, how do you label a selected video segment?",
+    "answer": "Click the 'Label current segment' button at the bottom right-hand side of the screen. In the dialog box that appears, type your desired label into the text field and click 'OK' to add the label to the segment in the list on the right.",
+    "keypoints": [
+      "The user clicks on the 'Label current segment' button located at the bottom right-hand side of the screen.",
+      "A dialog box appears with a text field and two buttons labeled 'OK' and 'Cancel'.",
+      "The user types 'Beginning' into the text field and then clicks the 'OK' button.",
+      "The label 'Beginning' is added to the first video segment in the list on the right side of the screen."
+    ]
+  },
+  {
+    "question": "In Video Editing Software, after adding a label to one segment, how do you proceed to label the next segment?",
+    "answer": "First, click on the next highlighted segment in the timeline. Then, click the 'Label current segment' button, enter your label in the dialog box, and click 'OK' to apply it.",
+    "keypoints": [
+      "The user clicks on the next segment in the timeline, which is highlighted in green.",
+      "The user again clicks on the 'Label current segment' button at the bottom right-hand side of the screen.",
+      "A new dialog box appears with a text field and two buttons labeled 'OK' and 'Cancel'.",
+      "The user types 'pan' into the text field and then clicks the 'OK' button."
+    ]
+  },
+  {
+    "question": "In Video Editing Software, what happens immediately after clicking 'Save' during export?",
+    "answer": "The software begins exporting the labeled segments while displaying a progress bar. Upon completion, a message appears noting that cutpoints may be inaccurate and advising to verify output files before deleting sources.",
+    "keypoints": [
+      "The software begins exporting the labeled segments, and a progress bar appears indicating the export status.",
+      "Once the export is complete, a message appears stating \"Done! Note: cutpoints may be inaccurate. Make sure you test the output files in your desired player/editor before you delete the source.\""
+    ]
+  }
+]

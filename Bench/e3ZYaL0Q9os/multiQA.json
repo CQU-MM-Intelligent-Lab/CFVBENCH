@@ -1,0 +1,39 @@
+[
+  {
+    "question": "After Miami Beach became a narrow strip in the 1970s due to erosion, what strategy was used for rebuilding and what visible change occurred in the shoreline?",
+    "answer": "Beach nourishment was used for rebuilding, resulting in a wider and more populated shoreline.",
+    "keypoints": {
+      "video": [
+        "Post-nourishment, Miami Beach shows a wider and more populated shoreline compared to its previous state."
+      ],
+      "text": [
+        "Miami Beach was rebuilt using 'beach nourishment' after becoming a narrow strip in the 1970s."
+      ]
+    }
+  },
+  {
+    "question": "How does the return on investment for Florida's Beach Management and Restoration Program compare to the minimum benefit-cost ratio required by the U.S. Army Corps of Engineers for funding nourishment projects?",
+    "answer": "The return on investment of 5.4 for the program exceeds the minimum benefit-cost ratio of 2.5 required by the U.S. Army Corps of Engineers.",
+    "keypoints": {
+      "video": [
+        "The state's investment in the Beach Management and Restoration Program generated a positive return on investment of 5.4."
+      ],
+      "text": [
+        "The U.S. Army Corps of Engineers only funds nourishments where the expected benefit is 2.5 times higher than the cost."
+      ]
+    }
+  },
+  {
+    "question": "What key limitation does beach nourishment have in addressing coastal hazards, and how frequently must nourished beaches typically be replenished?",
+    "answer": "Beach nourishment may mask or reduce the apparent impact of coastal hazards without changing the natural processes driving them, and replenishment is typically required every 2 to 8 years on average.",
+    "keypoints": {
+      "video": [
+        "Beach nourishment may mask or reduce the apparent impact of coastal hazards without changing the natural processes driving them."
+      ],
+      "text": [
+        "Beach nourishment is a shore protection strategy to counter the natural loss of sand.",
+        "Nourished beaches require replenishment every 2 to 8 years on average due to wave and wind action."
+      ]
+    }
+  }
+]

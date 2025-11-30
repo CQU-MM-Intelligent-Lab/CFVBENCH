@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In WebFlow, how do you add a Files section to your webpage?",
+    "answer": "Click the 'Add Section' button in the center of the page, then select the 'Files' option from the left sidebar.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the center of the page.",
+      "From the left sidebar, the 'Files' section option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In WebFlow, how do you set the header title of a Files section to 'Files'?",
+    "answer": "Click the 'Edit' tab within the Files section and enter 'Files' in the 'Header Title' field.",
+    "keypoints": [
+      "The user clicks on the 'Edit' tab within the newly added Files section.",
+      "In the 'Header Title' field, the text 'Files' is entered."
+    ]
+  },
+  {
+    "question": "In WebFlow, how do you name the first file item 'Video' in a Files section?",
+    "answer": "Click on the 'Item Name' field under the first file placeholder and type 'Video'.",
+    "keypoints": [
+      "The user clicks on the 'Item Name' field under the first file placeholder.",
+      "The text 'Video' is typed into the 'Item Name' field."
+    ]
+  },
+  {
+    "question": "In WebFlow, how do you configure a download button to link to 'www.example.com'?",
+    "answer": "In the dialog box, click the 'Web Address' radio button, type 'www.example.com' into the input field, and click 'Done'.",
+    "keypoints": [
+      "The user clicks on the 'Web Address' radio button within the dialog box.",
+      "The user types 'www.example.com' into the web address input field.",
+      "The user clicks the 'Done' button to confirm the web address entry."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "question": "In Lossless Cut, how do I open the list of keyboard shortcuts?",
+    "answer": "Click the 'Help' menu at the top of the application window and select 'Help and shortcuts' to open a new page displaying all keyboard and mouse shortcuts.",
+    "keypoints": [
+      "The user clicks on the 'Help' menu item located at the top of the application window -> The 'Help and shortcuts' option is selected from the dropdown menu -> A new page opens displaying a comprehensive list of keyboard and mouse shortcuts available in Lossless Cut"
+    ]
+  },
+  {
+    "question": "In Lossless Cut, where is the Export button located to start saving segments?",
+    "answer": "The Export button is in the bottom right corner of the application window. Clicking it begins the export process for selected segments.",
+    "keypoints": [
+      "The user selects the 'Export' button located in the bottom right corner of the application window -> The export process begins -> The selected segments are prepared for saving with options to separate files or normal cut"
+    ]
+  },
+  {
+    "question": "In Lossless Cut, how can I see what a button does before clicking it?",
+    "answer": "Hover over any button in the main interface to display a tooltip showing its function.",
+    "keypoints": [
+      "The user hovers over various buttons in the main interface -> Tooltips appear above each button -> Each tooltip displays the function associated with the respective button"
+    ]
+  },
+  {
+    "question": "In Lossless Cut, what happens after selecting 'Delete source file' from the File menu?",
+    "answer": "A confirmation dialog appears asking for verification before deleting the source file.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located at the top-left corner of the application window -> The 'Delete source file' option is selected from the dropdown menu -> A confirmation dialog box appears asking for confirmation to delete the source file"
+    ]
+  },
+  {
+    "question": "In Lossless Cut, which keys set both start and end points for a video segment?",
+    "answer": "Press 'I' to set the start (Mark In) point and 'O' to set the end (Mark Out) point, placing markers at both positions.",
+    "keypoints": [
+      "The user presses the 'I' key on the keyboard -> The 'Mark In' point is set for the current segment -> A marker is placed at the current position in the timeline",
+      "The user presses the 'O' key on the keyboard -> The 'Mark Out' point is set for the current segment -> Another marker is placed at the current position in the timeline, defining the end of the segment"
+    ]
+  },
+  {
+    "question": "In Lossless Cut, how do you control video speed using keyboard shortcuts?",
+    "answer": "Press 'K' to decrease playback speed (slower) and 'L' to increase playback speed (faster), with changes reflected in the rate percentage.",
+    "keypoints": [
+      "The user presses the 'K' key on the keyboard -> The playback rate decreases -> The video plays at a slower speed, as indicated by the reduced playback rate percentage",
+      "The user presses the 'L' key on the keyboard -> The playback rate increases -> The video plays at a faster speed, as indicated by the increased playback rate percentage"
+    ]
+  },
+  {
+    "question": "In Lossless Cut, what keys are used to mark segments and add extra markers?",
+    "answer": "Use 'I' to mark segment start, 'O' to mark segment end, and '+' on the numeric keypad to add additional markers at any timeline position.",
+    "keypoints": [
+      "The user presses the 'I' key on the keyboard -> The 'Mark In' point is set for the current segment -> A marker is placed at the current position in the timeline",
+      "The user presses the 'O' key on the keyboard -> The 'Mark Out' point is set for the current segment -> Another marker is placed at the current position in the timeline, defining the end of the segment",
+      "The user presses the '+' key on the numeric keypad -> A marker is added at the current position in the timeline -> A new marker appears, allowing for further segmentation"
+    ]
+  }
+]

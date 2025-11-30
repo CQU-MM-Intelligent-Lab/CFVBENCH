@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In LosslessCut, how do you start the batch conversion process for multiple video files?",
+    "answer": "First, click the 'Tools' menu at the top of the application window, then select 'Batch convert to supported format' from the dropdown menu to open the file explorer.",
+    "keypoints": [
+      "The user clicks on the 'Tools' menu item located at the top of the application window.",
+      "The user selects the 'Batch convert to supported format' option from the dropdown menu that appears after clicking 'Tools'."
+    ]
+  },
+  {
+    "question": "In LosslessCut, after opening the file explorer for batch conversion, how do you select and confirm multiple video files?",
+    "answer": "Navigate to the target folder, hold the Ctrl key while clicking on the video file names (e.g., 'San Francisco Townhouses 1.wmv' and 'San Francisco Townhouses 2.wmv'), then click the 'Open' button.",
+    "keypoints": [
+      "A file explorer window opens, and the user navigates to a folder containing video files named 'San Francisco Townhouses 1.wmv' and 'San Francisco Townhouses 2.wmv'.",
+      "The user selects both video files by clicking on them while holding down the Ctrl key.",
+      "The user clicks the 'Open' button in the file explorer window."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what setting should be selected for high-quality conversion and how is the process initiated?",
+    "answer": "In the 'Convert to supported format' dialog box, choose the 'Slowest: High quality encode' option, then click 'OK' to start the conversion, which triggers a progress bar.",
+    "keypoints": [
+      "A dialog box titled 'Convert to supported format' appears, displaying options for conversion speed and quality.",
+      "The user selects the 'Slowest: High quality encode' option within the dialog box.",
+      "The user clicks the 'OK' button in the 'Convert to supported format' dialog box.",
+      "A progress bar appears on the screen indicating the batch conversion process, showing the percentage completed as it progresses."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you verify the technical details of a converted file after batch processing?",
+    "answer": "Navigate to the output folder, right-click the converted file (e.g., 'San Francisco Townhouses 1-htm5Sl.webm'), select 'Properties' from the context menu, and review the displayed details like file size, frame dimensions, and bitrate.",
+    "keypoints": [
+      "Once the conversion is complete, the user navigates to the output folder using the file explorer.",
+      "The user right-clicks on the converted file named 'San Francisco Townhouses 1-htm5Sl.webm' and selects 'Properties' from the context menu.",
+      "The properties window displays details such as file size, frame width, frame height, frame rate, data rate, and total bitrate for the converted file."
+    ]
+  }
+]

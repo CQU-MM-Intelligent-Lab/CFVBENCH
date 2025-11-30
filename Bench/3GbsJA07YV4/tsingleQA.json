@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What is the primary objective of OpenAI's Strawberry project?",
+    "answer": "The Strawberry project aims to demonstrate advanced reasoning capabilities in OpenAI's AI models.",
+    "keypoints": [
+      "The Strawberry project aims to demonstrate advanced reasoning capabilities in OpenAI's models."
+    ]
+  },
+  {
+    "question": "What is the current development status and secrecy level of OpenAI's Strawberry project?",
+    "answer": "The Strawberry project is a work in progress with its workings maintained as a tightly kept secret even within OpenAI.",
+    "keypoints": [
+      "The source described Strawberry as a work in progress and stated its workings are a tightly kept secret even within OpenAI."
+    ]
+  },
+  {
+    "question": "What three specific capabilities does the Strawberry project aim to enable in AI systems?",
+    "answer": "The Strawberry project aims to enable AI to plan ahead, navigate the internet autonomously, and reliably perform deep research.",
+    "keypoints": [
+      "An internal OpenAI document suggests Strawberry aims to enable AI to plan ahead, navigate the internet autonomously, and reliably perform \"deep research\"."
+    ]
+  }
+]

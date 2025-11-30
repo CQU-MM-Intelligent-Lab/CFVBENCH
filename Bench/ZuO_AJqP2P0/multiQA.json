@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you set the particle emission to follow the cursor's position?",
+    "answer": "Click on the 'Particle Mode' dropdown menu in the right-side panel and select the 'Point and Shoot' option.",
+    "keypoints": [
+      "The user clicks on the 'Particle Mode' dropdown menu located in the right-side panel of the Adobe Character Animator interface.",
+      "From the 'Particle Mode' dropdown, the option 'Point and Shoot' is selected by a mouse click, changing the particle emission behavior to follow the cursor's position."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when you click, hold, and drag on the canvas in 'Point and Shoot' mode?",
+    "answer": "Particles emit from the clicked location and follow the cursor's movement direction as you drag across the canvas.",
+    "keypoints": [
+      "In the central canvas area, the user clicks and holds at various points, causing particles to emit from those specific locations as directed by the cursor.",
+      "The user drags the cursor across the canvas while holding down the mouse button, demonstrating how particles follow the direction of the cursor movement."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the result of selecting 'Track Mouse' mode and clicking on the canvas?",
+    "answer": "Particles emit from the initial click point and remain fixed at that location without following subsequent cursor movement.",
+    "keypoints": [
+      "The user selects the 'Track Mouse' option from the 'Particle Mode' dropdown, altering the particle emission to remain fixed at the cursor's location without following its movement.",
+      "The user clicks and holds at different positions on the canvas, showing that particles now emit only from the initial click point rather than following the cursor."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you demonstrate 'Canon' mode particle behavior and summarize all mode differences?",
+    "answer": "Switch to 'Canon' mode via the dropdown, click/hold at canvas points to show fixed-direction emission, then navigate particle modes to summarize differences between 'Snow', 'Point and Shoot', 'Track Mouse', and 'Canon'.",
+    "keypoints": [
+      "The user switches back to the 'Canon' mode via the 'Particle Mode' dropdown, resulting in particles emitting in a consistent direction regardless of cursor movement.",
+      "The user clicks and holds at various points on the canvas, illustrating that particles are emitted in a fixed direction determined by the initial setup.",
+      "Finally, the user navigates through the 'Particle Mode' options, summarizing the differences between 'Snow', 'Point and Shoot', 'Track Mouse', and 'Canon' modes."
+    ]
+  }
+]

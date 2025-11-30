@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Based on the map showing tick distribution across the United States, which two tick species transmit Lyme disease in specific regions, and what percentage of cases occurred in the 14 high-risk states in 2015?",
+    "answer": "The Western Blacklegged Tick (Ixodes pacificus) transmits Lyme disease along the western coast, while the Blacklegged Tick (Ixodes scapularis) transmits it in the northeastern and upper midwestern regions. In 2015, 95 percent of confirmed Lyme disease cases occurred in Connecticut, Delaware, Maine, Maryland, Massachusetts, Minnesota, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, and Wisconsin.",
+    "keypoints": {
+      "video": [
+        "A map shows the distribution of Western Blacklegged Ticks (Ixodes pacificus) primarily along the western coast of the United States and Blacklegged Ticks (Ixodes scapularis) predominantly in the northeastern and upper midwestern regions.",
+        "In 2015, 95 percent of confirmed Lyme disease cases were reported from Connecticut, Delaware, Maine, Maryland, Massachusetts, Minnesota, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, and Wisconsin."
+      ],
+      "text": [
+        "The western black-legged tick carries Lyme disease along the Pacific coast, while the black-legged tick carries it in the northeast and upper midwest.",
+        "95% of confirmed Lyme disease cases in the US are reported from 14 specific states, primarily on the Eastern Seaboard."
+      ]
+    }
+  },
+  {
+    "question": "How do NASA images depicting Arctic ice melt and Alaska glacier changes relate to the tripling of Lyme disease cases in the US over two decades?",
+    "answer": "The observed environmental changes in the Arctic and Alaska provide evidence of climate change, which researchers identify as a primary factor in the near-tripling of Lyme disease cases by allowing ticks to survive further north and increase reproduction rates due to warmer winters.",
+    "keypoints": {
+      "video": [
+        "NASA images depict changes in Arctic sea-ice coverage and glacier melt in Alaska over time.",
+        "The reported cases of Lyme disease in the US from 1995 to 2015 show an increasing trend, with confirmed cases peaking at around 36,000 in 2007."
+      ],
+      "text": [
+        "Lyme disease cases in the US have nearly tripled over the last two decades.",
+        "Researchers identify climate change as a primary reason for the increase in ticks and Lyme disease, as warmer winters allow ticks to survive further north and boost their reproduction."
+      ]
+    }
+  },
+  {
+    "question": "Why do deer populations and acorn abundance, as visually documented, significantly impact Lyme disease transmission risks?",
+    "answer": "Increased deer populations provide more hosts for disease-carrying ticks, while abundant acorns (like the bumper crop reported in 2016) lead to larger mouse populations that serve as reservoirs for Lyme-infected ticks, thereby amplifying transmission risks to humans.",
+    "keypoints": {
+      "video": [
+        "Two deer are seen fighting in a grassy field.",
+        "A bumper crop of acorns this year was reported by The Daily Reporter on October 26, 2016."
+      ],
+      "text": [
+        "Increased deer populations due to hunting protections and reforestation of former farmlands in the Northeast provide more hosts for ticks.",
+        "An abundance of acorns leads to larger mouse populations, which serve as hosts for Lyme-infected ticks."
+      ]
+    }
+  },
+  {
+    "question": "What diagnostic challenge noted in The New York Times article complicates Lyme disease treatment, and what critical removal tool is recommended?",
+    "answer": "The New York Times highlights that only 50 to 70 percent of patients recall a tick bite, complicating diagnosis. For attached ticks, the CDC recommends immediate removal with fine-tipped tweezers—a tool included in the tick checklist—to ensure proper extraction.",
+    "keypoints": {
+      "video": [
+        "An article from The New York Times discusses the difficulty in diagnosing Lyme disease, noting that only 50 to 70 percent of patients recall being bitten by a tick.",
+        "A tick checklist includes items such as tick repellent, long socks, light-colored clothing, tweezers, and eagle eye."
+      ],
+      "text": [
+        "Lyme disease can sometimes persist for years after treatment for unknown reasons and is difficult to diagnose.",
+        "An attached tick should be removed immediately using fine-tipped tweezers, not folklore remedies."
+      ]
+    }
+  }
+]

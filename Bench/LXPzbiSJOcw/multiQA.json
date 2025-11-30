@@ -1,0 +1,56 @@
+[
+  {
+    "question": "In Video Editor, how do you enable the audio waveform display and then zoom in to view details when the full waveform isn't visible?",
+    "answer": "First, click the 'View' menu at the top of the window and select the 'Waveform' option to enable the audio waveform display. If the full waveform isn't visible due to video length, hold the Control key while scrolling the mouse wheel to zoom in on the timeline for detailed viewing.",
+    "keypoints": [
+      "The user clicks on the 'View' menu item located at the top of the application window.",
+      "From the dropdown menu, the 'Waveform' option is selected by a mouse click, enabling the audio waveform display within the video timeline.",
+      "The screen displays the waveform for the imported 19-minute video, but due to its length, the full waveform is not visible.",
+      "The user holds down the control key and uses the scroll wheel on the mouse to zoom in on the timeline, allowing detailed viewing of the waveform for precise editing."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you use thumbnail previews to identify specific video sections like logo starts or scene transitions?",
+    "answer": "Select 'Show Thumbnails' from the 'View' menu to enable thumbnail previews in the timeline. These previews provide visual representations of video content, allowing you to identify sections such as logo beginnings or scene transitions for editing.",
+    "keypoints": [
+      "The user selects the 'Show Thumbnails' option from the 'View' menu, which changes the timeline display to show thumbnail previews of the video content.",
+      "With thumbnails enabled, the user can see visual representations of different parts of the video, such as the start of a logo or specific scenes, aiding in identifying sections for editing."
+    ]
+  },
+  {
+    "question": "In Video Editor, what steps are required to open a new video file from the 'Videos' folder?",
+    "answer": "Navigate to the 'File' menu and choose 'Open' to launch the file explorer. Select the desired video file from the 'Videos' folder, click 'Open', and confirm the action in the dialog box to load the video into the editor.",
+    "keypoints": [
+      "The user navigates to the 'File' menu and chooses 'Open', opening a file explorer window.",
+      "In the file explorer, the user selects a video file named 'San Francisco Townhouses.mp4' from the 'Videos' folder and clicks 'Open'.",
+      "After confirming the action in a dialog box, the new video loads into the editing interface, displaying a preview of houses with a city skyline in the background."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do keyframe markers assist in maintaining video clarity during edits?",
+    "answer": "Enable the 'Show Keyframes' option from the 'View' menu to reveal keyframe markers. These markers indicate high-quality frames stored during encoding, serving as reference points for precise cuts and adjustments to maintain video clarity.",
+    "keypoints": [
+      "The user selects the 'Show Keyframes' option from the 'View' menu, revealing keyframe markers along the timeline.",
+      "These markers indicate high-quality frames stored during encoding, providing reference points for maintaining video clarity during edits.",
+      "The user can now use these keyframes as guides for making precise cuts and adjustments in the video."
+    ]
+  },
+  {
+    "question": "In Video Editor, how can you locate audio pauses using the zoomed-in waveform for editing reference?",
+    "answer": "Enable the waveform display via the 'View' menu's 'Waveform' checkbox. Hold Control while scrolling the mouse wheel to zoom in on the timeline, then identify sections with absent waveforms indicating audio pauses for editing reference.",
+    "keypoints": [
+      "The user selects the 'View' option from the menu bar located at the top of the application window.",
+      "The user clicks on the 'Waveform' checkbox within the 'View' dropdown menu, enabling the display of audio waveform data.",
+      "The user holds down the 'Control' key and uses the scroll wheel of the mouse to zoom in on the timeline, allowing for a detailed view of the waveform.",
+      "The user identifies a section of the video where the waveform is absent, indicating a pause in the audio, which can be used as a reference point for editing."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you combine waveform, thumbnails, and key frames for precise video editing?",
+    "answer": "Enable the 'Key Frame' option under the 'View' menu to reveal high-quality frames. Use the waveform for audio analysis, thumbnails for visual content identification, and key frames as cutting guides to ensure accurate edits and maintain video clarity.",
+    "keypoints": [
+      "The user enables the 'Key Frame' option under the 'View' menu, revealing high-quality frames stored during encoding for precise cutting.",
+      "The user utilizes the waveform, thumbnails, and key frame options together to make accurate cuts in the video, ensuring quality and clarity in the final edit."
+    ]
+  }
+]

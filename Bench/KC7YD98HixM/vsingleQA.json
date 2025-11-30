@@ -1,0 +1,51 @@
+[
+  {
+    "question": "What are the death rates per terawatt hour from accidents and air pollution for coal, oil, and nuclear energy?",
+    "answer": "Coal: 25 deaths, oil: 18 deaths, nuclear: 0.07 deaths.",
+    "keypoints": [
+      "Death rates from accidents and air pollution per terawatt hour of energy show coal with 25 deaths, oil with 18 deaths, and nuclear with 0.07 deaths."
+    ]
+  },
+  {
+    "question": "What event prompted renewed calls to close the Indian Point nuclear plant in May 2015 according to The New York Times?",
+    "answer": "A fire.",
+    "keypoints": [
+      "A fire prompted renewed calls to close the Indian Point nuclear plant according to The New York Times on May 12, 2015."
+    ]
+  },
+  {
+    "question": "When did Governor Cuomo confirm a deal to close the Indian Point nuclear plant?",
+    "answer": "January 9, 2017.",
+    "keypoints": [
+      "Governor Cuomo confirmed a deal to close the Indian Point nuclear plant on January 9, 2017."
+    ]
+  },
+  {
+    "question": "What happens to fish in a nuclear plant's water intake system?",
+    "answer": "They are drawn through the grate and grill before being expelled by the pump.",
+    "keypoints": [
+      "Fish can be drawn into the intake system through the grate and grill before being expelled by the pump."
+    ]
+  },
+  {
+    "question": "How did coal, solar PV, and wind energy costs change from 2009 to 2020?",
+    "answer": "Coal decreased from $380 to below $100, solar PV decreased from around $350 to under $50, and wind decreased from approximately $140 to below $60.",
+    "keypoints": [
+      "The cost of energy by source shows a significant decline for coal, solar PV, and wind from 2009 to 2020, with coal decreasing from $380 to below $100, solar PV from around $350 to under $50, and wind from approximately $140 to below $60."
+    ]
+  },
+  {
+    "question": "How did nuclear energy costs change between 2009 and 2020?",
+    "answer": "They remained relatively stable, fluctuating between $100 and $150.",
+    "keypoints": [
+      "Nuclear energy costs have remained relatively stable over the same period, fluctuating between $100 and $150."
+    ]
+  },
+  {
+    "question": "How did natural gas and geothermal energy costs compare to other sources from 2009 to 2020?",
+    "answer": "They showed minor variations but remained consistently lower than nuclear, coal, solar PV, and wind.",
+    "keypoints": [
+      "Natural gas and geothermal sources show minor variations but remain consistently lower than nuclear, coal, solar PV, and wind throughout the years."
+    ]
+  }
+]

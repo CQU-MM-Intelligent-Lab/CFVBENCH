@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In Wix, what are the steps to add a new contact page using the recommended template?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Page' from the dropdown menu, choose the 'Contact' template from the recommended layouts on the left sidebar, and click 'Keep Going' in the confirmation dialog to add the page.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Page' option is selected by a mouse click.",
+      "The user selects the 'Contact' page template from the recommended layouts displayed on the left sidebar.",
+      "A confirmation dialog appears with the message \"Congrats! You have a new page\" and a blue button labeled 'Keep Going'.",
+      "The user clicks on the 'Keep Going' button, resulting in the contact page being added to the website layout."
+    ]
+  },
+  {
+    "question": "In Wix, how do you reorder menu items to place 'FAQ' below 'Contact' in the site navigation?",
+    "answer": "Click the 'Site' menu item in the top navigation bar, then drag the 'FAQ' menu item below the 'Contact' menu item in the site menu section. This updates the menu order to 'Home', 'My Bio', 'Skills', 'FAQ', 'Contact'.",
+    "keypoints": [
+      "The user then clicks on the 'Site' menu item in the top navigation bar.",
+      "Within the site menu section, the user drags the 'FAQ' menu item below the 'Contact' menu item using the mouse cursor.",
+      "The screen displays the updated order of menu items as 'Home', 'My Bio', 'Skills', 'FAQ', 'Contact'."
+    ]
+  }
+]

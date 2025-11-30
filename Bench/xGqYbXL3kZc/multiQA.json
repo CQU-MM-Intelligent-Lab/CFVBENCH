@@ -1,0 +1,86 @@
+[
+    {
+        "question": "According to the Gaza Health Ministry, what was the total number of Palestinian fatalities in the 2023/2024 conflict, and how many targets did the Lavender AI system generate during the same period?",
+        "answer": "The Gaza Health Ministry reported 34,000 Palestinian fatalities, and the Lavender AI system generated up to 37,000 targets.",
+        "keypoints": {
+            "video": [
+                "Palestinians killed in 2023/2024 according to the Gaza Health Ministry total 34,000 fatalities."
+            ],
+            "text": [
+                "The Lavender AI system generated up to 37,000 targets identified as Hamas or Islamic Jihad operatives using historic data and surveillance."
+            ]
+        }
+    },
+    {
+        "question": "What term describes Israel's bombing campaign in Gaza according to +972 Magazine and Local Call investigations, and what technology facilitated the target selection?",
+        "answer": "The term 'mass assassination factory' describes Israel's bombing campaign, and artificial intelligence systems facilitated the target selection.",
+        "keypoints": {
+            "video": [
+                "A mass assassination factory is described as part of Israel's calculated bombing of Gaza, based on an investigation by +972 Magazine and Local Call."
+            ],
+            "text": [
+                "Reports in +972 and Local Call detailed AI systems used by the Israeli military to select bombing targets in Gaza."
+            ]
+        }
+    },
+    {
+        "question": "What is the name of the AI system reported on April 3, 2024, to direct Israel's bombing in Gaza, and how many suspected militants did it identify?",
+        "answer": "The AI system is named Lavender, and it identified up to 37,000 Palestinians as suspected militants.",
+        "keypoints": {
+            "video": [
+                "'Lavender' is identified as the AI machine directing Israel's bombing spree in Gaza, as reported on April 3, 2024."
+            ],
+            "text": [
+                "The Lavender AI system generated up to 37,000 targets identified as Hamas or Islamic Jihad operatives using historic data and surveillance."
+            ]
+        }
+    },
+    {
+        "question": "What was the total number of targets and the number of power targets during the 'Iron Swords' attack, and what proportion of targets were power targets in the first five days of the war?",
+        "answer": "The IDF targeted 2,687 total targets with 1,329 being power targets, and in the first five days of the war, half of all targets identified were power targets.",
+        "keypoints": {
+            "video": [
+                "The IDF targeted 2,687 total targets during the 'Iron Swords' attack, with 1,329 being power targets."
+            ],
+            "text": [
+                "Within the first five days of the war, half of all targets identified were 'power targets'."
+            ]
+        }
+    },
+    {
+        "question": "According to the pie chart, what percentage of IDF targets were likely civilians, and what error rate was reported for the Lavender AI system?",
+        "answer": "The pie chart showed 10% of IDF targets as likely civilians, and the Lavender AI system had a reported error rate of about 10%.",
+        "keypoints": {
+            "video": [
+                "A pie chart shows that 10% of the IDF targets are likely civilians, while 90% are likely Hamas or PIJ targets."
+            ],
+            "text": [
+                "Sources reported Lavender had an error rate of about 10% for its targets."
+            ]
+        }
+    },
+    {
+        "question": "During which period did the Israeli military heavily rely on the Lavender system, and what civilian-to-militant casualty ratio was permitted for junior Hamas operatives?",
+        "answer": "During the first weeks of the war, the Israeli military heavily relied on the Lavender system, and the permitted ratio was 15-20 civilians for every junior Hamas operative.",
+        "keypoints": {
+            "video": [
+                "During the first weeks of the war, the army relied heavily on the Lavender system, which identified up to 37,000 Palestinians as suspected militants."
+            ],
+            "text": [
+                "Sources stated the Israeli military permitted killing 15-20 civilians for every junior Hamas operative marked by Lavender."
+            ]
+        }
+    },
+    {
+        "question": "What is the primary function of the Lavender AI system, and how many suspected militants did it identify during the conflict?",
+        "answer": "The Lavender system marks all suspected operatives in the military wings of Hamas and Palestinian Islamic Jihad, including low-ranking ones, as potential bombing targets, and it identified up to 37,000 suspected militants.",
+        "keypoints": {
+            "video": [
+                "The Lavender system is designed to mark all suspected operatives in the military wings of Hamas and Palestinian Islamic Jihad (PIJ), including low-ranking ones, as potential bombing targets."
+            ],
+            "text": [
+                "The Lavender AI system generated up to 37,000 targets identified as Hamas or Islamic Jihad operatives using historic data and surveillance."
+            ]
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you open the Keyboard Shortcuts dialog to modify key bindings?",
+    "answer": "Click the 'Edit' menu at the top of the application window, then select 'Keyboard Shortcuts...' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'Edit' menu item located at the top of the application window.",
+      "From the 'Edit' dropdown menu, the 'Keyboard Shortcuts...' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after opening the Keyboard Shortcuts dialog, how do you locate and inspect the current shortcut for the 'Set Rest Pose' function?",
+    "answer": "Scroll down to the 'Scene' section in the dialog box and expand it by clicking the arrow next to it, then hover the cursor over the 'Set Rest Pose' shortcut to highlight its current key binding.",
+    "keypoints": [
+      "In the 'Keyboard Shortcuts' dialog box, the user scrolls down to the 'Scene' section and expands it by clicking on the arrow next to it.",
+      "The cursor hovers over the 'Set Rest Pose' shortcut key labeled 'Ctrl+P', highlighting its current setting."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what are the steps to create a custom keyboard layout and assign a new key to the Hand Tool?",
+    "answer": "Click the 'New Keyboard Layout Preset Name' button and enter a name for the new set in the text field, then select the 'Hand Tool' shortcut from the list and press the desired key (e.g., 'G') in its assignment field.",
+    "keypoints": [
+      "A new custom keyboard layout set named 'New Custom Key Set' is created by clicking the 'New Keyboard Layout Preset Name' button and entering the name in the text field.",
+      "The user selects the 'Hand Tool' shortcut key from the list and assigns it to the 'G' key by clicking on the corresponding field and pressing 'G' on the keyboard."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the official user guide to research keyboard shortcut functionalities?",
+    "answer": "Click the 'Help' menu at the top of the application window, then select 'Character Animator User Guide' from the dropdown menu to open the documentation webpage.",
+    "keypoints": [
+      "The user then clicks on the 'Help' menu item at the top of the application window.",
+      "From the 'Help' dropdown menu, the 'Character Animator User Guide' option is selected by a mouse click."
+    ]
+  }
+]

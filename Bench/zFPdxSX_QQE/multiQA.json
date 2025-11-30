@@ -1,0 +1,78 @@
+[
+  {
+    "question": "What major natural disaster prompted the creation of the Thames Barrier, and in what year did it become operational?",
+    "answer": "The North Sea storm of 1953, which caused significant damage, prompted the creation of the Thames Barrier. It became operational in 1984.",
+    "keypoints": {
+      "video": [
+        "The North Sea storm of 1953 caused significant damage and prompted the creation of flood defenses like the Thames Barrier."
+      ],
+      "text": [
+        "The Thames Barrier, a storm surge defense system, opened in 1984 to protect London from catastrophic flooding."
+      ]
+    }
+  },
+  {
+    "question": "How many times was the Thames Barrier closed during Storm Xaver in 2013, and what does this closure frequency indicate about changing weather patterns?",
+    "answer": "The Thames Barrier was closed 50 times during Storm Xaver in 2013. This increased closure frequency reflects more frequent extreme weather events.",
+    "keypoints": {
+      "video": [
+        "In 2013, the Thames Barrier was closed 50 times due to high water levels, a significant increase from the 4 closures in the 1980s.",
+        "The frequency of Thames Barrier closures has increased over time, reflecting more frequent extreme weather events."
+      ],
+      "text": [
+        "During Storm Xaver in 2013, the barrier closed 50 times, preventing fatalities, compared to only four closures total during the 1980s."
+      ]
+    }
+  },
+  {
+    "question": "What organization manages the Thames Barrier, and what three environmental factors does it monitor daily for closure decisions?",
+    "answer": "The Environment Agency manages the Thames Barrier. It monitors North Sea tide levels, river flow, and weather daily to decide when to close the barrier.",
+    "keypoints": {
+      "video": [
+        "The Environment Agency monitors and manages the Thames Barrier to protect against rising sea levels and storm surges."
+      ],
+      "text": [
+        "The UK's Environment Agency monitors North Sea tide levels, river flow, and weather daily to decide when to close the barrier."
+      ]
+    }
+  },
+  {
+    "question": "What are the key specifications of the Thames Barrier's gates regarding water pressure capacity and closure mechanics?",
+    "answer": "Each gate is designed to withstand over 9,000 tons of water pressure, equivalent to almost 118 large swimming pools. Closing all 10 gates takes approximately 90 minutes, with each rising up to 20 meters high.",
+    "keypoints": {
+      "video": [
+        "Each of the nine gates in the Thames Barrier holds 9,000 tons of water, equivalent to the volume of 36 Olympic-sized swimming pools."
+      ],
+      "text": [
+        "Closing all 10 gates takes approximately 90 minutes, with each gate rising up to 20 meters high.",
+        "The gates are designed to withstand over 9,000 tons of water pressure, equivalent to almost 118 large swimming pools."
+      ]
+    }
+  },
+  {
+    "question": "What are the primary components of the Thames Estuary 2100 Plan's timeline, including Phase 1 focus and the proposed new barrier?",
+    "answer": "Phase 1 (until 2035) focuses on maintaining existing infrastructure like the Thames Barrier. The plan includes building a new barrier around 2070, with timing adjustable if sea levels rise faster than projected.",
+    "keypoints": {
+      "video": [
+        "The Thames Estuary 2100 Plan aims to manage flood risk through London and the Thames estuary, as outlined in a consultation document from April 2009."
+      ],
+      "text": [
+        "The Thames Estuary 2100 plan outlines an adaptive approach to upgrade London's flood defenses, with Phase 1 (until 2035) focusing on maintaining existing infrastructure like the Thames Barrier.",
+        "The Thames Estuary 2100 plan includes building a new barrier around 2070, with the timing adjustable if sea levels rise faster than projected."
+      ]
+    }
+  },
+  {
+    "question": "How does the Thames Barrier's protective scope for London compare to its global influence on flood defense systems worldwide?",
+    "answer": "The Thames Barrier protects 1.42 million people and £320 billion worth of residential properties in London. Its success inspired over 50 similar flood barriers worldwide, with cities like New York copying its adaptive management approach.",
+    "keypoints": {
+      "video": [
+        "The Thames Barrier has prevented flooding in London since its construction."
+      ],
+      "text": [
+        "The Thames Barrier protects 1.42 million people and £320 billion worth of residential properties.",
+        "The Thames Barrier's success inspired over 50 similar flood barriers worldwide, and its adaptive management approach is now copied by cities like New York."
+      ]
+    }
+  }
+]

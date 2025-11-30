@@ -1,0 +1,35 @@
+[
+
+  {
+    "question": "Which surfers set consecutive world records for the largest waves surfed at Nazaré between 2011 and 2018, and what were the heights of their record-breaking waves?",
+    "answer": "Garrett McNamara from the U.S. set a world record in 2011 by surfing a 78-foot wave. Rodrigo Koxa from Brazil broke this record in 2017 with an 80-foot wave at Praia do Norte. Maya Gabeira, also from Brazil, set the women's world record in 2018 by riding a 68-foot wave.",
+    "keypoints": {
+      "video": [
+        "Garrett McNamara, a professional surfer from the U.S., successfully rode a 78-foot wave in Nazaré in 2011.",
+        "In 2017, Rodrigo Koxa, a professional surfer from Brazil, surfed an 80-foot wave at Praia do Norte.",
+        "Maya Gabeira, also a professional surfer from Brazil, rode a 68-foot wave in 2018, showcasing the increasing popularity of big wave surfing in Nazaré."
+      ],
+      "text": [
+        "Surfer Garrett McNamara set a new world record by surfing a 78-foot wave at Nazaré, Portugal.",
+        "Brazilian surfer Rodrigo Koxa surfed an 80-foot wave at Nazaré in 2017, breaking McNamara's record.",
+        "Brazilian surfer Maya Gabeira set the women’s world record on a 68-foot wave at Nazaré in 2018 and again in 2020."
+      ]
+    }
+  },
+  {
+    "question": "What impact has big wave surfing tourism had on Nazaré's housing market and local population dynamics since 2011?",
+    "answer": "Big wave surfing tourism has driven a significant increase in hotel guests since 2011, peaking in 2019. However, it also caused housing prices to rise to several hundred thousand euros due to foreign investment, making homes unaffordable for many local families and forcing younger families to leave the community.",
+    "keypoints": {
+      "video": [
+        "The number of hotel guests per year in Nazaré has shown a significant upward trend since 2011, with peaks in 2019 and a slight decline in 2020.",
+        "A billboard advertises apartments for sale in Nazaré, with prices reaching several hundreds of thousands.",
+        "Many younger families are leaving the community due to rising housing costs."
+      ],
+      "text": [
+        "Big wave surfing has driven a significant rise in winter tourism to Nazaré.",
+        "Increased tourism and foreign investment have driven up housing prices in Nazaré, making it unaffordable for many local families.",
+        "Many younger families are leaving Nazaré due to rising costs."
+      ]
+    }
+  }
+]

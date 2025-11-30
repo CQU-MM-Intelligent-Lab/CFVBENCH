@@ -1,0 +1,66 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you start and then pause a walking animation recording?",
+    "answer": "Click the 'Record' button at the bottom of the timeline to start recording, then click the 'Pause' button, also at the bottom of the timeline, to stop the recording.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located at the bottom of the timeline in the video editing software window.",
+      "The recording begins, and the character starts walking to the right side as indicated by the movement of the character's legs and arms.",
+      "The user pauses the recording by clicking the 'Pause' button, which is also located at the bottom of the timeline."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps split a layer and reposition the segment to the timeline start?",
+    "answer": "Select 'Edit' from the top menu bar, choose 'Split' from the dropdown to split the layer at the playhead, then drag the 'Walk' segment to the beginning of the timeline panel to align with the animation start.",
+    "keypoints": [
+      "The user selects the 'Edit' menu item from the top menu bar within the video editing software window.",
+      "From the 'Edit' dropdown menu, the 'Split' option is chosen by a mouse click.",
+      "This action splits the selected layer into two separate segments at the current playhead position.",
+      "The user drags the newly split segment labeled 'Walk' within the timeline panel to adjust its position.",
+      "The cursor moves the segment to the beginning of the timeline, aligning it with the start of the animation."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you position a hand wave animation during a character's idle state?",
+    "answer": "Select the 'Hand Wave' section in the timeline panel and drag it to the character's rest position to ensure it plays while standing still.",
+    "keypoints": [
+      "The user selects the 'Hand Wave' section within the timeline panel using a mouse click.",
+      "The hand wave animation is then dragged to the rest position of the character, ensuring it plays during the character's idle state."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens when you shorten a hand wave animation segment?",
+    "answer": "Dragging the end point of the 'Hand Wave' segment shortens its duration, making the gesture more concise and causing it to occur earlier in the animation sequence.",
+    "keypoints": [
+      "The user adjusts the timing of the hand wave animation by dragging the end point of the 'Hand Wave' segment within the timeline.",
+      "The duration of the hand wave animation is shortened, making the gesture more concise.",
+      "The screen reflects the updated timing, showing the hand wave occurring earlier in the animation sequence."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you undo a layer segmentation and restore animation continuity?",
+    "answer": "Select 'Undo Split' from the 'Edit' menu to rejoin the split segment, restoring the original animation flow without interruptions.",
+    "keypoints": [
+      "The user selects the 'Undo Split' option from the 'Edit' menu after splitting a segment.",
+      "The previously split segment is rejoined, restoring the original continuity of the animation.",
+      "The screen shows the animation playing smoothly without the interruption caused by the split."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process to export an animation named 'My Animation'?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export', type 'My Animation' in the 'File Name' field of the dialog box, then click 'Save'.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export' option is selected by a mouse click.",
+      "The user types 'My Animation' into the text field labeled 'File Name' in the export dialog box.",
+      "The user clicks the 'Save' button in the export dialog box to save the animation file."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what happens after clicking the 'Split' option in the Edit menu?",
+    "answer": "The selected layer splits into two separate segments at the current playhead position.",
+    "keypoints": [
+      "From the 'Edit' dropdown menu, the 'Split' option is chosen by a mouse click.",
+      "This action splits the selected layer into two separate segments at the current playhead position."
+    ]
+  }
+]

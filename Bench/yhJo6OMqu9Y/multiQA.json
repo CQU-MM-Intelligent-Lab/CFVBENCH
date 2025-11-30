@@ -1,0 +1,61 @@
+[
+  {
+    "question": "In Animation Software, what are the first two steps to record character movements?",
+    "answer": "First, click the 'Record' button at the bottom of the screen to initiate the recording countdown. Then, drag the 'Handle (Left Hand)' and 'Handle (Right Hand)' items in the animation workspace to move the character's arms in real-time.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located at the bottom of the screen, initiating a recording countdown.",
+      "The user drags the draggable items labeled 'Handle (Left Hand)' and 'Handle (Right Hand)' within the animation workspace, causing the character's arms to move in real-time as recorded by the software."
+    ]
+  },
+  {
+    "question": "In Animation Software, how do you adjust playback speed to 0.25x and what's the next step using this setting?",
+    "answer": "Select the 'Playback Speed' dropdown in the controls section and change the setting to '0.25x'. Then, click the 'Record' button again to capture movements with enhanced precision at the reduced speed.",
+    "keypoints": [
+      "The user selects the 'Playback Speed' dropdown menu from the controls section and changes the speed setting from '1.0x' to '0.25x', adjusting how the animation plays back.",
+      "The user clicks on the 'Record' button again while the playback speed is set to '0.25x', allowing for precise control over the character's movements during recording."
+    ]
+  },
+  {
+    "question": "In Animation Software, after recording at 0.25x speed, how do you review and play back the animation?",
+    "answer": "Drag the timeline slider along the horizontal bar to review and adjust frames. Then, click the 'Play' button next to the timeline controls to playback the animation at the adjusted speed settings.",
+    "keypoints": [
+      "The user clicks on the 'Record' button again while the playback speed is set to '0.25x', allowing for precise control over the character's movements during recording.",
+      "The user drags the timeline slider along the horizontal bar at the bottom of the screen, reviewing and adjusting the recorded animation frames.",
+      "The user clicks on the 'Play' button located next to the timeline controls, playing back the recorded animation at the adjusted speed settings."
+    ]
+  },
+  {
+    "question": "In Animation Software, how do you start a new recording session and manipulate a character's arms?",
+    "answer": "Click the 'Record' button at the bottom of the application window to begin the countdown. Then, drag the 'Handle (Right Hand)' and 'Handle (Left Hand)' in the central animation area to move the character's arms in real-time.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located at the bottom of the application window, initiating a recording countdown.",
+      "The user drags the draggable items labeled 'Handle (Right Hand)' and 'Handle (Left Hand)' within the central animation area, causing the character's arms to move in real-time as displayed on the screen."
+    ]
+  },
+  {
+    "question": "In Animation Software, how do you slow down recording speed to 0.25x and preview the animation?",
+    "answer": "Adjust the 'Playback and Recording Speed' slider in the properties panel to 0.25x. Then, click the 'Play' button below the timeline to review the character's arm movements in slow motion.",
+    "keypoints": [
+      "The user adjusts the 'Playback and Recording Speed' slider in the properties panel to 0.25x, reducing the speed at which the recording is captured.",
+      "The user selects the 'Play' button below the timeline, playing back the recorded animation at the adjusted speed, showing the character's arm movements in a slowed-down manner."
+    ]
+  },
+  {
+    "question": "In Animation Software, after previewing a slowed animation, how do you stop playback and ensure object visibility?",
+    "answer": "Click the 'Stop' button to halt the animation sequence. Then, set the opacity to 100% for the selected object in the properties panel to ensure full visibility.",
+    "keypoints": [
+      "The user clicks on the 'Stop' button after reviewing the playback, halting the animation sequence.",
+      "The user sets the opacity value to 100% in the properties panel for the selected object, ensuring full visibility of the animated character."
+    ]
+  },
+  {
+    "question": "In Animation Software, what is the full sequence to record, adjust speed, and preview arm movements?",
+    "answer": "Start by clicking the 'Record' button at the application window bottom. Drag both hand handles in the central animation area to move the arms. Adjust the speed slider to 0.25x in properties, then click 'Play' below the timeline to review the slowed movements.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located at the bottom of the application window, initiating a recording countdown.",
+      "The user drags the draggable items labeled 'Handle (Right Hand)' and 'Handle (Left Hand)' within the central animation area, causing the character's arms to move in real-time as displayed on the screen.",
+      "The user adjusts the 'Playback and Recording Speed' slider in the properties panel to 0.25x, reducing the speed at which the recording is captured.",
+      "The user selects the 'Play' button below the timeline, playing back the recorded animation at the adjusted speed, showing the character's arm movements in a slowed-down manner."
+    ]
+  }
+]

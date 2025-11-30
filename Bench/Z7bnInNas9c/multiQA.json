@@ -1,0 +1,55 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you set an initial keyframe for an object's horizontal position at the zero-second mark?",
+    "answer": "First, click the 'Transform' option in the right-side properties panel. Then select 'Position X' and adjust its value. Finally, click the keyframe button next to 'Position X' at the zero-second mark to lock the position.",
+    "keypoints": [
+      "The user clicks on the 'Transform' option located in the right-side properties panel of the software interface.",
+      "The user selects the 'Position X' and 'Position Y' options within the 'Transform' section, which are displayed as adjustable parameters with numerical values.",
+      "The user adjusts the 'Position X' value from -351 to 234 by clicking and dragging the slider or entering a new value directly into the input field.",
+      "The user then sets a keyframe for the adjusted 'Position X' value at the current timeline marker by clicking the keyframe button next to the 'Position X' parameter."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps create a horizontal animation between two keyframes?",
+    "answer": "Set a keyframe for Position X at 0 seconds, advance the timeline to 5 seconds, change the Position X value, and set another keyframe. The object will then smoothly transition between positions during playback.",
+    "keypoints": [
+      "The user then sets a keyframe for the adjusted 'Position X' value at the current timeline marker by clicking the keyframe button next to the 'Position X' parameter.",
+      "The user advances the timeline marker to the five-second mark using the timeline controls at the bottom of the screen.",
+      "At the five-second mark, the user changes the 'Position X' value again, this time setting it to 176.5.",
+      "The user adds another keyframe at the five-second mark for the new 'Position X' value."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add physics-based movement to an animation after setting transform keyframes?",
+    "answer": "Navigate to the 'Physics' section in the properties panel and adjust 'Gravity Strength' and 'Wind Strength' settings. This applies natural motion effects visible during playback.",
+    "keypoints": [
+      "The user continues to adjust other transform parameters such as 'Scale' and 'Rotation', adding keyframes at different points in the timeline to create more complex animations.",
+      "The user navigates to the 'Physics' section in the properties panel and adjusts settings like 'Gravity Strength' and 'Wind Strength' to add natural motion effects to the animation.",
+      "The screen displays the logo responding to the physics settings, creating a more dynamic and realistic movement."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you animate a background layer to move downward over five seconds?",
+    "answer": "Select the 'Background' layer, set a Position Y keyframe at 0 seconds, move to the 5-second mark, change Position Y to -248.51, and observe the downward shift in the preview.",
+    "keypoints": [
+      "The user then selects the 'Background' layer in the timeline panel and sets a keyframe at the zero-second mark by clicking the keyframe button next to the 'Position Y' property.",
+      "The user drags the timeline cursor to the five-second mark and changes the 'Position Y' value to -248.51, causing the background to shift downward in the preview."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure a 2D character to scale up initially and respond to arrow keys?",
+    "answer": "Add a keyframe for the character's Scale property at the timeline start and increase its size. Then enable the 'Walk' trigger in the Triggers section, linking it to arrow keys for movement control.",
+    "keypoints": [
+      "The user adds a keyframe to the '2D Character for Character Animator' layer's 'Transform > Scale' property at the beginning of the timeline and scales it up slightly, creating an animation effect as the timeline plays.",
+      "The user navigates to the 'Triggers' section and enables the 'Walk' trigger, which is linked to the left and right arrow keys, allowing the character to move when these keys are pressed during playback."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the final step to preserve all animation adjustments?",
+    "answer": "Click the 'Save' icon in the top-right corner of the application window to save the project, confirming all keyframes and settings are stored.",
+    "keypoints": [
+      "The user saves the project by clicking the 'Save' icon in the top-right corner of the application window.",
+      "The screen confirms the project has been saved, preserving all the adjustments and keyframes made during the session."
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you import a background image from the 'FB' folder?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Import...' from the dropdown, navigate to the 'FB' folder in the file explorer dialog, select 'Background.ai', and click the 'Import' button.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import...' option is selected by a mouse click.",
+      "In the file explorer dialog box that appears, the user navigates to the folder named 'FB'.",
+      "Within the 'FB' folder, the user selects the file named 'Background.ai'.",
+      "After selecting 'Background.ai', the user clicks the 'Import' button to import the background image into the project."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you position and scale an imported background layer?",
+    "answer": "Use the properties panel on the right side: drag the 'Position X' slider for horizontal placement, drag the 'Position Y' slider for vertical placement, and adjust the 'Scale' slider to fit the image within the scene.",
+    "keypoints": [
+      "The user then adjusts the position of the background layer using the properties panel on the right side of the screen.",
+      "The user drags the 'Position X' slider within the properties panel to adjust the horizontal placement of the background.",
+      "Similarly, the user drags the 'Position Y' slider to adjust the vertical placement of the background.",
+      "The user scales the background image using the 'Scale' slider in the properties panel to fit it properly within the scene."
+    ]
+  }
+]

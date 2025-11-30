@@ -1,0 +1,53 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a new scene camera and where does it appear?",
+    "answer": "Click the 'Scene' tab at the top of the application window, then select 'New Scene Camera' from the dropdown menu. This creates a new camera layer named 'Camera 1' in the timeline panel below existing layers.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the application window.",
+      "From the dropdown menu, the 'New Scene Camera' option is selected by a mouse click.",
+      "A new camera layer named 'Camera 1' appears in the timeline panel below the existing layers."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what settings enable mouse-controlled camera movement and how is smoothness adjusted?",
+    "answer": "Enable the 'Mouse & Touch Input' checkbox under 'Camera Track Behaviors' in the right-hand properties panel, then adjust the 'Smoothing' slider to 30% in the same panel to enhance movement fluidity.",
+    "keypoints": [
+      "The user selects the 'Mouse & Touch Input' checkbox under the 'Camera Track Behaviors' section in the right-hand properties panel.",
+      "The user adjusts the 'Smoothing' slider to 30% within the same properties panel, enhancing the smoothness of the camera movement."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you record mouse-controlled camera animations and where are they stored?",
+    "answer": "After positioning the camera by dragging the playhead and panning with the mouse, click the 'Record' button at the bottom of the screen. Manipulate the camera during recording, then stop the process to see captured movements as keyframes in the timeline.",
+    "keypoints": [
+      "The user drags the playhead along the timeline and uses the mouse to pan around the scene, demonstrating the camera's responsive movement.",
+      "The user clicks the 'Record' button at the bottom of the screen, initiating the recording process for the camera animation.",
+      "During recording, the user continues to manipulate the camera using mouse movements, which are captured as part of the animation.",
+      "After completing the recording, the user stops the recording process, and the recorded camera movements are visible as keyframes in the timeline."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access camera transform settings for a scene?",
+    "answer": "Click the 'Scene' tab at the top of the application window, then select the 'Camera Transform' option from the properties panel on the right side of the screen to enable adjustments.",
+    "keypoints": [
+      "The user clicks on the 'Scene' tab located at the top of the application window, revealing a scene with background animation.",
+      "The user selects the 'Camera Transform' option from the properties panel on the right side of the screen, enabling camera adjustments."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure a triggerable camera shot with interactive controls?",
+    "answer": "Click 'Create Triggerable Shot' in the properties panel to set up a new camera shot, then enable the 'Mouse & Touch Input' option under 'Camera Track Behaviors' to allow interactive control.",
+    "keypoints": [
+      "The user clicks on the 'Create Triggerable Shot' button in the properties panel, setting up a new camera shot for the scene.",
+      "The user enables the 'Mouse & Touch Input' option under 'Camera Track Behaviors,' allowing interactive camera control using mouse or touch input."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you test mouse-driven camera zoom and pan functions after enabling input?",
+    "answer": "Zoom in and out using the scroll wheel while hovering over the scene preview area, and pan by clicking and dragging within the same area to demonstrate dynamic camera control.",
+    "keypoints": [
+      "The user zooms in and out using the scroll wheel while hovering over the scene preview area, demonstrating dynamic camera scaling.",
+      "The user pans around the scene by clicking and dragging within the scene preview area, showcasing the effect of the enabled mouse and touch input settings."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How did the Texas Palmer Drought Severity Index and temperature trends change between 1900-2000 and since 1972, and what were the consequences for Gene Gully's cotton crop?",
+    "answer": "The Texas Palmer Drought Severity Index showed significantly increased drought severity from 1900 to 2000 with peak conditions around 2000, while temperatures rose by 5.7°F per century since 1972. Consequently, Gene Gully's cotton crop in West Texas failed completely, leaving bare, bone-dry soil.",
+    "keypoints": {
+      "video": [
+        "The Texas Palmer Drought Severity Index shows a significant increase in drought severity from 1900 to 2000, with the most severe conditions occurring around 2000.",
+        "Texas's annual average temperature has risen by 5.7°F per century since 1972, as indicated by the trend line on the graph."
+      ],
+      "text": [
+        "Tree ring data and modern records indicate Texas droughts are becoming hotter and more severe over time.",
+        "Gene's cotton crop in West Texas failed completely, leaving bare, bone-dry soil on nearly every acre."
+      ]
+    }
+  },
+  {
+    "question": "What operational constraints apply to cloud seeding based on meteorological requirements, and how did public concerns manifest in Northern New Mexico?",
+    "answer": "Cloud seeding only enhances rainfall when preexisting clouds are present and cannot create rain in dry conditions. In Northern New Mexico, public concerns about environmental safety and funding were highlighted in a Taos News article discussing regulatory issues and objections to a proposed project.",
+    "keypoints": {
+      "video": [
+        "A news article titled 'Cloud seeding plan meets opposition' discusses public concerns regarding a proposed cloud seeding project.",
+        "The text from Taos News highlights regulatory issues and public objections related to cloud seeding plans in Northern New Mexico."
+      ],
+      "text": [
+        "Cloud seeding only enhances rainfall when clouds are already present; it cannot create rain during completely dry conditions.",
+        "Some residents in New Mexico have expressed concerns about cloud seeding regarding environmental safety and funding."
+      ]
+    }
+  }
+]

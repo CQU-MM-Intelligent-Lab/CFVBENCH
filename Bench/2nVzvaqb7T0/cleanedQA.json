@@ -1,0 +1,28 @@
+[
+  {
+    "question": "How did the operational disruptions at Delta Airlines, evidenced by passenger queues at curbside check-in and flight cancellations on its information board, contribute to JetBlue Airways raising its current quarter revenue forecast?",
+    "answer": "The operational disruptions at Delta Airlines created increased demand for JetBlue Airways as travelers sought unaffected airlines during the global cyber outage, which directly contributed to JetBlue raising its current quarter revenue forecast.",
+    "keypoints": {
+      "video": [
+        "An arrivals board shows flight information for Delta Airlines, including canceled and on-time flights."
+      ],
+      "text": [
+        "JetBlue Airways raised its current quarter revenue forecast.",
+        "JetBlue Airways benefited from demand from people trying to avoid a global cyber outage."
+      ]
+    }
+  },
+  {
+    "question": "What factors led to JetBlue Airways' taxiing aircraft and continued operations while Delta Airlines experienced cancellations shown on flight information boards?",
+    "answer": "JetBlue Airways maintained operations due to avoiding the impacts of the CrowdStrike cyber outage that caused Delta's cancellations, as JetBlue benefited from increased demand from travelers seeking reliable alternatives.",
+    "keypoints": {
+      "video": [
+        "A JetBlue airplane is taxiing on the runway, preparing for takeoff."
+      ],
+      "text": [
+        "JetBlue Airways benefited from demand from people trying to avoid a global cyber outage.",
+        "The CrowdStrike outage led to thousands of delays and cancellations at Delta and other carriers."
+      ]
+    }
+  }
+]

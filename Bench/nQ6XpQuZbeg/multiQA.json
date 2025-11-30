@@ -1,0 +1,30 @@
+[
+  {
+    "question": "In Adobe Photoshop, how do you save modifications to a puppet file and what is the effect in Character Animator?",
+    "answer": "Click the 'File' menu at the top-left corner and select 'Save'. This updates the Photoshop file and automatically reflects the changes in Character Animator's puppet model.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located at the top-left corner of the Photoshop window.",
+      "The user selects the 'Save' option from the dropdown menu to save the edited Photoshop file.",
+      "The changes made to Chad's puppet are saved, updating the character in Character Animator accordingly."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you open a specific puppet file using the File menu navigation?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Open' (the second menu item), navigate to the target folder in the file explorer dialog, and double-click the desired file (e.g., 'Chloe (Photoshop)').",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Open' option from the dropdown menu, which is the second item listed under the 'File' menu.",
+      "A file explorer dialog box appears, and the user navigates to a folder containing character files.",
+      "The user double-clicks on the file named 'Chloe (Photoshop)' to open it within the application."
+    ]
+  },
+  {
+    "question": "In Adobe Photoshop, how do you change a puppet's hair to a yellowish tone and quickly save during editing?",
+    "answer": "Select the hair layer, adjust the hue and saturation sliders to achieve a yellowish tone, then press 'Ctrl + S' to save the modifications without using menu navigation.",
+    "keypoints": [
+      "The user adjusts the hue and saturation settings for the hair layer by selecting the 'Hue/Saturation' adjustment tool from the toolbar.",
+      "The user changes the hair color to a yellowish tone by adjusting the sliders in the Hue/Saturation adjustment window.",
+      "After making adjustments, the user saves the changes in Photoshop using the 'Ctrl + S' keyboard shortcut."
+    ]
+  }
+]

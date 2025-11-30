@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What are the specific layers composing modern undersea fiber optic cables, and how does their size compare to a common household item?",
+    "answer": "Modern undersea fiber optic cables consist of layers including polycarbonate, copper or aluminum tubes, petroleum jelly, optical fibers, an aluminum water barrier, stranded metal wires, Mylar tape, and polyethylene. Each cable is approximately the size of a soda can.",
+    "keypoints": {
+      "video": [
+        "Submarine cables are composed of layers including polycarbonate, copper or aluminum tubes, petroleum jelly, optical fibers, an aluminum water barrier, stranded metal wires, Mylar tape, and polyethylene."
+      ],
+      "text": [
+        "An individual undersea cable is approximately the size of a soda can."
+      ]
+    }
+  },
+  {
+    "question": "Why do undersea cables require maintenance by divers, and what natural threats compromise their integrity?",
+    "answer": "Undersea cables require maintenance by divers due to their vulnerability to damage from natural threats such as earthquakes and shark bites, which can disrupt critical global data transmission infrastructure.",
+    "keypoints": {
+      "video": [
+        "Underwater scenes show divers working on submarine cables, highlighting the challenges of maintaining these critical infrastructure components."
+      ],
+      "text": [
+        "Undersea cables are protected by layers including petroleum jelly (Vaseline) but remain vulnerable to earthquakes and shark bites."
+      ]
+    }
+  },
+  {
+    "question": "How many undersea fiber optic cables carry international data traffic, and which geographic regions exhibit the highest cable density according to global maps?",
+    "answer": "Approximately 300 undersea fiber optic cables carry 99% of international data traffic, with the highest density of connections concentrated around Europe and North America.",
+    "keypoints": {
+      "video": [
+        "A map shows submarine cables linking various parts of the world, with dense connections around Europe and North America."
+      ],
+      "text": [
+        "Approximately 300 undersea fiber optic cables carry 99% of international data traffic.",
+        "These undersea cables are the backbone of the internet and are placed by private companies."
+      ]
+    }
+  },
+  {
+    "question": "What alternative internet delivery technologies have Google X and Facebook developed, and why do they continue relying on undersea cables for core operations?",
+    "answer": "Google X and Facebook have developed high-altitude drones and balloons for internet access, supplemented by satellite networks. However, both companies continue relying on undersea cables for high-speed international data transmission due to their superior bandwidth and reliability.",
+    "keypoints": {
+      "video": [
+        "Google X and Facebook have developed high-altitude drones and balloons to provide internet access in remote areas.",
+        "Satellites orbiting Earth also play a role in global communication networks, extending internet coverage worldwide."
+      ],
+      "text": [
+        "Alternatives to undersea cables include internet beamed from Facebook satellites and Google balloons.",
+        "Companies like Facebook and Google continue to rely on undersea cables for high-speed international data transmission."
+      ]
+    }
+  }
+]

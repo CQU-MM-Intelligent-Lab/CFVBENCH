@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you configure particle effects to 'Snow' mode for the 'Shapes' layer using the timeline and properties panel?",
+    "answer": "First, select the 'Shapes' layer in the timeline at the bottom of the screen to highlight it in blue. Then, in the 'Properties' panel on the right, select the 'Layer 12 (Layer)' option highlighted in white. Finally, change the 'Particle Mode' dropdown to 'Snow' within the same panel.",
+    "keypoints": [
+      "The user selects the 'Shapes' layer from the timeline located at the bottom of the screen, highlighting it in blue.",
+      "The user clicks on the 'Properties' panel on the right side of the screen and selects the 'Layer 12 (Layer)' option, which is highlighted in white.",
+      "The user adjusts the 'Particle Mode' dropdown menu within the 'Properties' panel to select 'Snow', changing the default setting from 'Point'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps increase particle density and enable collision physics before previewing the animation?",
+    "answer": "Drag the 'Particles Per Second' slider in the 'Properties' panel to increase particle count. Then, check the 'Collide' checkbox under the 'Physics' section. Finally, click the play button at the bottom center to preview particles falling and colliding with platforms.",
+    "keypoints": [
+      "The user drags the 'Particles Per Second' slider within the 'Properties' panel to increase its value, causing more particles to appear on the canvas.",
+      "The user clicks on the 'Collide' checkbox under the 'Physics' section in the 'Properties' panel, enabling collision behavior for the selected layer.",
+      "The user clicks the play button located at the bottom center of the screen, initiating the animation and showing the particles falling down and colliding with the platforms."
+    ]
+  }
+]

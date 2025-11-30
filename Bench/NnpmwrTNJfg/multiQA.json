@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In LosslessCut, what steps are required to move the downloaded executable to the Program Files directory?",
+    "answer": "Right-click the \"LosslessCut-win.exe\" file in Downloads and select \"Copy\", then open the C drive, navigate to \"Program Files\", create a new folder named \"LosslessCut\", and paste the file into this folder.",
+    "keypoints": [
+      "The user right-clicks on the \"LosslessCut-win.exe\" file and selects \"Copy\" from the context menu.",
+      "The user opens the C drive and navigates to the \"Program Files\" directory.",
+      "The user creates a new folder named \"LosslessCut\" within the \"Program Files\" directory.",
+      "The user pastes the copied \"LosslessCut-win.exe\" file into the newly created \"LosslessCut\" folder."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you create a desktop shortcut when Windows prevents shortcut creation in Program Files?",
+    "answer": "Right-click the \"LosslessCut-win.exe\" file in the \"LosslessCut\" folder, select \"Create shortcut\", then click \"Yes\" when prompted to place the shortcut on the desktop instead.",
+    "keypoints": [
+      "The user right-clicks on the \"LosslessCut-win.exe\" file within the \"LosslessCut\" folder and selects \"Create shortcut\" from the context menu.",
+      "A dialog box appears stating \"Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?\" The user clicks \"Yes\".",
+      "The shortcut for LosslessCut is created on the desktop."
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question": "How many young adults are at risk of permanent hearing loss due to unsafe listening practices?",
+    "answer": "Over 1 billion young adults are at risk of permanent hearing loss due to unsafe listening practices.",
+    "keypoints": [
+      "Over 1 billion young adults are at risk of permanent hearing loss due to unsafe listening practices."
+    ]
+  },
+  {
+    "question": "What annual investment per person does the World Health Organization recommend for scaling up global hearing care services?",
+    "answer": "The World Health Organization recommends an annual investment of US$ 1.40 per person to scale up hearing care services globally.",
+    "keypoints": [
+      "The World Health Organization recommends an annual investment of US$ 1.40 per person to scale up hearing care services globally."
+    ]
+  },
+  {
+    "question": "At what noise exposure level does OSHA require employers to implement a hearing conservation program?",
+    "answer": "OSHA requires employers to implement a hearing conservation program when noise exposure is at or above 85 decibels averaged over 8 working hours.",
+    "keypoints": [
+      "OSHA requires employers to implement a hearing conservation program when noise exposure is at or above 85 decibels averaged over 8 working hours."
+    ]
+  },
+  {
+    "question": "How does passive noise cancellation reduce ambient sound?",
+    "answer": "Passive noise cancellation reduces ambient sound through physical barriers.",
+    "keypoints": [
+      "Passive noise cancellation reduces ambient sound through physical barriers."
+    ]
+  },
+  {
+    "question": "How does active noise cancellation work to eliminate environmental sounds?",
+    "answer": "Active noise cancellation uses microphones to listen to the environment and generate anti-waves that cancel out environmental sounds.",
+    "keypoints": [
+      "Active noise cancellation uses microphones to listen to the environment and generate anti-waves that cancel out environmental sounds."
+    ]
+  },
+  {
+    "question": "How are sound waves converted into electrical signals for the brain during hearing?",
+    "answer": "Sound waves travel from headphones through the ear canal to the cochlea, where they are converted into electrical signals for the brain to interpret.",
+    "keypoints": [
+      "Sound waves travel from the headphones through the ear canal to the cochlea, where they are converted into electrical signals for the brain to interpret."
+    ]
+  }
+]

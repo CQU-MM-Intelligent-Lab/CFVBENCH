@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In Puppet, what is the process to create a clipping mask for a layer in the Shapes section?",
+    "answer": "To create a clipping mask, first select the desired layer in the 'Shapes' section of the left sidebar to highlight it. Then, right-click on the layer to open a context menu. Finally, select 'Create Clipping Mask' from the menu to mask the layer with the layer beneath it, altering its visibility based on the underlying layer's shape.",
+    "keypoints": [
+      "The user clicks on the 'Layer 3' entry in the 'Shapes' section of the left sidebar",
+      "The layer is highlighted, indicating it has been selected.",
+      "The user right-clicks on 'Layer 3' within the 'Shapes' section",
+      "A context menu appears with options including 'Swap All Left & Right Tags', 'Create Clipping Mask', and 'Release Clipping Mask'.",
+      "The user selects 'Create Clipping Mask' from the context menu",
+      "The screen shows that Layer 3 is now masked by the layer beneath it, altering its visibility according to the underlying layer's shape."
+    ]
+  },
+  {
+    "question": "In Puppet, how do you release a clipping mask applied to a layer in the Shapes section?",
+    "answer": "To release a clipping mask, first select the layer in the 'Shapes' section of the left sidebar to highlight it. Then, right-click on the layer to open a context menu. Finally, select 'Release Clipping Mask' from the menu to remove the mask and restore the layer's original visibility.",
+    "keypoints": [
+      "The user selects 'Layer 3' in the 'Shapes' section of the left sidebar",
+      "The layer is highlighted, indicating it has been selected.",
+      "The user right-clicks on 'Layer 3' within the 'Shapes' section",
+      "A context menu appears with options including 'Swap All Left & Right Tags', 'Create Clipping Mask', and 'Release Clipping Mask'.",
+      "The user selects 'Release Clipping Mask' from the context menu",
+      "The screen shows that Layer 3 is no longer masked, restoring its original visibility."
+    ]
+  }
+]

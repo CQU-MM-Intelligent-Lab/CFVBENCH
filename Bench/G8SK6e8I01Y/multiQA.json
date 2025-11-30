@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Why can the cone of uncertainty in hurricane tracking maps be misleading, and what specific hazard risk exists outside this cone according to Hurricane Milton's analysis?",
+    "answer": "The cone of uncertainty can be misleading because it only shows the probable path of the storm's center and omits the storm's full impact area, particularly failing to depict hazardous conditions outside the cone. For Hurricane Milton, the highest storm surge threat occurred south of the storm's center, demonstrating that destructive surges can happen outside the cone.",
+    "keypoints": {
+      "video": [
+        "The cone of uncertainty in hurricane tracking maps indicates the probable path of a storm's center but does not show the storm's size, with hazardous conditions possible outside the cone.",
+        "In the storm surge threat map for Hurricane Milton, the area south of the storm's center experienced destructive storm surges, while areas north saw little to no surge."
+      ],
+      "text": [
+        "The \"cone of uncertainty\" diagram shows the potential paths a tropical storm's center might take but does not depict the storm's full impact area.",
+        "Forecast diagrams focusing solely on the \"cone of uncertainty\" can be misleading by omitting the wider potential impact areas, especially for locations to the right of the storm's projected path."
+      ]
+    }
+  }
+]

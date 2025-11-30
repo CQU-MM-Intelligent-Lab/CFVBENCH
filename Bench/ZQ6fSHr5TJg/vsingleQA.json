@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How is child poverty represented on the Phoenix map?",
+    "answer": "Different shades indicate varying levels of child poverty across regions in Phoenix.",
+    "keypoints": [
+      "The map displayed on the computer screen shows various regions in Phoenix with different shades indicating varying levels of child poverty."
+    ]
+  },
+  {
+    "question": "What is the annual household income in Central City South, Phoenix?",
+    "answer": "$19,000",
+    "keypoints": [
+      "Central City South in Phoenix has an annual household income of $19,000, with one in four households not owning a car."
+    ]
+  },
+  {
+    "question": "What proportion of households in Central City South, Phoenix, lack a car?",
+    "answer": "One in four households do not own a car.",
+    "keypoints": [
+      "Central City South in Phoenix has an annual household income of $19,000, with one in four households not owning a car."
+    ]
+  },
+  {
+    "question": "Which Arizona zip code recorded the highest rate of heat-related illness in 2017?",
+    "answer": "85007",
+    "keypoints": [
+      "The highest rate of heat-related illness in Arizona was recorded in 2017 within the 85007 zip code area."
+    ]
+  }
+]

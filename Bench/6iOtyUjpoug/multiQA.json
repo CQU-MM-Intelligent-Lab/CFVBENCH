@@ -1,0 +1,53 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you open the Characterizer tool?",
+    "answer": "Click the 'File' menu in the top-left corner of the application window, then select 'Open Characterizer' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Open Characterizer' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to select an image for character creation in the Characterizer?",
+    "answer": "Click the 'More Options' button below 'Create New Capture...' in the Characterizer window, then choose 'Select an Image...' from the dropdown menu.",
+    "keypoints": [
+      "In the 'Characterizer' window, the user clicks on the 'More Options' button located below the 'Create New Capture...' button.",
+      "The user selects the 'Select an Image...' option from the dropdown menu that appears after clicking 'More Options'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you load a specific image file after opening the file explorer in Characterizer?",
+    "answer": "Navigate to the target folder in the file explorer window, select the desired image file (e.g., 'Sally Bert.jpg'), and click the 'Open' button.",
+    "keypoints": [
+      "A file explorer window opens, and the user navigates to the folder containing the image files.",
+      "The user selects the image file named 'Sally Bert.jpg' and clicks the 'Open' button."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what settings adjustments are required in the Characterizer before generating a puppet?",
+    "answer": "Adjust the 'Stylization' slider, change the 'Cycles' setting using its dropdown menu, set the 'Resolution' via dropdown, select a quality option from the dropdown, and enable the 'Head Turns' checkbox in the 'SETTINGS' panel.",
+    "keypoints": [
+      "The user adjusts the 'Stylization' slider within the 'SETTINGS' panel to change the stylization level of the character.",
+      "The user changes the 'Cycles' setting from 1 to 2 using the dropdown menu in the 'SETTINGS' panel.",
+      "The user sets the 'Resolution' to 480 px using the dropdown menu in the 'SETTINGS' panel.",
+      "The user selects the 'Low (draft)' quality option from the dropdown menu in the 'SETTINGS' panel.",
+      "The user checks the 'Head Turns' checkbox in the 'SETTINGS' panel."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you prepare a generated puppet for animation recording?",
+    "answer": "Drag the puppet from the preview area into the timeline labeled 'Drop puppets here to create a scene', then click the 'Set Rest Pose' button in the 'Camera & Microphone' section.",
+    "keypoints": [
+      "The user drags the generated puppet into the timeline area labeled 'Drop puppets here to create a scene'.",
+      "The user clicks on the 'Set Rest Pose' button located in the 'Camera & Microphone' section on the right side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you save a recorded animation after playback?",
+    "answer": "After the animation plays back in the preview area, select the 'Export' option from the 'File' menu to save it as a video file.",
+    "keypoints": [
+      "The recorded animation plays back in the preview area, showing the character's movements and expressions.",
+      "The user clicks on the 'Export' option in the 'File' menu to save the recorded animation as a video file."
+    ]
+  }
+]

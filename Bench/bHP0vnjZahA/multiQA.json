@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Wix, how do you add a new section to a webpage and what is the immediate result?",
+    "answer": "Click the 'Add' button in the top navigation bar, select 'Section' from the dropdown menu, and a new section will appear below the existing content on the webpage.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "From the dropdown menu, the 'Section' option is selected by a mouse click.",
+      "A new section titled \"Features for Our Clients\" appears below the existing content on the webpage."
+    ]
+  },
+  {
+    "question": "In Wix, what steps are required to edit a feature item and display its subtitle in a section?",
+    "answer": "Click the 'Edit' button in the section's toolbar, then select the desired item (e.g., 'Family Business') under the 'Features' section in the left sidebar. The item's text will display as a subtitle in the feature section.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button within the newly added section's toolbar.",
+      "In the left sidebar under the 'Features' section, the user selects the 'Family Business' item from the list.",
+      "The text \"Family Business\" is displayed as an item subtitle within the feature section on the main page."
+    ]
+  }
+]

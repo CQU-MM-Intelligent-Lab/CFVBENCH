@@ -1,0 +1,46 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you enable Mercury Transmit for live streaming output?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Preferences' from the 'Edit' dropdown, navigate to the 'Live Output' tab, and check the 'Enable Mercury Transmit' checkbox.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'Edit' dropdown menu, the 'Preferences' option is selected by a mouse click.",
+      "In the 'Preferences' dialog box, the user navigates to the 'Live Output' tab using the left panel.",
+      "Within the 'Live Output' section, the checkbox labeled 'Enable Mercury Transmit' is checked by clicking it."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps configure the NDI output source after enabling Mercury Transmit?",
+    "answer": "After enabling Mercury Transmit, click the 'Setup...' button next to the checkbox, select 'Adobe Character Animator' from the NDI source list in the new window, then click 'OK' to confirm.",
+    "keypoints": [
+      "After enabling 'Mercury Transmit', the user clicks on the 'Setup...' button next to the checkbox.",
+      "A new window opens displaying options for selecting an NDI output source. The user selects 'Adobe Character Animator' from the list.",
+      "The user then clicks 'OK' to confirm the selection and close the setup window."
+    ]
+  },
+  {
+    "question": "In OBS, how do you integrate Adobe Character Animator as an NDI source for live streaming?",
+    "answer": "Click the 'Add' button in OBS, select 'NDI source' from the list, choose 'Adobe Character Animator' from the NDI source options. A red rectangle around the preview confirms activation.",
+    "keypoints": [
+      "The user configures OBS software by clicking on the 'Add' button and selecting 'NDI source' from the list to integrate with Adobe Character Animator.",
+      "The user selects the 'Adobe Character Animator' option from the NDI source list in the OBS software interface.",
+      "A red rectangle appears around the character animation preview in the OBS window, indicating it has been selected as the active source."
+    ]
+  },
+  {
+    "question": "In OBS, what is required to stream Adobe Character Animator output to Facebook Live?",
+    "answer": "Copy the stream key from Facebook Live, paste it into the 'Stream Key' field in OBS settings under the 'Stream' tab, then click 'Start Streaming'.",
+    "keypoints": [
+      "The user copies the stream key from the Facebook Live page and pastes it into the 'Stream Key' field within the OBS settings under the 'Stream' tab.",
+      "The user clicks on the 'Start Streaming' button in OBS to begin sending the live feed to Facebook."
+    ]
+  },
+  {
+    "question": "In Facebook Live Producer, how do you initiate a live broadcast with Adobe Character Animator content?",
+    "answer": "Select the target destination (e.g., 'Tutor Tube') from the 'Post' dropdown menu, then click the 'Go Live Now' button at the bottom of the page.",
+    "keypoints": [
+      "The user selects the 'Tutor Tube' option from the 'Post' dropdown menu within the 'Live Producer' settings to specify where the live content will be posted.",
+      "The user clicks on the 'Go Live Now' button located at the bottom of the Facebook Live Producer page."
+    ]
+  }
+]

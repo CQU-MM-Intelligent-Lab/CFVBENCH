@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In Video Capture Tool, what are the initial steps to capture and verify a frame from the start of a video?",
+    "answer": "First, drag the cursor to the beginning of the video timeline at the bottom of the screen. Then, click the 'Capture Frame' button in the bottom right corner to export the frame. A notification will confirm the JPG file export with a name like 'San Francisco Townhouses-00:00:00.000.jpg'.",
+    "keypoints": [
+      "The user drags the cursor to a specific point in the video timeline located at the bottom of the screen, positioning it at the beginning of the video.",
+      "The user clicks on the 'Capture Frame' button located at the bottom right corner of the application window, which exports the photo from the current timeline position.",
+      "A notification appears indicating that the photo has been exported and saved as a JPG file named 'San Francisco Townhouses-00:00:00.000.jpg'."
+    ]
+  },
+  {
+    "question": "In Video Capture Tool, after capturing an initial frame, how do you open it and prepare to capture another moment?",
+    "answer": "Double-click the exported JPG file in the file explorer to open it in a viewer application. Then, navigate to a new moment using the scrubber tool on the video timeline.",
+    "keypoints": [
+      "The user double-clicks on the exported JPG file within the file explorer window, opening the image in a viewer application.",
+      "The user navigates through the video timeline using the scrubber tool, selecting another moment for frame capture."
+    ]
+  }
+]

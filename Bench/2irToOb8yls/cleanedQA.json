@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What position was Robert F. Kennedy Jr. selected for by Donald Trump, and at what type of government event and on what date was Kennedy shown speaking prior to this appointment?",
+    "answer": "Donald Trump selected Robert F. Kennedy Jr. to lead the U.S. Department of Health and Human Services. Kennedy was shown speaking at a congressional hearing on July 20, 2023.",
+    "keypoints": {
+      "video": [
+        "Mr. Kennedy speaks at a podium during a congressional hearing on July 20, 2023."
+      ],
+      "text": [
+        "Donald Trump announced on Thursday that he selected Robert F. Kennedy Jr. to lead the U.S. Department of Health and Human Services."
+      ]
+    }
+  },
+  {
+    "question": "What information about measles is provided in the pamphlet titled 'MEASLES What Parents Need to Know', and what two specific vaccine-related positions has Robert F. Kennedy Jr. taken that contradict mainstream medical consensus?",
+    "answer": "The pamphlet states that measles is a self-limiting childhood viral infection. Robert F. Kennedy Jr. has been criticized for claiming vaccines are linked to autism and has expressed doubts about the efficacy of measles vaccines.",
+    "keypoints": {
+      "video": [
+        "A pamphlet titled 'MEASLES What Parents Need to Know' explains that measles is a self-limiting childhood viral infection."
+      ],
+      "text": [
+        "Robert F. Kennedy Jr. has been criticized for making false medical claims, including that vaccines are linked to autism.",
+        "Robert F. Kennedy Jr. doubted the efficacy of vaccines for measles."
+      ]
+    }
+  }
+]

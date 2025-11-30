@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the Audio Hardware settings in Preferences?",
+    "answer": "First, click the 'Edit' menu at the top of the application window. Then select 'Preferences' from the dropdown menu, and navigate to the 'Audio Hardware' tab in the Preferences dialog box.",
+    "keypoints": [
+      "The user clicks on the 'Edit' menu item located at the top of the application window.",
+      "From the 'Edit' dropdown menu, the 'Preferences' option is selected by a mouse click.",
+      "In the 'Preferences' dialog box, the user selects the 'Audio Hardware' tab."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps configure audio input/output devices and set latency in the Audio Hardware tab?",
+    "answer": "Change the 'Device Class' dropdown to your desired audio device. Then select the appropriate input device from the 'Default Input' dropdown (e.g., 'Line In (2 - Realtek(R) Audio)'), choose the correct output device from the 'Default Output' dropdown (e.g., 'Speakers (2 - Realtek(R) Audio)'), and adjust the 'Latency' slider to your preferred value (such as 200).",
+    "keypoints": [
+      "The user changes the 'Device Class' dropdown from 'MME' to another audio device class.",
+      "The cursor selects the 'Default Input' dropdown and chooses an input device labeled 'Line In (2 - Realtek(R) Audio)'.",
+      "The user then selects the 'Default Output' dropdown and chooses an output device labeled 'Speakers (2 - Realtek(R) Audio)'.",
+      "The user adjusts the 'Latency' slider within the 'Preferences' window to a value of 200."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you adjust lip sync sensitivity and muting settings after configuring audio hardware?",
+    "answer": "Navigate to the 'Lip Sync' tab in Preferences. Increase sensitivity by adjusting the 'Variance Detection' slider upward, then set the 'Camera-based Muting' option to 'Strong' for stricter voice-activated muting.",
+    "keypoints": [
+      "The user navigates to the 'Lip Sync' tab within the 'Preferences' window.",
+      "The user adjusts the 'Variance Detection' slider to increase sensitivity.",
+      "The user sets the 'Camera-based Muting' option to 'Strong'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable live output on a monitor and save all preference changes?",
+    "answer": "Go to the 'Live Output' tab and select the checkbox for your target monitor (e.g., 'Adobe Monitor 1: 1920 x 1080'). Then click 'OK' to save all configuration changes across all tabs.",
+    "keypoints": [
+      "The user selects the 'Adobe Monitor 1: 1920 x 1080' checkbox under the 'Live Output' tab in the 'Preferences' window.",
+      "The user clicks the 'OK' button to save all changes made in the 'Preferences' window."
+    ]
+  }
+]

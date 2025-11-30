@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In Wix, what steps are required to change the layout of a featured product section?",
+    "answer": "Click the 'Design' tab in the 'Product Widget' panel, then select a new layout option from the 'Section Design' panel.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab within the 'Product Widget' settings panel.",
+      "The user selects a new layout design for the featured product section from the options presented in the 'Section Design' panel on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Wix, how does the featured product section change after selecting a new layout design?",
+    "answer": "The layout rearranges to show the product image on the left and product details (including price and 'Buy Now' button) on the right.",
+    "keypoints": [
+      "The user selects a new layout design for the featured product section from the options presented in the 'Section Design' panel on the left side of the screen.",
+      "The layout changes to show the product image on the left and the product details on the right, including the price 'Rs20.00' and the 'Buy Now' button."
+    ]
+  },
+  {
+    "question": "In Wix, what sequence of actions configures both product selection and layout for a new featured section?",
+    "answer": "First connect a product via the 'Connect to' dropdown, then switch to the 'Design' tab to choose a layout. This updates the section to display the product with the selected design.",
+    "keypoints": [
+      "The user clicks on the 'Connect to' dropdown menu within the 'Product Widget' settings panel on the left side of the screen.",
+      "The user selects the product named 'Rizer Photograph' from the dropdown list under the 'Connect to' option.",
+      "The user clicks on the 'Design' tab within the 'Product Widget' settings panel.",
+      "The user selects a new layout design for the featured product section from the options presented in the 'Section Design' panel on the left side of the screen."
+    ]
+  }
+]

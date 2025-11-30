@@ -1,0 +1,44 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you start importing a file into your project?",
+    "answer": "Click the 'File' menu in the top-left corner of the application window, then select 'Import' from the dropdown menu.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Import' option is selected by a mouse click."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are taken in the file explorer dialog to import the 'TutorTube.ai' file?",
+    "answer": "Navigate to the folder containing the file, select 'TutorTube.ai' from the list, and click the 'Import' button within the dialog box.",
+    "keypoints": [
+      "A file explorer dialog box appears, and the user navigates to the folder containing the desired files.",
+      "The user selects the 'TutorTube.ai' file from the list displayed in the dialog box.",
+      "After selecting the file, the user clicks the 'Import' button within the dialog box."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add and adjust an imported asset like 'TutorTube' in the scene?",
+    "answer": "Drag the 'TutorTube' layer from the project panel on the left into the scene area to make it visible, then use the transform tools in the properties panel on the right to adjust its position and scale.",
+    "keypoints": [
+      "The imported file appears as a new layer named 'TutorTube' in the project panel on the left side of the screen.",
+      "The user drags the 'TutorTube' layer into the scene area, where it becomes visible as an animated object.",
+      "The user adjusts the position and scale of the 'TutorTube' object using the transform tools available in the properties panel on the right side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you import a background asset like 'Earthmap.psd' and position it behind existing objects?",
+    "answer": "Repeat the import process for 'Earthmap.psd' via File > Import, then drag its layer from the project panel into the scene area and position it behind objects like 'TutorTube'.",
+    "keypoints": [
+      "The user then repeats the import process for another file named 'Earthmap.psd'.",
+      "The 'Earthmap.psd' file is also dragged into the scene area and positioned behind the 'TutorTube' object."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you ensure proper layering so one object appears above another in the final scene?",
+    "answer": "Rearrange the layers in the timeline panel to place the foreground object's layer (e.g., 'TutorTube') above the background object's layer (e.g., 'Earthmap'), establishing the correct visual hierarchy.",
+    "keypoints": [
+      "The user rearranges the layers in the timeline panel to ensure that the 'TutorTube' object remains on top of the 'Earthmap' object.",
+      "The final arrangement of objects in the scene reflects the intended visual hierarchy, with the 'TutorTube' logo appearing over the Earth map background."
+    ]
+  }
+]

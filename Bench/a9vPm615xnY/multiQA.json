@@ -1,5 +1,54 @@
 [
   {
+    "question": "What percentage of Americans earning over $100,000 live paycheck to paycheck, and what minimum emergency fund do financial planners recommend before allocating extra money to debt or investing?",
+    "answer": "20% of Americans earning over $100,000 live paycheck to paycheck, and financial planners recommend establishing an emergency fund of at least $1,000 before allocating extra money to debt repayment or investing.",
+    "keypoints": {
+      "video": [
+        "Americans living paycheck to paycheck by income: 40% under $50,000; 30% between $50,000 and $79,999; 30% between $80,000 and $99,999; 20% over $100,000."
+      ],
+      "text": [
+        "Financial planners recommend establishing an emergency fund of at least $1,000 before allocating extra money to debt repayment or investing."
+      ]
+    }
+  },
+  {
+    "question": "How does the peak average credit card interest rate in 2024 compare to the historical annual inflation-adjusted growth rate of the S&P 500?",
+    "answer": "The peak average credit card interest rate in 2024 was approximately 22%, which is significantly higher than the historical annual inflation-adjusted growth rate of the S&P 500 of about 7%.",
+    "keypoints": {
+      "video": [
+        "The average interest rates for credit card accounts have fluctuated between 15% and 20% from 1994 to 2024, with a notable peak in 2024 at approximately 22%."
+      ],
+      "text": [
+        "The S&P 500 has historically grown at an average rate of about 7% annually when adjusted for inflation."
+      ]
+    }
+  },
+  {
+    "question": "What are the initial minimum and long-term target amounts recommended for emergency funds?",
+    "answer": "Financial planners recommend an initial emergency fund of at least $1,000, with a long-term target of 3 to 6 months of must-pay expenses.",
+    "keypoints": {
+      "video": [
+        "The classic advice is: 3-6 months of must-pay expenses."
+      ],
+      "text": [
+        "Financial planners recommend establishing an emergency fund of at least $1,000 before allocating extra money to debt repayment or investing."
+      ]
+    }
+  },
+  {
+    "question": "According to the 7% rule-of-thumb for debt versus investing decisions, what are the total interest paid on a $10,000 debt at 5% with minimum payments and the total interest earned from investing $200 monthly at 7% over the same period?",
+    "answer": "The total interest paid on the debt is $1,740, and the total interest earned from investing is $4,157.",
+    "keypoints": {
+      "video": [
+        "Paying off a loan with a balance of $10,000 at a 5% interest rate takes 6 years and 7 months, with a total interest paid of $1,740.",
+        "An investment calculator shows that a monthly contribution of $200 over 6 years and 7 months at a 7% rate of return earns a total interest of $4,157."
+      ],
+      "text": [
+        "The 7% interest rate serves as a rule-of-thumb tipping point for deciding whether to prioritize paying off debt or investing extra money."
+      ]
+    }
+  },
+  {
     "question": "For a $10,000 debt at 13% interest, what are the exact total interest amounts paid under minimum payment and accelerated repayment scenarios?",
     "answer": "Under minimum payments, the total interest paid is $7,832; under accelerated repayment, the total interest paid is $2,031.",
     "keypoints": {

@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In LosslessCut, what are the first two steps to export video files and specify their destination?",
+    "answer": "First, click the 'Export' button in the bottom right corner of the application window. Then, in the file explorer window that appears, click 'Select output folder' and choose your desired export directory.",
+    "keypoints": [
+      "The user clicks on the 'Export' button located at the bottom right corner of the application window.",
+      "The user selects a folder named 'Export' from the file explorer window that appears after clicking the 'Select output folder' button."
+    ]
+  },
+  {
+    "question": "In LosslessCut, how do you verify both the save location and file integrity of exported videos?",
+    "answer": "Check the address path at the top of the file explorer window to confirm the correct subfolder location, then inspect the listed video files to ensure they match expected naming conventions and formats.",
+    "keypoints": [
+      "The user verifies the correct address path displayed at the top of the file explorer window, confirming the files are saved in the intended subfolder.",
+      "The user observes the final video files listed within the 'Export' folder, ensuring they match the expected naming conventions and format."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what steps conclude the export workflow and prepare for subsequent operations?",
+    "answer": "Close the file explorer window to return to the main interface, then access the 'File' menu in the top-left corner to reveal options for further actions.",
+    "keypoints": [
+      "The user closes the file explorer window, returning to the main application interface where the export process was initiated.",
+      "The user clicks on the 'File' menu item in the top-left corner of the application window to access additional options for future actions."
+    ]
+  },
+  {
+    "question": "In LosslessCut, what is the complete post-export verification process from folder access to file inspection?",
+    "answer": "After opening the export folder via the 'Show' button, confirm the save path in the file explorer's address bar, then examine the video files to validate their names and formats before closing the window.",
+    "keypoints": [
+      "The user clicks on the 'Show' button in the confirmation dialog box, which opens the selected export folder showing the newly created video files.",
+      "The user verifies the correct address path displayed at the top of the file explorer window, confirming the files are saved in the intended subfolder.",
+      "The user observes the final video files listed within the 'Export' folder, ensuring they match the expected naming conventions and format.",
+      "The user closes the file explorer window, returning to the main application interface where the export process was initiated."
+    ]
+  }
+]

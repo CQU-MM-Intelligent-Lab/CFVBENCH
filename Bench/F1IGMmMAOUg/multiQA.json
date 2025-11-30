@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Wix, how do you add a testimonial form section to your page?",
+    "answer": "Click the blue circular 'Add Section' button in the center of the screen, then scroll down the left sidebar menu and select the 'Testimonial Form' section by clicking its thumbnail image.",
+    "keypoints": [
+      "The user clicks on the 'Add Section' button located in the center of the screen, which is a blue circular icon with a plus sign.",
+      "From the left sidebar menu, the user scrolls down and selects the 'Testimonial Form' section by clicking on its thumbnail image."
+    ]
+  },
+  {
+    "question": "In Wix, what fields and options appear when you add a testimonial form section?",
+    "answer": "The testimonial form section displays fields for 'First Name', 'Last Name', 'Email', 'Phone', 'Write your review here', and includes options for recommending to friends and additional comments.",
+    "keypoints": [
+      "The testimonial form section appears on the main editing area, displaying fields for 'First Name', 'Last Name', 'Email', 'Phone', 'Write your review here', and options for recommending to friends and additional comments."
+    ]
+  },
+  {
+    "question": "In Wix, what happens after you preview an edited testimonial form?",
+    "answer": "Clicking the 'Preview' button displays the updated form with the new subtitle and modified field labels, allowing functional testing of all changes.",
+    "keypoints": [
+      "After making adjustments, the user previews the testimonial form by clicking the 'Preview' button at the top right corner of the screen.",
+      "The preview displays the updated testimonial form with the new subtitle and modified field labels, allowing the user to test the form functionality."
+    ]
+  },
+  {
+    "question": "In Wix, how do you test the submission functionality of a testimonial form in preview mode?",
+    "answer": "Click the 'Submit' button at the bottom of the form to trigger a submission confirmation message, verifying the form's functionality.",
+    "keypoints": [
+      "Finally, the user submits the form by clicking the 'Submit' button at the bottom of the form, which triggers a submission confirmation message."
+    ]
+  }
+]

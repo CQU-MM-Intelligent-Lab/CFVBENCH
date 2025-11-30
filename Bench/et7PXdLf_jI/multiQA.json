@@ -1,0 +1,40 @@
+[
+  {
+    "question": "In Adobe Character Animator, what are two methods to create a new scene for a puppet?",
+    "answer": "You can either click and drag the puppet from the project panel to the timeline to create a new scene, or hold down the 'Ctrl' key and press the '/' key while the puppet is selected to generate a new scene for that character.",
+    "keypoints": [
+      "The user clicks and drags the 'Red Monster' puppet from the project panel to the timeline, creating a new scene with the character.",
+      "The user alternatively holds down the 'Ctrl' key and presses the '/' key to create a new scene for the selected puppet."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add a second puppet to an existing scene and position both puppets on opposite sides of the canvas?",
+    "answer": "First, drag the second puppet (e.g., 'Rim') from the project panel into the existing scene and position it on the left side of the canvas. Then, select the first puppet (e.g., 'Red Monster') and use the properties panel to move it to the right side of the canvas.",
+    "keypoints": [
+      "The user drags the 'Rim' puppet into an existing scene containing the 'Red Monster', positioning it on the left side of the canvas.",
+      "The user adjusts the position of the 'Red Monster' puppet using the properties panel, moving it to the right side of the canvas."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after positioning puppets horizontally, how do you vertically arrange characters using the properties panel?",
+    "answer": "Select the 'Properties' tab within the properties panel and modify the 'Position Y' value to adjust the vertical placement of the characters on the canvas.",
+    "keypoints": [
+      "The user selects the 'Properties' tab within the properties panel and modifies the 'Position Y' value to arrange the characters properly on the canvas."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access additional editing features through the File menu?",
+    "answer": "Click the 'File' menu item at the top-left corner of the application window, then select the 'Edit' option from the dropdown menu to access the editing features.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located at the top-left corner of the application window.",
+      "The user selects the 'Edit' option from the dropdown menu to access additional editing features."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you increase brush size using the Tools panel?",
+    "answer": "Drag the 'Brush Size' slider within the 'Tools' panel to the right to increase its value, for example from '10px' to '25px'.",
+    "keypoints": [
+      "The user drags the 'Brush Size' slider within the 'Tools' panel to the right, increasing its value from '10px' to '25px'."
+    ]
+  }
+]

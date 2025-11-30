@@ -1,0 +1,19 @@
+[
+  {
+    "question": "In WIX ADI, how do you initiate adding an overlay effect and access the reflection option?",
+    "answer": "Click the 'Add' button in the top menu, select 'Overlay' from the dropdown, then choose the 'Reflection' effect in the Photo Studio panel.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top menu of the WIX editor interface.",
+      "From the dropdown menu, the 'Overlay' option is selected by a mouse click.",
+      "In the 'Photo Studio' panel, the user selects the 'Reflection' effect from the list of overlays."
+    ]
+  },
+  {
+    "question": "In WIX ADI, after selecting the reflection effect, how do you customize its appearance and access transformation options?",
+    "answer": "Drag the 'Overlay intensity' slider to adjust the reflection strength, then right-click on the overlay in the editing area to access the context menu with flip/rotate options.",
+    "keypoints": [
+      "The cursor drags the 'Overlay intensity' slider within the 'Photo Studio' panel to adjust the level of reflection effect applied to the image.",
+      "A right-click action is performed on the overlay effect in the editing area, causing a context menu with options like 'Flip horizontally', 'Rotate left', and 'Rotate right' to appear."
+    ]
+  }
+]

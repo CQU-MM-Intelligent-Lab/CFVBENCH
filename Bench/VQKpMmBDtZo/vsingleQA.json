@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What were the estimated space debris objects by size category according to the European Space Agency in December 2023?",
+    "answer": "The European Space Agency reported approximately 130 million objects smaller than 1 cm, about 1 million objects between 1-10 cm, and over 36,500 objects larger than 10 cm.",
+    "keypoints": [
+      "The European Space Agency reported in December 2023 that there are approximately 130 million space debris objects smaller than 1 cm, about 1 million between 1-10 cm, and more than 36,500 larger than 10 cm."
+    ]
+  },
+  {
+    "question": "What were the cost ranges estimated in the March 10, 2023 analysis for removing 100,000 pieces of small space debris using ground versus space lasers?",
+    "answer": "The cost-benefit analysis estimated removal costs of $30 to $600 million for ground lasers and $30 to $300 million for space lasers.",
+    "keypoints": [
+      "A cost-benefit analysis by Thomas J. Colvin, John Karcz, and Grace Wusk on March 10, 2023, estimated the costs to remove 100,000 pieces of small debris (1-10 cm) with ground lasers ranging from $30 to $600 million and space lasers from $30 to $300 million."
+    ]
+  },
+  {
+    "question": "What did the Oakland Tribune mention about Pentagon officials and a space satellite on September 3, 1997?",
+    "answer": "The Oakland Tribune mentioned that Pentagon officials considered firing a ground-based laser against a dying space satellite for defense purposes.",
+    "keypoints": [
+      "The Oakland Tribune mentioned on September 3, 1997, that Pentagon officials considered firing a ground-based laser against a dying space satellite for defense purposes."
+    ]
+  },
+  {
+    "question": "How does a radar system detect and track space debris?",
+    "answer": "A radar system emits waves that bounce off targets in space and return to the receiver, enabling the tracking of space debris.",
+    "keypoints": [
+      "A radar system can detect objects in space by emitting waves that bounce off targets and return to the receiver, allowing for the tracking of space debris."
+    ]
+  },
+  {
+    "question": "Which companies operated the most active satellites in May 2023 and what were their counts?",
+    "answer": "In May 2023, SpaceX operated 3,996 active satellites, followed by OneWeb with 589 satellites.",
+    "keypoints": [
+      "In May 2023, SpaceX operated the largest number of active satellites at 3,996, followed by OneWeb with 589 satellites."
+    ]
+  },
+  {
+    "question": "What new satellite disposal rule did the Federal Communications Commission adopt to address orbital debris?",
+    "answer": "The Federal Communications Commission adopted rules requiring satellite operators to dispose of their satellites within five years after mission completion.",
+    "keypoints": [
+      "The Federal Communications Commission adopted new rules requiring satellite operators to dispose of their satellites within five years post-mission to address the growing risk of orbital debris."
+    ]
+  },
+  {
+    "question": "What method does Japan's startup EX-Fusion plan to use for space debris removal?",
+    "answer": "Japan's startup EX-Fusion plans to use a powerful nuclear fusion laser to remove space junk from orbit.",
+    "keypoints": [
+      "Japan's startup EX-Fusion plans to use a powerful nuclear fusion laser to remove space junk from orbit."
+    ]
+  },
+  {
+    "question": "Which organizations are major active satellite operators besides SpaceX?",
+    "answer": "Major active satellite operators besides SpaceX include OneWeb, Planet Labs PBC, Spire Global Inc., and the Chinese government.",
+    "keypoints": [
+      "The distribution of active satellite operators shows SpaceX leading with 3,996 satellites, while other major operators include OneWeb, Planet Labs PBC, Spire Global Inc., and the Chinese government."
+    ]
+  },
+  {
+    "question": "What significant space collision event occurred over Russia in 2009?",
+    "answer": "In 2009, a dead satellite collided with a live satellite over Russia, creating a cloud of debris.",
+    "keypoints": [
+      "A dead satellite collided with a live satellite over Russia in 2009, creating a cloud of debris."
+    ]
+  },
+  {
+    "question": "What key principle is included in the Treaty on Principles Governing the Activities of States in Outer Space?",
+    "answer": "The treaty includes guidelines for the peaceful use of outer space.",
+    "keypoints": [
+      "The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space includes guidelines for the peaceful use of space."
+    ]
+  }
+]

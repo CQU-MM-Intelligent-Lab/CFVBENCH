@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In WixADIAI, how do you add background music and business details before previewing a video?",
+    "answer": "Browse and select a track in the 'Music' tab, navigate to the 'Business Info' tab to enter business name, tagline, website URL, and phone number, then click 'Apply & Preview'.",
+    "keypoints": [
+      "Moving to the 'Music' tab, the user browses through recommended tracks and selects a music track for the video background.",
+      "Finally, the user navigates to the 'Business Info' tab and fills in details such as business name, tagline, website URL, phone number, and additional information if needed.",
+      "After completing all customizations, the user clicks the 'Apply & Preview' button to generate and preview the final video."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you upload a completed video to YouTube from the Media Manager?",
+    "answer": "Right-click the video thumbnail in the Media Manager panel to open the context menu, then select the 'Upload to YouTube' option.",
+    "keypoints": [
+      "A right-click action is performed on the video thumbnail in the 'Media Manager' panel, causing a context menu to appear.",
+      "The user selects the 'Upload to YouTube' option from the context menu, which triggers the upload process."
+    ]
+  },
+  {
+    "question": "In WixADIAI, what steps replace a placeholder video with a newly created one on your website?",
+    "answer": "Navigate to the site files section, select the placeholder video, then replace it with the newly created video file from your media library.",
+    "keypoints": [
+      "The user integrates the generated video into their website by navigating to the site files section and replacing the placeholder video with the newly created one.",
+      "The user confirms the successful application of the video by previewing it on the website, verifying that it plays correctly with all added elements intact."
+    ]
+  }
+]

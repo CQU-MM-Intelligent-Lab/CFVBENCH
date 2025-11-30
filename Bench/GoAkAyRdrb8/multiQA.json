@@ -1,0 +1,63 @@
+[
+  {
+    "question": "In Adobe Illustrator, how do you create a new document with HDV 720p preset for animation?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'New' from the dropdown, then choose the 'Film & Video' tab and select 'HDV 720p' preset in the 'New Document' dialog box.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'New' option is selected by a mouse click.",
+      "In the 'New Document' dialog box, the user selects the 'Film & Video' tab and chooses the 'HDV 720p' preset from the list."
+    ]
+  },
+  {
+    "question": "In Adobe Illustrator, how do you draw and modify a circular face base for character design?",
+    "answer": "Select the 'Ellipse Tool' from the left toolbar to draw a 500px by 500px yellow circle, then use the 'Direct Selection Tool' to adjust its shape by dragging anchor points.",
+    "keypoints": [
+      "The user selects the 'Ellipse Tool' from the toolbar on the left side of the screen.",
+      "The user draws a yellow circle on the canvas using the 'Ellipse Tool', setting its dimensions to '500px' by '500px'.",
+      "The user selects the 'Direct Selection Tool' from the toolbar and adjusts the size of the yellow circle by dragging its anchor points."
+    ]
+  },
+  {
+    "question": "In Adobe Illustrator, how do you create eyes and position them symmetrically within a character's face?",
+    "answer": "Select the 'Ellipse Tool' to draw two white eye circles inside the face, then use the 'Selection Tool' to align them horizontally within the yellow circle.",
+    "keypoints": [
+      "The user selects the 'Ellipse Tool' again and draws two smaller white circles for eyes, positioning them within the larger yellow circle.",
+      "The user selects the 'Selection Tool' and aligns the two white circles horizontally within the yellow circle."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you import and position an Illustrator character asset?",
+    "answer": "Right-click the Illustrator file and select 'Import', then drag the imported character from the project window onto the scene canvas.",
+    "keypoints": [
+      "A right-click action is performed on the file named '2D_Character_for_Character_Animator.ai' within the 'Dropbox' folder, causing a context menu to appear.",
+      "The user selects the 'Import' option from the context menu that appears after right-clicking on the file.",
+      "Within the 'Character Animator' project window, the user drags the imported character asset onto the scene canvas."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you configure facial capture settings before animation?",
+    "answer": "Enable the microphone via the toggle in the 'Camera & Microphone' panel, then set the 'Face Gain' slider to 100% in the 'Puppet Mesh' section of the properties panel.",
+    "keypoints": [
+      "The user clicks on the 'Camera & Microphone' panel and enables the microphone by clicking the toggle switch next to it.",
+      "The user adjusts the 'Face Gain' slider within the 'Puppet Mesh' section of the properties panel to 100%."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you start recording animation using facial motion capture?",
+    "answer": "Select the 'Scene' tab, click the red circular 'Record' button in the bottom toolbar, choose your character in the 'Puppet' panel, then enable the webcam feed in the 'Camera & Microphone' section.",
+    "keypoints": [
+      "The user opens Adobe Character Animator and selects the 'Scene' tab located at the top of the application window.",
+      "The user clicks on the 'Record' button, which is a red circular icon situated in the bottom toolbar, to start recording the animation session.",
+      "The user navigates to the 'Puppet' panel on the left side of the interface and selects an object named 'illustratorfacecharacter', indicating the character model being used for animation.",
+      "The user interacts with the 'Camera & Microphone' section on the right side of the screen, enabling the webcam feed that displays their face for motion capture purposes."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you finalize and save an animated character performance?",
+    "answer": "Click the 'Stop' button (square icon) after recording, then save the project via 'File > Save' from the menu bar.",
+    "keypoints": [
+      "The user pauses the recording session by clicking the stop button, which is a square icon adjacent to the record button in the bottom toolbar.",
+      "The user saves the project by selecting 'File' > 'Save' from the menu bar."
+    ]
+  }
+]

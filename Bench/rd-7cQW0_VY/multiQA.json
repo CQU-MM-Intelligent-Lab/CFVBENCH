@@ -1,0 +1,21 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you activate the work area to get in-point and out-point markers on the timeline?",
+    "answer": "First, click on the Timeline area. Then, right-click on the timeline to open the context menu and select the 'Enable Work Area' option, which activates the in-point and out-point markers.",
+    "keypoints": [
+      "The user clicks on the 'Timeline' area within the Adobe Character Animator interface, where a blue playhead is visible.",
+      "The user right-clicks on the timeline at the top of the screen, revealing a context menu with options like \"Enable Work Area,\" \"Set Work Area Start to Playhead,\" and others.",
+      "The user selects the \"Enable Work Area\" option from the context menu, which activates an in-point and out-point on the timeline."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the complete process to preview a specific hand movement sequence using the work area?",
+    "answer": "Enable the work area via the timeline's context menu, drag the in-point/out-point markers to isolate the hand movement sequence, trim the scene to the work area, then press play to preview only that segment.",
+    "keypoints": [
+      "The user selects the \"Enable Work Area\" option from the context menu, which activates an in-point and out-point on the timeline.",
+      "The user drags the in-point and out-point markers on the timeline to select a specific section of the animation that includes hand movements.",
+      "The user right-clicks again on the timeline and selects the \"Trim Scene to Work Area\" option, resulting in only the selected animation segment remaining in the project.",
+      "The user presses the play button located below the preview window, and only the trimmed animation plays, showing the character's hands moving as intended."
+    ]
+  }
+]

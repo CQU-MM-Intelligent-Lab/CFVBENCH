@@ -1,0 +1,50 @@
+[
+  {
+    "question": "In Video Editor, how do you delete a clip after selecting it in the timeline?",
+    "answer": "First, click on the clip in the timeline area to highlight its details in the segments list. Then, click the delete icon next to the selected segment in the segments list to remove it.",
+    "keypoints": [
+      "The user clicks on a clip selection within the timeline area, and the screen highlights the selected clip's details in the segments list on the right side of the interface.",
+      "The user clicks on the delete icon located near the selected segment in the segments list, removing that segment from the timeline, as indicated by the updated list showing fewer segments."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you navigate from segment 4 to segment 3?",
+    "answer": "Click the section number four button on the right-hand side to select segment 4, then click the 'Select previous segment' button at the bottom of the screen to change the highlighted segment to segment 3.",
+    "keypoints": [
+      "The user clicks on the section number four button located on the right-hand side of the screen, selecting that specific segment for editing or viewing.",
+      "The user clicks on the 'Select previous segment' button located at the bottom of the screen, which changes the highlighted segment to the previous one in the sequence."
+    ]
+  },
+  {
+    "question": "In Video Editor, what steps move the playback cursor to the start and end of the video?",
+    "answer": "Click the 'jump to start of video' button at the bottom left of the timeline to move the cursor to the beginning, then click the 'jump to end of video' button at the bottom right of the timeline to move it to the end.",
+    "keypoints": [
+      "The user clicks on the button labeled 'jump to start of video' located at the bottom left of the timeline area, causing the playback cursor to move to the beginning of the video.",
+      "The user clicks on the button labeled 'jump to end of video' located at the bottom right of the timeline area, causing the playback cursor to move to the end of the video."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you delete segment 4 directly?",
+    "answer": "Click the section number four button on the right-hand side to select segment 4, then click the delete icon next to the selected segment in the segments list to remove it.",
+    "keypoints": [
+      "The user clicks on the section number four button located on the right-hand side of the screen, selecting that specific segment for editing or viewing.",
+      "The user clicks on the delete icon located near the selected segment in the segments list, removing that segment from the timeline, as indicated by the updated list showing fewer segments."
+    ]
+  },
+  {
+    "question": "In Video Editor, after selecting a clip in the timeline, how do you navigate to the previous segment?",
+    "answer": "After clicking the clip in the timeline to highlight its details in the segments list, click the 'Select previous segment' button at the bottom of the screen to change the highlighted segment to the previous one.",
+    "keypoints": [
+      "The user clicks on a clip selection within the timeline area, and the screen highlights the selected clip's details in the segments list on the right side of the interface.",
+      "The user clicks on the 'Select previous segment' button located at the bottom of the screen, which changes the highlighted segment to the previous one in the sequence."
+    ]
+  },
+  {
+    "question": "In Video Editor, how do you cycle between adjacent segments using navigation buttons?",
+    "answer": "Click the 'Select previous segment' button to move to the previous segment, then click the 'Select next segment' button to move forward to the next segment in the sequence.",
+    "keypoints": [
+      "The user clicks on the 'Select previous segment' button located at the bottom of the screen, which changes the highlighted segment to the previous one in the sequence.",
+      "The user clicks on the 'Select next segment' button located at the bottom of the screen, which changes the highlighted segment to the next one in the sequence."
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is Tesla's current stock price and rise percentage?",
+    "answer": "Tesla's stock price is $173.80, indicating a 6.25% rise.",
+    "keypoints": [
+      "Tesla's stock price is at $173.80, indicating a rise of 6.25%."
+    ]
+  },
+  {
+    "question": "What is Super Micro Computer's current stock price and decline percentage?",
+    "answer": "Super Micro Computer's stock price is $1,000.68, down by 6.38%.",
+    "keypoints": [
+      "Super Micro Computer's stock price is down by 6.38%, currently at $1,000.68."
+    ]
+  }
+]

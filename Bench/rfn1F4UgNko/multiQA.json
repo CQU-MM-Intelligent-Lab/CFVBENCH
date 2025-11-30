@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create and rename a new scene?",
+    "answer": "Click the 'Scene' menu at the top of the application, select 'New Scene' from the dropdown to create a scene, then right-click the scene in the project panel, choose 'Rename', and type the new name in the active text field.",
+    "keypoints": [
+      "The user clicks on the 'Scene' menu item located at the top of the application window.",
+      "From the dropdown menu, the 'New Scene' option is selected by a mouse click.",
+      "The user right-clicks on the newly created scene labeled 'TutorTube' within the project panel.",
+      "A context menu appears, and the user selects the 'Rename' option from it."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you add a ninja character to the scene and resize it proportionally?",
+    "answer": "Drag the 'Ninja' character from the 'Example Puppets' section into the scene to load it onto the canvas, then select the 'Transform' tool from the left toolbar and use its handles to resize the character while maintaining aspect ratio.",
+    "keypoints": [
+      "A ninja character is dragged from the 'Example Puppets' section into the 'TutorTube' scene, loading it onto the timeline.",
+      "The user selects the 'Transform' tool from the toolbar on the left side of the screen.",
+      "Using the transform handles that appear around the ninja character, the user resizes the character proportionally while maintaining aspect ratio."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you change the scene resolution to 1280x720 and set the duration to 1.20 seconds?",
+    "answer": "In the properties panel, scroll to the 'Scene' section, change the width to 1280 pixels and height to 720 pixels, then drag the timeline slider at the bottom of the screen to set the duration to 1.20 seconds.",
+    "keypoints": [
+      "The user scrolls down within the properties panel to locate the width and height settings under the 'Scene' section.",
+      "The user clicks on the width input box and changes the value from 1920 pixels to 1280 pixels, and similarly changes the height from 1080 pixels to 720 pixels.",
+      "The user drags the timeline slider at the bottom of the screen to adjust the duration of the scene to 1.20 seconds."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you trigger a specific animation for a character and record the sequence?",
+    "answer": "Click the 'Triggers' tab in the bottom-left corner to open the triggers panel and select a specific animation trigger, then click the 'Record' button at the top of the screen to capture the animated sequence.",
+    "keypoints": [
+      "The user clicks on the 'Triggers' tab located in the bottom-left corner of the screen and selects a specific trigger to play its animation.",
+      "The user clicks on the 'Record' button located at the top of the screen to activate the recording interface."
+    ]
+  }
+]

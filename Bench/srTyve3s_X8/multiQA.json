@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Adobe Audio, what are the initial steps to record a new audio file with custom settings?",
+    "answer": "Click the 'Record' button in the top-left corner to initiate recording, then in the 'New Audio File' dialog box, select your desired sample rate from the dropdown menu and enter a file name in the text field.",
+    "keypoints": [
+      "The user clicks on the 'Record' button located in the top-left corner of the Adobe Audio interface, initiating the recording process.",
+      "The user selects the sample rate from a dropdown menu within the 'New Audio File' dialog box, choosing '44100' as the desired setting.",
+      "The user types 'Character' into the 'File Name' text field within the 'New Audio File' dialog box."
+    ]
+  },
+  {
+    "question": "In Adobe Audio, how do you export a recorded audio file to a specific folder location?",
+    "answer": "Select 'Export File' from the 'File' menu to open export settings, then navigate to your target folder in the file explorer window and click 'Save' to confirm the export location.",
+    "keypoints": [
+      "The user clicks on the 'Export File' option from the 'File' menu in the Adobe Audio interface, opening the export settings window.",
+      "The user navigates to the 'TutorTube K' folder using the file explorer window that appears after selecting 'Export File', and then clicks 'Save' to confirm the export location."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you verify successful lip sync after analysis?",
+    "answer": "Click the play button to preview the animation, which confirms synchronized mouth movements with the audio during playback.",
+    "keypoints": [
+      "The user then plays back the animation to verify the lip sync effect.",
+      "The playback confirms that the character's mouth moves in sync with the pre-recorded audio."
+    ]
+  }
+]

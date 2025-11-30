@@ -1,0 +1,38 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you create a new scene and where does it appear?",
+    "answer": "Click the 'File' menu in the top-left corner, then select 'New Scene' (the third item under the 'Scene' submenu). The new scene appears in the project panel on the left side of the screen.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'New Scene' option from the dropdown menu, which is the third item listed under the 'Scene' submenu.",
+      "A new scene named \"Earthmap\" appears in the project panel on the left side of the screen."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you arrange layer hierarchy and preview the final composition?",
+    "answer": "Drag layers in the timeline to set the stacking order (e.g., text on top, character in middle, background at bottom). Then click the play button in the control bar below the preview window to preview the animated composition.",
+    "keypoints": [
+      "The user arranges the layers in the timeline so that the 'TutorTube' text is on top, followed by the \"Red Monster,\" and then the Earth map at the bottom.",
+      "The user previews the animation by clicking the play button in the control bar below the preview window, showing all elements moving together as intended."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the complete workflow for adding and positioning a character?",
+    "answer": "First, drag the character file into the timeline below the preview window to add it to the scene. Then click and drag the character in the preview window to reposition it, while monitoring real-time position updates in the properties panel.",
+    "keypoints": [
+      "The user drags and drops a character file labeled \"Red Monster\" into the timeline area below the preview window.",
+      "The \"Red Monster\" character is now visible in the preview window, positioned over the Earth map background.",
+      "The user adjusts the position of the \"Red Monster\" by clicking and dragging it within the preview window.",
+      "The properties panel on the right updates to show the current X and Y coordinates as the \"Red Monster\" is moved."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you prepare and test a multi-layer animation?",
+    "answer": "Select and resize text layers via scale values in the properties panel, arrange all layers in the timeline for proper stacking order, then click the play button below the preview window to verify the animated result.",
+    "keypoints": [
+      "The user resizes the 'TutorTube' text by adjusting its scale values in the properties panel, making it larger and more prominent.",
+      "The user arranges the layers in the timeline so that the 'TutorTube' text is on top, followed by the \"Red Monster,\" and then the Earth map at the bottom.",
+      "The user previews the animation by clicking the play button in the control bar below the preview window, showing all elements moving together as intended."
+    ]
+  }
+]

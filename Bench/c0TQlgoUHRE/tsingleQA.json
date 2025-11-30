@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Why was a woman in San Francisco denied the ability to apply for apartments in 2017 despite financial readiness?",
+    "answer": "She was denied because she lacked a credit score, even though she had a good job and sufficient funds for down payment and rent.",
+    "keypoints": [
+      "A woman interviewed by sociologist Fred Wray in San Francisco in 2017 was categorically denied the ability to apply for some apartment buildings despite having a good job and sufficient funds for a down payment and rent because she lacked a credit score."
+    ]
+  },
+  {
+    "question": "How many Americans are estimated to lack a credit score?",
+    "answer": "An estimated 45 million Americans do not have a credit score.",
+    "keypoints": [
+      "An estimated 45 million Americans do not have a credit score, making it difficult to rent an apartment, get car insurance, or even get a job."
+    ]
+  },
+  {
+    "question": "What is the standard numerical range for credit scores in the United States?",
+    "answer": "Credit scores in the United States range from 300 to 850.",
+    "keypoints": [
+      "Credit scores, ranging from 300 to 850, are calculated by companies like FICO and VantageScore using algorithms that analyze data from credit reports supplied by three major credit reporting agencies."
+    ]
+  },
+  {
+    "question": "What types of personal data are included in credit reports?",
+    "answer": "Credit reports contain personal data like ZIP code and employment history, plus payment history on debt obligations from institutions such as credit card companies, student loan providers, mortgage lenders, and auto financers.",
+    "keypoints": [
+      "Credit reports contain personal data like ZIP code and employment history, plus payment history on debt obligations from institutions like credit card companies, student loan providers, mortgage lenders, and auto financers."
+    ]
+  },
+  {
+    "question": "Which entities typically do not share payment information with major credit reporting agencies?",
+    "answer": "Cell phone carriers and landlords typically do not share payment information with the major credit reporting agencies.",
+    "keypoints": [
+      "Cell phone carriers and landlords typically do not share payment information with the major credit reporting agencies."
+    ]
+  },
+  {
+    "question": "What are the primary factors that influence credit scores?",
+    "answer": "Factors influencing credit scores include payment history, length of credit history, mix of accounts, account balances, and for credit cards, the percentage of available credit used.",
+    "keypoints": [
+      "Factors influencing credit scores include payment history, length of credit history, mix of accounts, account balances, and for credit cards, the percentage of available credit used."
+    ]
+  },
+  {
+    "question": "How do credit scoring companies and credit reporting agencies generate revenue?",
+    "answer": "They make money by selling credit scores and reports to landlords, lenders, employers, and others.",
+    "keypoints": [
+      "Credit scoring companies and credit reporting agencies make money by selling credit scores and reports to landlords, lenders, employers, and others."
+    ]
+  },
+  {
+    "question": "How do lenders use credit scores in loan decisions?",
+    "answer": "Lenders use credit scores to determine loan eligibility and set interest rates for products like mortgages, car loans, and student loans, charging higher rates to borrowers with lower scores deemed riskier.",
+    "keypoints": [
+      "Lenders use credit scores to determine loan eligibility and set interest rates for products like mortgages, car loans, and student loans, charging higher rates to borrowers with lower scores deemed riskier."
+    ]
+  },
+  {
+    "question": "What was the basis for creditworthiness in the United States before the Civil War?",
+    "answer": "Historically, creditworthiness was based on personal character and community relationships.",
+    "keypoints": [
+      "Historically, creditworthiness in the US was based on personal character and community relationships, but this system broke down after the Civil War as business relationships expanded geographically."
+    ]
+  },
+  {
+    "question": "What personal details were included in early US credit reports from the 1870s and 1950s?",
+    "answer": "Early credit reports included personal details like race, character habits, and morals.",
+    "keypoints": [
+      "Early credit reports, like those from the 1870s for R.H. Macy, and later reports in the 1950s, included personal details like race, character habits, and morals, which were used to deny credit."
+    ]
+  },
+  {
+    "question": "Which categories did the Equal Credit Opportunity Act ban from credit decisions?",
+    "answer": "The Equal Credit Opportunity Act banned the consideration of categories like race, gender, and sexuality in credit decisions.",
+    "keypoints": [
+      "The Equal Credit Opportunity Act regulated the kinds of information considered in credit decisions, banning categories like race, gender, and sexuality, though biases can persist through proxies like employment history or neighborhood."
+    ]
+  },
+  {
+    "question": "What proportion of Black adults in the United States have credit scores below 650?",
+    "answer": "More than half of Black adults in the United States have a credit score below 650.",
+    "keypoints": [
+      "More than half of Black adults have a credit score below 650, leading to significantly higher interest rates for loans like 30-year mortgages compared to those with higher scores."
+    ]
+  },
+  {
+    "question": "What percentage of US employers consult credit history during hiring?",
+    "answer": "More than half of all employers in the United States consult an applicant's credit history when hiring.",
+    "keypoints": [
+      "More than half of all employers in the US consult an applicant's credit history when hiring."
+    ]
+  },
+  {
+    "question": "For which non-lending decisions have some US jurisdictions banned credit score usage?",
+    "answer": "Some cities and states have outlawed using credit scores for non-lending decisions like hiring, promotions, or setting car insurance rates.",
+    "keypoints": [
+      "Lawmakers in some cities and states have outlawed using credit scores for non-lending decisions like hiring, promotions, or setting car insurance rates."
+    ]
+  },
+  {
+    "question": "What are proposed solutions to help people without traditional credit histories?",
+    "answer": "Proposed solutions include empowering local credit unions or nonprofits to formalize informal lending circles and report payments, and startups making loans based on alternative data like rent payment histories.",
+    "keypoints": [
+      "Proposed solutions include empowering local credit unions or nonprofits to formalize informal lending circles and report payments, and startups making loans based on alternative data like rent payment histories."
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What issue occurred with the upper stage during the operation?",
+    "answer": "A reported anomaly occurred with the upper stage during the operation.",
+    "keypoints": [
+      "A reported anomaly occurred with the upper stage during the operation."
+    ]
+  },
+  {
+    "question": "At what phase of the operation was the anomaly reported?",
+    "answer": "The anomaly was reported as the operation was approaching the end of a burn phase.",
+    "keypoints": [
+      "The operation was approaching the end of a burn phase when the anomaly was reported."
+    ]
+  }
+]

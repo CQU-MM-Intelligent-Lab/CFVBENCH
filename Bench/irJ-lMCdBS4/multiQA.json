@@ -1,0 +1,23 @@
+[
+  {
+    "question": "In the video editing software, how do you identify the default output format in settings?",
+    "answer": "Hover over the 'Output format' section to see 'mp4' highlighted as the default video format.",
+    "keypoints": [
+      "The user hovers over the 'Output format' section in the settings panel -> The default output format 'mp4' is highlighted -> The screen indicates this is the standard video format at the time of recording."
+    ]
+  },
+  {
+    "question": "In the video editing software, how do you enable automatic project saving?",
+    "answer": "Check the 'Auto save project' checkbox in settings, which saves changes automatically for resuming work later.",
+    "keypoints": [
+      "The user enables the 'Auto save project' checkbox in the settings panel -> The screen confirms that projects will automatically save changes, allowing users to resume work later without manual saving."
+    ]
+  },
+  {
+    "question": "In the video editing software, how do you enable a closure confirmation dialog?",
+    "answer": "Check the 'Ask before closing' checkbox, which triggers a confirmation prompt when attempting to exit.",
+    "keypoints": [
+      "The user checks the 'Ask before closing' checkbox in the settings panel -> A confirmation dialog appears when attempting to close the application -> The screen prompts the user with \"Are you sure you want to close the current file?\"."
+    ]
+  }
+]

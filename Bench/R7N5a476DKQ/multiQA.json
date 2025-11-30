@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How does the contamination rate in Palm Beach County's pre-sort recycling system compare to Broward County's single-stream system, and what key factor contributes to this difference?",
+    "answer": "Palm Beach County's pre-sort system has a 9% contamination rate, while Broward County's single-stream system has a 30% contamination rate. The key factor contributing to higher contamination in single-stream systems is the increased likelihood of non-recyclable trash being mixed with recyclables due to residents not sorting materials beforehand.",
+    "keypoints": {
+      "video": [
+        "Palm Beach's pre-sort system resulted in a 9% contamination rate, while Broward's single-stream system had a 30% contamination rate."
+      ],
+      "text": [
+        "Evidence suggests single stream recycling increases the likelihood of trash being mixed with recyclables.",
+        "Palm Beach County, Florida, requiring pre-sorted recyclables, had a contamination rate of 9%.",
+        "Broward County, Florida, using single-stream recycling, had a contamination rate of 30%."
+      ]
+    }
+  },
+  {
+    "question": "What key recycling guideline does Recycle Right advocate for uncertain items, and what is the primary consequence of not following this practice?",
+    "answer": "Recycle Right advocates throwing out items when uncertain about their recyclability. Failure to follow this results in contamination of recycling streams, where non-recyclable materials like diapers or pizza boxes can make entire loads of recyclables unusable.",
+    "keypoints": {
+      "video": [
+        "“Recycle Right advises that when in doubt, throw it out to avoid contaminating other recyclable items.”"
+      ],
+      "text": [
+        "Recycling education campaigns advise throwing items away when unsure whether they are recyclable.",
+        "Contamination from non-recyclable items can render entire loads of otherwise recyclable materials unusable.",
+        "Workers in Portland remove thousands of dirty diapers from recycling every month."
+      ]
+    }
+  }
+]

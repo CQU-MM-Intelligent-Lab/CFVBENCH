@@ -1,0 +1,45 @@
+[
+  {
+    "question": "In Wix, what steps are required to add and display a new services section on your webpage?",
+    "answer": "First, click the 'Add' button in the top navigation bar. Then select the 'Services' section from the left sidebar menu (highlighted in blue with white text). A new section will appear in the main editing area with customizable placeholder text and images.",
+    "keypoints": [
+      "The user clicks on the 'Add' button located in the top navigation bar of the Wix website editor interface.",
+      "The user selects the 'Services' section from the left sidebar menu, which is highlighted with a blue background and white text.",
+      "A new services section appears on the main editing area, displaying placeholder text and images for customization."
+    ]
+  },
+  {
+    "question": "In Wix, how do you rename a service item to 'Graphics Designing' and see the update?",
+    "answer": "Click the 'Edit' button (pencil icon) next to the section title. Then type 'Graphics Designing' into the 'Item Name' field in the left sidebar under 'Services' settings. The text will immediately replace the default placeholder in the corresponding service item.",
+    "keypoints": [
+      "The user clicks on the 'Edit' button within the newly added services section, which is represented by a pencil icon next to the section title.",
+      "The user types 'Graphics Designing' into the 'Item Name' field located in the left sidebar under the 'Services' settings panel.",
+      "The text 'Graphics Designing' replaces the default placeholder text in the corresponding service item on the main editing area."
+    ]
+  },
+  {
+    "question": "In Wix, how do you replace a service item's placeholder image with the 'Organized Desk' image?",
+    "answer": "Drag the image selection box over the 'Organized Desk' image in the media library pop-up window. This action replaces the default placeholder image in the first service item on the main editing area.",
+    "keypoints": [
+      "The user drags the image selection box over the recommended image labeled 'Organized Desk' in the media library pop-up window.",
+      "The selected image replaces the default placeholder image in the first service item on the main editing area."
+    ]
+  },
+  {
+    "question": "In Wix, how can you apply bold formatting to the second service item's title text?",
+    "answer": "Right-click on the second service item's title (displaying 'Service'), then select 'Bold' from the context menu. This immediately bolds the text for enhanced visual emphasis.",
+    "keypoints": [
+      "The user right-clicks on the second service item's title text, which displays 'Service', and selects the 'Bold' option from the context menu that appears.",
+      "The text 'Service' in the second service item becomes bolded, enhancing its visual emphasis on the main editing area."
+    ]
+  },
+  {
+    "question": "In Wix, what process changes the services section layout to a horizontal four-item arrangement?",
+    "answer": "Click the 'Design' tab at the top of the left sidebar to enter design mode. Then scroll through the 'Section Design' templates and select the layout with four horizontally arranged service items. The main editing area will update to display this new configuration.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab located at the top of the left sidebar, switching from the edit mode to design mode for further customization options.",
+      "The user scrolls through various design templates available in the 'Section Design' section and selects a layout featuring four service items arranged horizontally.",
+      "The main editing area updates to display the new design layout with four service items aligned horizontally."
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the Stream Extraction Tool, how do you extract all streams from a video file?",
+    "answer": "Click the 'File' menu in the top-left corner, then select 'Extract all streams' from the dropdown menu to initiate the extraction process.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "The user selects the 'Extract all streams' option from the dropdown menu that appears after clicking 'File'."
+    ]
+  },
+  {
+    "question": "In the Stream Extraction Tool, what confirmation appears after extraction and how do you access the extracted files?",
+    "answer": "A message stating 'All streams have been extracted as separate files' appears. Click the 'Show' button in the dialog to open a file explorer window displaying the separated video and audio files (e.g., 'San Francisco Townhouses-stream-0-video-h264.mp4' and 'San Francisco Townhouses-stream-1-audio-aac.m4a').",
+    "keypoints": [
+      "A confirmation message stating \"All streams have been extracted as separate files\" appears on the screen, indicating the successful extraction.",
+      "The user clicks on the 'Show' button within the confirmation dialog to open a new window displaying the extracted files.",
+      "In the newly opened file explorer window, the user can see two separate files: one labeled 'San Francisco Townhouses-stream-0-video-h264.mp4' and another labeled 'San Francisco Townhouses-stream-1-audio-aac.m4a', confirming the separation of video and audio streams."
+    ]
+  },
+  {
+    "question": "In Video Editing Software, how do you import the extracted video and audio files separately?",
+    "answer": "Drag the video file (e.g., 'San Francisco Townhouses-stream-0-video-h264.mp4') into the software for video-only playback, then open the audio file (e.g., 'San Francisco Townhouses-stream-1-audio-aac.m4a') to access the isolated audio track.",
+    "keypoints": [
+      "The user drags the 'San Francisco Townhouses-stream-0-video-h264.mp4' file into the editing software, resulting in a video playback without any audio.",
+      "The user then opens the 'San Francisco Townhouses-stream-1-audio-aac.m4a' file, which plays only the audio portion of the original video."
+    ]
+  }
+]

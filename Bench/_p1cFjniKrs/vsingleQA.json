@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What was the closing price and percentage change for Chipotle Mexican Grill stock as displayed?",
+    "answer": "Chipotle Mexican Grill stock closed at $2,895.00 with a 3.48% increase.",
+    "keypoints": [
+      "The Chipotle Mexican Grill storefront is visible with stock information showing a price of $2,895.00 (+3.48%)."
+    ]
+  },
+  {
+    "question": "What were the closing values and percentage changes for the Dow Industrials, S&P 500, and NASDAQ?",
+    "answer": "The Dow Industrials closed at 39,512 (+1.03%), the S&P 500 at 5,225 (+0.89%), and the NASDAQ at 16,369 (+1.25%).",
+    "keypoints": [
+      "U.S. market indices are displayed: Dow Industrials at 39,512 (+1.03%), S&P 500 at 5,225 (+0.89%), and NASDAQ at 16,369 (+1.25%)."
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you reset a character to its default pose and verify face tracking functionality?",
+    "answer": "First, click the 'Set Rest Pose' button in the properties panel on the right side of the screen to reset the character to its default pose aligned with the tracking point. Then, move your head to the left to confirm the character tilts accordingly to the left, demonstrating accurate face tracking.",
+    "keypoints": [
+      "The user clicks on the 'Set Rest Pose' button located in the properties panel on the right side of the screen.",
+      "The character jumps back to its default pose, aligning with the center of the tracking point.",
+      "The user moves their head to the left, and the character tilts accordingly to the left, demonstrating accurate face tracking."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to enable Feature X and adjust brush size?",
+    "answer": "Enable Feature X by selecting the checkbox next to it in the settings window. Then, navigate to the 'Tools' panel and drag the 'Brush Size' slider to the right to increase the brush size from 10px to 25px.",
+    "keypoints": [
+      "The user selects the checkbox next to 'Enable Feature X' within the settings window.",
+      "The cursor drags the 'Brush Size' slider within the 'Tools' panel to the right, increasing the displayed value from '10px' to '25px'."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access the context menu for the Background Layer and input login credentials?",
+    "answer": "Right-click the 'Background Layer' in the 'Layers' panel to open its context menu. Then, enter the required email address into the 'Email Address' text field within the login dialog box.",
+    "keypoints": [
+      "A right-click action is performed on the layer named 'Background Layer' in the 'Layers' panel, causing a context menu to appear.",
+      "The user types 'testuser@example.com' into the text field labeled 'Email Address' in the login dialog box."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what sequence activates Feature X, opens the File menu, and copies an item?",
+    "answer": "First, enable Feature X by selecting its checkbox in the settings window. Next, click the 'File' menu in the top-left corner. Finally, select the 'Copy' option (third item) from the 'Edit' dropdown menu.",
+    "keypoints": [
+      "The user selects the 'checkbox' next to 'Enable Feature X' label within the 'Settings' window.",
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'Edit' dropdown menu, the 'Copy' option, which is the third item, is selected by a mouse click."
+    ]
+  }
+]

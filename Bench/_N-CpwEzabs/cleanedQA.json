@@ -1,0 +1,29 @@
+[
+  {
+    "question": "Following the death of a migration agent at a checkpoint south of Ciudad Juárez, what emergency response organizations were observed at the desert-like scene, and what injuries were sustained by the agent?",
+    "answer": "Emergency responders from the Mexican Red Cross, urban rescue teams, and the National Guard were present with vehicles including an ambulance. The agent suffered a head injury and exhibited signs of violence.",
+    "keypoints": {
+      "video": [
+        "A group of emergency responders from the Mexican Red Cross and urban rescue teams are gathered at a rugged outdoor location, with vehicles labeled \"RESCATE URBANO\" and \"SE.ME.FO\" visible.",
+        "Several individuals in military-style uniforms stand near a white truck marked \"GUARDIA NACIONAL,\" with one person holding a rifle.",
+        "An ambulance with \"AMBULANCIA\" and \"CRUZ ROJA MEXICANA\" written on it is parked alongside other vehicles, with personnel attending to tasks nearby."
+      ],
+      "text": [
+        "State investigators stated the agent suffered a head injury and his body exhibited signs of violence."
+      ]
+    }
+  },
+  {
+    "question": "What nationalities were the suspects detained in connection with the Mexican migration agent's death, and what law enforcement presence was observed at the desert operation site?",
+    "answer": "Two Venezuelan men and one Colombian national were detained as suspects. Police officers in tactical gear and rescuers were present at the desert-like scene with barrier tape, indicating an ongoing operation.",
+    "keypoints": {
+      "video": [
+        "Three police officers in tactical gear stand near a red barrier tape in a desert-like environment, observing the surroundings.",
+        "Rescuers and law enforcement personnel navigate rocky terrain under daylight conditions, indicating an ongoing search or operation."
+      ],
+      "text": [
+        "Two Venezuelan men and a Colombian national were detained as suspects in the agent's death."
+      ]
+    }
+  }
+]

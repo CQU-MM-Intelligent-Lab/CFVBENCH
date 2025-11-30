@@ -1,0 +1,28 @@
+[
+  {
+    "question": "In WixADIAI, what outcomes occur when selecting 'Duplicate' or 'Delete' from the dropdown menu after clicking the three-dot icon next to a section?",
+    "answer": "Selecting 'Duplicate' creates a copy of the section below the original, while selecting 'Delete' triggers a deletion confirmation dialog box to appear.",
+    "keypoints": [
+      "The user selects the 'Duplicate' option from the dropdown menu that appears after clicking the three-dot icon next to the section, resulting in a duplicate of the selected section appearing below it.",
+      "The user clicks on the 'Delete' button within the dropdown menu that appears after selecting the three-dot icon next to the section, leading to the deletion confirmation dialog box appearing on the screen."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you add an FAQ section to your website and populate it with content?",
+    "answer": "First, click the 'Add' button at the top to open a sidebar of section options, then drag the 'FAQ' section into the main editing area. Next, click the 'Edit' button within the FAQ section to activate input fields, and type your content into the question and answer fields.",
+    "keypoints": [
+      "The user clicks on the 'Add' button at the top of the interface, opening a sidebar with various section options such as 'Experience', 'Education', and 'Skills'.",
+      "The user drags the 'FAQ' section from the sidebar into the main editing area, adding a new FAQ section to the website layout.",
+      "The user clicks on the 'Edit' button within the newly added FAQ section, enabling text input fields for questions and answers.",
+      "The user types 'QUESTION' into the question field and 'Enter your answer to the question here' into the answer field within the FAQ section."
+    ]
+  },
+  {
+    "question": "In WixADIAI, how do you access design mode and explore section customization options?",
+    "answer": "Click the 'Design' tab at the top to switch to design mode, then scroll through the sidebar's section list to view available options like 'Portfolio', 'Testimonials', and 'About'.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab at the top of the interface, switching the view to design mode where they can adjust visual elements of the sections.",
+      "The user scrolls through the list of sections in the sidebar, highlighting different options like 'Portfolio', 'Testimonials', and 'About', but does not select any."
+    ]
+  }
+]

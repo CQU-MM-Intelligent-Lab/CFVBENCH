@@ -1,0 +1,45 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you reset the 'Record' workspace to its default layout?",
+    "answer": "Select 'Reset \"Record\"' from the 'Workspace' dropdown menu under the 'Window' tab. When the confirmation dialog appears, click the 'Yes' button to restore the original layout.",
+    "keypoints": [
+      "The user selects the 'Reset \"Record\"' option from the 'Workspace' dropdown menu under the 'Window' tab.",
+      "A confirmation dialog box appears asking if the user wants to reset 'Record' to its original layout.",
+      "The user clicks the 'Yes' button within the confirmation dialog box."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps are required to save a custom workspace named 'YouTube'?",
+    "answer": "Click 'Save Changes to this Workspace...' in the 'Workspace' dropdown under the 'Window' tab. In the dialog box, type 'YouTube' into the 'Name' field and click 'OK' to save.",
+    "keypoints": [
+      "The user clicks on the 'Save Changes to this Workspace...' option from the 'Workspace' dropdown menu under the 'Window' tab.",
+      "A new dialog box appears prompting the user to name the workspace.",
+      "The user types 'YouTube' into the text field labeled 'Name'.",
+      "The user clicks the 'OK' button within the naming dialog box."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable features like 'History' and 'Controls' in workspace settings?",
+    "answer": "After navigating workspace tabs like 'Home' or 'Record', click the checkboxes for 'History' and 'Controls' in the settings panel. This activates additional tools and panels related to these features.",
+    "keypoints": [
+      "The user navigates through the workspace settings by selecting different tabs such as 'Home', 'Record', and 'Stream', each leading to a corresponding section within the application interface.",
+      "The user enables specific features like 'History' and 'Controls' by clicking on their respective checkboxes within the workspace settings panel, which then displays additional tools and panels related to these features."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what methods can be used to adjust panel layout in a workspace?",
+    "answer": "Resize panels by dragging their edges to modify dimensions. Reposition panels by right-clicking a tab, selecting a relocation option from the context menu, and moving it elsewhere in the layout.",
+    "keypoints": [
+      "The user drags the edges of a panel within the workspace to resize it, adjusting its dimensions for better visibility or functionality.",
+      "The user right-clicks on a tab within the workspace and selects an option from the context menu to reposition it elsewhere in the layout, altering the arrangement of the workspace elements."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you save and verify a customized workspace layout named 'youtube'?",
+    "answer": "Access 'Workspace' settings under the 'Windows' menu, choose 'Save Workspace', enter 'youtube' in the name field, and save. Verify by selecting 'youtube' from workspace options to confirm the layout matches your customization.",
+    "keypoints": [
+      "The user saves the customized workspace layout by accessing the 'Workspace' settings again, choosing the 'Save Workspace' option, entering a name for the new workspace (e.g., \"youtube\"), and saving it for future use.",
+      "The user verifies the saved workspace by selecting it from the workspace options, ensuring that the layout matches the previously customized setup."
+    ]
+  }
+]

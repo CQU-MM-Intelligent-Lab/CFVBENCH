@@ -1,0 +1,11 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you initiate project export and specify the filename?",
+    "answer": "Click the 'File' menu in the top-left corner, select 'Export Project...' from the dropdown, then type the desired filename into the 'Save As' text field in the dialog box.",
+    "keypoints": [
+      "The user clicks on the 'File' menu item located in the top-left corner of the application window.",
+      "From the 'File' dropdown menu, the 'Export Project...' option is selected by a mouse click.",
+      "A dialog box appears prompting the user to save the file; the user types 'Chad_Illustrator' into the text field labeled 'Save As'."
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "question": "How many young adults are at risk of permanent, avoidable hearing loss?",
+    "answer": "Over one billion young adults are at risk of permanent, avoidable hearing loss.",
+    "keypoints": [
+      "Over one billion young adults are at risk of permanent, avoidable hearing loss."
+    ]
+  },
+  {
+    "question": "How does hearing damage occur in the inner ear?",
+    "answer": "Hearing damage occurs when sound permanently bends tiny hair cells in the inner ear.",
+    "keypoints": [
+      "Dr. Amy Sarow, a doctor of audiology, explained that hearing damage occurs when sound permanently bends tiny hair cells in the inner ear."
+    ]
+  },
+  {
+    "question": "What two factors cause permanent hearing damage from sound exposure?",
+    "answer": "Permanent hearing damage results from both the duration and loudness of sound exposure, measured in decibels (dB).",
+    "keypoints": [
+      "Permanent hearing damage results from both the duration and loudness of sound exposure, measured in decibels (dB)."
+    ]
+  },
+  {
+    "question": "What happens to loudness when increasing sound volume from 85dB to 88dB?",
+    "answer": "Increasing volume from 85dB to 88dB doubles the loudness due to the logarithmic scale of decibel measurement.",
+    "keypoints": [
+      "Increasing volume from 85dB to 88dB doubles the loudness due to the logarithmic scale of decibel measurement."
+    ]
+  },
+  {
+    "question": "What is the U.S. Department of Labor's recommended maximum exposure duration for 85dB noise in a safe workplace?",
+    "answer": "The U.S. Department of Labor recommends limiting noise exposure to no more than eight hours at 85dB for a safe working environment.",
+    "keypoints": [
+      "The U.S. Department of Labor recommends limiting noise exposure to no more than eight hours at 85dB for a safe working environment."
+    ]
+  },
+  {
+    "question": "How do noise-canceling headphones cancel environmental sound?",
+    "answer": "Noise-canceling headphones use microphones to analyze environmental sound and generate an inverse 'anti-wave' to cancel it out.",
+    "keypoints": [
+      "Noise-canceling headphones use microphones to analyze environmental sound and generate an inverse 'anti-wave' to cancel it out."
+    ]
+  },
+  {
+    "question": "How does noise cancellation protect the ear's internal structures?",
+    "answer": "Noise cancellation effectively removes sound, preventing vibration at the eardrum and protecting inner ear hair cells.",
+    "keypoints": [
+      "Noise cancellation effectively removes sound, preventing vibration at the eardrum and protecting inner ear hair cells."
+    ]
+  },
+  {
+    "question": "For which frequency range are noise-canceling headphones most effective?",
+    "answer": "Noise-canceling headphones work best at reducing persistent low-frequency sounds around 1000 hertz or below, such as airplane turbines or train noise.",
+    "keypoints": [
+      "Noise-canceling headphones work best at reducing persistent low-frequency sounds (around 1000 hertz or below), such as airplane turbines or train noise."
+    ]
+  },
+  {
+    "question": "Against which types of sounds is noise cancellation less effective?",
+    "answer": "Noise cancellation is less effective against higher-frequency sounds like birds chirping or sudden loud noises.",
+    "keypoints": [
+      "Noise cancellation is less effective against higher-frequency sounds like birds chirping or sudden loud noises."
+    ]
+  },
+  {
+    "question": "Are noise-canceling headphones suitable for extremely loud environments like concerts or jackhammer operation?",
+    "answer": "No, noise-canceling headphones are not suitable protection for extremely loud environments like concerts or when operating a jackhammer.",
+    "keypoints": [
+      "Noise-canceling headphones are not suitable protection for extremely loud environments like concerts or when operating a jackhammer."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you enable draggable functionality for a shape and configure its return speed?",
+    "answer": "Select the 'Draggable' modifier under the 'Puppet Track Behaviors' section in the right panel to enable dragging. Then, click the 'Return Duration' field in the properties panel and set a specific value to control how quickly the shape returns to its initial position.",
+    "keypoints": [
+      "The user selects the 'Draggable' modifier under the 'Puppet Track Behaviors' section in the right panel, enabling interactive dragging functionality for the selected shape.",
+      "The user clicks on the 'Return Duration' field in the properties panel and sets it to a specific value, altering how quickly the shape returns to its initial position."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you verify behavior changes after modifying draggable settings?",
+    "answer": "Observe the animation in the canvas to see behaviors like holding position or slow returns. Then, navigate the timeline at the bottom of the screen by adjusting playback to review the draggable behavior modifications.",
+    "keypoints": [
+      "The user observes the resulting animation where the shapes exhibit different behaviors based on the adjusted settings, such as holding in place or returning at a slower rate.",
+      "The user navigates through the timeline at the bottom of the screen, adjusting the playback to review the changes made to the draggable behavior of the shapes."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what steps ensure a shape stays in place after dragging, and how is this confirmed?",
+    "answer": "Select 'Hold in place' from the dropdown menu next to 'Return to rest' in the properties panel. The screen then shows the shapes retaining their new positions without reverting, confirming the setting is applied.",
+    "keypoints": [
+      "The user selects the 'Hold in place' option from the dropdown menu next to 'Return to rest', ensuring the shapes remain static after being moved.",
+      "The screen shows the final result where the shapes stay in their new positions without reverting back, confirming the successful application of the draggable tag settings."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable draggable behavior, set return duration, and apply 'Hold in place'?",
+    "answer": "Enable dragging by selecting the 'Draggable' modifier in the 'Puppet Track Behaviors' section. Set the return speed by entering a value in the 'Return Duration' field. Finally, choose 'Hold in place' from the 'Return to rest' dropdown to make shapes stay in dragged positions.",
+    "keypoints": [
+      "The user selects the 'Draggable' modifier under the 'Puppet Track Behaviors' section in the right panel, enabling interactive dragging functionality for the selected shape.",
+      "The user clicks on the 'Return Duration' field in the properties panel and sets it to a specific value, altering how quickly the shape returns to its initial position.",
+      "The user selects the 'Hold in place' option from the dropdown menu next to 'Return to rest', ensuring the shapes remain static after being moved."
+    ]
+  }
+]

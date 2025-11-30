@@ -1,0 +1,20 @@
+[
+  {
+    "question": "In Wix, what is the process to set an item's price to 70 Rupees in the Price List section?",
+    "answer": "Click the currency symbol next to the price field, select 'Rupees' from the dropdown to change the symbol to 'Rs.', then type '70' into the price field to display 'Rs. 70'.",
+    "keypoints": [
+      "The user clicks on the currency symbol next to the price field and selects 'Rupees' from the dropdown menu.",
+      "The currency symbol changes from '$' to 'Rs.' in the Price List section.",
+      "The user types '70' into the price field, updating the displayed price to 'Rs. 70'."
+    ]
+  },
+  {
+    "question": "In Wix, how do you customize the Price List section's colors using the 'SECTION COLORS' options and what is the outcome?",
+    "answer": "Click the 'Design' tab in the left sidebar, select a color scheme from the 'SECTION COLORS' options, and the updated design with the new colors will immediately appear in the Price List section.",
+    "keypoints": [
+      "The user clicks on the 'Design' tab in the left sidebar to customize the appearance of the Price List section.",
+      "The user selects a color scheme from the 'SECTION COLORS' options, changing the background colors to a combination of red and black.",
+      "The updated design with the selected colors is immediately reflected in the Price List section on the webpage."
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you access the rigging options after selecting a character layer?",
+    "answer": "After selecting the '2D Character for Character Animator' layer in the left panel, click the 'Rig' tab at the top of the interface to access rigging options.",
+    "keypoints": [
+      "The user selects the '2D Character for Character Animator' layer in the left panel of the Adobe Character Animator interface.",
+      "The user clicks on the 'Rig' tab located at the top of the interface to access rigging options."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you enable independent movement for a character's arm and verify it works?",
+    "answer": "Double-click the 'Right Arm' layer in the left panel to set it as independent, then drag the arm to demonstrate that it moves without affecting the rest of the body.",
+    "keypoints": [
+      "The user double-clicks on the 'Right Arm' layer in the left panel to set the layers as independent, ensuring that the arm movement does not affect other body parts.",
+      "The user drags the right arm of the character again, demonstrating that the arm now moves independently without affecting the rest of the body."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process to start recording character animations after rigging?",
+    "answer": "Navigate to the 'Record' tab at the top, adjust the frame rate and duration settings in the properties panel, then click the record button (a red circle icon) to start capturing movements.",
+    "keypoints": [
+      "The user navigates to the 'Record' tab at the top of the interface to begin recording the character's movements.",
+      "The user adjusts the frame rate and duration settings in the properties panel to prepare for recording the character's animations.",
+      "The user clicks the record button, indicated by a red circle icon, to start capturing the character's movements for animation purposes."
+    ]
+  }
+]

@@ -1,12 +1,12 @@
 # CFVBench: A Comprehensive Video Benchmark for Fine-grained Multimodal Retrieval-Augmented Generation
 
-## 📖 Overview
+## Overview
 
-CFVBENCH is a a large-scale, manually verified benchmark constructed from 599 publicly available videos, yielding 5,360 open-ended QA pairs. CFVBench spans high-density domains such as chart-heavy reports, news broadcasts, and software tutorials, requiring models to retrieve and reason over long temporal video spans while maintaining fine-grained multimodal information.
+CFVBENCH is a a large-scale, manually verified benchmark constructed from 599 publicly available videos, yielding 5,363 open-ended QA pairs. CFVBench spans high-density domains such as chart-heavy reports, news broadcasts, and software tutorials, requiring models to retrieve and reason over long temporal video spans while maintaining fine-grained multimodal information.
 
 Adaptive Visual Refinement (AVR) is a plug-and-play framework that adaptively increases frame sampling density and selectively invokes external tools when necessary. 
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 CFVBENCH/
@@ -45,6 +45,21 @@ CFVBENCH/
     └── Video Timestamp Extraction Protocol.md                          # Timestamp extraction
 ```
 
-## 📊 Dataset
+## License
+This dataset is released under the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-You can find our dataset examples in the `Bench/` directory. The complete dataset will be released upon paper acceptance.
+:warning: Terms of Use
+By accessing or using this dataset, you acknowledge and agree to the following terms:
+
+This dataset is strictly intended for academic and research purposes. Any commercial use, redistribution for profit, or utilization beyond the scope of research is strictly prohibited. The user assumes full responsibility for any consequences, legal or otherwise, arising from the use, dissemination, or modification of this dataset. The authors and their affiliated institutions bear no liability for misuse.
+
+The raw video data contained in this dataset is collected from public sources. The content, views, and opinions expressed within these videos (including but not limited to political, military, religious, or social commentary) belong solely to the original creators and do not reflect the views, positions, or ideologies of the dataset authors. The inclusion of any specific video is solely for the purpose of technical research (e.g., algorithm training, visual analysis) and does not imply endorsement or agreement with the content by the dataset authors.
+
+We do not claim ownership of the copyright for the raw video files. Access to this data is provided to researchers under the principles of fair use for academic study. 
+If you are the copyright holder of any work included in this dataset and believe that the removal of specific content is warranted, please raise an issue or contact us directly. We are committed to respecting intellectual property rights and will address valid takedown requests promptly.
+
+> **Note:** Please read and understand the license and disclaimers outlined above thoroughly. If you do not agree to these terms, you must refrain from downloading or using this dataset.
+
+## Dataset
+
+You can find our dataset in the `Bench/` directory.

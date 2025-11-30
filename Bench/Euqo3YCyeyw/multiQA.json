@@ -1,0 +1,35 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you adjust the sensitivity and camera input settings for the Head Turner behavior?",
+    "answer": "Hover over the 'Head Turner [Default]' option in the 'Properties' panel on the right, adjust the 'Sensitivity' slider to 25%, then click the 'Camera Input' checkbox to enable/disable head tracking.",
+    "keypoints": [
+      "The cursor hovers over the 'Head Turner [Default]' option within the 'Properties' panel on the right side of the screen.",
+      "The user adjusts the 'Sensitivity' slider under the 'Head Turner [Default]' settings to a value of 25%, decreasing the head turning sensitivity of the character.",
+      "The user clicks on the 'Camera Input' checkbox within the 'Head Turner [Default]' settings, enabling or disabling the camera input for head tracking."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you prepare a puppet and review its animation sequence?",
+    "answer": "Click the 'Preparing \"Starfall\"' button at the bottom to initiate puppet preparation, then drag the timeline slider in the 'Timeline Scrub' bar to review the character's animation sequence.",
+    "keypoints": [
+      "The user clicks on the 'Preparing \"Starfall\"' button at the bottom of the screen, initiating the preparation process for the selected puppet.",
+      "The user drags the timeline slider in the 'Timeline Scrub' bar at the bottom of the screen, reviewing the animation sequence of the character."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you record and demonstrate real-time head movement tracking?",
+    "answer": "Click the 'Record' button at the bottom of the timeline to start recording, then move your head in front of the camera to make the character's head turn in real-time based on your movements.",
+    "keypoints": [
+      "The user clicks on the 'Record' button at the bottom of the timeline, initiating the recording process for the character's movements.",
+      "The user moves their head in front of the camera, demonstrating how the character's head turns in real-time based on the recorded movements."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you access layer details after switching to the Rig tab?",
+    "answer": "Click the 'Rig' tab at the top of the interface to enter the rigging section, then scroll through the layers list to reveal character components like 'Hair', 'Eyes', and 'Mouth'.",
+    "keypoints": [
+      "The user clicks on the 'Rig' tab at the top of the interface, switching the view to the rigging section where detailed layer settings are visible.",
+      "The user scrolls through the layers list in the 'Rig' section, revealing various parts of the character like 'Hair', 'Eyes', 'Mouth', etc."
+    ]
+  }
+]

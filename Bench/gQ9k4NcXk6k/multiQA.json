@@ -1,0 +1,36 @@
+[
+  {
+    "question": "In Adobe Character Animator, how do you rotate a specific layer using the Transform properties?",
+    "answer": "First, select the desired layer in the timeline panel at the bottom of the application window. Then, in the properties panel on the right side, click the 'Rotation' property under the 'Transform' section. Finally, adjust the rotation value using the slider or input field to rotate the layer to the desired angle.",
+    "keypoints": [
+      "The user selects the 'Shapes' layer in the timeline panel, which is located at the bottom of the application window.",
+      "The user clicks on the 'Rotation' property under 'Transform [Layer 10]' in the properties panel on the right side of the screen.",
+      "The user adjusts the rotation value using the slider or input field for 'Rotation' under 'Transform [Layer 10]', causing the selected shape to rotate accordingly."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, after rotating a layer, how can you preview the animation effect over time?",
+    "answer": "After adjusting the rotation value, drag the playhead along the timeline at the bottom of the screen to scrub through the animation and observe how the rotation affects the shapes dynamically.",
+    "keypoints": [
+      "The user adjusts the rotation value using the slider or input field for 'Rotation' under 'Transform [Layer 10]', causing the selected shape to rotate accordingly.",
+      "The user drags the playhead along the timeline at the bottom of the screen to preview the animation, showing the shapes rotating over time."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, how do you modify particle behavior and adjust the timeline view for a broader perspective?",
+    "answer": "Select the particles layer in the timeline panel and adjust its properties in the right-side properties panel to control particle behavior. Then, zoom out on the timeline using scroll or zoom controls to see the entire animation sequence.",
+    "keypoints": [
+      "The user selects the 'Particles [Layer 12]' layer in the timeline panel and adjusts its properties in the properties panel to control the behavior of the particles.",
+      "The user zooms out on the timeline by scrolling or using the zoom controls, providing a broader view of the entire animation sequence."
+    ]
+  },
+  {
+    "question": "In Adobe Character Animator, what is the process to record a vertical movement change and preview the final animation?",
+    "answer": "Click the 'Record' button in the top menu bar to start recording. Then, drag the position Y value under the 'Transform' section in the properties panel to move the layer vertically on the canvas. Finally, press the play button in the timeline controls to preview the animation with all interactions.",
+    "keypoints": [
+      "The user clicks on the 'Record' button in the top menu bar to start recording changes made to the layers and their properties.",
+      "The user drags the position Y value under 'Transform [Layer 10]' in the properties panel, moving the selected shape vertically on the canvas.",
+      "The user presses the play button in the timeline controls to preview the final animation, showing the interaction between the static objects and the particles."
+    ]
+  }
+]
