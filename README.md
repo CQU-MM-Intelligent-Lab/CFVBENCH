@@ -45,20 +45,32 @@ CFVBENCH/
     └── Video Timestamp Extraction Protocol.md                          # Timestamp extraction
 ```
 
-## License
-This dataset is released under the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+## License & Terms of Use
 
-:warning: Terms of Use
-By accessing or using this dataset, you acknowledge and agree to the following terms:
+The CFVBench dataset is distributed with a strict distinction between the annotations provided by the authors and the raw video content collected from public sources.
 
-This dataset is strictly intended for academic and research purposes. Any commercial use, redistribution for profit, or utilization beyond the scope of research is strictly prohibited. The user assumes full responsibility for any consequences, legal or otherwise, arising from the use, dissemination, or modification of this dataset. The authors and their affiliated institutions bear no liability for misuse.
+1\. Annotations License
 
-The raw video data contained in this dataset is collected from public sources. The content, views, and opinions expressed within these videos (including but not limited to political, military, religious, or social commentary) belong solely to the original creators and do not reflect the views, positions, or ideologies of the dataset authors. The inclusion of any specific video is solely for the purpose of technical research (e.g., algorithm training, visual analysis) and does not imply endorsement or agreement with the content by the dataset authors.
+The annotations, question-answer pairs, and structured metadata created by the authors are licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
-We do not claim ownership of the copyright for the raw video files. Access to this data is provided to researchers under the principles of fair use for academic study. 
-If you are the copyright holder of any work included in this dataset and believe that the removal of specific content is warranted, please raise an issue or contact us directly. We are committed to respecting intellectual property rights and will address valid takedown requests promptly.
+2\. Video Data Usage
 
-> **Note:** Please read and understand the license and disclaimers outlined above thoroughly. If you do not agree to these terms, you must refrain from downloading or using this dataset.
+The raw video files are collected from public sources (YouTube). The authors **do not** own the copyright to these videos. Access to this data is provided strictly for **non-commercial academic research** under the legal principles of **Fair Use** (e.g., for technical algorithm training and visual analysis).
+
+By downloading or using this dataset, you acknowledge and agree to the following terms:
+
+  * **Academic Use Only:** This dataset is strictly intended for research and educational purposes.
+  * **Non-Commercial:** Any commercial use, redistribution for profit, or utilization beyond the scope of research is strictly prohibited.
+  * **No Redistribution:** You are prohibited from re-hosting or redistributing the raw video files publicly.
+  * **Liability:** The user assumes full responsibility for any consequences arising from the use of this dataset. The authors and their affiliated institutions bear no liability for misuse.
+
+> **Disclaimer:** The content, views, and opinions expressed within the raw videos belong solely to the original creators and do not reflect the views, positions, or ideologies of the CFVBench authors.
+
+### :warning: Notice and Takedown Policy
+
+We are committed to respecting intellectual property rights. **If you are a copyright holder** and believe your content has been included in a way that violates your rights, please contact us directly via email or by raising a GitHub Issue. Upon receipt of a valid request, we will **immediately remove** the specific content from the dataset.
+
+-----
 
 ## Dataset
 
@@ -69,20 +81,26 @@ You can find our dataset in the `Bench/` directory.
 To set up the environment, you can use the provided `environment.yml` file.
 
 1.  Create the conda environment:
+
     ```bash
     conda env create -f environment.yml
     ```
 
 2.  Activate the environment:
+
     ```bash
     conda activate cfv
     ```
 
 3.  **Download Dataset**:
+
+    > **Note:** By downloading the file below, you agree to the Terms of Use and License outlined above.
+
     Download the dataset zip file from the following link:
     [CFVBench Dataset](https://drive.google.com/file/d/1UVc0MQaCT1YS89VlPMcL9fY7av-9Di8D/view?usp=sharing)
-    
+
     After downloading, unzip the contents into the `Bench/` directory. The structure should look like this:
+
     ```
     Bench/
     ├── video_id_1.mp4
