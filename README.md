@@ -25,9 +25,6 @@ CFVBENCH/
 │       ├── caption.py            # Frame captioning
 │       └── split.py              # Video segmentation
 ├── Bench/                        # Dataset directory
-│   └── a9vPm615xnY/              # Example video with QA pairs
-│       ├── a9vPm615xnY.mp4
-│       └── multiQA.json
 └── prompts/                      # Prompt templates
     ├── Caption Generation.md                                           # Frame caption synthesis
     ├── DET word.md                                                     # Word detection
@@ -51,7 +48,7 @@ The CFVBench dataset is distributed with a strict distinction between the annota
 
 1\. Annotations License
 
-The annotations, question-answer pairs, and structured metadata created by the authors are licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+The annotations, question-answer pairs, and structured metadata created by the authors are licensed under the **[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
 
 2\. Video Data Usage
 
@@ -84,20 +81,18 @@ To set up the environment, you can use the provided `environment.yml` file.
 
     ```bash
     conda env create -f environment.yml
-    ```
-
-2.  Activate the environment:
-
-    ```bash
     conda activate cfv
+    pip install httpx[socks]
+    conda install -c conda-forge libiconv ffmpeg cudnn=8 -y
+    export LD_LIBRARY_PATH="$CONDA_PREFIX/lib:$LD_LIBRARY_PATH"
     ```
 
-3.  **Download Dataset**:
+2.  **Download Dataset**:
 
     > **Note:** By downloading the file below, you agree to the Terms of Use and License outlined above.
 
     Download the dataset zip file from the following link:
-    [CFVBench Dataset](https://drive.google.com/file/d/1UVc0MQaCT1YS89VlPMcL9fY7av-9Di8D/view?usp=sharing)
+    [CFVBench Video Dataset](https://drive.google.com/file/d/1UVc0MQaCT1YS89VlPMcL9fY7av-9Di8D/view?usp=sharing)
 
     After downloading, unzip the contents into the `Bench/` directory. The structure should look like this:
 
@@ -112,3 +107,15 @@ To set up the environment, you can use the provided `environment.yml` file.
     │   └── multiQA.json
     └── ...
     ```
+
+3. Model Setup
+   Open `videorag/_config.py` to review the required model paths and download targets, then update the configuration to match your local environment.
+
+4. Run Tests
+- Run the full benchmark, preprocess all videos, and generate retrieval-based answers for all questions:
+  `python avr/avr.py`
+- Run a custom question on a single video and preprocess only that video:
+  `python avr/avr.py --question "What is the main topic of the video?" --video_path "Bench/_Dsu07-VKRw.mp4"`
+- Run the benchmark for a single video and preprocess only that video:
+  `python avr/avr.py --video_path "Bench/_Dsu07-VKRw.mp4"`
+  This will evaluate all questions under `Bench/_Dsu07-VKRw`.

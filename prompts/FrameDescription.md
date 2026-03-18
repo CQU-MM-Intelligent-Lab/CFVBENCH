@@ -1,0 +1,1 @@
+Frame {frame_index}/{total_frames}: Provide ONE objective English sentence (<=25 words) describing ONLY visible content: main scene, salient objects, on-screen text, charts, logos. NO speculation, NO inferred causes, NO symbolism. Forbidden words: maybe, might, seems, appear, appears, appear to, suggests, symbolize, symbolizes, represent, represents, possibly.

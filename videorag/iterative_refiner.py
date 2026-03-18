@@ -7,6 +7,10 @@ from ._config import (
     DEDUP_PHASH_THRESHOLD_DEFAULT,
     DEDUP_DEBUG,
     FRAME_COUNT_MAPPING_EXTENDED,
+    REFINER_RETRY_ATTEMPTS_DEFAULT,
+    REFINER_RETRY_TIMEOUT_SECONDS_DEFAULT,
+    REFINER_WARMUP_ON_FIRST_CALL_DEFAULT,
+    REFINER_WARMUP_TIMEOUT_SECONDS_DEFAULT,
 )
 from ._llm import (
     ollama_refiner_func,
@@ -37,37 +41,8 @@ class IterativeRefiner:
     def __init__(self, config: Dict[str, Any], llm_api_func: callable = None):
         self.config = config
         self.llm_api_func = llm_api_func
-        # Warm-up state: to avoid first-call model load latency we warm the model once
+        # Warm-up state: run once before first evaluation to avoid first-call stalls.
         self._warmed = False
-        # Try to warm up model at startup in background (non-blocking)
-        try:
-            do_warm = os.environ.get("REFINER_WARMUP_ON_FIRST_CALL", "1").strip() in {"1", "true", "True"}
-        except Exception:
-            do_warm = True
-        if do_warm:
-            model_name = os.environ.get("REFINER_OLLAMA_MODEL", "").strip() or get_default_ollama_chat_model()
-            try:
-                loop = asyncio.get_running_loop()
-                # If this model has been warmed by another module/instance, avoid scheduling duplicate warmup
-                try:
-                    if is_ollama_model_warmed(model_name):
-                        self._warmed = True
-                    else:
-                        # schedule warmup in running loop
-                        loop.create_task(self._warmup(model_name))
-                except Exception:
-                    # fallback: schedule warmup
-                    loop.create_task(self._warmup(model_name))
-            except RuntimeError:
-                # no running loop: start a daemon thread to run warmup
-                import threading
-                def _bg():
-                    try:
-                        asyncio.run(self._warmup(model_name))
-                    except Exception:
-                        pass
-                t = threading.Thread(target=_bg, daemon=True)
-                t.start()
 
     def _infer_modalities_from_query(self, query: str) -> Dict[str, bool]:
         """Heuristic fallback: infer OCR/DET needs from query text when evaluator didn't mark them.
@@ -247,6 +222,10 @@ Based on the query and summaries, generate a JSON list of no more than 15 precis
         try:
             probe_prompt = "Please respond with a short JSON: {\"warm\": true}."
             # Use a small timeout for warmup but tolerate failure
+            warmup_timeout = float(
+                self.config.get("refiner_warmup_timeout_seconds")
+                or os.environ.get("REFINER_WARMUP_TIMEOUT_SECONDS", str(REFINER_WARMUP_TIMEOUT_SECONDS_DEFAULT))
+            )
             try:
                 # Decide whether to skip Ollama before initializing any Ollama client
                 skip = os.environ.get("SKIP_OLLAMA", "").strip().lower() in {"1", "true", "yes"}
@@ -261,20 +240,20 @@ Based on the query and summaries, generate a JSON list of no more than 15 precis
 
                 # Warmup the appropriate backend: internvl, custom/openai (when skip), or Ollama
                 if "internvl" in (model_name or "").lower():
-                    await asyncio.wait_for(internvl_refiner_func(model_name=model_name, prompt=probe_prompt), timeout=10)
+                    await asyncio.wait_for(internvl_refiner_func(model_name=model_name, prompt=probe_prompt), timeout=warmup_timeout)
                 elif skip:
                     base = os.environ.get("CUSTOM_OPENAI_BASE_URL", "").strip()
                     key = os.environ.get("CUSTOM_OPENAI_API_KEY", "").strip() or os.environ.get("OPENAI_API_KEY", "").strip()
                     model = os.environ.get("CUSTOM_OPENAI_MODEL", "").strip() or os.environ.get("OPENAI_MODEL", "").strip() or model_name
                     if base and key:
-                        await asyncio.wait_for(custom_openai_complete_if_cache(model, probe_prompt, base_url=base, api_key=key), timeout=10)
+                        await asyncio.wait_for(custom_openai_complete_if_cache(model, probe_prompt, base_url=base, api_key=key), timeout=warmup_timeout)
                     elif os.environ.get("OPENAI_API_KEY", ""):
-                        await asyncio.wait_for(openai_complete_if_cache(model_name, probe_prompt), timeout=10)
+                        await asyncio.wait_for(openai_complete_if_cache(model_name, probe_prompt), timeout=warmup_timeout)
                     else:
                         # No API configured; skip warmup instead of forcing Ollama
                         print(f"[Refiner][Warmup] SKIP_OLLAMA is set but no API credentials found; skipping warmup for model={model_name}")
                 else:
-                    await asyncio.wait_for(ollama_refiner_func(model_name=model_name, prompt=probe_prompt), timeout=10)
+                    await asyncio.wait_for(ollama_refiner_func(model_name=model_name, prompt=probe_prompt), timeout=warmup_timeout)
                 self._warmed = True
                 try:
                     mark_ollama_model_warmed(model_name)
@@ -282,7 +261,7 @@ Based on the query and summaries, generate a JSON list of no more than 15 precis
                     pass
                 print(f"[Refiner][Warmup] model={model_name} warmup succeeded")
             except asyncio.TimeoutError:
-                print(f"[Refiner][Warmup] model={model_name} warmup timed out (10s)")
+                print(f"[Refiner][Warmup] model={model_name} warmup timed out ({warmup_timeout}s)")
             except Exception as e:
                 print(f"[Refiner][Warmup] model={model_name} warmup error: {e}")
         except Exception:
@@ -390,25 +369,19 @@ STRICT OUTPUT RULES (MANDATORY):
 
         # Warm-up on first real evaluation to preload model weights (avoids first-call stall)
         try:
-            do_warm = os.environ.get("REFINER_WARMUP_ON_FIRST_CALL", "1").strip() in {"1", "true", "True"}
+            do_warm = os.environ.get(
+                "REFINER_WARMUP_ON_FIRST_CALL",
+                "1" if REFINER_WARMUP_ON_FIRST_CALL_DEFAULT else "0",
+            ).strip() in {"1", "true", "True"}
         except Exception:
-            do_warm = True
+            do_warm = REFINER_WARMUP_ON_FIRST_CALL_DEFAULT
         if do_warm and not getattr(self, "_warmed", False):
-            # If another instance already warmed this model, mark warmed and continue
             try:
                 if is_ollama_model_warmed(refiner_model):
                     self._warmed = True
                 else:
-                    # schedule warmup in background but do not block evaluation
-                    try:
-                        loop = asyncio.get_running_loop()
-                        loop.create_task(self._warmup(refiner_model))
-                    except RuntimeError:
-                        # no running loop: run warmup synchronously but with timeout
-                        try:
-                            asyncio.run(asyncio.wait_for(self._warmup(refiner_model), timeout=12))
-                        except Exception:
-                            pass
+                    print(f"[Refiner][Warmup] blocking warmup start for model={refiner_model}")
+                    await self._warmup(refiner_model)
             except Exception as e:
                 print(f"[Refiner][Warmup] failed: {e}")
 
@@ -436,8 +409,8 @@ STRICT OUTPUT RULES (MANDATORY):
                 pass
             async with self._EVAL_SEM:
                 # Retry loop: wait up to per_attempt_timeout for each attempt, then retry
-                attempts = int(os.environ.get("REFINER_RETRY_ATTEMPTS", "5"))
-                per_attempt_timeout = float(os.environ.get("REFINER_RETRY_TIMEOUT", "30"))
+                attempts = int(os.environ.get("REFINER_RETRY_ATTEMPTS", str(REFINER_RETRY_ATTEMPTS_DEFAULT)))
+                per_attempt_timeout = float(os.environ.get("REFINER_RETRY_TIMEOUT", str(REFINER_RETRY_TIMEOUT_SECONDS_DEFAULT)))
                 llm_response_str = None
                 for attempt in range(1, attempts + 1):
                     try:

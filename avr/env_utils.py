@@ -4,6 +4,8 @@ import base64
 import json
 import re
 import ast
+import glob
+import ctypes
 
 from videorag._llm import (
     openai_4o_mini_config,
@@ -12,6 +14,114 @@ from videorag._llm import (
     get_default_ollama_chat_model,
     internvl_hf_config,
 )
+# MINICPM_MODEL_PATH removed: do not require local MINICPM checkpoint anymore
+
+
+# ---------------- Helper utilities (moved from test.py) ----------------
+def _discover_runtime_library_paths() -> tuple[str | None, str | None]:
+    torch_lib_path = None
+    try:
+        import importlib.util
+
+        spec = importlib.util.find_spec("torch")
+        if spec and spec.origin:
+            candidate = os.path.join(os.path.dirname(spec.origin), "lib")
+            if os.path.isdir(candidate):
+                torch_lib_path = candidate
+    except Exception:
+        pass
+
+    conda_prefix = os.environ.get("CONDA_PREFIX", "").strip() or getattr(sys, "prefix", "")
+    conda_lib_path = os.path.join(conda_prefix, "lib") if conda_prefix else None
+    if conda_lib_path and not os.path.isdir(conda_lib_path):
+        conda_lib_path = None
+    return torch_lib_path, conda_lib_path
+
+
+def _prepend_runtime_library_paths(existing_paths: list[str], priority_paths: list[str]) -> list[str]:
+    final_paths = list(existing_paths)
+    for lib_path in reversed([p for p in priority_paths if p]):
+        if lib_path in final_paths:
+            final_paths.remove(lib_path)
+        final_paths.insert(0, lib_path)
+    return final_paths
+
+
+def _preload_runtime_shared_libs(search_paths: list[str]) -> None:
+    if os.name != "posix":
+        return
+
+    loaded = []
+    wanted = [
+        "libcudnn_ops_infer.so.8",
+        "libcudnn_cnn_infer.so.8",
+        "libcudnn.so.8",
+        "libiconv.so.2",
+    ]
+    mode = getattr(ctypes, "RTLD_GLOBAL", 0)
+
+    for lib_name in wanted:
+        loaded_this_lib = False
+        for base in search_paths:
+            if not base:
+                continue
+            matches = glob.glob(os.path.join(base, lib_name + "*"))
+            for match in sorted(matches):
+                if not os.path.isfile(match):
+                    continue
+                try:
+                    ctypes.CDLL(match, mode=mode)
+                    loaded.append(os.path.basename(match))
+                    loaded_this_lib = True
+                    break
+                except OSError:
+                    continue
+            if loaded_this_lib:
+                break
+
+    if loaded:
+        print(f"[Env] Preloaded runtime libs: {', '.join(loaded)}")
+
+
+def can_use_faster_whisper_cuda() -> tuple[bool, str]:
+    try:
+        import torch
+    except Exception as exc:
+        return False, f"torch unavailable: {exc}"
+
+    if not torch.cuda.is_available() or torch.cuda.device_count() <= 0:
+        return False, "torch.cuda reports no available devices"
+
+    search_paths = [p for p in _discover_runtime_library_paths() if p]
+    mode = getattr(ctypes, "RTLD_GLOBAL", 0)
+    wanted = [
+        "libcudnn_ops_infer.so.8",
+        "libcudnn_cnn_infer.so.8",
+        "libcudnn.so.8",
+    ]
+    loaded_any = []
+
+    for lib_name in wanted:
+        loaded_this_lib = False
+        for base in search_paths:
+            matches = glob.glob(os.path.join(base, lib_name + "*"))
+            for match in sorted(matches):
+                if not os.path.isfile(match):
+                    continue
+                try:
+                    ctypes.CDLL(match, mode=mode)
+                    loaded_any.append(os.path.basename(match))
+                    loaded_this_lib = True
+                    break
+                except OSError:
+                    continue
+            if loaded_this_lib:
+                break
+        if not loaded_this_lib:
+            return False, f"missing runtime library {lib_name}"
+
+    return True, f"loaded {', '.join(loaded_any)}"
+
 
 def sanitize_cuda_libs():
     """
@@ -20,29 +130,25 @@ def sanitize_cuda_libs():
     Set RESPECT_LD_LIBRARY_PATH=1 to skip.
     """
     try:
-        if os.environ.get("RESPECT_LD_LIBRARY_PATH", "").strip() in {"1", "true", "True"}:
-            print("[Env] RESPECT_LD_LIBRARY_PATH is set. Skipping LD_LIBRARY_PATH sanitization.")
-            return
+        torch_lib_path, conda_lib_path = _discover_runtime_library_paths()
+        priority_paths = [p for p in [torch_lib_path, conda_lib_path] if p]
 
-        import importlib.util
-        import sys
+        if os.environ.get("RESPECT_LD_LIBRARY_PATH", "").strip() in {"1", "true", "True"}:
+            existing_paths = [p for p in os.environ.get("LD_LIBRARY_PATH", "").split(":") if p]
+            new_paths = _prepend_runtime_library_paths(existing_paths, priority_paths)
+            new_ld = ":".join(new_paths)
+            if new_ld != os.environ.get("LD_LIBRARY_PATH", ""):
+                os.environ["LD_LIBRARY_PATH"] = new_ld
+                print(f"[Env] RESPECT_LD_LIBRARY_PATH is set. Preserving existing entries and prepending runtime libs: {new_ld}")
+            else:
+                print("[Env] RESPECT_LD_LIBRARY_PATH is set. Existing LD_LIBRARY_PATH already contains runtime libs.")
+            _preload_runtime_shared_libs(priority_paths)
+            return
 
         print("[Env] Running LD_LIBRARY_PATH sanitization...")
 
-        # 1. Find the path to PyTorch's bundled libraries using importlib
-        torch_lib_path = None
-        try:
-            spec = importlib.util.find_spec("torch")
-            if spec and spec.origin:
-                # spec.origin is .../torch/__init__.py
-                torch_lib_path = os.path.join(os.path.dirname(spec.origin), 'lib')
-                if not os.path.isdir(torch_lib_path):
-                    print(f"[Env] Found torch spec but `lib` directory does not exist: {torch_lib_path}")
-                    torch_lib_path = None
-                else:
-                    print(f"[Env] Found PyTorch lib path: {torch_lib_path}")
-        except Exception as e:
-            print(f"[Env] Could not find PyTorch location using importlib: {e}")
+        if torch_lib_path:
+            print(f"[Env] Found PyTorch lib path: {torch_lib_path}")
         
         # 2. Get current LD_LIBRARY_PATH and filter it
         original_ld = os.environ.get("LD_LIBRARY_PATH", "")
@@ -67,14 +173,12 @@ def sanitize_cuda_libs():
         if removed_paths:
             print(f"[Env] Removed conflicting paths: {':'.join(removed_paths)}")
         
-        # 3. Prepend the torch lib path if it exists
-        final_paths = filtered_paths
-        if torch_lib_path:
-            # Avoid adding duplicates and ensure it's at the front
-            if torch_lib_path in final_paths:
-                final_paths.remove(torch_lib_path)
-            final_paths.insert(0, torch_lib_path)
-        
+        # 3. Prepend critical runtime library paths while preserving the rest.
+        final_paths = _prepend_runtime_library_paths(filtered_paths, priority_paths)
+
+        if conda_lib_path and conda_lib_path in final_paths:
+            print(f"[Env] Preserving conda runtime libs: {conda_lib_path}")
+
         new_ld = ":".join(final_paths)
 
         if new_ld != original_ld:
@@ -82,6 +186,7 @@ def sanitize_cuda_libs():
             print(f"[Env] Set new LD_LIBRARY_PATH: {new_ld if new_ld else '<empty>'}")
         else:
             print("[Env] LD_LIBRARY_PATH did not require changes.")
+        _preload_runtime_shared_libs(priority_paths)
 
     except Exception as e:
         print(f"[Env] A critical error occurred during LD_LIBRARY_PATH sanitization: {e}")
@@ -135,6 +240,29 @@ def check_dependencies():
     if optional:
         print("[Dependency] Optional/not strictly required now (install if you use related features):", ", ".join(optional))
 
+    # Surface missing external binaries early because video validation/extraction depends on them.
+    from avr.media_utils import resolve_ffmpeg_binary, resolve_ffprobe_binary
+
+    ffmpeg_bin = resolve_ffmpeg_binary()
+    if ffmpeg_bin is None:
+        print(
+            "[Dependency] External binary missing: ffmpeg "
+            "(required for frame/audio extraction; this must be a real executable, not the Python package `ffmpeg`)."
+        )
+    elif os.path.basename(ffmpeg_bin).lower().startswith("ffmpeg") and os.path.dirname(ffmpeg_bin):
+        import shutil
+
+        if shutil.which("ffmpeg") is None:
+            print(f"[Dependency] ffmpeg not found on PATH; using bundled fallback executable: {ffmpeg_bin}")
+
+    ffprobe_bin = resolve_ffprobe_binary()
+    if ffprobe_bin is None:
+        print(
+            "[Dependency] External binary missing: ffprobe "
+            "(preferred for video metadata probing; OpenCV fallback will be used if available; "
+            "the Python package `ffprobe` does not provide this command)."
+        )
+
 
 class SimpleStore:
     def __init__(self, data: dict):
@@ -142,27 +270,55 @@ class SimpleStore:
 
 
 def check_models(repo_root: str):
-    problems = []
+    required_missing = []
+    optional_missing = []
 
-    # Only require the local faster-distil-whisper checkpoint.
-    # The project no longer requires a local MINICPM path.
-    import importlib.util
-    use_ollama = importlib.util.find_spec("ollama") is not None
+    # Match the same precedence used by the runtime loaders.
+    try:
+        from videorag._config import (
+            WHISPER_MODEL_PATH as CONFIG_WHISPER_MODEL_PATH,
+            YOLOV8_MODEL_PATH as CONFIG_YOLOV8_MODEL_PATH,
+            MINICPM_MODEL_PATH as CONFIG_MINICPM_MODEL_PATH,
+            SENT_TRANSFORMER_MODEL_PATH as CONFIG_SENT_TRANSFORMER_MODEL_PATH,
+        )
+    except Exception:
+        CONFIG_WHISPER_MODEL_PATH = None
+        CONFIG_YOLOV8_MODEL_PATH = None
+        CONFIG_MINICPM_MODEL_PATH = None
+        CONFIG_SENT_TRANSFORMER_MODEL_PATH = None
 
-    checkpoints = [os.path.join(repo_root, "faster-distil-whisper-large-v3")]
+    whisper_path = (
+        os.environ.get("FASTER_WHISPER_DIR")
+        or os.environ.get("ASR_MODEL_PATH")
+        or os.environ.get("VIDEORAG_WHISPER_MODEL_PATH")
+        or CONFIG_WHISPER_MODEL_PATH
+        or os.path.join(repo_root, "faster-distil-whisper-large-v3")
+    )
+    yolo_path = os.environ.get("VIDEORAG_YOLOV8_MODEL_PATH") or CONFIG_YOLOV8_MODEL_PATH
+    minicpm_path = os.environ.get("MINICPM_MODEL_PATH") or CONFIG_MINICPM_MODEL_PATH
+    sent_transformer_path = (
+        os.environ.get("VIDEORAG_SENT_TRANSFORMER_MODEL_PATH") or CONFIG_SENT_TRANSFORMER_MODEL_PATH
+    )
 
-    for path in checkpoints:
-        if not os.path.exists(path):
-            problems.append(path)
+    if whisper_path and not os.path.exists(whisper_path):
+        required_missing.append(("ASR/Whisper", whisper_path))
+    if yolo_path and not os.path.exists(yolo_path):
+        optional_missing.append(("YOLO-World", yolo_path))
+    if minicpm_path and not os.path.exists(minicpm_path):
+        optional_missing.append(("MiniCPM", minicpm_path))
+    if sent_transformer_path and not os.path.exists(sent_transformer_path):
+        optional_missing.append(("SentenceTransformer", sent_transformer_path))
 
-    if use_ollama:
-        print("[Models] Ollama detected: MINICPM model may be provided by Ollama; skipping local MINICPM check.")
+    if required_missing:
+        print("[Models] Missing required local model/checkpoint path(s):")
+        for name, path in required_missing:
+            print(f" - {name}: {path}")
+        print("[Models] The ASR loader will fall back to the configured Whisper model id if local weights are unavailable.")
 
-    if problems:
-        print("[Models] Missing required model/checkpoint path(s):")
-        for p in problems:
-            print(" -", p)
-        print("Please follow README.md to download checkpoints before running.")
+    if optional_missing:
+        print("[Models] Missing optional local model/checkpoint path(s):")
+        for name, path in optional_missing:
+            print(f" - {name}: {path}")
 
 
 def normalize_question_text(question_raw: str) -> str:

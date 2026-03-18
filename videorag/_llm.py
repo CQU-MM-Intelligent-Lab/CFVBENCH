@@ -52,13 +52,51 @@ from ._llm_openai import (
 # so runtime changes to OLLAMA_CHAT_MODEL / OLLAMA_EMBED_MODEL (e.g. from test.py --api)
 # are respected by modules that call these helpers.
 def get_default_ollama_chat_model() -> str:
-    return os.environ.get("OLLAMA_CHAT_MODEL", "llava-llama3:8b")
+    try:
+        from ._config import DEFAULT_OLLAMA_CHAT_MODEL
+    except Exception:
+        DEFAULT_OLLAMA_CHAT_MODEL = "llava-llama3:8b"
+    return os.environ.get("OLLAMA_CHAT_MODEL", DEFAULT_OLLAMA_CHAT_MODEL)
 
 
 def get_default_ollama_embed_model() -> str:
-    return os.environ.get("OLLAMA_EMBED_MODEL", "nomic-embed-text")
+    try:
+        from ._config import DEFAULT_OLLAMA_EMBED_MODEL
+    except Exception:
+        DEFAULT_OLLAMA_EMBED_MODEL = "nomic-embed-text"
+    return os.environ.get("OLLAMA_EMBED_MODEL", DEFAULT_OLLAMA_EMBED_MODEL)
 
 ## (Common utilities and LLMConfig moved to _llm_common.py)
+
+
+def _normalize_ollama_image_base64(img_b64: str, min_edge: int = 64, factor: int = 32) -> str:
+    try:
+        raw = img_b64.split(",", 1)[1] if img_b64.startswith("data:image") else img_b64
+        image = Image.open(BytesIO(base64.b64decode(raw))).convert("RGB")
+        width, height = image.size
+
+        scale = max(
+            1.0,
+            float(min_edge) / float(max(1, width)),
+            float(min_edge) / float(max(1, height)),
+        )
+        new_w = max(min_edge, int(round(width * scale)))
+        new_h = max(min_edge, int(round(height * scale)))
+
+        def _align_up(value: int) -> int:
+            return max(factor, ((int(value) + factor - 1) // factor) * factor)
+
+        aligned_w = _align_up(new_w)
+        aligned_h = _align_up(new_h)
+        if (aligned_w, aligned_h) != (width, height):
+            image = image.resize((aligned_w, aligned_h))
+            print(f"[LLM][Ollama] Resized image for multimodal input: {width}x{height} -> {aligned_w}x{aligned_h}")
+
+        buffer = BytesIO()
+        image.save(buffer, format="JPEG", quality=90)
+        return base64.b64encode(buffer.getvalue()).decode("utf-8")
+    except Exception:
+        return img_b64.split(",", 1)[1] if img_b64.startswith("data:image") else img_b64
 
 ##### OpenAI Configuration
 ## (OpenAI related functions & configs moved to _llm_openai.py)
@@ -215,20 +253,10 @@ async def ollama_complete_if_cache(
     
     # For Ollama, pass images via the message 'images' field rather than concatenating into text
     if images_base64:
-        # Ollama expects raw base64 strings (without data:image/... prefix) in some versions
-        # Ensure we strip possible prefix if present
-        def _strip_prefix(b64: str) -> str:
-            if b64.startswith("data:image"):
-                try:
-                    return b64.split(",", 1)[1]
-                except Exception:
-                    return b64
-            return b64
-
         user_message = {
             "role": "user",
             "content": prompt,
-            "images": [_strip_prefix(img_b64) for img_b64 in images_base64]
+            "images": [_normalize_ollama_image_base64(img_b64) for img_b64 in images_base64]
         }
     else:
         user_message = {"role": "user", "content": prompt}
@@ -246,7 +274,6 @@ async def ollama_complete_if_cache(
     # Send the request to Ollama
     # 统一固定采样参数
     options = {
-        "keep_alive": -1,
         "temperature": 0.1,
         "top_p": 1,
     }
@@ -530,7 +557,7 @@ def _get_internvl_model_path() -> str:
     # Prefer explicit path, fallback to HF-style name under cache_dir
     return os.environ.get(
         "INTERNVL_MODEL_PATH",
-        " "
+        "/root/autodl-tmp/Model/OpenGVLab/InternVL3_5-8B-HF"
     )
 
 def _ensure_internvl_loaded():
@@ -802,8 +829,7 @@ async def ollama_refiner_func(model_name: str, prompt: str, **kwargs) -> str:
             # 统一固定采样参数
             "temperature": 0.1,
             "top_p": 1,
-        },
-        keep_alive=-1  # Keep the model loaded in memory
+        }
     )
     return response['message']['content']
 

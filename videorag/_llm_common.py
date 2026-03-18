@@ -12,12 +12,14 @@ except Exception:
     RateLimitError = Exception  # type: ignore
     _OPENAI_AVAILABLE = False
 
+_OLLAMA_IMPORT_ERROR = None
 try:
     from ollama import AsyncClient  # type: ignore
     _OLLAMA_AVAILABLE = True
-except Exception:
+except Exception as exc:
     AsyncClient = None  # type: ignore
     _OLLAMA_AVAILABLE = False
+    _OLLAMA_IMPORT_ERROR = exc
 
 from ._utils import wrap_embedding_func_with_attrs
 from ._utils import EmbeddingFunc
@@ -27,6 +29,7 @@ global_openai_async_client = None
 global_azure_openai_async_client = None
 global_custom_openai_async_client = None
 global_ollama_client = None
+_WARNED_OLLAMA_GPU_CONFIG = False
 
 # Track which Ollama model names have been warmed (keeps model loaded/resident)
 # Stored here so the warmed state is shared across modules/instances.
@@ -77,9 +80,30 @@ def get_custom_openai_async_client_instance(base_url: str, api_key: str):
 
 def get_ollama_async_client_instance():
     global global_ollama_client
+    global _WARNED_OLLAMA_GPU_CONFIG
     if global_ollama_client is None:
         if not _OLLAMA_AVAILABLE:
-            raise RuntimeError("Ollama client is not available. Please 'pip install ollama' and ensure Ollama server is running.")
+            detail = f" Import error: {_OLLAMA_IMPORT_ERROR}" if _OLLAMA_IMPORT_ERROR else ""
+            raise RuntimeError(
+                "Ollama Python client is not available in the current interpreter."
+                " Make sure the same `python` used to run AVR can import `ollama`."
+                f"{detail}"
+            )
+        if not _WARNED_OLLAMA_GPU_CONFIG:
+            try:
+                from ._config import get_effective_visible_gpu_count, get_effective_visible_gpu_ids
+
+                visible_gpu_ids = get_effective_visible_gpu_ids()
+                if get_effective_visible_gpu_count() > 0:
+                    print(
+                        "[GPU][Ollama] Using external Ollama server. "
+                        f"Python-side visible GPUs={','.join(visible_gpu_ids)}. "
+                        "To make Ollama use the same GPU selection / multi-GPU layout, start `ollama serve` "
+                        "with the same CUDA_VISIBLE_DEVICES."
+                    )
+            except Exception:
+                pass
+            _WARNED_OLLAMA_GPU_CONFIG = True
         global_ollama_client = AsyncClient()  # Adjust base URL if necessary
     return global_ollama_client
 

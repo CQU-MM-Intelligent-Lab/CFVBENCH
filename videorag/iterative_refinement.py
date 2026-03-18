@@ -384,7 +384,7 @@ async def refine_context(
                         from videorag._config import YOLOV8_MODEL_PATH
                     except Exception:
                         YOLOV8_MODEL_PATH = None
-                    model_path = YOLOV8_MODEL_PATH or ' '
+                    model_path = YOLOV8_MODEL_PATH or '/root/autodl-tmp/yolov8m-worldv2.pt'
                     if not os.path.exists(model_path):
                         print(f"[Refine-DET][ERROR] Model not found at {model_path}. Skipping DET.")
                         det_params = False

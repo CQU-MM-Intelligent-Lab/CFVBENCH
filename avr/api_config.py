@@ -16,25 +16,37 @@ import os
 from typing import Tuple, Dict, Any
 
 # ================== USER-EDITABLE SECTION ==================
+# Choose one of: 'openai', 'azure', 'custom', 'anthropic'
+# Default to Anthropic/Claude per user request
 DEFAULT_PROVIDER = os.environ.get("API_PROVIDER", "anthropic")
 
+# For OpenAI / ChatGPT: set OPENAI_API_KEY, optionally OPENAI_MODEL
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 
+# For Azure OpenAI: set AZURE_OPENAI_API_KEY and AZURE_OPENAI_ENDPOINT and AZURE_OPENAI_MODEL
 AZURE_OPENAI_API_KEY = os.environ.get("AZURE_OPENAI_API_KEY", "")
 AZURE_OPENAI_ENDPOINT = os.environ.get("AZURE_OPENAI_ENDPOINT", "")
 AZURE_OPENAI_MODEL = os.environ.get("AZURE_OPENAI_MODEL", "gpt-4o")
 
+# For custom OpenAI-compatible endpoints: set CUSTOM_OPENAI_BASE_URL and CUSTOM_OPENAI_API_KEY and CUSTOM_OPENAI_MODEL
 CUSTOM_OPENAI_BASE_URL = os.environ.get("CUSTOM_OPENAI_BASE_URL", "")
 CUSTOM_OPENAI_API_KEY = os.environ.get("CUSTOM_OPENAI_API_KEY", "")
 CUSTOM_OPENAI_MODEL = os.environ.get("CUSTOM_OPENAI_MODEL", "gpt-4o-mini")
 
+# For simple HTTP requests: server host (no scheme), path and full base url helper
+# Example for your sample: server='api2.aigcbest.top', path='/v1/chat/completions'
 API_SERVER = os.environ.get("API_SERVER", "api2.aigcbest.top")
+# Claude typical messages path by default
 API_PATH = os.environ.get("API_PATH", "/v1/messages")
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", " ")
-ANTHROPIC_ENDPOINT = os.environ.get("ANTHROPIC_ENDPOINT", " ")
-ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", " ")
+# For Anthropic/Claude-like: preferable to allow runtime override via env vars.
+# These default values remain, but can be overridden by setting the corresponding
+# environment variables: ANTHROPIC_API_KEY, ANTHROPIC_ENDPOINT, ANTHROPIC_MODEL
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "sk-fs6k7xRGJquQ45ZkyBXkk75NzpGCkCNODizIDto4oIhnt8rF")
+ANTHROPIC_ENDPOINT = os.environ.get("ANTHROPIC_ENDPOINT", "https://api2.aigcbest.top")
+ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-3-5-sonnet-all")
+
 # ===========================================================
 
 def get_api_llm_config():

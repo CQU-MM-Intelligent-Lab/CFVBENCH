@@ -2,19 +2,28 @@ import os
 import glob
 import shutil
 import subprocess
-from typing import List, Tuple
+from typing import TYPE_CHECKING, List, Tuple
 
 import numpy as np
 from PIL import Image
 
-from faster_whisper import WhisperModel  # 保持与原文件一致
-from test_media_utils import (
+from avr.media_utils import (
     get_video_duration,
     get_video_resolution,
+    run_ffmpeg_with_fallback,
 )
 
+if TYPE_CHECKING:
+    from faster_whisper import WhisperModel
 
-def _frame_cache_dir_for_segment(video_path: str, output_dir: str, start_time: float, end_time: float) -> str:
+
+def _frame_cache_dir_for_segment(
+    video_path: str,
+    output_dir: str,
+    start_time: float,
+    end_time: float,
+    target_height: int | None = None,
+) -> str:
     """
     为单个视频片段生成独立的帧缓存目录，避免不同片段互相污染。
     使用毫秒时间戳以保证唯一性。
@@ -25,7 +34,48 @@ def _frame_cache_dir_for_segment(video_path: str, output_dir: str, start_time: f
             return f"{int(round(float(t) * 1000))}"
         except Exception:
             return "na"
-    return os.path.join(output_dir, f"{video_id}_{_ms(start_time)}_{_ms(end_time)}_frames")
+    height_tag = f"h{int(target_height)}" if target_height and int(target_height) > 0 else "horig"
+    return os.path.join(output_dir, f"{video_id}_{_ms(start_time)}_{_ms(end_time)}_{height_tag}_frames")
+
+
+def _extract_frames_via_cv2(
+    video_path: str,
+    frame_dir: str,
+    timestamps: list[float],
+    target_height: int | None = None,
+) -> list[str]:
+    try:
+        import cv2  # type: ignore
+    except Exception as exc:
+        print(f"[Frames] OpenCV fallback unavailable: {exc}")
+        return []
+
+    cap = cv2.VideoCapture(video_path)
+    if not cap or not cap.isOpened():
+        print(f"[Frames] OpenCV could not open video for fallback extraction: {video_path}")
+        return []
+
+    saved_paths: list[str] = []
+    try:
+        for idx, ts in enumerate(timestamps):
+            cap.set(cv2.CAP_PROP_POS_MSEC, max(0.0, float(ts)) * 1000.0)
+            ok, frame = cap.read()
+            if not ok or frame is None:
+                continue
+            frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            img = Image.fromarray(frame)
+            if target_height and int(target_height) > 0 and img.height > 0:
+                new_w = max(1, int(round(img.width * (int(target_height) / img.height))))
+                img = img.resize((new_w, int(target_height)))
+            out_path = os.path.join(frame_dir, f"frame_{idx + 1:04d}.jpg")
+            img.save(out_path, format="JPEG")
+            saved_paths.append(out_path)
+    finally:
+        try:
+            cap.release()
+        except Exception:
+            pass
+    return saved_paths
 
 
 def extract_frames_and_compress(
@@ -43,7 +93,13 @@ def extract_frames_and_compress(
     If existing_frames are provided, it calculates the new timestamps,
     extracts only the missing frames, and merges them with existing ones.
     """
-    frame_dir = _frame_cache_dir_for_segment(video_path, output_dir, float(start_time), float(end_time))
+    frame_dir = _frame_cache_dir_for_segment(
+        video_path,
+        output_dir,
+        float(start_time),
+        float(end_time),
+        target_height=target_height,
+    )
     os.makedirs(frame_dir, exist_ok=True)
 
     if end_time is None:
@@ -100,7 +156,6 @@ def extract_frames_and_compress(
                 os.path.join(temp_frame_dir, "tempframe_%04d.jpg")
             ]
             try:
-                from avr.test_media_utils import run_ffmpeg_with_fallback
                 res = run_ffmpeg_with_fallback(cmd_extract, fallback_hwaccel=True, verbose=False)
                 if res.returncode != 0:
                     raise subprocess.CalledProcessError(
@@ -134,8 +189,10 @@ def extract_frames_and_compress(
                 shutil.rmtree(temp_frame_dir)
             except subprocess.CalledProcessError as e:
                 print(f"[FFmpeg] Error during incremental frame extraction: {getattr(e, 'stderr', e)}")
+                _extract_frames_via_cv2(video_path, frame_dir, new_timestamps_to_extract, target_height)
             except Exception as e:
                 print(f"[Frames] Unexpected error during incremental extraction: {e}")
+                _extract_frames_via_cv2(video_path, frame_dir, new_timestamps_to_extract, target_height)
         else:
             print("[Frames] No new frames needed.")
 
@@ -161,12 +218,16 @@ def extract_frames_and_compress(
                 os.path.join(frame_dir, "frame_%04d.jpg")
             ]
             try:
-                from avr.test_media_utils import run_ffmpeg_with_fallback
                 res = run_ffmpeg_with_fallback(cmd, fallback_hwaccel=True, verbose=False)
                 if res.returncode != 0:
                     print(f"[FFmpeg] Error during frame extraction: {getattr(res, 'stderr', '')}")
+                    _extract_frames_via_cv2(video_path, frame_dir, all_target_timestamps, target_height)
             except subprocess.CalledProcessError as e:
                 print(f"[FFmpeg] Error during frame extraction: {getattr(e, 'stderr', e)}")
+                _extract_frames_via_cv2(video_path, frame_dir, all_target_timestamps, target_height)
+            except Exception as e:
+                print(f"[Frames] Unexpected error during frame extraction: {e}")
+                _extract_frames_via_cv2(video_path, frame_dir, all_target_timestamps, target_height)
     
     final_frame_paths = sorted(glob.glob(os.path.join(frame_dir, "*.jpg")))
     
@@ -188,24 +249,38 @@ def extract_frames_and_compress(
     return frames_with_ts, ratio
 
 
-def transcribe_segment_audio(video_path: str, asr_model: WhisperModel, start_time: float, end_time: float) -> str:
+def transcribe_segment_audio(
+    video_path: str,
+    asr_model: "WhisperModel",
+    start_time: float,
+    end_time: float,
+    work_dir: str | None = None,
+) -> str:
     """Extracts the specific 30s audio segment and transcribes it using faster-whisper."""
     video_id = os.path.splitext(os.path.basename(video_path))[0]
     seg_ms_start = int(round(float(start_time) * 1000))
     seg_ms_end = int(round(float(end_time) * 1000))
-    audio_path = os.path.join(os.path.dirname(video_path), f"{video_id}_{seg_ms_start}_{seg_ms_end}.mp3")
+    audio_root = work_dir or os.path.dirname(video_path)
+    os.makedirs(audio_root, exist_ok=True)
+    audio_path = os.path.join(audio_root, f"{video_id}_{seg_ms_start}_{seg_ms_end}.mp3")
 
     if not os.path.exists(audio_path):
         try:
             cmd = ["ffmpeg", "-y", "-ss", str(start_time), "-to", str(end_time), "-i", video_path, "-q:a", "0", "-map", "a", audio_path]
             print(f"[FFmpeg] Extracting audio segment {video_id} [{start_time}-{end_time}]...")
-            from avr.test_media_utils import run_ffmpeg_with_fallback
             res = run_ffmpeg_with_fallback(cmd, fallback_hwaccel=True, verbose=False)
             if res.returncode != 0:
                 print(f"[FFmpeg] Error extracting audio for segment {video_path}: {getattr(res, 'stderr', '')}")
                 return ""
         except subprocess.CalledProcessError as e:
-            print(f"[FFmpeg] Error extracting audio for segment {video_path}: {e.stderr.decode()}")
+            try:
+                stderr = e.stderr.decode()
+            except Exception:
+                stderr = str(e)
+            print(f"[FFmpeg] Error extracting audio for segment {video_path}: {stderr}")
+            return ""
+        except Exception as e:
+            print(f"[FFmpeg] Unexpected audio extraction error for {video_path}: {e}")
             return ""
 
     try:

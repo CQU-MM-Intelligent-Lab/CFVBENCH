@@ -7,6 +7,12 @@ from transformers import AutoModel, AutoTokenizer
 from moviepy.video.io.VideoFileClip import VideoFileClip
 import base64
 from io import BytesIO
+from .._config import (
+    MINICPM_MODEL_PATH,
+    get_effective_visible_gpu_count,
+    get_effective_visible_gpu_ids,
+    get_transformers_device_map,
+)
 
 # Import the model path from the new central config file
 
@@ -47,20 +53,30 @@ def encode_video(video, frame_times):
     
 def _load_minicpm():
     """Prefer GPU (RTX 3080 Ti single card) and fall back to CPU only on OOM.
-    - Primary: float16 + device_map='auto' (uses cuda:0 if available)
+    - Primary: float16 + config-driven visible GPUs + device_map='auto'
     - Fallback (ONLY on CUDA OOM): float32 + CPU
     """
-    # Do not rely on importing MINICPM_MODEL_PATH from central config.
-    # Prefer explicit environment variable to indicate a local MiniCPM model path.
-    model_path = os.environ.get("MINICPM_MODEL_PATH")
+    model_path = MINICPM_MODEL_PATH
     if not model_path:
-        raise RuntimeError("MINICPM model path not provided. Set the environment variable MINICPM_MODEL_PATH or use Ollama to load the caption model on demand.")
+        raise RuntimeError(
+            "MINICPM model path not provided. Set MINICPM_MODEL_PATH in "
+            "videorag/_config.py or via the environment variable MINICPM_MODEL_PATH."
+        )
     try:
+        visible_gpu_count = get_effective_visible_gpu_count()
+        load_kwargs = {
+            "trust_remote_code": True,
+            "torch_dtype": torch.float16 if visible_gpu_count > 0 else torch.float32,
+            "device_map": get_transformers_device_map(),
+        }
+        if visible_gpu_count > 0:
+            print(
+                f"[GPU] Loading MiniCPM with visible GPUs={','.join(get_effective_visible_gpu_ids())} "
+                f"device_map={load_kwargs['device_map']}"
+            )
         model = AutoModel.from_pretrained(
             model_path,
-            trust_remote_code=True,
-            torch_dtype=torch.float16,
-            device_map='auto'
+            **load_kwargs
         )
         tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
         if tokenizer.pad_token is None and tokenizer.eos_token is not None:

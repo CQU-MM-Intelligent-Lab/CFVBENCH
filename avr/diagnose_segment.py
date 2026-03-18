@@ -26,6 +26,7 @@ except Exception:
     VMAP = {}
 
 def _parse_segment_timing(segment_id: str) -> Tuple[str, int, int]:
+    # fallback simple parse: supports forms like base_3 or base_0_3 or baseFULL_0_3
     try:
         if '_' in segment_id and segment_id.count('_') >= 2:
             parts = segment_id.split('_')
@@ -91,14 +92,20 @@ def resolve_video_candidates(vmap: dict, video_name: str) -> Tuple[str, str, Lis
 
 def ffmpeg_extract_one_frame(video_path: str, t: float) -> Tuple[bool, str]:
     """Attempt to extract one frame at time t (seconds) to a temp jpg. Returns (success, message).
-    Requires ffmpeg available in PATH. Only run for local files.
+    Requires a usable ffmpeg executable. Only run for local files.
     """
+    try:
+        from avr.media_utils import resolve_ffmpeg_binary
+    except Exception:
+        resolve_ffmpeg_binary = None
+
     if not os.path.exists(video_path):
         return False, f"File not found: {video_path}"
     out_fd, out_path = tempfile.mkstemp(suffix='.jpg')
     os.close(out_fd)
+    ffmpeg_bin = resolve_ffmpeg_binary() if resolve_ffmpeg_binary is not None else 'ffmpeg'
     cmd = [
-        'ffmpeg', '-y', '-ss', str(float(t)), '-i', video_path,
+        ffmpeg_bin, '-y', '-ss', str(float(t)), '-i', video_path,
         '-frames:v', '1', '-q:v', '2', out_path
     ]
     try:
@@ -118,7 +125,7 @@ def ffmpeg_extract_one_frame(video_path: str, t: float) -> Tuple[bool, str]:
             os.remove(out_path)
         except Exception:
             pass
-        return False, 'ffmpeg not found in PATH'
+        return False, 'ffmpeg executable not found'
     except Exception as e:
         try:
             os.remove(out_path)
@@ -181,7 +188,7 @@ def main():
     if args.download:
         print('\n--download requested: attempting to download matched value (if remote)')
         try:
-            from avr.test_media_utils import download_file, ensure_valid_video_or_skip
+            from test.test_media_utils import download_file, ensure_valid_video_or_skip
         except Exception as e:
             print('  ERROR: download helpers not available:', e)
             return

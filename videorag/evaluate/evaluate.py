@@ -19,9 +19,12 @@ try:
     set_verbosity_error()
     # Use the same default model resolver as generation
     from .._llm import get_default_ollama_chat_model
+    from .._config import get_effective_visible_gpu_count
 except Exception:  # pragma: no cover
     def get_default_ollama_chat_model() -> str:  # type: ignore
         return os.environ.get("OLLAMA_CHAT_MODEL", "qwen2.5vl:7b")
+    def get_effective_visible_gpu_count() -> int:  # type: ignore
+        return 1
 
 
 try:
@@ -195,7 +198,7 @@ def normalize_keypoints(raw_keypoints: Any, gt_path: str) -> Dict[str, List[str]
 def call_ollama(prompt: str, model: str = OLLAMA_MODEL, timeout_sec: int = 240, retries: int = 2) -> str:
     env = os.environ.copy()
     env.setdefault("OLLAMA_MODELS", DEFAULT_OLLAMA_DIR)
-    env.setdefault("OLLAMA_NUM_GPU", "1")
+    env.setdefault("OLLAMA_NUM_GPU", str(max(1, get_effective_visible_gpu_count())))
     env.setdefault("OLLAMA_KEEP_ALIVE", "5m")
 
     for attempt in range(retries + 1):
@@ -796,5 +799,4 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     main(args)
-
 

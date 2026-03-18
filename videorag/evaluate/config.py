@@ -14,11 +14,19 @@ except Exception:  # pragma: no cover
 # ---------------- Config ----------------
 # Prefer central config paths when available
 try:
-    from videorag._config import INPUT_DATA_PATH as CONFIG_INPUT_PATH, RESULT_PATH as CONFIG_RESULT_PATH, GT_DATA_PATH as CONFIG_GT_PATH
+    from videorag._config import (
+        INPUT_DATA_PATH as CONFIG_INPUT_PATH,
+        RESULT_PATH as CONFIG_RESULT_PATH,
+        GT_DATA_PATH as CONFIG_GT_PATH,
+        WORKDIR_PATH as CONFIG_WORKDIR_PATH,
+        EVAL_LLM_MODEL as CONFIG_EVAL_LLM_MODEL,
+    )
 except Exception:
     CONFIG_INPUT_PATH = None
     CONFIG_RESULT_PATH = None
     CONFIG_GT_PATH = None
+    CONFIG_WORKDIR_PATH = None
+    CONFIG_EVAL_LLM_MODEL = None
 # Input base dir: strictly from central config
 if not CONFIG_INPUT_PATH:
     raise RuntimeError("INPUT_DATA_PATH must be set in videorag._config and non-empty")
@@ -45,8 +53,10 @@ if not CONFIG_GT_PATH:
     raise RuntimeError("GT_DATA_PATH must be set in videorag._config and non-empty")
 DATA_ROOT_DIR = CONFIG_GT_PATH
 
-DEFAULT_OLLAMA_DIR = " "
-DEFAULT_HF_HOME = " "
+# Default local caches live under configured workdir
+_default_cache_root = CONFIG_WORKDIR_PATH or os.path.abspath(os.path.join(os.getcwd(), "videorag-workdir"))
+DEFAULT_OLLAMA_DIR = os.path.join(_default_cache_root, "ollama")
+DEFAULT_HF_HOME = os.path.join(_default_cache_root, "huggingface")
 os.environ.setdefault("OLLAMA_MODELS", DEFAULT_OLLAMA_DIR)
 os.environ.setdefault("HF_HOME", DEFAULT_HF_HOME)
 os.environ.setdefault("HUGGINGFACE_HUB_CACHE", os.path.join(DEFAULT_HF_HOME, "hub"))
@@ -55,12 +65,12 @@ os.makedirs(os.environ.get("OLLAMA_MODELS", DEFAULT_OLLAMA_DIR), exist_ok=True)
 os.makedirs(os.environ.get("HF_HOME", DEFAULT_HF_HOME), exist_ok=True)
 os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
 
-# 显式评估模型可由环境变量覆盖
-EVAL_LLM_MODEL = os.environ.get("EVAL_LLM_MODEL", "qwen3:8b")
+# 显式评估模型可由环境变量覆盖；否则读取 central config
+EVAL_LLM_MODEL = os.environ.get("EVAL_LLM_MODEL", "").strip() or CONFIG_EVAL_LLM_MODEL or "qwen3:8b"
 # Always use a fast and reliable model for evaluation (kept name for downstream compatibility)
 OLLAMA_MODEL = EVAL_LLM_MODEL
 # Prefer locally-downloaded ModelScope roberta-base if available
-MODELSCOPE_BASE_DIR = os.environ.get("MODELSCOPE_CACHE_DIR", " ")
+MODELSCOPE_BASE_DIR = os.environ.get("MODELSCOPE_CACHE_DIR", os.path.join(_default_cache_root, "Model"))
 MODELSCOPE_ROBERTA_DIR = os.environ.get(
     "MODELSCOPE_ROBERTA_DIR",
     os.path.join(MODELSCOPE_BASE_DIR, "AI-ModelScope", "roberta-base"),
@@ -104,7 +114,7 @@ def _resolve_default_bertscore_model() -> str:
 try:
     from videorag._config import SENT_TRANSFORMER_MODEL_PATH as FORCED_ST_MODEL
 except Exception:
-    FORCED_ST_MODEL = " "
+    FORCED_ST_MODEL = os.path.join(MODELSCOPE_BASE_DIR, "sentence-transformers", "all-MiniLM-L6-v2")
 DEFAULT_BERTSCORE_MODEL = FORCED_ST_MODEL
 DEFAULT_BERTSCORE_BATCH = int(os.environ.get("BERTSCORE_BATCH", "32"))
 

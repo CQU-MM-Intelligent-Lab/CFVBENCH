@@ -1,9 +1,22 @@
 import json
 import os
 import glob
+from pathlib import Path
 
-from test_env_utils import extract_final_answer
+from avr.env_utils import extract_final_answer
 
+
+def _load_prompt_template(prompt_filename: str, required_placeholders: list[str]) -> str:
+    prompt_path = Path(__file__).resolve().parent.parent / "prompts" / prompt_filename
+    if not prompt_path.exists():
+        raise FileNotFoundError(f"Prompt template not found: {prompt_path}")
+    template = prompt_path.read_text(encoding="utf-8")
+    missing = [placeholder for placeholder in required_placeholders if placeholder not in template]
+    if missing:
+        raise ValueError(f"Prompt template {prompt_path.name} is missing placeholders: {', '.join(missing)}")
+    return template
+
+# 拆分：负责 prompt 构建与调用 LLM（从 question_processing 中抽离，原逻辑逐字保留）
 async def build_and_call_llm(query, all_segment_data, llm_cfg, base_mode: bool = False):
     print("\n--- [Step 3] Constructing multimodal prompt ---")
     llm_input_chunks = []
@@ -94,10 +107,10 @@ async def build_and_call_llm(query, all_segment_data, llm_cfg, base_mode: bool =
     for line in per_clip_logs:
         print(line)
     print(f"[PromptBuild] Aggregate text tokens (approx): {total_tokens_text}")
-    # If base_mode is enabled, collect exactly 5 images per clip (no compression) and encode as base64
+    # If base_mode is enabled, collect up to N images per clip (default 5) and encode as base64
     images_to_send = None
     if base_mode:
-        max_per_clip = 5  # 固定每个clip保留5张图片
+        max_per_clip = int(__import__('os').environ.get('BASE_MODE_MAX_IMAGES_PER_CLIP', '1'))
         import base64
 
         def _resolve_local_path(p: str) -> str:
@@ -157,7 +170,7 @@ async def build_and_call_llm(query, all_segment_data, llm_cfg, base_mode: bool =
                     print(f"[PromptBuild][WARN] failed to read image {fp}: {e}")
                     continue
         images_to_send = all_images_b64 if all_images_b64 else None
-        print(f"[PromptBuild] base_mode -> {image_counter} images will be sent (no compression, 5 frames per clip).")
+        print(f"[PromptBuild] base_mode -> {image_counter} images will be sent (compressed frames).")
     else:
         print(f"[PromptBuild] Images disabled -> 0 images will be sent (captions used instead).")
     # 输出 caption 汇总日志
@@ -168,55 +181,10 @@ async def build_and_call_llm(query, all_segment_data, llm_cfg, base_mode: bool =
         pass
 
     context_str = "\n\n".join(llm_input_chunks)
-    
-    final_prompt_template = """
-### **Multimodal Evidence Synthesis for Question Answering**
-
-**Role:**
-You are an expert AI assistant specializing in answering questions based on a provided set of video evidence.
-
-**Objective:**
-Your goal is to construct a detailed and accurate answer by carefully analyzing, integrating, and synthesizing all relevant information from a collection of video segments.
-
-**Context Description:**
-You will be provided with keyframes and corresponding subtitles from 5 video segments. Each segment is identified by a unique ID (e.g., `EKPFZPyQurA_3`). To answer the question thoroughly, you must combine multiple pieces of information. These details may be found within a single segment's text and images, or they may be spread across several different segments. You must act as an analyst, gathering all necessary evidence before constructing your final response.
-
-**Step-by-Step Task Instructions:**
-
-1.  **Analyze All Evidence:** Meticulously review all subtitles and visually examine the content of all keyframes from every provided video segment.
-2.  **Extract Relevant Details:** Identify and extract every piece of information—both textual and visual—that directly contributes to answering the user's question.
-3.  **Synthesize a Coherent Answer:** Integrate all extracted details into a single, comprehensive, and logically structured answer. Do not simply list facts; explain how they connect to fully address the question.
-
-**Critical Constraints:**
-
-  * **Absolute Grounding in Evidence:** Your answer **MUST** be derived **exclusively** from the information contained within the provided subtitles and keyframes. This is your only source of truth.
-  * **No External Knowledge:** You **MUST NOT** use any pre-existing knowledge, make assumptions, or infer information that is not explicitly presented in the provided evidence. The provided context is your entire world.
-  * **Insufficiency Clause:** If, after careful analysis, the combined evidence from all segments is still insufficient to answer the question, you **MUST** state: "The provided information is insufficient to answer the question."
-  * **Output Format:** The final output **MUST** be a single, valid JSON object. Do not include any additional text, explanations, or markdown formatting outside of the specified JSON structure.
-
------
-
-**Input Structure:**
-
-You will receive the input in the following format:
-
-```
-User Question: {user_question}
-
-{context_str}
-```
-
------
-
-**Output Specification:**
-
-Your response must be a single JSON object in the following format:
-
-```json
-{{
-  "answer": "..."
-}}
-```"""
+    final_prompt_template = _load_prompt_template(
+        "FinalGeneration.md",
+        ["{user_question}", "{context_str}"],
+    )
     final_prompt = final_prompt_template.format(user_question=query, context_str=context_str)
 
     print("\n--- [Step 4] Sending prompt to LLM ---")

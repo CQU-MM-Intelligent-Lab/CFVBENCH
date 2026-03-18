@@ -68,7 +68,6 @@ dependencies:
       - huggingface-hub==0.35.3
       - humanfriendly==10.0
       - idna==3.10
-      - imagebind==0.1.0
       - imageio==2.37.0
       - imageio-ffmpeg==0.6.0
       - iopath==0.1.10
@@ -111,7 +110,6 @@ dependencies:
       - pyproj==3.7.2
       - pyshp==3.0.2.post1
       - python-dateutil==2.9.0.post0
-      - pytorchvideo==0.1.5
       - pytz==2025.2
       - pyyaml==6.0.3
       - regex==2025.9.18
@@ -140,3 +138,5 @@ dependencies:
       - wcwidth==0.2.14
       - xxhash==3.6.0
       - yacs==0.1.8
+      - graspologic
+      - easyocr

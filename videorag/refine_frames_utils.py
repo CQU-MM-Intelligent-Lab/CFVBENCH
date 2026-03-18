@@ -1,4 +1,6 @@
 """Utility functions extracted from `iterative_refinement.py` for frame去重/插值等。
+
+注意: 该文件内容为从原文件直接搬运(不改动任何业务逻辑或注释/prompt)，仅做模块化拆分，方便维护。
 """
 
 import os

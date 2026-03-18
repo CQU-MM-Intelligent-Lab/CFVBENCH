@@ -68,7 +68,7 @@ def _sample_frames(
     with tempfile.TemporaryDirectory() as td:
         # lazy import to avoid package resolution problems at module import
         try:
-            from avr.test_media_utils import run_ffmpeg_with_fallback
+            from avr.media_utils import run_ffmpeg_with_fallback
         except Exception:
             # best-effort: if helper not importable, fall back to calling ffmpeg directly
             run_ffmpeg_with_fallback = None
@@ -92,7 +92,7 @@ def _sample_frames(
                 else:
                     # direct subprocess fallback (suppress warnings)
                     try:
-                        from avr.test_media_utils import run_ffmpeg_with_fallback
+                        from avr.media_utils import run_ffmpeg_with_fallback
                         res = run_ffmpeg_with_fallback(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", str(float(t)), "-i", video_path, "-frames:v", "1", "-q:v", "2", out_path], fallback_hwaccel=True, verbose=False)
                         if res.returncode != 0 or not os.path.exists(out_path):
                             continue
@@ -144,9 +144,10 @@ def _resolve_local_path(p: str) -> str:
         base = os.path.basename(p_str)
         search_roots = [cwd] if cwd else []
         search_roots += [os.path.join(cwd, 'group') if cwd else None, os.path.join(cwd, 'workdir') if cwd else None, os.path.join(cwd, 'videorag-workdir') if cwd else None]
+        # Also consider common autodl tmp locations so reads can find caches saved there.
         try:
             autodl_roots = []
-            possible = [' ', ' ', os.path.join(cwd, ' ') if cwd else None]
+            possible = ['/root/autodl-tmp', '/autodl-tmp', os.path.join(cwd, 'autodl-tmp') if cwd else None]
             for p in possible:
                 if p and os.path.exists(p):
                     # prefer the batch_run subfolder if present/used
@@ -155,6 +156,7 @@ def _resolve_local_path(p: str) -> str:
                         autodl_roots.append(br)
                     else:
                         autodl_roots.append(p)
+            # extend search roots with any discovered autodl locations
             search_roots += autodl_roots
         except Exception:
             pass
@@ -468,7 +470,7 @@ def extract_ocr_text_for_segments(
                                     if isinstance(val, str) and val.startswith(('http://', 'https://')):
                                         try:
                                             # lazy import to avoid hard dependency at module import time
-                                            from avr.test_media_utils import download_file, ensure_valid_video_or_skip
+                                            from test.test_media_utils import download_file, ensure_valid_video_or_skip
                                             downloads_dir = os.path.join(os.getcwd(), 'downloads')
                                             os.makedirs(downloads_dir, exist_ok=True)
                                             cand = download_file(val, downloads_dir)
@@ -808,7 +810,7 @@ def detect_objects_for_segments_yolo_world(
                                         dl_path = val; dl_key = ic; break
                                     if isinstance(val, str) and val.startswith(('http://', 'https://')):
                                         try:
-                                            from avr.test_media_utils import download_file, ensure_valid_video_or_skip
+                                            from test.test_media_utils import download_file, ensure_valid_video_or_skip
                                             downloads_dir = os.path.join(os.getcwd(), 'downloads')
                                             os.makedirs(downloads_dir, exist_ok=True)
                                             cand = download_file(val, downloads_dir)

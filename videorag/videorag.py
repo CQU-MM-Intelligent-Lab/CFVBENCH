@@ -54,9 +54,12 @@ from ._videoutil import(
     merge_segment_information,
     saving_video_segments,
 )
-# Do not import MINICPM_MODEL_PATH here. If a local MiniCPM model is required,
-# the code should read it from the environment variable `MINICPM_MODEL_PATH`
-# or use Ollama to load the model on demand.
+from ._config import (
+    MINICPM_MODEL_PATH,
+    get_effective_visible_gpu_count,
+    get_effective_visible_gpu_ids,
+    get_transformers_device_map,
+)
 
 @dataclass
 class VideoRAG:
@@ -123,12 +126,28 @@ class VideoRAG:
     def load_caption_model(self, debug=False):
         # caption model
         if not debug:
-            model_path = os.environ.get("MINICPM_MODEL_PATH")
+            model_path = MINICPM_MODEL_PATH
             if model_path:
-                self.caption_model = AutoModel.from_pretrained(model_path, trust_remote_code=True)
+                load_kwargs = {"trust_remote_code": True}
+                visible_gpu_count = get_effective_visible_gpu_count()
+                if visible_gpu_count > 0:
+                    import torch
+
+                    load_kwargs["torch_dtype"] = torch.float16
+                    load_kwargs["device_map"] = get_transformers_device_map()
+                    print(
+                        f"[GPU] Loading caption model with visible GPUs={','.join(get_effective_visible_gpu_ids())} "
+                        f"device_map={load_kwargs['device_map']}"
+                    )
+                else:
+                    load_kwargs["device_map"] = {"": "cpu"}
+                self.caption_model = AutoModel.from_pretrained(model_path, **load_kwargs)
                 self.caption_tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
                 self.caption_model.eval()
             else:
+                # No local MiniCPM path provided; do not attempt to load.
+                # When captioning is needed and Ollama is the desired provider,
+                # the application should initialize the caption model via Ollama instead.
                 self.caption_model = None
                 self.caption_tokenizer = None
         else:
@@ -138,10 +157,13 @@ class VideoRAG:
     def __post_init__(self):
         _print_config = ",\n  ".join([f"{k} = {v}" for k, v in asdict(self).items()])
         logger.debug(f"VideoRAG init with param:\n\n  {_print_config}\n")
+        # Prefer writing new caches into an autodl tmp batch_run if available.
         try:
             autodl_candidates = [
-                os.environ.get(' '),
-                os.path.join(os.getcwd(), ' '),
+                os.environ.get('AUTODL_TMP'),
+                os.path.join(os.getcwd(), 'autodl-tmp'),
+                '/root/autodl-tmp',
+                '/autodl-tmp',
             ]
             chosen = None
             for c in autodl_candidates:
@@ -175,6 +197,7 @@ class VideoRAG:
                     continue
             if chosen:
                 logger.info(f"Using autodl tmp for working_dir: {chosen}")
+                # override working_dir so all writes go to autodl tmp
                 self.working_dir = chosen
         except Exception:
             # fall back silently to configured working_dir
