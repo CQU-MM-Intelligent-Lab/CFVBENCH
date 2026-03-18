@@ -158,10 +158,10 @@ WHISPER_FALLBACK_MODEL_ID = _resolve_value(
 # Set DEFAULT_MINICPM_MODEL_PATH to a repo-relative or absolute path if you
 # want local MiniCPM captioning without relying on environment variables.
 # ------------------------------------------------------------------
-DEFAULT_SENT_TRANSFORMER_MODEL_PATH = "/home/zhouhanshu/videorag/models/sentence-transformers/all-MiniLM-L6-v2"
-DEFAULT_WHISPER_MODEL_PATH = "/home/zhouhanshu/videorag/models/faster-distil-whisper-large-v3"
-DEFAULT_YOLOV8_MODEL_PATH = "/home/zhouhanshu/videorag/models/yolov8m-worldv2.pt"
-DEFAULT_MINICPM_MODEL_PATH = "/home/zhouhanshu/videorag/models/MiniCPM-V-4_5-int4"
+DEFAULT_SENT_TRANSFORMER_MODEL_PATH = "/root/models/sentence-transformers/all-MiniLM-L6-v2"
+DEFAULT_WHISPER_MODEL_PATH = "/root/models/faster-distil-whisper-large-v3"
+DEFAULT_YOLOV8_MODEL_PATH = "/root/models/yolov8m-worldv2.pt"
+DEFAULT_MINICPM_MODEL_PATH = "/root/models/MiniCPM-V-4_5-int4"
 
 SENT_TRANSFORMER_MODEL_PATH = _resolve_repo_path(
     "VIDEORAG_SENT_TRANSFORMER_MODEL_PATH",

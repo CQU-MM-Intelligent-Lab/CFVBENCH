@@ -115,7 +115,11 @@ To set up the environment, you can use the provided `environment.yml` file.
 - Run the full benchmark, preprocess all videos, and generate retrieval-based answers for all questions:
   `python avr/avr.py`
 - Run a custom question on a single video and preprocess only that video:
+  `python avr/avr.py --question "YOUR QUESTION" --video_path "Bench/VIDEO_ID.mp4"`
+  example: 
   `python avr/avr.py --question "What is the main topic of the video?" --video_path "Bench/_Dsu07-VKRw.mp4"`
 - Run the benchmark for a single video and preprocess only that video:
+  `python avr/avr.py --video_path "Bench/VIDEO_ID.mp4"`
+  example: 
   `python avr/avr.py --video_path "Bench/_Dsu07-VKRw.mp4"`
   This will evaluate all questions under `Bench/_Dsu07-VKRw`.
